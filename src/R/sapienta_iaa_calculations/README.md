@@ -1,5 +1,5 @@
 The source code in this folder has been provided by Prof. Maria Liakata
-(m.liakata@warwick.ac.uk) and was initially developed for the study
+(m.liakata at warwick dot ac dot uk) and was initially developed for the study
 published in
 http://www.sapientaproject.com/wp-content/uploads/2016/05/LREC2016_Ravenscroft.pdf. The
 obtained code was modified as part of this project to add
