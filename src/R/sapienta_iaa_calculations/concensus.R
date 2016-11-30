@@ -17,249 +17,216 @@
 #' OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 #'--
-#' 
+#' This scripts merges structure annotations (CoreSCs) based on the annotations assigned by three different curators individually. 
+#' The merging process takes into consideration the curator who has been identified as the most reliable curator using the Inter-annotator
+#' agreement measures (calculated with kappa_calculations.R; the curator that has consistently higher agreements with the other two curators).
+#' In addition, it also follows the predefined priorities of the CoreSC concepts (see ), which aims to propagate those annotations with the
+#' highest priorities to the gold standard.
 #' 
 #' The script expects in its current version the following input parameters:
 #' first parameter -- a folder containing containing three subfolders (named "curator1", "curator2", "curator3") 
 #'                    and within each folder, an annotation matrix for each publication annotated (file names 
 #'                    must match across the three different curators!)
 #' second parameter -- an output folder to which the merged annotation matrices will be written
+#' third parameter -- the number of the curator deemed most reliable based on IAA scores 
 #' 
 #' Example of use:
 #' 
-#' Rscript consensus.R /path/to/curation/matrices /path/to/outputFolder
+#' Rscript consensus.R /path/to/curation/matrices /path/to/outputFolder 3
 #' 
+#'--
 #' title: Derivation gold standard from three different annotators assigning multi-label CoreSC annotations
 #' author: Shyamasree Saha
 #' contributor: James Ravenscroft, Anika Oellrich
 #' released: May 2016
 #' updated: July 2016
 #'--
-priority = c(11,4,6,10,2,8,9,3,5,7,1)
 
-readMatrix <- function(path, ann, filename)
-{
+#'--
+#' Read the annotation matrix as assigned by one curator only. Each file contains a matrix consisting of 12 columns,
+#' one for the sentence identifier and the remaining eleven covering the CoreSC concepts used for annotation. The 
+#' values in each of the columns can range from 0 to 1, depending on how many annotations have been assigned to a 
+#' sentence and in which order. The column ordering must be consistent across all the publications annotated and 
+#' across all curators.
+#' 
+#' @param path path to the directory containing annotation matrices for all three curators
+#' @param ann specifies the curator ("curator1", "curator2" or "curator3" here)
+#' @param filename defines the specific publication for which annotations have been assigned (here PMC identifiers;
+#'                 contains the actual matrix)
+#' @return Read Annotation matrix for a specific curator and file (here publication)
+#'--
+readMatrix <- function(path, ann, filename) {
   mat.df=read.csv(file=paste(path,ann,"/",filename,sep=""),header=TRUE);
   mat.df=mat.df[,-1]
   mat=as.matrix(mat.df);
-  mat
+  return(mat)
 }
 
-consensus<-function(f,mat_ann1,mat_ann2,mat_ann3,outpath)
-{
-  sink(paste("/home/anika/Work/CorpusGeneration/Documents/corpus/results/sapient/analysis/matrices/consensus/log/",f,"log.txt",sep=""))
-  if((dim(mat_ann1)[1]!=dim(mat_ann2)[1])||(dim(mat_ann1)[1]!=dim(mat_ann3)[1])||(dim(mat_ann3)[1]!=dim(mat_ann2)[1]))
-  {
-    print("!!!!!!ERROR!!!!!!")
-    #exit();
-  }else
-  {
-    consensus = NULL #matrix(ncol=dim(mat_ann1)[2],dimnames=list(c(),colnames(mat_ann1)))
+#'--
+#' Goes through the individually assigned annotations by all three curators and determines which to propagate to 
+#' the gold standard based on the priority of the annotation and the most reliable annotator.
+#' 
+#' @param f file (here publication) that is currently processed
+#' @param mat_ann1 annotations assigned by curator one
+#' @param mat_ann2 annotations assigned by curator two
+#' @param mat_ann3 annotations assigned by curator three
+#' @param ref_ann number of the annotator that is deemed most reliable based on IAA scores
+#' @param output folder where gold standard should be written to
+#'--
+consensus<-function(f,mat_ann1,mat_ann2,mat_ann3,ref_ann,output) {
+  ## open log file to comment on progress
+  sink(paste(output,"log/",f,"_log.txt",sep=""))
+  
+  ## sizes of annotation matrices need to match, i.e. curators MUST have annotated the same number of sentences
+  if((dim(mat_ann1)[1]!=dim(mat_ann2)[1])||(dim(mat_ann1)[1]!=dim(mat_ann3)[1])||(dim(mat_ann3)[1]!=dim(mat_ann2)[1])) {
+    print("Error in function consensus -- Dimensions of matrices for individual curators do not match")
+  } else {
+    consensus = NULL
     
-    # annotator with best kappa scores needs to be determined before and set here
-    highest_kappa_ann = 3;
+    ## set curator with highest reliability here for further computation
+    highest_kappa_ann = as.numeric(ref_ann)
     counter = 1
     
+    ## go through all the sentences in the file individually
     for(i in 1:dim(mat_ann1)[1])
     {
       sent=NULL
       print(paste("sent id:",i,sep=""))
       
+      ## read annotations assigned by three curators for this sentence
       sent=mat_ann1[i,];
       sent=rbind(sent,mat_ann2[i,])
       sent=rbind(sent,mat_ann3[i,])
-      print(sent)
+      
       na1=which(mat_ann1[i,]!=0)
       na2=which(mat_ann2[i,]!=0)
       na3=which(mat_ann3[i,]!=0)
-      #print(na1)
-      #print(na2)
-      #print(na3)
-      annotated_by = 0
-      if(sum(mat_ann1[i,])!=0)
-      {
-        annotated_by = annotated_by + 1
-      }
-      if(sum(mat_ann2[i,])!=0)
-      {
-        annotated_by = annotated_by + 1
-      }
-      if(sum(mat_ann3[i,])!=0)
-      {
-        annotated_by = annotated_by + 1
-      }
-      len = c(length(na1),length(na2),length(na3))
-      print(len)
-      z=which(len==0)
-      if(length(z)==0)
-      {
-        print("this")
-        
-        minL=min(len)
-      }else
-      {
-        minL=min(len[-z])
-      }
-      print("minL")
-      print(minL)
-      cols=colSums(sent)
       
-      mi=which(cols==max(cols))
-      maxLab=sum(length(na1),length(na2),length(na3))
-      select=c(1:11)*0
-      if(sum(sent)==0)
-      {
-        print("None of them annotated this sentence");
-        #select=c(1:11)*0
-        consensus=rbind(consensus,select[1:11])
+      ## determine how many curators have assigned at least one annotation to this sentence
+      annotated_by = 0
+      if(sum(mat_ann1[i,])!=0) {
+        annotated_by = annotated_by + 1
       }
-      else
-      {
-        if(length(mi)>=maxLab)
-        {
-          print("no match, sent id and sent");
-          #print(i)
-          
-          if(length(mi)==annotated_by) ##this means all of them assigned 1 label
-          {
-            print("no match, 1 label");
-            #select=c(1:11)*0
-            select[which(sent[highest_kappa_ann,]!=0)]=1;
-            #print(i)
-            print(select)
-            #consensus=rbind(consensus,select[1:11])
+      
+      if(sum(mat_ann2[i,])!=0) {
+        annotated_by = annotated_by + 1
+      }
+      
+      if(sum(mat_ann3[i,])!=0) {
+        annotated_by = annotated_by + 1
+      }
+      
+      ## determine the least number of annotations assigned to sentence
+      len = c(length(na1),length(na2),length(na3))
+      z=which(len==0)
+      
+      if(length(z)==0) { # if all annotators assigned at least one annotation
+        print("Each annotator assigned at least one annotation")
+        minL=min(len) # set to minimum number of annotations
+      } else {
+        minL=min(len[-z]) # minimum number of annotations, potentially >0; 0 if no annotator assigned any annotation
+      }
+      
+      print(paste("Minimum annotations assigned: ", minL, sep=""))
+      
+      ## determines which annotation(s) was assigned most often by all three curators
+      cols=colSums(sent)
+      mi=which(cols==max(cols))
+      ## calculate the total number of annotations assigned by all three curators
+      maxLab=sum(length(na1),length(na2),length(na3))
+      select=c(1:11)*0 # initialise vector for annotation results
+      print(paste("Total number of annotations assigned: ", maxLab, sep=""))
+      
+      if(sum(sent)==0) {
+        print("No curator assigned any annotations to this sentence");
+        consensus=rbind(consensus,select[1:11]) # no annotations to be propagated to gold standard, so sentence include but without any annotations
+      } else {
+        if(length(mi)>=maxLab) { # > can never happen
+          if(length(mi)==annotated_by) { # all annotators that assigned annotations do not agree on annotation
+            select[which(sent[highest_kappa_ann,]!=0)]=1; 
+            print(paste("Each curator assigned one annotation, but none matched. Selecting annotation from most reliable curator: ",select, sep="")) ## where is "no match" coming from?!
+          } else {
+            print("This case should never happen!")
           }
-          else
-          {
-            print("more than 1 label"); ###need to decide, but never happend
-          }
-        }
-        else
-        {
-          #select=c(1:11)*0
-          copyCols = cols
-          colus=unique(sort(copyCols,decreasing=TRUE))
-          print("everybody agreed for  on at least one label,colus")
+        } else {
+          colus=unique(sort(cols,decreasing=TRUE))
+          print("Some of the curators agreed on at least one label -- colus: ")
           print(colus)
-          print("cols")
+          print("Summary across all three curators -- cols")
           print(cols)
-          print(colus[1])
-          #select[,mi]=max(cols)
           
-          #else
-          #{
-          for(ind in 1:minL)
-          {
-            
-            if(minL==1)
-            {
-              
-              
+          for(ind in 1:minL) {
+            if (minL==1) {
               mInd=which(cols==colus[ind])
               
-              if(length(mInd)==1)
-              {
+              if(length(mInd)==1) {
                 select[mInd]=1;
-              }
-              else
-              {
+              } else {
                 print (priority)
                 print (mInd)
                 print (unlist(lapply(mInd,function(X){ which( priority %in% X ) } )))
                 print("many max, minL 1")
                 select[priority[min(unlist(lapply(mInd,function(X){ which( priority %in% X ) } )))]]=1;
-                
               }
             }
             
-            
-            if(minL==2)
-            {
+            if(minL==2) {
               mInd=which(cols==colus[ind])
-              if(length(mInd)==1)
-              {
-                if(ind==1)
-                {
+              if(length(mInd)==1) {
+                if(ind==1) {
                   select[which(cols==colus[ind])]=0.6;
-                }
-                else
-                {
+                } else {
                   select[which(cols==colus[ind])]=0.4;
                 }
-              }
-              else
-              {
+              } else {
                 print("many max minL 2")
-                if(ind==1)
-                {
-                  ##select[which(cols==colus[ind])]=0.6;
+                if(ind==1) {
                   mnd=sort(unlist(lapply(mInd,function(X){ which( priority %in% X ) } )))
                   select[priority[mnd[1]]]=0.6;
                   select[priority[mnd[2]]]=0.4;
                   print("sc1 and 2 both assigned")
                   ind=4 # I assign 4 as we have maximum 3 label
                   break;
-                }
-                else
-                {
+                } else {
                   print("should not come here is sc1 and 2 was printed")
-                  if(ind==2)
-                  {
+                  if(ind==2) {
                     print("should not come here is sc1,2 and 3 was printed")
                     mnd=sort(unlist(lapply(mInd,function(X){ which( priority %in% X ) } )))
                     select[mnd[1]]=0.4;
-                    
                     ind=4 # same reason as before
                     break;
                   }
                 }
               }
             }
-            if(minL==3)
-            {
+            if(minL==3) {
               mInd=which(cols==colus[ind])
-              if(length(mInd)==1)
-              {
-                if(ind==1)
-                {
+              if(length(mInd)==1) {
+                if(ind==1) {
                   select[which(cols==colus[ind])]=0.6;
-                }
-                else
-                {
-                  if(ind==2)
-                  {
+                } else {
+                  if(ind==2) {
                     select[which(cols==colus[ind])]=0.3;
-                  }
-                  else
-                  {
+                  } else {
                     select[which(cols==colus[ind])]=0.1;
                   }
                 }
-              }
-              else
-              {
+              } else {
                 print("many max minL 3")
                 if(ind==1)
                 {
-                  ##select[which(cols==colus[ind])]=0.6;
                   mnd=sort(unlist(lapply(mInd,function(X){ which( priority %in% X ) } )))
                   select[priority[mnd[1]]]=0.6;
                   select[priority[mnd[2]]]=0.3;
-                  if(length(mnd)==3)
-                  {
+                  if(length(mnd)==3) {
                     select[priority[mnd[3]]]=0.3;
                     print("sc1, 2 and 3, all assigned")
                     break;
-                  }
-                  else
-                  {
+                  } else {
                     mInd=which(cols==colus[ind+1])
-                    if(length(mInd)==1)
-                    {
+                    if(length(mInd)==1) {
                       select[mInd]=0.1;
-                    }
-                    else
-                    {
+                    } else {
                       mnd=sort(unlist(lapply(mInd,function(X){ which( priority %in% X ) } )))
                       select[priority[mnd[1]]]=0.1;
                     }
@@ -267,8 +234,7 @@ consensus<-function(f,mat_ann1,mat_ann2,mat_ann3,outpath)
                     break;
                   }
                 }
-                if(ind==2)
-                {
+                if(ind==2) {
                   print("should not come here is sc1,2 and 3 was printed")
                   mnd=sort(unlist(lapply(mInd,function(X){ which( priority %in% X ) } )))
                   select[mnd[1]]=0.3;
@@ -276,8 +242,7 @@ consensus<-function(f,mat_ann1,mat_ann2,mat_ann3,outpath)
                   ind=4 # same reason as before
                   break;
                 }
-                if(ind==3)
-                {
+                if(ind==3) {
                   print("should not come here is sc1,2 and 3 was printed")
                   mnd=sort(unlist(lapply(mInd,function(X){ which( priority %in% X ) } )))
                   select[mnd[1]]=0.1;
@@ -288,36 +253,45 @@ consensus<-function(f,mat_ann1,mat_ann2,mat_ann3,outpath)
             }
           }
         }
-        #}
-        
-        #print(i)
         print(select)
         consensus=rbind(consensus,c(counter,select[1:11]))
       }
       counter = counter + 1
-    }##end of forR
+    }
+    
     colnames(consensus) = c("sid",colnames(mat_ann1))
-    write.csv(consensus,file=paste(outpath,f,".txt",sep=""),row.names=FALSE, quote=FALSE)
+    write.csv(consensus,file=paste(output,f,".txt",sep=""),row.names=FALSE, quote=FALSE)
   }
   sink(NULL);
 }
 
-main<-function()
+## pre-configuring the concept priorities; means that curator matrices MUST have specific column arrangement!
+## column order: Bac, Con, Exp, Goa, Met, Mot, Obs, Res, Mod, Obj, Hyp
+priority = c(11,4,6,10,2,8,9,3,5,7,1)
+
+## read command line parameters for input and output folder, and the most reliable curator
+args<-commandArgs(TRUE)
+input = args[1] # folder containing the annotations of all three curators in individual folders
+output = args[2]
+ref_ann = args[3]
+
+## names of folders specific to the three annotators, i.e. folders in input
+ann1="curator1"
+ann2="curator2"
+ann3="curator3"
+
+## read the names of all the files that have been annotated (here publications); MUST be named identically across 
+## all curators
+files=list.files(path = paste(input,ann1,sep=""))
+
+for(f in files)
 {
-  path = "/home/anika/Work/CorpusGeneration/Documents/corpus/results/sapient/analysis/matrices/paperMatrices/";
-  print(path)
-  outpath = "/home/anika/Work/CorpusGeneration/Documents/corpus/results/sapient/analysis/matrices/consensus/";
-  files=list.files(path = paste(path,"curator1/",sep=""))
-  #files=gsub("_arathi","",files);
-  for(f in files)
-  {
-    ann1="curator1"
-    ann2="curator2"
-    ann3="curator3"
-    
-    mat_ann1=readMatrix(path,ann1,f)
-    mat_ann2=readMatrix(path,ann2,f)
-    mat_ann3=readMatrix(path,ann3,f)
-    consensus(f,mat_ann1,mat_ann2,mat_ann3,outpath)
-  }
+  print(f)  
+  ## read annotations assigned by three curators
+  mat_ann1=readMatrix(input,ann1,f)
+  mat_ann2=readMatrix(input,ann2,f)
+  mat_ann3=readMatrix(input,ann3,f)
+  
+  ## determine those that need propagation and write gold standard to output folder
+  consensus(f,mat_ann1,mat_ann2,mat_ann3,ref_ann,output)
 }
