@@ -37,7 +37,7 @@
 #'--
 #' title: Derivation gold standard from three different annotators assigning multi-label CoreSC annotations
 #' author: Shyamasree Saha
-#' contributor: James Ravenscroft, Anika Oellrich
+#' contributors: James Ravenscroft, Anika Oellrich
 #' released: May 2016
 #' updated: July 2016
 #'--
