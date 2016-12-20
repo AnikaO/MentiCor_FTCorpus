@@ -1,0 +1,5 @@
+This folder contains scripts that have been used to handle the reference resources (UMLS, HPO, and DrugBank) for entity annotations. While most scripts are available under a BSD licences, the script _XPathXmlSlurper2.groovy_ is available under a Apache License as it has been downloaded from elsewhere. The source code of this script has not been modified and was used as downloaded.
+
+The scripts use the obo file for HPO, the ???? for DrugBank and the ??? for UMLS to generate the configuration files needed by BRAT to set up automatic identifier lookup. The process of loading the created files into BRAT is described [online](http://brat.nlplab.org/normalization.html).
+
+The normalisation functionality requires the installation of the semstring package, which at the time of installation, had some bugs. The details of this set-up are provided in the [additional MentiCor documentation]().

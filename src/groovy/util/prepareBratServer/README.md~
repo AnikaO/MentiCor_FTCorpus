@@ -1,0 +1,3 @@
+This folder contains scripts that have been used to handle the reference resources (UMLS, HPO, and DrugBank) for entity annotations. The scripts use ???? to generate the files needed by BRAT to set up automatic identifier lookup. The process of loading the created files into BRAT is described [online](http://brat.nlplab.org/normalization.html).
+
+The normalisation functionality requires the installation of the semstring package, which at the time of installation, had some bugs. The details of this set-up are provided in the [additional MentiCor documentation]().
