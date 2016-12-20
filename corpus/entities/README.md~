@@ -1,3 +1,0 @@
-This folder contains the consensus generated from the individual annotations of three curators. The annotations have been merged according to a majority vote or, in the case of no agreement, using the annotation from the most reliable annotator (in our case curator 1). The annotations rely on the sentences determined based on the XML file (see (structure annotation XML files)[../structure]). The offset information provided is a byte-wise count over all the sentences extracted from the XML file. 
-
-The annotations are released under a CC0 licence (https://creativecommons.org/publicdomain/zero/1.0/).
