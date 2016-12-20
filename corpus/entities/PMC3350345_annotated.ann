@@ -1,0 +1,243 @@
+T1	AgeGroup	57	69	Older Adults	null	null
+T212	Disease	75	106	Mild or No Cognitive Impairment	UMLS:C1270972	Mild cognitive disorder
+T213	Phenotype	75	106	Mild or No Cognitive Impairment	HPO:HP:0100543	Cognitive impairment
+T214	Treatment	10	53	Cognitive and Aerobic Training Intervention	UMLS:C3899527	Cognitive Intervention
+T215	Treatment	10	53	Cognitive and Aerobic Training Intervention	UMLS:C0001701	Exercise, Aerobic
+T17	AgeGroup	165	172	elderly	null	null
+T23	Ethnicity	187	192	Japan	UMLS:C1556094	Japanese race
+T24	Treatment	212	234	cognitive intervention	UMLS:C3899527	Cognitive Intervention
+T25	Disease	248	256	dementia	UMLS:C0497327	Dementia
+T2	AgeGroup	321	333	older adults	null	null
+T3	AgeGroup	395	407	older adults	null	null
+T57	AgeGroup	412	418	adults	null	null
+T58	Disease	424	449	mild cognitive impairment	UMLS:C1270972	Mild cognitive disorder
+T216	Treatment	464	509	executive function and group aerobic training	UMLS:C0001701	Exercise, Aerobic
+T217	Treatment	464	509	executive function and group aerobic training	UMLS:C0589092	Executive functions training
+T59	Demographic	1163	1168	Japan	UMLS:C0022341	Japan
+T4	AgeGroup	1287	1299	older adults	null	null
+T26	Disease	1305	1313	dementia	UMLS:C0497327	Dementia
+T27	Disease	1381	1389	dementia	UMLS:C0497327	Dementia
+T28	Disease	1600	1608	dementia	UMLS:C0497327	Dementia
+T29	Disease	1782	1790	dementia	UMLS:C0497327	Dementia
+T5	AgeGroup	1792	1804	Older adults	null	null
+T6	AgeGroup	1908	1920	older adults	null	null
+T30	Disease	1879	1887	dementia	UMLS:C0497327	Dementia
+T63	Disease	1810	1841	mild cognitive impairment (MCI)	UMLS:C1270972	Mild cognitive disorder
+T31	Disease	1977	1985	dementia	UMLS:C0497327	Dementia
+T64	Disease	2071	2074	MCI	UMLS:C1270972	Mild cognitive disorder
+T65	Disease	2161	2164	MCI	UMLS:C1270972	Mild cognitive disorder
+T111	Treatment	2109	2132	cognitive interventions	UMLS:C3899527	Cognitive Intervention
+T113	Treatment	2166	2200	cognitive and social interventions	UMLS:C3899527	Cognitive Intervention
+T114	Treatment	2166	2200	cognitive and social interventions	UMLS:C0204577	Social psychotherapy
+T115	Treatment	2210	2229	reality orientation	UMLS:C0150320	Reality orientation
+T116	Treatment	2234	2246	reminiscence	UMLS:C0150321	Reminiscence therapy
+T122	Treatment	2446	2463	mnemonic training	null	null
+T230	Treatment	2566	2607	cognitive function, and physical training	UMLS:C3899527	Cognitive Intervention
+T231	Treatment	2566	2607	cognitive function, and physical training	UMLS:C0015259	Exercise
+T66	Disease	2771	2774	MCI	UMLS:C1270972	Mild cognitive disorder
+T67	Disease	2928	2931	MCI	UMLS:C1270972	Mild cognitive disorder
+T117	Gender	2896	2901	women	Gender:C0015780	female
+T118	Gender	2908	2911	men	Gender:C0086582	male
+T119	Disease	2938	2962	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T186	Treatment	2800	2824	cognitive rehabilitation	UMLS:C0870303	Cognitive rehabilitation
+T121	Treatment	3007	3055	executive function and mnemonic training program	null	null
+T68	Disease	3118	3121	MCI	UMLS:C1270972	Mild cognitive disorder
+T69	Disease	3322	3325	MCI	UMLS:C1270972	Mild cognitive disorder
+T108	Treatment	3261	3283	cognitive intervention	UMLS:C3899527	Cognitive Intervention
+T220	Treatment	3890	3906	aerobic training	UMLS:C0001701	Exercise, Aerobic
+T123	Treatment	4092	4116	executive function tasks	UMLS:C0589092	Executive functions training
+T221	Treatment	3998	4027	aerobic and strength training	UMLS:C0001701	Exercise, Aerobic
+T222	Treatment	3998	4027	aerobic and strength training	UMLS:C0872279	Resistance Training
+T223	Treatment	4064	4080	aerobic training	UMLS:C0001701	Exercise, Aerobic
+T124	Age	4172	4183	60-year-old	null	null
+T125	Disease	4646	4648	AD	UMLS:C0002395	Alzheimer's Disease
+T130	Treatment	5064	5091	executive function training	UMLS:C0589092	Executive functions training
+T131	Treatment	5289	5328	brain plasticity-based training program	null	null
+T132	Phenotype	5339	5366	degraded sensory processing	null	null
+T133	Phenotype	5375	5424	down-regulation of neuromodulatory control nuclei	null	null
+T18	AgeGroup	5720	5727	elderly	null	null
+T70	Disease	5745	5748	MCI	UMLS:C1270972	Mild cognitive disorder
+T232	Treatment	5662	5711	cognitive function and physical function programs	UMLS:C3899527	Cognitive Intervention
+T233	Treatment	5662	5711	cognitive function and physical function programs	UMLS:C0015259	Exercise
+T36	Demographic	5935	5940	Japan	UMLS:C0022341	Japan
+T32	Disease	5996	6004	dementia	UMLS:C0497327	Dementia
+T33	Treatment	6030	6055	intervention for dementia	null	null
+T34	Demographic	6126	6131	Japan	UMLS:C0022341	Japan
+T35	Demographic	6071	6079	Nakajima	null	null
+T7	AgeGroup	6220	6232	older adults	null	null
+T37	Disease	6554	6562	dementia	UMLS:C0497327	Dementia
+T134	Disease	6518	6535	somatic disorders	null	null
+T135	Disease	6537	6550	brain disease	UMLS:C0006111	Brain Diseases
+T136	Measure	6728	6763	Mini-Mental State Examination (MMSE	UMLS:C0451306	Mini-mental state examination
+T137	ScaleMax	6764	6767	<25	null	null
+T138	Measure	6794	6845	Revised Version of Hasegawa's Dementia Scale (HDS-R	null	null
+T139	ScaleMax	6846	6849	<23	null	null
+T140	Gender	6951	6954	men	Gender:C0086582	male
+T141	Gender	6938	6943	women	Gender:C0015780	female
+T142	Gender	7212	7217	women	Gender:C0015780	female
+T143	Gender	7263	7268	women	Gender:C0015780	female
+T144	Gender	7225	7228	men	Gender:C0086582	male
+T145	Gender	7275	7278	men	Gender:C0086582	male
+T146	Treatment	7181	7207	cognitive function program	UMLS:C3899527	Cognitive Intervention
+T234	Treatment	7233	7258	physical function program	UMLS:C0015259	Exercise
+T147	Gender	7288	7293	women	Gender:C0015780	female
+T148	Gender	7300	7303	men	Gender:C0086582	male
+T235	Treatment	7422	7454	cognitive and physical functions	UMLS:C3899527	Cognitive Intervention
+T236	Treatment	7422	7454	cognitive and physical functions	UMLS:C0015259	Exercise
+T60	Demographic	7763	7768	Japan	UMLS:C0022341	Japan
+T153	Measure	8313	8338	5 cognitive tests (5-Cog)	null	null
+T61	Demographic	8425	8430	Japan	UMLS:C0022341	Japan
+T92	Phenotype	8497	8514	cognitive decline	HPO:HP:0001268	Mental deterioration
+T38	Disease	8988	8996	dementia	UMLS:C0497327	Dementia
+T154	Measure	8761	8766	5-Cog	null	null
+T155	Measure	9015	9020	5-Cog	null	null
+T156	Measure	9111	9116	5-Cog	null	null
+T39	Disease	9306	9314	dementia	UMLS:C0497327	Dementia
+T163	ScaleMin	9428	9431	<35	null	null
+T164	ScaleMin	9448	9450	35	null	null
+T165	ScaleMax	9472	9475	>40	null	null
+T166	ScaleMax	9454	9456	40	null	null
+T167	Detail	9435	9441	rank 1	null	null
+T168	Detail	9460	9466	rank 2	null	null
+T169	Detail	9479	9485	rank 3	null	null
+T94	Detail	9750	9763	probable AACD	null	null
+T170	ScaleMin	9699	9700	5	null	null
+T171	ScaleMax	9701	9703	10	null	null
+T172	ScaleMin	9740	9742	11	null	null
+T173	ScaleMax	9743	9745	14	null	null
+T174	ScaleMax	9770	9772	15	null	null
+T175	Detail	9720	9737	probable dementia	null	null
+T176	Detail	9777	9783	normal	null	null
+T157	Measure	9815	9820	5-Cog	null	null
+T71	Disease	9956	9959	MCI	UMLS:C1270972	Mild cognitive disorder
+T88	Phenotype	10124	10147	abnormal memory for age	null	null
+T87	Phenotype	10204	10221	cognitive decline	HPO:HP:0001268	Mental deterioration
+T69	Disease	10306	10318	amnestic MCI	null	null
+T70	Disease	10320	10339	multiple-domain MCI	null	null
+T71	Disease	10344	10372	single non-memory domain MCI	null	null
+T72	Disease	10433	10436	MCI	UMLS:C1270972	Mild cognitive disorder
+T158	Measure	10424	10429	5-Cog	null	null
+T159	Measure	10519	10524	5-Cog	null	null
+T8	AgeGroup	10656	10668	older adults	null	null
+T9	AgeGroup	10833	10845	older adults	null	null
+T19	AgeGroup	10767	10774	Elderly	null	null
+T178	AgeGroup	10900	10910	aged 65–79	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T41	Disease	11516	11524	dementia	UMLS:C0497327	Dementia
+T226	Treatment	11380	11429	cognitive function and physical function programs	UMLS:C3899527	Cognitive Intervention
+T227	Treatment	11380	11429	cognitive function and physical function programs	UMLS:C0015259	Exercise
+T40	Disease	11853	11861	dementia	UMLS:C0497327	Dementia
+T179	Treatment	11619	11645	cognitive function program	UMLS:C3899527	Cognitive Intervention
+T180	Treatment	11912	11938	cognitive function program	UMLS:C3899527	Cognitive Intervention
+T225	Treatment	12207	12232	physical function program	UMLS:C0015259	Exercise
+T62	Demographic	12984	12989	Japan	UMLS:C0022341	Japan
+T20	AgeGroup	13530	13537	elderly	null	null
+T237	Treatment	13807	13856	cognitive function and physical function programs	UMLS:C3899527	Cognitive Intervention
+T238	Treatment	13807	13856	cognitive function and physical function programs	UMLS:C0015259	Exercise
+T21	AgeGroup	14162	14169	Elderly	null	null
+T160	Measure	14114	14119	5-Cog	null	null
+T181	Treatment	14863	14889	cognitive function program	UMLS:C3899527	Cognitive Intervention
+T239	Treatment	14906	14931	physical function program	UMLS:C0015259	Exercise
+T149	Gender	15364	15369	women	Gender:C0015780	female
+T150	Gender	15440	15445	women	Gender:C0015780	female
+T151	Gender	15377	15380	men	Gender:C0086582	male
+T152	Gender	15452	15455	men	Gender:C0086582	male
+T182	Treatment	15518	15544	cognitive function program	UMLS:C3899527	Cognitive Intervention
+T42	Disease	15783	15800	probable dementia	UMLS:C0497327	Dementia
+T43	Disease	15997	16014	probable dementia	UMLS:C0497327	Dementia
+T240	Treatment	15833	15858	physical function program	UMLS:C0015259	Exercise
+T44	Disease	16243	16260	probable dementia	UMLS:C0497327	Dementia
+T103	Phenotype	16198	16212	probable AACD’	UMLS:C0236848	Age-related cognitive decline
+T45	Disease	16355	16372	probable dementia	UMLS:C0497327	Dementia
+T161	Measure	16472	16477	5-Cog	null	null
+T183	Treatment	16575	16601	cognitive function program	UMLS:C3899527	Cognitive Intervention
+T241	Treatment	16712	16737	physical function program	UMLS:C0015259	Exercise
+T162	Measure	16902	16907	5-Cog	null	null
+T10	AgeGroup	17555	17567	older adults	null	null
+T73	Disease	17585	17588	MCI	UMLS:C1270972	Mild cognitive disorder
+T185	Treatment	17502	17526	cognitive rehabilitation	UMLS:C0870303	Cognitive rehabilitation
+T11	AgeGroup	17722	17734	older adults	null	null
+T12	AgeGroup	17739	17751	older adults	null	null
+T74	Disease	17757	17760	MCI	UMLS:C1270972	Mild cognitive disorder
+T126	Disease	17777	17779	AD	UMLS:C0002395	Alzheimer's Disease
+T13	AgeGroup	17892	17904	older adults	null	null
+T14	AgeGroup	17909	17921	older adults	null	null
+T75	Disease	17927	17930	MCI	UMLS:C1270972	Mild cognitive disorder
+T242	Treatment	18092	18119	cognitive function training	UMLS:C3899527	Cognitive Intervention
+T243	Treatment	18137	18154	physical training	UMLS:C0015259	Exercise
+T46	Disease	18221	18234	mild dementia	UMLS:C3494623	Mild dementia
+T76	Disease	18213	18216	MCI	UMLS:C1270972	Mild cognitive disorder
+T109	Treatment	18264	18286	cognitive intervention	UMLS:C3899527	Cognitive Intervention
+T195	Treatment	18444	18462	behavioral therapy	UMLS:C0004933	Behavior Therapy
+T77	Disease	18753	18756	MCI	UMLS:C1270972	Mild cognitive disorder
+T196	Phenotype	18710	18720	depression	HPO:HP:0000716	Depression
+T197	Phenotype	18725	18732	anxiety	HPO:HP:0000739	Anxiety
+T38	Disease	18773	18786	mild dementia	UMLS:C3494623	Mild dementia
+T198	Phenotype	18906	18916	depression	HPO:HP:0000716	Depression
+T199	Phenotype	18921	18928	anxiety	HPO:HP:0000739	Anxiety
+T15	AgeGroup	19120	19132	older adults	null	null
+T16	AgeGroup	19137	19149	older adults	null	null
+T48	Disease	19213	19221	dementia	UMLS:C0497327	Dementia
+T78	Disease	19155	19158	MCI	UMLS:C1270972	Mild cognitive disorder
+T187	Treatment	19438	19462	cognitive rehabilitation	UMLS:C0870303	Cognitive rehabilitation
+T200	Treatment	20653	20729	interventional study for memory, reasoning, and speed-of-processing training	null	null
+T201	Treatment	20653	20729	interventional study for memory, reasoning, and speed-of-processing training	UMLS:C3898430	Memory Intervention
+T202	Treatment	20653	20729	interventional study for memory, reasoning, and speed-of-processing training	null	null
+T188	Treatment	21029	21053	cognitive rehabilitation	UMLS:C0870303	Cognitive rehabilitation
+T79	Disease	21525	21528	MCI	UMLS:C1270972	Mild cognitive disorder
+T80	Disease	21726	21729	MCI	UMLS:C1270972	Mild cognitive disorder
+T127	Disease	21679	21686	mild AD	UMLS:C0002395	Alzheimer's Disease
+T189	Treatment	21594	21618	cognitive rehabilitation	UMLS:C0870303	Cognitive rehabilitation
+T112	Treatment	21789	21812	cognitive interventions	UMLS:C3899527	Cognitive Intervention
+T81	Disease	22168	22171	MCI	UMLS:C1270972	Mild cognitive disorder
+T244	Treatment	22199	22247	cognitive function and physical function program	UMLS:C3899527	Cognitive Intervention
+T245	Treatment	22199	22247	cognitive function and physical function program	UMLS:C0015259	Exercise
+T184	Treatment	22312	22338	cognitive function program	UMLS:C3899527	Cognitive Intervention
+T228	Treatment	22599	22615	aerobic training	UMLS:C0001701	Exercise, Aerobic
+T246	Treatment	22533	22558	physical function program	UMLS:C0015259	Exercise
+T190	Treatment	23004	23037	cognitive rehabilitation programs	UMLS:C3840067	Cognitive rehabilitation therapy
+T252	Treatment	22947	22977	training of executive function	UMLS:C0589092	Executive functions training
+T82	Disease	23175	23178	MCI	UMLS:C1270972	Mild cognitive disorder
+T128	Disease	23189	23191	AD	UMLS:C0002395	Alzheimer's Disease
+T204	Phenotype	23197	23224	decrease in memory function	HPO:HP:0002354	Memory impairment
+T205	Treatment	23293	23310	mnemonic training	null	null
+T206	Treatment	23486	23503	mnemonic training	null	null
+T247	Treatment	23505	23523	physical exercises	UMLS:C0015259	Exercise
+T207	Treatment	23662	23679	mnemonic training	null	null
+T208	Treatment	24012	24029	mnemonic training	null	null
+T209	Treatment	24173	24203	training of cognitive function	UMLS:C3899527	Cognitive Intervention
+T83	Disease	25208	25211	MCI	UMLS:C1270972	Mild cognitive disorder
+T84	Disease	25136	25139	MCI	UMLS:C1270972	Mild cognitive disorder
+T210	Treatment	24952	24969	mnemonic training	null	null
+T248	Treatment	24971	24989	physical exercises	UMLS:C0015259	Exercise
+T249	Treatment	24995	25014	creative activities	null	null
+T192	Treatment	25261	25285	cognitive rehabilitation	UMLS:C0870303	Cognitive rehabilitation
+T110	Treatment	25413	25435	cognitive intervention	UMLS:C3899527	Cognitive Intervention
+T253	Treatment	25478	25505	executive function programs	UMLS:C0589092	Executive functions training
+T250	Treatment	25576	25625	executive function and physical function programs	UMLS:C0589092	Executive functions training
+T251	Treatment	25576	25625	executive function and physical function programs	UMLS:C0015259	Exercise
+T49	Disease	25781	25789	dementia	UMLS:C0497327	Dementia
+T85	Disease	25795	25798	MCI	UMLS:C1270972	Mild cognitive disorder
+T86	Disease	25980	25983	MCI	UMLS:C1270972	Mild cognitive disorder
+T193	Treatment	25926	25958	cognitive rehabilitation program	UMLS:C3840067	Cognitive rehabilitation therapy
+T211	Phenotype	26002	26022	mental deterioration	HPO:HP:0001268	Mental deterioration
+T229	Treatment	26726	26750	aerobic training program	UMLS:C0001701	Exercise, Aerobic
+T194	Treatment	27257	27281	cognitive rehabilitation	UMLS:C0870303	Cognitive rehabilitation
+T50	Disease	27372	27380	dementia	UMLS:C0497327	Dementia
+T22	AgeGroup	27599	27606	elderly	null	null
+T51	Disease	27623	27631	dementia	UMLS:C0497327	Dementia
+T52	Disease	27742	27750	dementia	UMLS:C0497327	Dementia
+T53	Disease	28061	28069	dementia	UMLS:C0497327	Dementia
+T54	Disease	28202	28210	dementia	UMLS:C0497327	Dementia
+T55	Disease	28278	28286	dementia	UMLS:C0497327	Dementia
+T56	Disease	28409	28417	dementia	UMLS:C0497327	Dementia
+R1	hasScale	6728	6763	Measure	6764	6767	ScaleMax
+R2	hasScale	6794	6845	Measure	6846	6849	ScaleMax
+R7	hasDetail	9428	9431	ScaleMin	9435	9441	Detail
+R8	hasDetail	9472	9475	ScaleMax	9479	9485	Detail
+R9	hasDetail	9448	9450	ScaleMin	9460	9466	Detail
+R10	hasDetail	9454	9456	ScaleMax	9460	9466	Detail
+R16	hasDetail	9699	9700	ScaleMin	9720	9737	Detail
+R17	hasDetail	9701	9703	ScaleMax	9720	9737	Detail
+R18	hasDetail	9740	9742	ScaleMin	9750	9763	Detail
+R19	hasDetail	9743	9745	ScaleMax	9750	9763	Detail
+R20	hasDetail	9770	9772	ScaleMax	9777	9783	Detail

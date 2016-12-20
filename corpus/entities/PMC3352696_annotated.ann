@@ -1,0 +1,89 @@
+T1	Disease	17	25	dementia	UMLS:C0497327	Dementia
+T44	Drug	170	188	dementia treatment	UMLS:C1276997	Antidementia drug
+T45	Demographic	382	393	Netherlands	UMLS:C0027778	Netherlands
+T2	Disease	445	470	mild to moderate dementia	UMLS:C3494623	Mild dementia
+T3	Disease	445	470	mild to moderate dementia	UMLS:C3494871	Moderate dementia
+T4	Disease	1346	1354	dementia	UMLS:C0497327	Dementia
+T5	Disease	1555	1563	dementia	UMLS:C0497327	Dementia
+T6	Disease	1672	1680	dementia	UMLS:C0497327	Dementia
+T47	Drug	1834	1859	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T7	Disease	2084	2092	dementia	UMLS:C0497327	Dementia
+T8	Disease	2167	2175	dementia	UMLS:C0497327	Dementia
+T49	Demographic	2132	2145	Great Britain	UMLS:C0018223	Great Britain
+T9	Disease	2269	2277	dementia	UMLS:C0497327	Dementia
+T10	Disease	2403	2411	dementia	UMLS:C0497327	Dementia
+T11	Disease	2935	2943	dementia	UMLS:C0497327	Dementia
+T12	Drug	3083	3101	dementia treatment	UMLS:C1276997	Antidementia drug
+T13	Disease	3301	3309	dementia	UMLS:C0497327	Dementia
+T50	Demographic	3238	3244	France	UMLS:C0016674	France
+T14	Disease	3594	3602	dementia	UMLS:C0497327	Dementia
+T15	Disease	3680	3688	dementia	UMLS:C0497327	Dementia
+T16	Disease	3932	3940	dementia	UMLS:C0497327	Dementia
+T17	Disease	4083	4091	dementia	UMLS:C0497327	Dementia
+T18	Disease	4425	4433	dementia	UMLS:C0497327	Dementia
+T19	Disease	4600	4608	dementia	UMLS:C0497327	Dementia
+T20	Disease	4622	4630	dementia	UMLS:C0497327	Dementia
+T21	Disease	4917	4925	dementia	UMLS:C0497327	Dementia
+T52	Disease	5408	5433	Creutzfeldt-Jakob disease	UMLS:C0022336	Creutzfeldt-Jakob disease
+T57	Drug	5849	5868	anti-dementia drugs	UMLS:C3653789	ANTI-DEMENTIA DRUGS
+T53	Drug	5870	5895	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T54	Drug	5900	5909	memantine	DrugBank:DB01043	Memantine
+T55	Drug	6692	6717	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T56	Drug	6618	6636	dementia treatment	UMLS:C1276997	Antidementia drug
+T22	Disease	7995	8020	mild to moderate dementia	UMLS:C3494623	Mild dementia
+T23	Disease	7995	8020	mild to moderate dementia	UMLS:C3494871	Moderate dementia
+T58	Measure	7930	7956	geriatric depression scale	UMLS:C0451184	Geriatric depression scale (assessment scale)
+T60	Phenotype	8034	8057	behavioural disturbance	HPO:HP:0000708	Behavioral abnormality
+T61	Measure	8071	8121	neuropsychiatric inventory in questionnaire format	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T62	Measure	8335	8384	Centre for Epidemiologic Studies depression scale	UMLS:C2699160	Center for Epidemiologic Studies Depression Scale
+T63	Measure	8415	8444	state-trait anxiety inventory	UMLS:C0683457	State-trait anger expression inventory
+T65	Measure	8830	8881	neuropsychiatric inventory in questionnaire format.	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T24	Disease	9928	9936	dementia	UMLS:C0497327	Dementia
+T66	Gender	12012	12018	female	Gender:C0015780	female
+T25	Disease	12441	12449	dementia	UMLS:C0497327	Dementia
+T67	Disease	12368	12387	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T69	Measure	12473	12497	clinical dementia rating	UMLS:C0451074	Clinical dementia rating scale
+T70	Measure	12555	12584	mini-mental state examination	UMLS:C0451306	Mini-mental state examination
+T71	ScaleMin	12592	12593	0	null	null
+T72	ScaleMax	12594	12596	30	null	null
+T26	Disease	13441	13449	dementia	UMLS:C0497327	Dementia
+T73	Measure	14921	14950	state-trait anxiety inventory	UMLS:C0683457	State-trait anger expression inventory
+T74	Phenotype	14962	14969	anxiety	HPO:HP:0000739	Anxiety
+T76	Phenotype	15001	15008	anxiety	HPO:HP:0000739	Anxiety
+T79	Measure	15061	15110	Centre for Epidemiologic Studies depression scale	UMLS:C2699160	Center for Epidemiologic Studies Depression Scale
+T86	Phenotype	15127	15146	depressive symptoms	UMLS:C0086132	Depressive Symptoms
+T82	Phenotype	15217	15230	anxiety state	UMLS:C0700613	Anxiety state
+T84	Phenotype	15526	15533	anxiety	HPO:HP:0000739	Anxiety
+T85	Phenotype	15537	15547	depression	HPO:HP:0000716	Depression
+T78	Measure	15578	15607	state-trait anxiety inventory	UMLS:C0683457	State-trait anger expression inventory
+T86	Measure	15612	15661	Centre for Epidemiologic Studies depression scale	UMLS:C2699160	Center for Epidemiologic Studies Depression Scale
+T89	Phenotype	15939	15949	depression	HPO:HP:0000716	Depression
+T90	Measure	16415	16444	state-trait anxiety inventory	UMLS:C0683457	State-trait anger expression inventory
+T91	Measure	16453	16502	Centre for Epidemiologic Studies depression scale	UMLS:C2699160	Center for Epidemiologic Studies Depression Scale
+T92	Phenotype	16671	16684	anxiety state	UMLS:C0700613	Anxiety state
+T27	Disease	17363	17371	dementia	UMLS:C0497327	Dementia
+T94	Phenotype	17470	17477	anxiety	HPO:HP:0000739	Anxiety
+T68	Disease	17910	17929	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T95	Phenotype	17874	17892	functional decline	null	null
+T96	Phenotype	17983	18001	functional decline	null	null
+T28	Disease	18280	18288	dementia	UMLS:C0497327	Dementia
+T29	Disease	18196	18204	dementia	UMLS:C0497327	Dementia
+T30	Disease	18846	18854	dementia	UMLS:C0497327	Dementia
+T31	Disease	19457	19465	dementia	UMLS:C0497327	Dementia
+T32	Disease	20045	20070	mild to moderate dementia	UMLS:C3494623	Mild dementia
+T33	Disease	20045	20070	mild to moderate dementia	UMLS:C3494871	Moderate dementia
+T34	Disease	20155	20163	dementia	UMLS:C0497327	Dementia
+T97	Demographic	20204	20215	Netherlands	UMLS:C0027778	Netherlands
+T35	Disease	20435	20443	dementia	UMLS:C0497327	Dementia
+T36	Disease	20626	20634	dementia	UMLS:C0497327	Dementia
+T98	Demographic	20467	20478	Netherlands	UMLS:C0027778	Netherlands
+T37	Disease	20824	20832	dementia	UMLS:C0497327	Dementia
+T103	Demographic	20758	20776	European countries	UMLS:C0454713	European country
+T38	Disease	20930	20938	Dementia	UMLS:C0497327	Dementia
+T39	Disease	22266	22274	dementia	UMLS:C0497327	Dementia
+T40	Disease	22102	22110	dementia	UMLS:C0497327	Dementia
+T41	Disease	22644	22652	dementia	UMLS:C0497327	Dementia
+T42	Disease	23253	23261	dementia	UMLS:C0497327	Dementia
+T43	Disease	23331	23339	dementia	UMLS:C0497327	Dementia
+R1	hasScale	12555	12584	Measure	12592	12593	ScaleMin
+R3	hasScale	12555	12584	Measure	12594	12596	ScaleMax

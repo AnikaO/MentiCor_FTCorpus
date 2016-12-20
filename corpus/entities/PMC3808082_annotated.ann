@@ -1,0 +1,201 @@
+T1	Treatment	28	100	manual based coping strategy programme (START, STrAtegies for RelaTives)	null	null
+T16	Disease	165	173	dementia	UMLS:C0497327	Dementia
+T2	Treatment	243	271	manual based coping strategy	null	null
+T17	Disease	378	386	dementia	UMLS:C0497327	Dementia
+T18	Phenotype	313	323	depression	HPO:HP:0000716	Depression
+T19	Phenotype	328	335	anxiety	HPO:HP:0000739	Anxiety
+T20	Demographic	541	547	London	UMLS:C0023973	London
+T21	Demographic	552	557	Essex	UMLS:C0454853	Essex
+T22	Demographic	559	561	UK	UMLS:C0041700	United Kingdom
+T23	Disease	610	618	dementia	UMLS:C0497327	Dementia
+T6	Treatment	635	667	manual based coping intervention	null	null
+T24	Disease	776	784	dementia	UMLS:C0497327	Dementia
+T25	Disease	835	843	dementia	UMLS:C0497327	Dementia
+T170	Phenotype	853	859	stress	UMLS:C0038435	Stress
+T64	Measure	1297	1328	hospital anxiety and depression	UMLS:C0451221	Hospital anxiety and depression scale
+T66	Phenotype	1392	1402	depression	HPO:HP:0000716	Depression
+T67	Phenotype	1407	1414	anxiety	HPO:HP:0000739	Anxiety
+T68	Measure	1431	1468	hospital anxiety and depression scale	UMLS:C0451221	Hospital anxiety and depression scale
+T65	Measure	1505	1547	health status questionnaire, mental health	null	null
+T69	Phenotype	1630	1647	abusive behaviour	UMLS:C0237220	Abusive behavior
+T70	Measure	1856	1893	hospital anxiety and depression scale	UMLS:C0451221	Hospital anxiety and depression scale
+T71	Phenotype	2214	2224	depression	HPO:HP:0000716	Depression
+T72	Phenotype	2346	2353	anxiety	HPO:HP:0000739	Anxiety
+T73	Phenotype	2626	2643	abusive behaviour	UMLS:C0237220	Abusive behavior
+T7	Treatment	2832	2860	manual based coping strategy	null	null
+T26	Disease	2965	2973	dementia	UMLS:C0497327	Dementia
+T74	Phenotype	2921	2931	depression	HPO:HP:0000716	Depression
+T27	Disease	3112	3120	dementia	UMLS:C0497327	Dementia
+T28	Disease	3169	3177	Dementia	UMLS:C0497327	Dementia
+T29	Disease	3343	3351	dementia	UMLS:C0497327	Dementia
+T30	Demographic	3327	3341	United Kingdom	UMLS:C0041700	United Kingdom
+T75	AgeGroup	3464	3469	older	null	null
+T31	Disease	3565	3573	dementia	UMLS:C0497327	Dementia
+T32	Disease	3746	3754	dementia	UMLS:C0497327	Dementia
+T76	Phenotype	3783	3793	depression	HPO:HP:0000716	Depression
+T77	Phenotype	3797	3804	anxiety	HPO:HP:0000739	Anxiety
+T78	Phenotype	3834	3856	psychological symptoms	UMLS:C0233397	Psychological symptom
+T33	Disease	4110	4118	dementia	UMLS:C0497327	Dementia
+T79	AgeGroup	3916	3921	older	null	null
+T80	Gender	3925	3930	woman	Gender:C0015780	female
+T81	Phenotype	4031	4056	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T82	AgeGroup	4253	4258	elder	null	null
+T83	Phenotype	4127	4150	psychological morbidity	null	null
+T34	Disease	4605	4613	dementia	UMLS:C0497327	Dementia
+T35	Disease	4656	4664	dementia	UMLS:C0497327	Dementia
+T84	Demographic	4523	4525	UK	UMLS:C0041700	United Kingdom
+T85	Treatment	4549	4570	psychological therapy	UMLS:C0841584	Psychological therapies
+T86	Demographic	4907	4921	United Kingdom	UMLS:C0041700	United Kingdom
+T87	Treatment	4978	5001	psychological therapies	UMLS:C0841584	Psychological therapies
+T88	Treatment	5099	5120	befriending programme	null	null
+T89	Phenotype	5188	5195	anxiety	HPO:HP:0000739	Anxiety
+T90	Phenotype	5199	5209	depression	HPO:HP:0000716	Depression
+T8	Treatment	5216	5248	Coping with Caregiving programme	null	null
+T91	Demographic	5270	5283	United States	UMLS:C0041703	United States
+T92	Phenotype	5411	5421	depression	HPO:HP:0000716	Depression
+T36	Disease	5864	5872	dementia	UMLS:C0497327	Dementia
+T93	Demographic	5784	5798	United Kingdom	UMLS:C0041700	United Kingdom
+T94	Treatment	5809	5829	manual based therapy	null	null
+T9	Treatment	6142	6174	Coping with Caregiving programme	null	null
+T95	Demographic	6139	6141	US	UMLS:C0041703	United States
+T10	Treatment	6447	6475	manual based coping strategy	null	null
+T37	Disease	6571	6579	dementia	UMLS:C0497327	Dementia
+T96	Measure	6324	6361	hospital anxiety and depression scale	UMLS:C0451221	Hospital anxiety and depression scale
+T97	Phenotype	6667	6677	depression	HPO:HP:0000716	Depression
+T98	Phenotype	6682	6689	anxiety	HPO:HP:0000739	Anxiety
+T99	Measure	6706	6743	hospital anxiety and depression scale	UMLS:C0451221	Hospital anxiety and depression scale
+T100	Phenotype	6814	6831	abusive behaviour	UMLS:C0237220	Abusive behavior
+T38	Disease	6923	6931	dementia	UMLS:C0497327	Dementia
+T39	Disease	7486	7494	dementia	UMLS:C0497327	Dementia
+T40	Disease	7651	7671	early onset dementia	UMLS:C0497327	Dementia
+T41	Disease	7871	7879	dementia	UMLS:C0497327	Dementia
+T101	Measure	8169	8198	mini-mental state examination	UMLS:C0451306	Mini-mental state examination
+T102	AgeGroup	8211	8226	aged 60 or over	AgeGroups:C0683973	middle aged adult (45-64 years)
+T103	AgeGroup	8211	8226	aged 60 or over	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T104	AgeGroup	8211	8226	aged 60 or over	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T42	Disease	8434	8442	dementia	UMLS:C0497327	Dementia
+T3	Treatment	9356	9367	START trial	null	null
+T105	Demographic	10101	10107	London	UMLS:C0023973	London
+T106	Measure	10950	10987	hospital anxiety and depression scale	UMLS:C0451221	Hospital anxiety and depression scale
+T107	Ethnicity	11125	11130	Asian	UMLS:C0078988	Asians
+T108	Ethnicity	11135	11142	African	UMLS:C0027567	African race
+T109	Phenotype	11193	11203	depression	HPO:HP:0000716	Depression
+T110	Phenotype	11208	11215	anxiety	HPO:HP:0000739	Anxiety
+T111	ScaleMin	11241	11242	0	null	null
+T112	ScaleMax	11246	11248	21	null	null
+T113	ScaleMin	11283	11284	0	null	null
+T114	ScaleMax	11288	11290	42	null	null
+T115	Phenotype	11499	11509	depression	HPO:HP:0000716	Depression
+T116	Phenotype	11590	11597	anxiety	HPO:HP:0000739	Anxiety
+T117	Phenotype	11602	11612	depression	HPO:HP:0000716	Depression
+T118	Phenotype	11973	11990	abusive behaviour	UMLS:C0237220	Abusive behavior
+T201	Measure	11907	11929	conflict tactics scale	null	null
+T202	ScaleMin	12142	12143	0	null	null
+T203	ScaleMax	12160	12161	1	null	null
+T204	ScaleMax	12175	12176	2	null	null
+T205	ScaleMax	12197	12198	3	null	null
+T206	ScaleMax	12221	12222	4	null	null
+T207	Detail	12126	12140	occurred never	null	null
+T208	Detail	12146	12158	almost never	null	null
+T209	Detail	12164	12173	sometimes	null	null
+T210	Detail	12179	12195	most of the time	null	null
+T211	Detail	12204	12219	all of the time	null	null
+T159	Phenotype	12299	12307	shouting	UMLS:C0562551	Shouting
+T160	Phenotype	12311	12322	threatening	UMLS:C0562573	Threatening behavior
+T161	Phenotype	12326	12333	shaking	null	null
+T162	Phenotype	12337	12345	slapping	null	null
+T119	Phenotype	12412	12429	abusive behaviour	UMLS:C0237220	Abusive behavior
+T163	Measure	12703	12757	Health status questionnaire,2425 mental health domain,	null	null
+T164	ScaleMin	12905	12906	0	null	null
+T165	ScaleMax	12910	12913	100	null	null
+T11	Measure	12971	12975	COPE	null	null
+T12	Treatment	13005	13022	coping strategies	UMLS:C0150181	Coping support
+T13	Disease	13080	13088	dementia	UMLS:C0497327	Dementia
+T14	Phenotype	13156	13176	dysfunctional coping	UMLS:C0582154	Difficulty coping
+T153	Measure	13279	13305	neuropsychiatric inventory	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T152	Phenotype	13519	13544	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T154	Disease	13583	13606	psychological morbidity	UMLS:C1301721	Neurological morbidity
+T43	Measure	13622	13646	clinical dementia rating	UMLS:C0451074	Clinical dementia rating scale
+T59	Disease	13737	13802	dementia (categories: healthy, very mild, mild, moderate, severe)	UMLS:C0497327	Dementia
+T60	Disease	13737	13802	dementia (categories: healthy, very mild, mild, moderate, severe)	UMLS:C3494623	Mild dementia
+T61	Disease	13737	13802	dementia (categories: healthy, very mild, mild, moderate, severe)	null	null
+T62	Disease	13737	13802	dementia (categories: healthy, very mild, mild, moderate, severe)	UMLS:C3494871	Moderate dementia
+T63	Disease	13737	13802	dementia (categories: healthy, very mild, mild, moderate, severe)	UMLS:C3494652	Severe dementia
+T4	Treatment	14512	14545	(START, STrAtegies for RelaTives)	null	null
+T5	Treatment	14559	14591	Coping with Caregiving programme	null	null
+T166	Demographic	14601	14614	United States	UMLS:C0041703	United States
+T44	Disease	14686	14694	dementia	UMLS:C0497327	Dementia
+T167	Ethnicity	14634	14636	UK	UMLS:C0596227	british
+T45	Disease	14828	14836	dementia	UMLS:C0497327	Dementia
+T47	Disease	17455	17463	dementia	UMLS:C0497327	Dementia
+T171	Treatment	17624	17653	cognitive stimulation therapy	UMLS:C0150174	Cognitive stimulation
+T155	Treatment	17674	17726	treatment of neuropsychiatric and cognitive symptoms	null	null
+T156	Treatment	17674	17726	treatment of neuropsychiatric and cognitive symptoms	UMLS:C0009244	Cognitive Therapy
+T49	Disease	18107	18115	dementia	UMLS:C0497327	Dementia
+T125	Measure	17987	18024	hospital anxiety and depression scale	UMLS:C0451221	Hospital anxiety and depression scale
+T172	Phenotype	17966	17973	anxiety	HPO:HP:0000739	Anxiety
+T173	Phenotype	18122	18129	anxiety	HPO:HP:0000739	Anxiety
+T126	Measure	19009	19046	hospital anxiety and depression scale	UMLS:C0451221	Hospital anxiety and depression scale
+T127	Phenotype	19169	19179	depression	HPO:HP:0000716	Depression
+T128	Phenotype	19202	19212	depression	HPO:HP:0000716	Depression
+T129	Phenotype	19157	19164	anxiety	HPO:HP:0000739	Anxiety
+T130	Measure	19382	19419	hospital anxiety and depression scale	UMLS:C0451221	Hospital anxiety and depression scale
+T131	Measure	20134	20171	hospital anxiety and depression scale	UMLS:C0451221	Hospital anxiety and depression scale
+T157	Phenotype	20533	20558	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T50	Disease	21412	21420	dementia	UMLS:C0497327	Dementia
+T178	AgeGroup	22802	22807	older	null	null
+T132	Measure	23232	23269	hospital anxiety and depression scale	UMLS:C0451221	Hospital anxiety and depression scale
+T174	Phenotype	23162	23169	anxiety	HPO:HP:0000739	Anxiety
+T175	Phenotype	23193	23200	anxiety	HPO:HP:0000739	Anxiety
+T179	AgeGroup	23451	23461	aged 20-35	AgeGroups:C0238598	young adult (19-24 years)
+T180	AgeGroup	23451	23461	aged 20-35	AgeGroups:C0001675	adult (19-44 years)
+T181	Phenotype	24219	24225	unwell	UMLS:C0857256	Unwell
+T182	Phenotype	24311	24320	upsetting	UMLS:C3887804	Feeling upset
+T183	Ethnicity	25067	25082	white ethnicity	UMLS:C0043157	Caucasians
+T184	Gender	25164	25168	male	Gender:C0086582	male
+T185	Gender	25183	25189	female	Gender:C0015780	female
+T186	Phenotype	25535	25565	primary and secondary outcomes	UMLS:C3258060	Primary sign and symptom
+T187	Phenotype	25535	25565	primary and secondary outcomes	null	null
+T133	Measure	25602	25639	hospital anxiety and depression scale	UMLS:C0451221	Hospital anxiety and depression scale
+T158	Measure	25738	25764	neuropsychiatric inventory	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T188	Measure	26482	26486	COPE	null	null
+T134	Phenotype	27000	27010	depression	HPO:HP:0000716	Depression
+T135	Phenotype	26988	26995	anxiety	HPO:HP:0000739	Anxiety
+T136	Phenotype	27103	27113	Depression	HPO:HP:0000716	Depression
+T137	Phenotype	27118	27125	anxiety	HPO:HP:0000739	Anxiety
+T138	Phenotype	27171	27181	depression	HPO:HP:0000716	Depression
+T139	Measure	27189	27226	hospital anxiety and depression scale	UMLS:C0451221	Hospital anxiety and depression scale
+T140	Measure	27501	27538	hospital anxiety and depression scale	UMLS:C0451221	Hospital anxiety and depression scale
+T120	Phenotype	27620	27637	abusive behaviour	UMLS:C0237220	Abusive behavior
+T51	Disease	27868	27876	dementia	UMLS:C0497327	Dementia
+T189	Measure	27882	27930	health status questionnaire, mental health scale	null	null
+T52	Disease	28128	28136	dementia	UMLS:C0497327	Dementia
+T53	Disease	28596	28604	dementia	UMLS:C0497327	Dementia
+T141	Measure	28959	28996	hospital anxiety and depression scale	UMLS:C0451221	Hospital anxiety and depression scale
+T142	Phenotype	29102	29112	depression	HPO:HP:0000716	Depression
+T143	Phenotype	29334	29344	depression	HPO:HP:0000716	Depression
+T54	Disease	29568	29576	dementia	UMLS:C0497327	Dementia
+T55	Disease	30744	30752	dementia	UMLS:C0497327	Dementia
+T121	Phenotype	30645	30662	abusive behaviour	UMLS:C0237220	Abusive behavior
+T144	Phenotype	30596	30606	depression	HPO:HP:0000716	Depression
+T145	Phenotype	30584	30591	anxiety	HPO:HP:0000739	Anxiety
+T146	Phenotype	30608	30633	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T176	Phenotype	30540	30571	anxiety and depressive symptoms	HPO:HP:0000739	Anxiety
+T177	Phenotype	30540	30571	anxiety and depressive symptoms	HPO:HP:0000716	Depression
+T122	Phenotype	30874	30891	abusive behaviour	UMLS:C0237220	Abusive behavior
+T165	Treatment	31639	31665	psychosocial interventions	UMLS:C0454041	Psychosocial intervention strategy
+T192	Phenotype	31717	31739	psychological symptoms	UMLS:C0233397	Psychological symptom
+T193	Demographic	31900	31902	US	UMLS:C0041703	United States
+T168	Phenotype	31987	32006	depressive symptoms	UMLS:C0086132	Depressive Symptoms
+T195	Demographic	32279	32292	United States	UMLS:C0041703	United States
+T123	Phenotype	32804	32821	abusive behaviour	UMLS:C0237220	Abusive behavior
+T196	Phenotype	32713	32722	depressed	HPO:HP:0000716	Depression
+T198	Phenotype	32864	32873	depressed	HPO:HP:0000716	Depression
+T56	Disease	33546	33554	dementia	UMLS:C0497327	Dementia
+T199	AgeGroup	33761	33767	elders	null	null
+T124	Phenotype	34833	34849	abusive behaviou	UMLS:C0237220	Abusive behavior
+R12	hasDetail	12142	12143	ScaleMin	12126	12140	Detail
+R13	hasDetail	12160	12161	ScaleMax	12146	12158	Detail
+R14	hasDetail	12175	12176	ScaleMax	12164	12173	Detail
+R15	hasDetail	12197	12198	ScaleMax	12179	12195	Detail
+R16	hasDetail	12221	12222	ScaleMax	12204	12219	Detail

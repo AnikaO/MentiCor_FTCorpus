@@ -1,0 +1,206 @@
+T1	Disease	26	34	dementia	UMLS:C0497327	Dementia
+T63	Disease	39	56	Alzheimer disease	UMLS:C0002395	Alzheimer's Disease
+T2	Disease	167	175	dementia	UMLS:C0497327	Dementia
+T64	Disease	180	197	Alzheimer disease	UMLS:C0002395	Alzheimer's Disease
+T105	Phenotype	78	106	low vitamin D concentrations	HPO:HP:0100512	Vitamin D deficiency
+T3	Disease	272	280	dementia	UMLS:C0497327	Dementia
+T106	AgeGroup	236	243	elderly	null	null
+T107	AgeGroup	255	261	adults	null	null
+T108	Disease	282	304	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T109	Disease	310	316	stroke	UMLS:C0038454	Cerebrovascular accident
+T110	Ethnicity	341	343	US	UMLS:C0596070	American
+T4	Disease	610	618	dementia	UMLS:C0497327	Dementia
+T65	Disease	623	640	Alzheimer disease	UMLS:C0002395	Alzheimer's Disease
+T5	Disease	898	906	dementia	UMLS:C0497327	Dementia
+T66	Disease	931	948	Alzheimer disease	UMLS:C0002395	Alzheimer's Disease
+T6	Disease	1083	1091	dementia	UMLS:C0497327	Dementia
+T67	Disease	1373	1390	Alzheimer disease	UMLS:C0002395	Alzheimer's Disease
+T7	Disease	1654	1662	dementia	UMLS:C0497327	Dementia
+T68	Disease	1667	1684	Alzheimer disease	UMLS:C0002395	Alzheimer's Disease
+T8	Disease	1845	1853	dementia	UMLS:C0497327	Dementia
+T69	Disease	1858	1875	Alzheimer disease	UMLS:C0002395	Alzheimer's Disease
+T113	Phenotype	1761	1781	vitamin D deficiency	HPO:HP:0100512	Vitamin D deficiency
+T70	Disease	2063	2094	Alzheimer disease (AD) dementia	UMLS:C0002395	Alzheimer's Disease
+T114	Phenotype	1998	2032	low serum vitamin D concentrations	HPO:HP:0100512	Vitamin D deficiency
+T115	Phenotype	2099	2119	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T9	Disease	2281	2289	dementia	UMLS:C0497327	Dementia
+T71	Disease	2259	2261	AD	UMLS:C0002395	Alzheimer's Disease
+T116	Phenotype	2175	2195	vitamin D deficiency	HPO:HP:0100512	Vitamin D deficiency
+T117	AgeGroup	2199	2211	older adults	null	null
+T118	Phenotype	2527	2542	amyloid plaques	UMLS:C2936349	Plaque, Amyloid
+T119	Phenotype	2659	2679	Vitamin D deficiency	HPO:HP:0100512	Vitamin D deficiency
+T120	Disease	2704	2724	vascular dysfunction	UMLS:C0042373	Vascular Diseases
+T121	Disease	2729	2744	ischemic stroke	UMLS:C0948008	Ischemic stroke
+T125	Disease	2763	2776	brain atrophy	UMLS:C0235946	Cerebral atrophy
+T10	Disease	2842	2850	dementia	UMLS:C0497327	Dementia
+T123	Phenotype	2933	2963	lower vitamin D concentrations	HPO:HP:0100512	Vitamin D deficiency
+T124	Phenotype	3018	3046	low vitamin D concentrations	HPO:HP:0100512	Vitamin D deficiency
+T125	AgeGroup	3050	3064	elderly adults	null	null
+T126	Phenotype	3106	3123	cognitive decline	HPO:HP:0001268	Mental deterioration
+T127	Phenotype	3188	3205	cognitive decline	HPO:HP:0001268	Mental deterioration
+T11	Disease	3330	3338	dementia	UMLS:C0497327	Dementia
+T72	Disease	3524	3526	AD	UMLS:C0002395	Alzheimer's Disease
+T128	AgeGroup	3406	3413	elderly	null	null
+T129	Gender	3414	3419	women	Gender:C0015780	female
+T130	Phenotype	3421	3448	severe vitamin D deficiency	HPO:HP:0100512	Vitamin D deficiency
+T12	Disease	3666	3683	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T73	Disease	3655	3657	AD	UMLS:C0002395	Alzheimer's Disease
+T132	Phenotype	3580	3607	severe vitamin D deficiency	HPO:HP:0100512	Vitamin D deficiency
+T13	Disease	3818	3826	dementia	UMLS:C0497327	Dementia
+T14	Disease	4071	4079	dementia	UMLS:C0497327	Dementia
+T74	Disease	4084	4086	AD	UMLS:C0002395	Alzheimer's Disease
+T135	Ethnicity	4271	4284	United States	UMLS:C0596070	American
+T134	Disease	4334	4356	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T135	Gender	4374	4379	women	Gender:C0015780	female
+T136	Gender	4366	4369	men	Gender:C0086582	male
+T137	AgeGroup	4360	4365	older	null	null
+T138	AgeGroup	4656	4662	adults	null	null
+T139	Ethnicity	4708	4724	African-American	UMLS:C0085756	African American
+T140	Disease	5015	5037	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T141	Disease	5041	5047	stroke	UMLS:C0038454	Cerebrovascular accident
+T142	Disease	5079	5101	coronary heart disease	UMLS:C0010068	Coronary heart disease
+T143	Disease	5103	5127	congestive heart failure	UMLS:C0018802	Congestive heart failure
+T144	Phenotype	5129	5141	claudication	UMLS:C1456822	Claudication (finding)
+T147	Disease	5143	5162	atrial fibrillation	UMLS:C0004238	Atrial Fibrillation
+T146	Disease	5215	5221	stroke	UMLS:C0038454	Cerebrovascular accident
+T147	Disease	5226	5229	TIA	UMLS:C0007787	Transient Ischemic Attack
+T16	Disease	5427	5435	dementia	UMLS:C0497327	Dementia
+T15	Disease	5485	5493	dementia	UMLS:C0497327	Dementia
+T17	Disease	5628	5636	dementia	UMLS:C0497327	Dementia
+T18	Disease	5904	5912	dementia	UMLS:C0497327	Dementia
+T148	AgeGroup	5919	5924	older	null	null
+T149	Ethnicity	6009	6017	nonwhite	null	null
+T154	Phenotype	6055	6089	lower serum 25(OH)D concentrations	HPO:HP:0100512	Vitamin D deficiency
+T151	Gender	6190	6196	female	Gender:C0015780	female
+T19	Disease	7217	7225	Dementia	UMLS:C0497327	Dementia
+T75	Disease	7230	7232	AD	UMLS:C0002395	Alzheimer's Disease
+T20	Disease	7447	7455	dementia	UMLS:C0497327	Dementia
+T153	Phenotype	7471	7526	progressive or static cognitive deficit with impairment	HPO:HP:0100543	Cognitive impairment
+T154	Phenotype	7622	7635	abnormalities	UMLS:C1704258	Abnormality
+T21	Disease	7656	7664	dementia	UMLS:C0497327	Dementia
+T76	Disease	7669	7671	AD	UMLS:C0002395	Alzheimer's Disease
+T155	Gender	8420	8425	women	Gender:C0015780	female
+T156	Gender	8442	8445	men	Gender:C0086582	male
+T157	Gender	8480	8485	women	Gender:C0015780	female
+T158	Gender	8502	8505	men	Gender:C0086582	male
+T158	Phenotype	8541	8560	depressive symptoms	UMLS:C0086132	Depressive Symptoms
+T160	Measure	8594	8643	Center for Epidemiologic Studies Depression Scale	UMLS:C2699160	Center for Epidemiologic Studies Depression Scale
+T161	ScaleMax	8568	8570	≥8	null	null
+T23	Disease	8783	8791	dementia	UMLS:C0497327	Dementia
+T77	Disease	8796	8798	AD	UMLS:C0002395	Alzheimer's Disease
+T22	Disease	8841	8849	dementia	UMLS:C0497327	Dementia
+T24	Disease	8951	8959	dementia	UMLS:C0497327	Dementia
+T78	Disease	8969	8971	AD	UMLS:C0002395	Alzheimer's Disease
+T79	Disease	8996	8998	AD	UMLS:C0002395	Alzheimer's Disease
+T161	Phenotype	9614	9633	depressive symptoms	UMLS:C0086132	Depressive Symptoms
+T25	Disease	9900	9908	dementia	UMLS:C0497327	Dementia
+T26	Disease	10434	10442	dementia	UMLS:C0497327	Dementia
+T164	Disease	10454	10462	diabetes	UMLS:C0011847	Diabetes
+T165	Drug	10517	10536	hypoglycemic agents	UMLS:C0020616	Hypoglycemic Agents
+T166	Disease	10595	10607	hypertension	UMLS:C0020538	Hypertensive disease
+T167	Disease	10626	10638	hypertension	UMLS:C0020538	Hypertensive disease
+T168	Disease	10693	10705	hypertension	UMLS:C0020538	Hypertensive disease
+T169	Drug	10707	10730	hypertensive medication	UMLS:C0684167	hypertensive agents
+T170	Disease	10742	10754	hypertension	UMLS:C0020538	Hypertensive disease
+T171	Drug	10807	10830	hypertensive medication	UMLS:C0684167	hypertensive agents
+T172	Ethnicity	10865	10870	white	UMLS:C0043157	Caucasians
+T173	Ethnicity	10871	10876	black	UMLS:C0005680	Black race
+T27	Disease	11503	11511	dementia	UMLS:C0497327	Dementia
+T80	Disease	11525	11527	AD	UMLS:C0002395	Alzheimer's Disease
+T28	Disease	11612	11620	dementia	UMLS:C0497327	Dementia
+T81	Disease	11634	11636	AD	UMLS:C0002395	Alzheimer's Disease
+T29	Disease	12339	12347	dementia	UMLS:C0497327	Dementia
+T82	Disease	12366	12368	AD	UMLS:C0002395	Alzheimer's Disease
+T30	Disease	12408	12416	dementia	UMLS:C0497327	Dementia
+T83	Disease	12421	12423	AD	UMLS:C0002395	Alzheimer's Disease
+T31	Disease	12631	12639	dementia	UMLS:C0497327	Dementia
+T32	Disease	12822	12830	dementia	UMLS:C0497327	Dementia
+T84	Disease	12776	12778	AD	UMLS:C0002395	Alzheimer's Disease
+T33	Disease	13076	13084	dementia	UMLS:C0497327	Dementia
+T85	Disease	13089	13091	AD	UMLS:C0002395	Alzheimer's Disease
+T34	Disease	13270	13278	dementia	UMLS:C0497327	Dementia
+T86	Disease	13283	13285	AD	UMLS:C0002395	Alzheimer's Disease
+T35	Disease	13516	13524	dementia	UMLS:C0497327	Dementia
+T87	Disease	13538	13540	AD	UMLS:C0002395	Alzheimer's Disease
+T36	Disease	13868	13876	dementia	UMLS:C0497327	Dementia
+T88	Disease	13880	13882	AD	UMLS:C0002395	Alzheimer's Disease
+T174	Disease	13775	13783	diabetes	UMLS:C0011847	Diabetes
+T176	Disease	13787	13799	hypertension	UMLS:C0020538	Hypertensive disease
+T37	Disease	14323	14331	dementia	UMLS:C0497327	Dementia
+T89	Disease	14336	14338	AD	UMLS:C0002395	Alzheimer's Disease
+T38	Disease	14561	14569	dementia	UMLS:C0497327	Dementia
+T39	Disease	14846	14854	dementia	UMLS:C0497327	Dementia
+T90	Disease	14574	14576	AD	UMLS:C0002395	Alzheimer's Disease
+T91	Disease	14946	14948	AD	UMLS:C0002395	Alzheimer's Disease
+T40	Disease	15240	15248	dementia	UMLS:C0497327	Dementia
+T92	Disease	15253	15255	AD	UMLS:C0002395	Alzheimer's Disease
+T41	Disease	15371	15379	dementia	UMLS:C0497327	Dementia
+T93	Disease	15384	15386	AD	UMLS:C0002395	Alzheimer's Disease
+T42	Disease	15488	15496	dementia	UMLS:C0497327	Dementia
+T43	Disease	15613	15621	dementia	UMLS:C0497327	Dementia
+T94	Disease	15750	15752	AD	UMLS:C0002395	Alzheimer's Disease
+T179	Phenotype	15678	15705	severe vitamin D deficiency	HPO:HP:0100512	Vitamin D deficiency
+T45	Disease	15843	15860	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T95	Disease	15832	15834	AD	UMLS:C0002395	Alzheimer's Disease
+T180	Phenotype	15784	15811	severe vitamin D deficiency	HPO:HP:0100512	Vitamin D deficiency
+T96	Disease	15992	15994	AD	UMLS:C0002395	Alzheimer's Disease
+T181	Gender	15943	15948	women	Gender:C0015780	female
+T46	Disease	16079	16087	dementia	UMLS:C0497327	Dementia
+T47	Disease	16266	16274	dementia	UMLS:C0497327	Dementia
+T97	Disease	16279	16281	AD	UMLS:C0002395	Alzheimer's Disease
+T183	Phenotype	16343	16363	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T184	Phenotype	16380	16397	cognitive decline	HPO:HP:0001268	Mental deterioration
+T185	Disease	16566	16574	diabetes	UMLS:C0011847	Diabetes
+T186	Disease	16578	16590	hypertension	UMLS:C0020538	Hypertensive disease
+T48	Disease	16628	16636	dementia	UMLS:C0497327	Dementia
+T49	Disease	17113	17121	dementia	UMLS:C0497327	Dementia
+T187	Gender	17167	17172	women	Gender:C0015780	female
+T188	Phenotype	17192	17219	high serum vitamin D levels	UMLS:C0919765	Increased vitamin D
+T50	Disease	17401	17409	dementia	UMLS:C0497327	Dementia
+T189	AgeGroup	17328	17340	older adults	null	null
+T51	Disease	17700	17708	dementia	UMLS:C0497327	Dementia
+T190	Phenotype	17662	17682	low vitamin D levels	HPO:HP:0100512	Vitamin D deficiency
+T98	Disease	18355	18357	AD	UMLS:C0002395	Alzheimer's Disease
+T191	Phenotype	18324	18339	amyloid plaques	UMLS:C2936349	Plaque, Amyloid
+T192	Disease	18576	18578	AD	UMLS:C0002395	Alzheimer's Disease
+T195	Phenotype	18770	18790	vitamin D deficiency	HPO:HP:0100512	Vitamin D deficiency
+T187	Phenotype	18866	18884	25(OH)D deficiency	HPO:HP:0100512	Vitamin D deficiency
+T197	Disease	18934	18940	stroke	UMLS:C0038454	Cerebrovascular accident
+T198	Disease	18957	18972	ischemic stroke	UMLS:C0948008	Ischemic stroke
+T199	AgeGroup	19008	19022	elderly adults	null	null
+T191	Phenotype	19034	19052	25(OH)D deficiency	HPO:HP:0100512	Vitamin D deficiency
+T201	Phenotype	19073	19117	increased white matter hyperintensity volume	null	null
+T202	Phenotype	19142	19163	large vessel infarcts	null	null
+T52	Disease	19234	19242	dementia	UMLS:C0497327	Dementia
+T99	Disease	19247	19249	AD	UMLS:C0002395	Alzheimer's Disease
+T203	Phenotype	19180	19208	low vitamin D concentrations	HPO:HP:0100512	Vitamin D deficiency
+T204	Ethnicity	19423	19428	white	UMLS:C0043157	Caucasians
+T205	Ethnicity	19433	19449	African-American	UMLS:C0085756	African American
+T206	Gender	19458	19463	women	Gender:C0015780	female
+T207	Gender	19450	19453	men	Gender:C0086582	male
+T53	Disease	19905	19913	dementia	UMLS:C0497327	Dementia
+T208	Phenotype	19864	19881	impaired function	UMLS:C0277785	Functional disorder
+T54	Disease	19962	19970	dementia	UMLS:C0497327	Dementia
+T55	Disease	19984	19992	dementia	UMLS:C0497327	Dementia
+T56	Disease	20080	20088	dementia	UMLS:C0497327	Dementia
+T100	Disease	20093	20095	AD	UMLS:C0002395	Alzheimer's Disease
+T210	Ethnicity	20390	20398	Hispanic	UMLS:C0086409	Hispanics
+T57	Disease	20543	20560	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T58	Disease	20679	20696	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T211	AgeGroup	20802	20814	older adults	null	null
+T212	Disease	20820	20840	vascular dysfunction	UMLS:C0042373	Vascular Diseases
+T213	Disease	20879	20913	vascular and metabolic dysfunction	UMLS:C0042373	Vascular Diseases
+T214	Disease	20879	20913	vascular and metabolic dysfunction	UMLS:C0025517	Metabolic Diseases
+T59	Disease	21566	21574	dementia	UMLS:C0497327	Dementia
+T101	Disease	21579	21581	AD	UMLS:C0002395	Alzheimer's Disease
+T102	Disease	21659	21661	AD	UMLS:C0002395	Alzheimer's Disease
+T60	Disease	22030	22038	dementia	UMLS:C0497327	Dementia
+T103	Disease	22043	22045	AD	UMLS:C0002395	Alzheimer's Disease
+T215	AgeGroup	22098	22110	older adults	null	null
+T62	Disease	22382	22399	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T216	Phenotype	22417	22430	abnormalities	UMLS:C1704258	Abnormality
+T61	Disease	22547	22555	dementia	UMLS:C0497327	Dementia
+T104	Disease	22819	22821	AD	UMLS:C0002395	Alzheimer's Disease
+T217	Disease	22806	22814	dementia	UMLS:C0497327	Dementia
+T218	AgeGroup	22825	22837	older adults	null	null
+R1	hasScale	8594	8643	Measure	8568	8570	ScaleMax

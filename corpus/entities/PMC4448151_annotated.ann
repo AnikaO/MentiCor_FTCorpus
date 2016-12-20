@@ -1,0 +1,409 @@
+T1	Disease	27	52	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T45	Disease	53	78	Dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T46	Disease	151	159	dementia	UMLS:C0497327	Dementia
+T47	Disease	225	250	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T101	Disease	277	303	neurodegenerative diseases	UMLS:C0524851	Neurodegenerative Disorders
+T48	Disease	379	404	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T102	Disease	410	429	Parkinson’s disease	UMLS:C0030567	Parkinson Disease
+T106	Phenotype	487	571	symptoms into cognitive, neuropsychiatric, movement, autonomic, and sleep categories	UMLS:C0525041	Neurobehavioral Manifestations
+T107	Phenotype	487	571	symptoms into cognitive, neuropsychiatric, movement, autonomic, and sleep categories	UMLS:C3534763	One or more neuropsychiatric symptoms
+T108	Phenotype	487	571	symptoms into cognitive, neuropsychiatric, movement, autonomic, and sleep categories	UMLS:C0426980	Motor symptoms
+T109	Phenotype	487	571	symptoms into cognitive, neuropsychiatric, movement, autonomic, and sleep categories	UMLS:C2674101	Autonomic symptoms
+T110	Phenotype	487	571	symptoms into cognitive, neuropsychiatric, movement, autonomic, and sleep categories	UMLS:C2232698	sleep symptoms
+T103	Drug	898	923	Cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T104	Phenotype	942	981	cognitive and neuropsychiatric symptoms	UMLS:C0525041	Neurobehavioral Manifestations
+T105	Phenotype	942	981	cognitive and neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T111	Drug	983	995	rivastigmine	DrugBank:DB00989	Rivastigmine
+T112	Drug	1108	1131	neuroleptic medications	UMLS:C0040615	Antipsychotic Agents
+T113	Drug	1248	1260	Pimavanserin	DrugBank:DB05316	Pimavanserin
+T114	Drug	1274	1306	serotonin 5-HT2A inverse agonist	UMLS:C2936524	Serotonin 5-HT2A Receptor Antagonists
+T116	Drug	1384	1402	Levodopa/carbidopa	UMLS:C0353697	Carbidopa / Levodopa
+T117	Phenotype	1416	1428	parkinsonism	HPO:HP:0001300	Parkinsonism
+T118	Phenotype	1479	1518	neuropsychiatric and cognitive symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T119	Phenotype	1479	1518	neuropsychiatric and cognitive symptoms	UMLS:C0525041	Neurobehavioral Manifestations
+T120	Phenotype	1520	1538	Autonomic symptoms	UMLS:C2674101	Autonomic symptoms
+T121	Disease	1577	1592	synucleinopathy	null	null
+T122	Phenotype	1594	1606	Constipation	HPO:HP:0002019	Constipation
+T123	Phenotype	1608	1624	urinary symptoms	UMLS:C0426359	Urinary symptoms
+T124	Phenotype	1629	1649	postural hypotension	HPO:HP:0001278	Orthostatic hypotension
+T76	Disease	1683	1725	Rapid eye movement sleep behavior disorder	UMLS:C0751772	REM Sleep Behavior Disorder
+T126	Disease	1759	1776	synucleinopathies	null	null
+T127	Treatment	1778	1807	Nonpharmacological treatments	null	null
+T128	Drug	1809	1818	melatonin	DrugBank:DB01065	Melatonin
+T129	Drug	1823	1833	clonazepam	DrugBank:DB01068	Clonazepam
+T2	Disease	1853	1884	Dementia with Lewy bodies (DLB)	UMLS:C0752347	Lewy Body Disease
+T3	Disease	2091	2094	DLB	UMLS:C0752347	Lewy Body Disease
+T49	Disease	2115	2123	dementia	UMLS:C0497327	Dementia
+T50	Disease	2208	2216	dementia	UMLS:C0497327	Dementia
+T51	Disease	2295	2303	dementia	UMLS:C0497327	Dementia
+T52	Disease	2225	2259	Parkinson’s disease dementia (PDD)	UMLS:C0349081	Dementia in Parkinson's disease
+T4	Disease	2323	2326	DLB	UMLS:C0752347	Lewy Body Disease
+T53	Disease	2331	2334	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T130	Phenotype	2363	2394	accumulation of alpha-synuclein	null	null
+T131	Phenotype	2414	2426	parkinsonism	HPO:HP:0001300	Parkinsonism
+T132	Phenotype	2447	2464	cognitive decline	HPO:HP:0001268	Mental deterioration
+T133	Disease	2483	2486	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T134	Phenotype	2492	2509	Cognitive decline	HPO:HP:0001268	Mental deterioration
+T135	Phenotype	2514	2526	parkinsonism	HPO:HP:0001300	Parkinsonism
+T136	Phenotype	2681	2698	movement disorder	HPO:HP:0100022	Abnormality of movement
+T5	Disease	2770	2773	DLB	UMLS:C0752347	Lewy Body Disease
+T137	Disease	2778	2781	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T6	Disease	3195	3198	DLB	UMLS:C0752347	Lewy Body Disease
+T138	Disease	3202	3205	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T77	Disease	3253	3277	Parkinson’s disease (PD)	UMLS:C0030567	Parkinson Disease
+T7	Disease	3347	3350	DLB	UMLS:C0752347	Lewy Body Disease
+T140	Drug	3489	3509	dopamine replacement	null	null
+T141	Phenotype	3564	3589	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T142	Drug	3591	3614	antipsychotic treatment	UMLS:C0040615	Antipsychotic Agents
+T143	Phenotype	3618	3632	hallucinations	HPO:HP:0000738	Hallucinations
+T144	Drug	3681	3705	cholinesterase inhibitor	UMLS:C0008425	Cholinesterase Inhibitors
+T145	Phenotype	3719	3737	cognitive symptoms	UMLS:C0525041	Neurobehavioral Manifestations
+T147	Disease	3753	3794	cardiac and gastrointestinal dysautonomia	UMLS:C3549456	Gastrointestinal dysautonomia
+T8	Disease	3835	3838	DLB	UMLS:C0752347	Lewy Body Disease
+T148	Phenotype	4374	4389	general malaise	UMLS:C0231218	Malaise
+T9	Disease	4510	4513	DLB	UMLS:C0752347	Lewy Body Disease
+T151	Phenotype	4640	4719	symptom categories: cognitive, neuropsychiatric, movement, autonomic, and sleep	UMLS:C0525041	Neurobehavioral Manifestations
+T154	Phenotype	4640	4719	symptom categories: cognitive, neuropsychiatric, movement, autonomic, and sleep	UMLS:C2674101	Autonomic symptoms
+T155	Phenotype	4640	4719	symptom categories: cognitive, neuropsychiatric, movement, autonomic, and sleep	UMLS:C2232698	sleep symptoms
+T10	Disease	4741	4744	DLB	UMLS:C0752347	Lewy Body Disease
+T156	Disease	4757	4774	cognitive disease	UMLS:C0009241	Cognition Disorders
+T157	Phenotype	4812	4833	noncognitive symptoms	null	null
+T11	Disease	5207	5210	DLB	UMLS:C0752347	Lewy Body Disease
+T158	Disease	5225	5244	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T160	Phenotype	5278	5333	attention, executive function, and visuospatial ability	UMLS:C1843023	Loss of executive functions
+T159	Phenotype	5278	5333	attention, executive function, and visuospatial ability	UMLS:C0238707	Impairment of attention
+T161	Phenotype	5278	5333	attention, executive function, and visuospatial ability	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T162	Drug	5350	5384	cholinesterase inhibitor treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T163	Disease	5570	5573	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T14	Disease	5744	5747	DLB	UMLS:C0752347	Lewy Body Disease
+T164	Drug	5621	5655	cholinesterase inhibitor treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T165	Disease	5659	5678	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T12	Disease	5785	5788	DLB	UMLS:C0752347	Lewy Body Disease
+T166	Phenotype	5821	5834	neuronal loss	HPO:HP:0002529	Neuronal loss in central nervous system
+T167	Disease	5763	5774	Alzheimer’s	UMLS:C0002395	Alzheimer's Disease
+T168	Phenotype	5848	5871	cholinergic dysfunction	null	null
+T13	Disease	5929	5932	DLB	UMLS:C0752347	Lewy Body Disease
+T170	Drug	6007	6041	Cholinesterase inhibitor treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T15	Disease	6313	6316	DLB	UMLS:C0752347	Lewy Body Disease
+T171	Drug	6284	6309	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T172	Disease	6320	6323	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T173	Drug	6329	6341	rivastigmine	DrugBank:DB00989	Rivastigmine
+T174	Drug	6450	6462	rivastigmine	DrugBank:DB00989	Rivastigmine
+T175	Disease	6479	6482	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T176	Drug	6512	6537	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T177	Drug	6542	6551	memantine	DrugBank:DB01043	Memantine
+T16	Disease	6655	6658	DLB	UMLS:C0752347	Lewy Body Disease
+T178	Drug	6612	6636	cholinesterase inhibitor	UMLS:C0008425	Cholinesterase Inhibitors
+T179	Phenotype	6698	6719	autonomic dysfunction	HPO:HP:0002459	Dysautonomia
+T181	Phenotype	6790	6801	bradycardia	HPO:HP:0001662	Bradycardia
+T182	Disease	6832	6861	Gastrointestinal dysautonomia	UMLS:C3549456	Gastrointestinal dysautonomia
+T183	Drug	6921	6945	cholinesterase inhibitor	UMLS:C0008425	Cholinesterase Inhibitors
+T184	Phenotype	6962	6968	nausea	HPO:HP:0002018	Nausea
+T185	Phenotype	6970	6978	vomiting	HPO:HP:0002013	Vomiting
+T186	Phenotype	6980	6988	diarrhea	HPO:HP:0002014	Diarrhea
+T187	Phenotype	6990	6998	anorexia	HPO:HP:0002039	Anorexia
+T188	Phenotype	7004	7015	weight loss	HPO:HP:0001824	Weight loss
+T189	Drug	7070	7122	antagonists of dopamine, acetylcholine, or histamine	UMLS:C0242702	Dopamine Antagonists
+T190	Drug	7070	7122	antagonists of dopamine, acetylcholine, or histamine	UMLS:C0242897	Cholinergic Antagonists
+T191	Drug	7070	7122	antagonists of dopamine, acetylcholine, or histamine	UMLS:C0019590	Histamine Antagonists
+T192	Drug	7135	7161	5HT-3 receptor antagonists	UMLS:C2936526	Serotonin 5-HT3 Receptor Antagonists
+T193	Drug	7170	7181	ondansetron	DrugBank:DB00904	Ondansetron
+T194	Drug	7185	7196	granisetron	DrugBank:DB00889	Granisetron
+T219	Drug	7198	7210	Rivastigmine	DrugBank:DB00989	Rivastigmine
+T17	Disease	7283	7286	DLB	UMLS:C0752347	Lewy Body Disease
+T195	Drug	7430	7455	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T177	Phenotype	7312	7328	disordered sleep	UMLS:C0851578	Sleep Disorders
+T178	Phenotype	7373	7385	vivid dreams	UMLS:C0344320	Detailed recall of dream
+T196	Drug	7519	7544	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T18	Disease	7665	7668	DLB	UMLS:C0752347	Lewy Body Disease
+T79	Disease	7672	7675	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T222	Drug	7652	7661	memantine	DrugBank:DB01043	Memantine
+T19	Disease	7786	7789	DLB	UMLS:C0752347	Lewy Body Disease
+T197	Drug	7840	7874	cholinesterase inhibitor treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T206	Disease	7770	7773	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T80	Disease	7979	7981	PD	UMLS:C0030567	Parkinson Disease
+T81	Disease	7982	7985	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T223	Drug	7885	7896	Atomexetine	DrugBank:DB00289	Atomoxetine
+T224	Drug	7903	7913	rasagiline	DrugBank:DB01367	Rasagiline
+T225	Drug	7923	7931	levodopa	DrugBank:DB01235	Levodopa
+T20	Disease	8041	8044	DLB	UMLS:C0752347	Lewy Body Disease
+T226	Phenotype	8004	8011	Anxiety	HPO:HP:0000739	Anxiety
+T227	Phenotype	8016	8026	depression	HPO:HP:0000716	Depression
+T54	Disease	8214	8222	dementia	UMLS:C0497327	Dementia
+T55	Phenotype	8197	8209	parkinsonism	HPO:HP:0001300	Parkinsonism
+T217	Disease	8132	8147	synucleinopathy	null	null
+T228	Phenotype	8111	8128	nonmotor symptoms	null	null
+T229	Phenotype	8149	8156	anxiety	HPO:HP:0000739	Anxiety
+T230	Phenotype	8161	8171	depression	HPO:HP:0000716	Depression
+T218	Disease	8353	8368	synucleinopathy	null	null
+T231	Phenotype	8538	8550	parkinsonism	HPO:HP:0001300	Parkinsonism
+T232	Phenotype	8444	8451	anxiety	HPO:HP:0000739	Anxiety
+T233	Phenotype	8456	8466	depression	HPO:HP:0000716	Depression
+T21	Disease	8621	8624	DLB	UMLS:C0752347	Lewy Body Disease
+T207	Disease	8628	8631	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T234	Phenotype	8610	8617	anxiety	HPO:HP:0000739	Anxiety
+T235	Phenotype	8638	8648	Depression	HPO:HP:0000716	Depression
+T236	Phenotype	8665	8690	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T237	Drug	8741	8753	rivastigmine	DrugBank:DB00989	Rivastigmine
+T238	Drug	8763	8773	olanzapine	DrugBank:DB00334	Olanzapine
+T239	Drug	8816	8826	citalopram	DrugBank:DB00215	Citalopram
+T240	Drug	8831	8842	risperidone	DrugBank:DB00734	Risperidone
+T22	Disease	8992	8995	DLB	UMLS:C0752347	Lewy Body Disease
+T241	Phenotype	8978	8988	depression	HPO:HP:0000716	Depression
+T242	Drug	8997	9006	Serotonin	UMLS:C0036751	Serotonin
+T243	Drug	9011	9054	serotonin/norepinephrine reuptake inhibitor	UMLS:C1579361	Serotonin and Norepinephrine Reuptake Inhibitors (SNRIs)
+T244	Drug	9055	9070	antidepressants	UMLS:C0003289	Antidepressive Agents
+T245	Phenotype	9121	9131	depression	HPO:HP:0000716	Depression
+T23	Disease	9234	9237	DLB	UMLS:C0752347	Lewy Body Disease
+T246	Treatment	9146	9173	Electroconvulsive treatment	UMLS:C0013806	Electroconvulsive Therapy
+T247	Treatment	9178	9211	transcranial magnetic stimulation	UMLS:C0436548	Transcranial magnetic stimulation
+T24	Disease	9286	9289	DLB	UMLS:C0752347	Lewy Body Disease
+T248	Phenotype	9248	9262	Hallucinations	HPO:HP:0000738	Hallucinations
+T249	Disease	9404	9423	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T250	Disease	9476	9495	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T251	Phenotype	9497	9511	hallucinations	HPO:HP:0000738	Hallucinations
+T25	Disease	9660	9663	DLB	UMLS:C0752347	Lewy Body Disease
+T253	Phenotype	9642	9656	hallucinations	HPO:HP:0000738	Hallucinations
+T254	Phenotype	9706	9741	misperceptions of ambiguous stimuli	null	null
+T26	Disease	9897	9900	DLB	UMLS:C0752347	Lewy Body Disease
+T256	Phenotype	9859	9870	pareidolias	null	null
+T217	Disease	9906	9925	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T198	Drug	9995	10027	cholinesterase inhibitor therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T199	Drug	10148	10172	cholinesterase inhibitor	UMLS:C0008425	Cholinesterase Inhibitors
+T208	Disease	10072	10075	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T258	Phenotype	10121	10142	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T259	Phenotype	10187	10201	hallucinations	HPO:HP:0000738	Hallucinations
+T260	Phenotype	10317	10322	falls	HPO:HP:0002527	Falls
+T27	Disease	10385	10388	DLB	UMLS:C0752347	Lewy Body Disease
+T261	Phenotype	10356	10381	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T262	Drug	10427	10454	anticholinergic medications	UMLS:C0242896	Anticholinergic Agents
+T263	Drug	10456	10466	amantadine	DrugBank:DB00915	Amantadine
+T264	Drug	10468	10485	dopamine agonists	UMLS:C0178601	Dopamine Agonists
+T265	Drug	10487	10515	monoamine oxidase inhibitors	UMLS:C0026457	Monoamine Oxidase Inhibitors
+T266	Drug	10517	10557	catechol-O-methyl transferase inhibitors	UMLS:C0595267	Catechol-O-methyltransferase inhibitor
+T267	Drug	10563	10571	levodopa	DrugBank:DB01235	Levodopa
+T268	Disease	10627	10657	neuroleptic malignant syndrome	UMLS:C0027849	Neuroleptic Malignant Syndrome
+T28	Disease	10711	10714	DLB	UMLS:C0752347	Lewy Body Disease
+T269	Drug	10737	10762	antipsychotic medications	UMLS:C0040615	Antipsychotic Agents
+T56	Disease	10801	10809	dementia	UMLS:C0497327	Dementia
+T270	Disease	10767	10786	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T271	Drug	10819	10844	antipsychotic medications	UMLS:C0040615	Antipsychotic Agents
+T235	Phenotype	10922	10928	stroke	HPO:HP:0001297	Stroke
+T57	Disease	11200	11218	end-stage dementia	UMLS:C0497327	Dementia
+T273	Drug	11282	11296	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T58	Disease	11425	11433	dementia	UMLS:C0497327	Dementia
+T274	Drug	11393	11417	antipsychotic medication	UMLS:C0040615	Antipsychotic Agents
+T29	Disease	11579	11582	DLB	UMLS:C0752347	Lewy Body Disease
+T59	Disease	11593	11601	dementia	UMLS:C0497327	Dementia
+T275	Drug	11550	11575	antipsychotic medications	UMLS:C0040615	Antipsychotic Agents
+T276	Phenotype	11634	11648	Hallucinations	HPO:HP:0000738	Hallucinations
+T277	Phenotype	11653	11662	delusions	HPO:HP:0000746	Delusions
+T278	Phenotype	11716	11738	behavioral disturbance	HPO:HP:0000708	Behavioral abnormality
+T279	Drug	11797	11809	neuroleptics	UMLS:C0040615	Antipsychotic Agents
+T280	Drug	12130	12153	antipsychotic treatment	UMLS:C0040615	Antipsychotic Agents
+T281	Phenotype	12232	12241	psychosis	HPO:HP:0000709	Psychosis
+T282	Measure	12269	12295	Neuropsychiatric Inventory	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T283	Drug	12447	12469	neuroleptic medication	UMLS:C0040615	Antipsychotic Agents
+T30	Disease	12499	12502	DLB	UMLS:C0752347	Lewy Body Disease
+T284	Drug	12540	12564	antipsychotic medication	UMLS:C0040615	Antipsychotic Agents
+T286	Drug	12597	12608	neuroleptic	UMLS:C0040615	Antipsychotic Agents
+T254	Drug	12660	12682	Typical antipsychotics	UMLS:C2917392	Typical Antipsychotic [EPC]
+T288	Drug	12697	12708	haloperidol	DrugBank:DB00502	Haloperidol
+T289	Drug	12767	12778	neuroleptic	UMLS:C0040615	Antipsychotic Agents
+T291	Phenotype	12915	12924	confusion	HPO:HP:0001289	Confusion
+T292	Phenotype	12926	12955	exacerbations of parkinsonism	HPO:HP:0001300	Parkinsonism
+T293	Phenotype	12957	12965	rigidity	HPO:HP:0002063	Rigidity
+T294	Phenotype	12967	12979	dysautonomia	HPO:HP:0002459	Dysautonomia
+T296	Phenotype	13182	13199	cognitive decline	HPO:HP:0001268	Mental deterioration
+T31	Disease	13313	13316	DLB	UMLS:C0752347	Lewy Body Disease
+T297	Drug	13259	13284	Antipsychotic medications	UMLS:C0040615	Antipsychotic Agents
+T298	Phenotype	13410	13419	psychosis	HPO:HP:0000709	Psychosis
+T299	Disease	13468	13487	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T300	Drug	13605	13619	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T301	Drug	13698	13722	antipsychotics treatment	UMLS:C0040615	Antipsychotic Agents
+T302	Drug	13766	13780	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T303	Drug	13854	13867	antipsychotic	UMLS:C0040615	Antipsychotic Agents
+T32	Disease	14065	14068	DLB	UMLS:C0752347	Lewy Body Disease
+T209	Disease	13964	13967	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T210	Disease	14069	14072	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T304	Drug	13901	13911	Quetiapine	DrugBank:DB01224	Quetiapine
+T305	Drug	13916	13925	clozapine	DrugBank:DB00363	Clozapine
+T306	Drug	14028	14038	quetiapine	DrugBank:DB01224	Quetiapine
+T307	Drug	14165	14175	quetiapine	DrugBank:DB01224	Quetiapine
+T308	Drug	14187	14196	clozapine	DrugBank:DB00363	Clozapine
+T309	Phenotype	14271	14286	agranulocytosis	HPO:HP:0012234	Agranulocytosis
+T33	Disease	14369	14372	DLB	UMLS:C0752347	Lewy Body Disease
+T310	Drug	14334	14358	antipsychotic medication	UMLS:C0040615	Antipsychotic Agents
+T311	Drug	14417	14442	antipsychotic medications	UMLS:C0040615	Antipsychotic Agents
+T312	Disease	14508	14516	diabetes	UMLS:C0011847	Diabetes
+T313	Disease	14520	14534	hyperlipidemia	UMLS:C0020473	Hyperlipidemia
+T314	Drug	14548	14558	quetiapine	DrugBank:DB01224	Quetiapine
+T315	Drug	14560	14570	olanzapine	DrugBank:DB00334	Olanzapine
+T316	Drug	14575	14584	clozapine	DrugBank:DB00363	Clozapine
+T317	Drug	14648	14658	olanzapine	DrugBank:DB00334	Olanzapine
+T318	Drug	14663	14674	risperidone	DrugBank:DB00734	Risperidone
+T82	Disease	14733	14735	PD	UMLS:C0030567	Parkinson Disease
+T319	Drug	14681	14691	Olanzapine	DrugBank:DB00334	Olanzapine
+T321	Phenotype	14750	14759	psychosis	HPO:HP:0000709	Psychosis
+T34	Disease	14884	14887	DLB	UMLS:C0752347	Lewy Body Disease
+T83	Disease	14831	14833	PD	UMLS:C0030567	Parkinson Disease
+T322	Drug	14813	14823	olanzapine	DrugBank:DB00334	Olanzapine
+T212	Disease	15020	15037	synucleinopathies	null	null
+T323	Drug	14920	14944	antipsychotic medication	UMLS:C0040615	Antipsychotic Agents
+T200	Drug	15121	15145	cholinesterase inhibitor	UMLS:C0008425	Cholinesterase Inhibitors
+T201	Drug	15150	15173	neuroleptic medications	UMLS:C0040615	Antipsychotic Agents
+T203	Drug	15305	15317	pimavanserin	DrugBank:DB05316	Pimavanserin
+T211	Disease	15405	15408	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T324	Phenotype	15469	15478	Agitation	HPO:HP:0000713	Agitation
+T325	Phenotype	15483	15505	behavioral disturbance	HPO:HP:0000708	Behavioral abnormality
+T326	Phenotype	15650	15659	agitation	HPO:HP:0000713	Agitation
+T327	Phenotype	15690	15699	agitation	HPO:HP:0000713	Agitation
+T328	Drug	15664	15672	fleeting	UMLS:C0591516	Fleet
+T329	Drug	15762	15775	antipsychotic	UMLS:C0040615	Antipsychotic Agents
+T330	Phenotype	15880	15884	pain	HPO:HP:0012531	Pain
+T331	Phenotype	15845	15878	difficulty expressing their needs	null	null
+T332	Phenotype	15908	15917	agitation	HPO:HP:0000713	Agitation
+T333	Phenotype	15958	15962	pain	HPO:HP:0012531	Pain
+T334	Drug	15997	16007	analgesics	UMLS:C0002771	Analgesics
+T335	Drug	16016	16029	acetaminophen	DrugBank:DB00316	Acetaminophen
+T336	Drug	16065	16090	Antipsychotic medications	UMLS:C0040615	Antipsychotic Agents
+T337	Phenotype	16162	16185	behavioral disturbances	HPO:HP:0000708	Behavioral abnormality
+T338	Phenotype	16194	16222	sleep–wake cycle disturbance	HPO:HP:0006979	Sleep-wake cycle disturbance
+T339	Phenotype	16224	16232	shouting	UMLS:C0562551	Shouting
+T340	Phenotype	16234	16255	oppositional behavior	UMLS:C2013199	oppositional behavior
+T309	Phenotype	16257	16263	pacing	UMLS:C0562458	Pacing up and down
+T342	Phenotype	16265	16274	agitation	HPO:HP:0000713	Agitation
+T343	Phenotype	16280	16290	aggression	HPO:HP:0000718	Aggressive behavior
+T344	Drug	16331	16354	neuroleptic medications	UMLS:C0040615	Antipsychotic Agents
+T60	Disease	16641	16668	moderate to severe dementia	UMLS:C3494871	Moderate dementia
+T90	Disease	16641	16668	moderate to severe dementia	UMLS:C3494652	Severe dementia
+T35	Disease	16865	16868	DLB	UMLS:C0752347	Lewy Body Disease
+T84	Disease	16899	16901	PD	UMLS:C0030567	Parkinson Disease
+T85	Phenotype	16913	16921	rigidity	HPO:HP:0002063	Rigidity
+T86	Phenotype	16923	16935	bradykinesia	HPO:HP:0002067	Bradykinesia
+T87	Phenotype	16937	16943	tremor	HPO:HP:0001337	Tremor
+T88	Phenotype	16949	16966	gait difficulties	HPO:HP:0001288	Gait disturbance
+T89	Phenotype	16837	16851	motor symptoms	UMLS:C0426980	Motor symptoms
+T345	Treatment	16988	17004	physical therapy	UMLS:C0949766	Physical therapy
+T36	Disease	17105	17108	DLB	UMLS:C0752347	Lewy Body Disease
+T91	Disease	17053	17055	PD	UMLS:C0030567	Parkinson Disease
+T346	Phenotype	17083	17088	falls	HPO:HP:0002527	Falls
+T347	Phenotype	17222	17236	Repeated falls	HPO:HP:0002359	Frequent falls
+T37	Disease	17377	17380	DLB	UMLS:C0752347	Lewy Body Disease
+T92	Disease	17340	17342	PD	UMLS:C0030567	Parkinson Disease
+T93	Disease	17426	17428	PD	UMLS:C0030567	Parkinson Disease
+T38	Disease	17535	17538	DLB	UMLS:C0752347	Lewy Body Disease
+T350	Drug	17548	17566	Levodopa/carbidopa	UMLS:C0353697	Carbidopa / Levodopa
+T351	Phenotype	17609	17621	parkinsonism	HPO:HP:0001300	Parkinsonism
+T353	Drug	17668	17686	Levodopa/carbidopa	UMLS:C0353697	Carbidopa / Levodopa
+T354	Drug	17716	17733	dopamine agonists	UMLS:C0178601	Dopamine Agonists
+T94	Disease	17823	17825	PD	UMLS:C0030567	Parkinson Disease
+T356	Drug	17842	17859	dopamine agonists	UMLS:C0178601	Dopamine Agonists
+T357	Drug	17939	17949	Amantadine	DrugBank:DB00915	Amantadine
+T359	Phenotype	18023	18035	dysautonomia	HPO:HP:0002459	Dysautonomia
+T360	Phenotype	18040	18054	hallucinations	HPO:HP:0000738	Hallucinations
+T95	Disease	18117	18119	PD	UMLS:C0030567	Parkinson Disease
+T204	Drug	18121	18146	Cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T362	Phenotype	18162	18168	tremor	HPO:HP:0001337	Tremor
+T363	Phenotype	18218	18230	parkinsonism	HPO:HP:0001300	Parkinsonism
+T364	Phenotype	18285	18297	parkinsonism	HPO:HP:0001300	Parkinsonism
+T365	Drug	18336	18375	dopamine receptor blocking anti-emetics	null	null
+T366	Drug	18390	18406	prochlorperazine	DrugBank:DB00433	Prochlorperazine
+T367	Drug	18411	18425	metoclopramide	DrugBank:DB01233	Metoclopramide
+T368	Drug	18431	18443	neuroleptics	UMLS:C0040615	Antipsychotic Agents
+T96	Disease	18534	18536	PD	UMLS:C0030567	Parkinson Disease
+T216	Disease	18488	18503	synucleinopathy	null	null
+T369	Phenotype	18551	18563	constipation	HPO:HP:0002019	Constipation
+T370	Phenotype	18567	18575	diarrhea	HPO:HP:0002014	Diarrhea
+T347	Phenotype	18636	18653	bowel obstruction	null	null
+T39	Disease	18724	18727	DLB	UMLS:C0752347	Lewy Body Disease
+T372	Drug	18895	18910	stool softeners	UMLS:C0301470	Stool Softener
+T373	Treatment	18912	18920	psyllium	UMLS:C0033979	Psyllium
+T374	Drug	18927	18946	polyethylene glycol	DrugBank:DB09287	Polyethylene glycol
+T375	Drug	18953	18968	methylcellulose	UMLS:C0025729	Methylcellulose
+T376	Drug	18970	18978	docusate	UMLS:C1692318	Docusate
+T377	Drug	18984	18995	misoprostol	DrugBank:DB00929	Misoprostol
+T205	Drug	19095	19127	cholinesterase inhibitor therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T357	Phenotype	19016	19040	Increased bowel activity	null	null
+T97	Disease	19143	19145	PD	UMLS:C0030567	Parkinson Disease
+T379	Phenotype	19166	19210	urinary frequency, urgency, and incontinence	UMLS:C0042023	Increased frequency of micturition
+T380	Phenotype	19166	19210	urinary frequency, urgency, and incontinence	HPO:HP:0000012	Urinary urgency
+T381	Phenotype	19166	19210	urinary frequency, urgency, and incontinence	HPO:HP:0000020	Urinary incontinence
+T382	Drug	19232	19240	trospium	DrugBank:DB00209	Trospium
+T383	Drug	19257	19268	oxybutyinin	DrugBank:DB01062	Oxybutynin
+T384	Drug	19304	19319	trihexyphenidyl	DrugBank:DB00376	Trihexyphenidyl
+T385	Drug	19329	19340	oxybutyinin	DrugBank:DB01062	Oxybutynin
+T386	Phenotype	19354	19363	confusion	HPO:HP:0001289	Confusion
+T387	Drug	19376	19386	Tamsulosin	DrugBank:DB00706	Tamsulosin
+T389	Phenotype	19427	19437	prostatism	UMLS:C0242453	Prostatism
+T390	Phenotype	19442	19459	urinary retention	HPO:HP:0000016	Urinary retention
+T98	Disease	19518	19520	PD	UMLS:C0030567	Parkinson Disease
+T391	Drug	19466	19476	Sildenafil	DrugBank:DB00203	Sildenafil
+T392	Phenotype	19494	19514	erectile dysfunction	HPO:HP:0000802	Impotence
+T393	Drug	19598	19606	levodopa	DrugBank:DB01235	Levodopa
+T394	Drug	19610	19636	dopamine agonist treatment	UMLS:C0178601	Dopamine Agonists
+T395	Phenotype	19649	19669	hypersexual behavior	HPO:HP:0030214	Hypersexuality
+T40	Disease	19715	19718	DLB	UMLS:C0752347	Lewy Body Disease
+T396	Phenotype	19680	19700	Orthostatic symptoms	null	null
+T215	Phenotype	19833	19850	postural symptoms	null	null
+T397	Phenotype	19884	19892	weakness	UMLS:C3714552	Weakness
+T398	Phenotype	19896	19904	lethargy	HPO:HP:0001254	Lethargy
+T214	Disease	20117	20134	synucleinopathies	null	null
+T399	Drug	19932	19959	antihypertensive medication	UMLS:C0003364	Antihypertensive Agents
+T400	Drug	20049	20064	fludrocortisone	DrugBank:DB00687	Fludrocortisone
+T401	Drug	20075	20086	domperidone	DrugBank:DB01184	Domperidone
+T402	Drug	20171	20185	pyrodostigmine	DrugBank:DB00545	Pyridostigmine
+T403	Phenotype	20264	20284	excessive sleepiness	UMLS:C0917799	Hypersomnia
+T404	Drug	20326	20346	Sedating medications	UMLS:C0036557	Sedatives
+T388	Phenotype	20368	20391	obstructive sleep apnea	HPO:HP:0002870	Obstructive sleep apnea
+T406	Disease	20393	20416	primary sleep disorders	UMLS:C0236991	primary sleep disorders
+T390	Phenotype	20422	20430	nocturia	HPO:HP:0000017	Nocturia
+T408	Drug	20452	20460	Caffeine	DrugBank:DB00201	Caffeine
+T410	Disease	20543	20564	restless leg syndrome	UMLS:C0035258	Restless Legs Syndrome
+T411	Drug	20588	20603	methylphenidate	DrugBank:DB00422	Methylphenidate
+T412	Drug	20608	20625	dextroamphetamine	DrugBank:DB01576	Dextroamphetamine
+T99	Disease	20681	20683	PD	UMLS:C0030567	Parkinson Disease
+T413	Drug	20641	20650	Modafinil	DrugBank:DB00745	Modafinil
+T414	Drug	20771	20782	armodafinil	UMLS:C1701455	armodafinil
+T41	Disease	20812	20815	DLB	UMLS:C0752347	Lewy Body Disease
+T418	Phenotype	20825	20845	act out their dreams	null	null
+T399	Disease	20887	20929	rapid eye movement sleep behavior disorder	UMLS:C0751772	REM Sleep Behavior Disorder
+T416	Disease	20954	20976	disorders of synuclein	null	null
+T417	Phenotype	21040	21068	excessive daytime sleepiness	HPO:HP:0002189	Excessive daytime sleepiness
+T419	Phenotype	21312	21325	enacted dream	null	null
+T420	Drug	21514	21523	melatonin	DrugBank:DB01065	Melatonin
+T421	Drug	21535	21547	rivastigmine	DrugBank:DB00989	Rivastigmine
+T406	Disease	21634	21676	rapid eye movement sleep behavior disorder	UMLS:C0751772	REM Sleep Behavior Disorder
+T423	Drug	21712	21721	melatonin	DrugBank:DB01065	Melatonin
+T424	Drug	21795	21805	clonazepam	DrugBank:DB01068	Clonazepam
+T425	Disease	21887	21909	disorders of synuclein	null	null
+T426	Disease	22001	22032	periodic limb movement disorder	UMLS:C0751774	Nocturnal Myoclonus Syndrome
+T42	Disease	22221	22224	DLB	UMLS:C0752347	Lewy Body Disease
+T427	Disease	22136	22157	restless leg syndrome	UMLS:C0035258	Restless Legs Syndrome
+T428	Disease	22161	22192	periodic limb movement disorder	UMLS:C0751774	Nocturnal Myoclonus Syndrome
+T429	Drug	22230	22247	dopamine agonists	UMLS:C0178601	Dopamine Agonists
+T100	Disease	22573	22575	PD	UMLS:C0030567	Parkinson Disease
+T430	Disease	22340	22361	restless leg syndrome	UMLS:C0035258	Restless Legs Syndrome
+T431	Disease	22366	22388	limb movement disorder	UMLS:C0751774	Nocturnal Myoclonus Syndrome
+T432	Drug	22394	22412	carbidopa/levodopa	UMLS:C0353697	Carbidopa / Levodopa
+T433	Drug	22414	22429	benzodiazepines	UMLS:C0005064	Benzodiazepines
+T434	Drug	22446	22456	clonazepam	DrugBank:DB01068	Clonazepam
+T435	Drug	22467	22504	alpha-2-delta calcium channel ligands	null	null
+T436	Drug	22506	22516	gabapentin	DrugBank:DB00996	Gabapentin
+T437	Drug	22518	22538	gabapentin enacarbil	DrugBank:DB08872	gabapentin enacarbil
+T438	Drug	22544	22554	pregabalin	DrugBank:DB00230	Pregabalin
+T43	Disease	22592	22595	DLB	UMLS:C0752347	Lewy Body Disease
+T65	Phenotype	22787	22808	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T66	Phenotype	22814	22826	parkinsonism	HPO:HP:0001300	Parkinsonism
+T67	Phenotype	22905	22917	parkinsonism	HPO:HP:0001300	Parkinsonism
+T68	Treatment	23091	23109	nondrug treatments	null	null
+T69	Drug	23190	23219	anti-hypertensive medications	UMLS:C0003364	Antihypertensive Agents
+T70	Phenotype	23266	23284	postural dizziness	UMLS:C0234987	Postural dizziness
+T71	Disease	23293	23314	alpha-synucleinopathy	null	null
+T44	Disease	23582	23585	DLB	UMLS:C0752347	Lewy Body Disease
+T72	Drug	23393	23418	antipsychotic medications	UMLS:C0040615	Antipsychotic Agents
+T73	Phenotype	23461	23475	hallucinations	HPO:HP:0000738	Hallucinations
+T74	Phenotype	23480	23489	delusions	HPO:HP:0000746	Delusions
+T75	Phenotype	23520	23538	prolonged rigidity	HPO:HP:0002063	Rigidity
+T76	Phenotype	23543	23567	decreased responsiveness	UMLS:C3276433	Decreased mental alertness
+T62	Drug	23604	23618	antipsychotics	UMLS:C0040615	Antipsychotic Agents

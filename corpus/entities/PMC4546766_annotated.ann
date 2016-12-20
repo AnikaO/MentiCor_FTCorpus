@@ -1,0 +1,297 @@
+T1	Disease	29	75	HIV-Associated Neurocognitive Disorders (HAND)	null	null
+T3	Disease	100	146	HIV-associated Neurocognitive Disorders (HAND)	null	null
+T11	Phenotype	164	176	HIV-positive	UMLS:C2186509	reported positive HIV test
+T4	Disease	243	247	HAND	null	null
+T5	Demographic	251	258	Nigeria	UMLS:C0028075	Nigeria
+T10	AgeGroup	296	302	adults	null	null
+T12	Phenotype	263	275	HIV-positive	UMLS:C2186509	reported positive HIV test
+T7	Measure	391	442	multidomain neuropsychological test (MDNPT) battery	null	null
+T13	Disease	617	621	HAND	null	null
+T14	Disease	701	717	symptomatic HAND	null	null
+T15	Phenotype	729	741	HIV-positive	UMLS:C2186509	reported positive HIV test
+T16	Disease	888	904	Symptomatic HAND	null	null
+T17	Disease	1011	1040	HIV-associated dementia (HAD)	UMLS:C0001849	AIDS Dementia Complex
+T18	Disease	1177	1193	symptomatic HAND	null	null
+T19	Disease	1290	1294	HAND	null	null
+T20	Demographic	1298	1305	Nigeria	UMLS:C0028075	Nigeria
+T21	Disease	1319	1322	HAD	UMLS:C0001849	AIDS Dementia Complex
+T22	Disease	1425	1429	HAND	null	null
+T172	Drug	1374	1379	HAART	UMLS:C0887947	Antiretroviral Therapy, Highly Active
+T23	Demographic	1648	1653	Italy	UMLS:C0022277	Italy
+T24	Phenotype	1673	1702	neurocognitive manifestations	UMLS:C0525041	Neurobehavioral Manifestations
+T25	Disease	1706	1721	HIV-1 infection	UMLS:C2363741	HIV-1 infection
+T8	Disease	1824	1868	asymptomatic neurocognitive impairment (ANI)	null	null
+T9	Disease	1909	1938	HIV-associated dementia (HAD)	UMLS:C0001849	AIDS Dementia Complex
+T26	Disease	1747	1751	HAND	null	null
+T27	Disease	2068	2071	HAD	UMLS:C0001849	AIDS Dementia Complex
+T28	Disease	2078	2120	Acquired Immune Deficiency Syndrome (AIDS)	UMLS:C0001175	Acquired Immunodeficiency Syndrome
+T29	Disease	2130	2137	illness	UMLS:C0221423	Illness (finding)
+T31	Phenotype	2192	2207	high viral load	null	null
+T32	Phenotype	2209	2224	low haemoglobin	UMLS:C0162119	Hemoglobin low
+T324	Drug	2248	2251	ART	UMLS:C1963724	Antiretroviral therapy
+T34	Demographic	2274	2298	Sub-Saharan Africa (SSA)	UMLS:C0001738	Africa South of the Sahara
+T35	Disease	2376	2391	HIV-related NCI	null	null
+T36	Demographic	2402	2419	Western countries	null	null
+T37	Disease	2438	2441	HAD	UMLS:C0001849	AIDS Dementia Complex
+T38	Drug	2572	2577	HAART	UMLS:C0887947	Antiretroviral Therapy, Highly Active
+T39	Disease	2627	2639	HIV dementia	UMLS:C0001849	AIDS Dementia Complex
+T40	Disease	2725	2737	HIV dementia	UMLS:C0001849	AIDS Dementia Complex
+T41	Disease	2836	2848	HIV dementia	UMLS:C0001849	AIDS Dementia Complex
+T42	Demographic	2966	2969	SSA	UMLS:C0001738	Africa South of the Sahara
+T43	Disease	2989	3005	symptomatic HAND	null	null
+T44	Demographic	3091	3094	SSA	UMLS:C0001738	Africa South of the Sahara
+T45	Demographic	3259	3262	SSA	UMLS:C0001738	Africa South of the Sahara
+T46	Disease	3305	3318	HIV infection	UMLS:C0019693	HIV Infections
+T47	Demographic	3375	3378	SSA	UMLS:C0001738	Africa South of the Sahara
+T48	Drug	3391	3419	antiretroviral therapy (ART)	UMLS:C1963724	Antiretroviral therapy
+T49	Drug	3467	3470	ART	UMLS:C1963724	Antiretroviral therapy
+T50	Disease	3482	3495	HIV infection	UMLS:C0019693	HIV Infections
+T51	Measure	3522	3557	neuropsychological evaluation tools	UMLS:C0027902	Neuropsychological Tests
+T52	Demographic	3724	3727	SSA	UMLS:C0001738	Africa South of the Sahara
+T53	Demographic	3818	3825	Nigeria	UMLS:C0028075	Nigeria
+T54	Disease	3861	3869	HIV/AIDS	UMLS:C0497169	hiv-infection/aids
+T55	Disease	3922	3931	neuroAIDS	null	null
+T56	Disease	3986	3990	HAND	null	null
+T57	Demographic	4020	4027	Nigeria	UMLS:C0028075	Nigeria
+T60	Disease	4124	4136	HIV infected	UMLS:C0019693	HIV Infections
+T61	Demographic	4149	4156	Nigeria	UMLS:C0028075	Nigeria
+T62	Disease	4339	4343	HAND	null	null
+T63	Measure	4197	4236	international HIV dementia scale (IHDS)	null	null
+T64	Measure	4253	4304	community screening instrument for dementia (CSI-D)	null	null
+T65	Disease	4439	4443	HAND	null	null
+T66	Demographic	4447	4454	Nigeria	UMLS:C0028075	Nigeria
+T67	Drug	4491	4494	ART	UMLS:C1963724	Antiretroviral therapy
+T68	Disease	4545	4553	HIV/AIDS	UMLS:C0497169	hiv-infection/aids
+T69	Disease	4600	4604	HAND	null	null
+T71	Phenotype	4803	4815	HIV-positive	UMLS:C2186509	reported positive HIV test
+T72	Demographic	5093	5100	Nigeria	UMLS:C0028075	Nigeria
+T73	Phenotype	5106	5118	HIV-positive	UMLS:C2186509	reported positive HIV test
+T75	Disease	5696	5716	psychiatric diseases	UMLS:C0004936	Mental disorders
+T76	Disease	5725	5738	Schizophrenia	UMLS:C0036341	Schizophrenia
+T77	Disease	5740	5757	severe depression	UMLS:C0011581	Depressive disorder
+T78	Disease	5759	5788	posttraumatic stress disorder	UMLS:C0038436	Post-Traumatic Stress Disorder
+T79	Disease	5794	5813	learning disability	UMLS:C0751265	Learning Disabilities
+T80	Disease	5841	5894	Central Nervous System (CNS) opportunistic infections	UMLS:C0007684	Central Nervous System Infection
+T81	Disease	5900	5913	Toxoplasmosis	UMLS:C0040558	Toxoplasmosis
+T82	Disease	5918	5928	Meningitis	UMLS:C0025289	Meningitis
+T83	Disease	5952	5978	chronic medical conditions	UMLS:C0008679	Chronic disease
+T84	Disease	5987	6008	systemic hypertension	UMLS:C0020538	Hypertensive disease
+T85	Disease	6010	6027	diabetes mellitus	UMLS:C0011849	Diabetes Mellitus
+T86	Disease	6029	6035	stroke	UMLS:C0038454	Cerebrovascular accident
+T87	Disease	6037	6065	Chronic Kidney Disease (CKD)	UMLS:C1561643	Chronic Kidney Diseases
+T88	Disease	6071	6098	Chronic Liver Disease (CLD)	UMLS:C0341439	Chronic liver disease
+T169	Phenotype	5617	5664	dependence, for example, alcohol and stimulants	UMLS:C2711618	Stimulant dependence
+T74	Phenotype	5586	5609	current substance abuse	UMLS:C0740858	Substance abuse problem
+T89	Phenotype	6250	6257	abusing	UMLS:C0237220	Abusive behavior
+T92	Phenotype	6399	6450	inability to understand commonly used English words	null	null
+T93	Disease	7163	7176	comorbidities	UMLS:C0009488	Comorbidity
+T94	Phenotype	7309	7326	gait disturbances	HPO:HP:0001288	Gait disturbance
+T95	Phenotype	7390	7405	distractibility	UMLS:C0233415	Cognitive function: distractibility
+T97	Disease	7696	7702	stroke	UMLS:C0038454	Cerebrovascular accident
+T98	Disease	7708	7743	opportunistic infections of the CNS	UMLS:C0007684	Central Nervous System Infection
+T152	Measure	7759	7811	multidomain neuropsychological tests (MDNPT) battery	null	null
+T100	Disease	7928	7966	HIV-related neurocognitive dysfunction	null	null
+T102	Measure	8004	8086	Hopkins verbal learning test-revised (HVLT-R) delayed recall and trial recognition	UMLS:C3640978	Hopkins Verbal Learning Test Revised
+T103	Measure	8127	8189	Wechsler adult intelligence scale III (WAIS-III) symbol search	UMLS:C2143006	Wechsler adult intelligence scale, 3rd edition (WAIS-III)
+T104	Measure	8294	8306	color trails	null	null
+T105	Measure	8320	8343	HVLT-R immediate recall	UMLS:C3640978	Hopkins Verbal Learning Test Revised
+T106	Measure	8371	8419	Wechsler memory scale III (WMS-III) spatial span	UMLS:C0451575	Wechsler memory scale
+T107	Measure	8437	8482	controlled oral word association test (COWAT)	UMLS:C3827022	Controlled Oral Word Association Test
+T101	Measure	8524	8556	Hiscock Digit Memory Test (HDMT)	null	null
+T108	Measure	8594	8637	international neurobehavioral tests battery	null	null
+T109	Disease	8732	8736	HAND	null	null
+T110	Demographic	8740	8747	Nigeria	UMLS:C0028075	Nigeria
+T111	Measure	8893	8899	HVLT-R	UMLS:C3640978	Hopkins Verbal Learning Test Revised
+T112	Measure	8904	8909	COWAT	UMLS:C3827022	Controlled Oral Word Association Test
+T113	Measure	9027	9051	neuropsychological tests	UMLS:C0027902	Neuropsychological Tests
+T114	Demographic	9100	9107	Nigeria	UMLS:C0028075	Nigeria
+T115	Measure	9307	9363	Personal Assessment of Own Functioning Inventory (PAOFI)	null	null
+T116	Measure	9446	9451	PAOFI	null	null
+T117	Phenotype	9893	9903	Depression	HPO:HP:0000716	Depression
+T118	Measure	9922	9956	Beck Depression Inventory (BDI-II)	UMLS:C0451022	Beck depression inventory
+T119	Demographic	10003	10010	Nigeria	UMLS:C0028075	Nigeria
+T121	Disease	10275	10278	ANI	null	null
+T123	Disease	10289	10292	HAD	UMLS:C0001849	AIDS Dementia Complex
+T131	Disease	10294	10297	ANI	null	null
+T132	Phenotype	10474	10505	impairment in functional status	UMLS:C0277785	Functional disorder
+T134	Phenotype	10680	10716	mild impairment in functional status	UMLS:C0277785	Functional disorder
+T136	Phenotype	10521	10547	mild cognitive dysfunction	UMLS:C1270972	Mild cognitive disorder
+T137	Phenotype	10735	10765	profound cognitive dysfunction	UMLS:C0338656	Impaired cognition
+T138	Phenotype	10906	10937	impairment in functional status	UMLS:C0277785	Functional disorder
+T223	Disease	10964	10967	HAD	UMLS:C0001849	AIDS Dementia Complex
+T139	Measure	10991	10994	BDI	UMLS:C0451022	Beck depression inventory
+T140	ScaleMax	10984	10987	≥17	null	null
+T142	Phenotype	11023	11044	Functional impairment	UMLS:C0277785	Functional disorder
+T143	Measure	11048	11053	PAOFI	null	null
+T144	ScaleMax	11069	11071	≥2	null	null
+T147	Detail	11072	11092	cognitive complaints	null	null
+T145	Phenotype	11200	11218	functional decline	null	null
+T146	Disease	11264	11268	HAND	null	null
+T181	Phenotype	11547	11559	HIV-positive	UMLS:C2186509	reported positive HIV test
+T33	Measure	11715	11739	Neuropsychological tests	UMLS:C0027902	Neuropsychological Tests
+T148	Phenotype	11750	11762	HIV-positive	UMLS:C2186509	reported positive HIV test
+T201	Disease	11851	11855	HAND	null	null
+T149	Disease	12354	12358	HAND	null	null
+T150	Disease	12509	12525	symptomatic HAND	null	null
+T151	Disease	12550	12566	symptomatic HAND	null	null
+T152	Phenotype	12614	12626	HIV-positive	UMLS:C2186509	reported positive HIV test
+T153	Phenotype	12795	12807	HIV-positive	UMLS:C2186509	reported positive HIV test
+T155	Measure	12993	12997	HDMT	null	null
+T156	Phenotype	12906	12945	reactive for hepatitis C virus antibody	null	null
+T157	Phenotype	13020	13032	HIV-positive	UMLS:C2186509	reported positive HIV test
+T158	Phenotype	13141	13154	alcohol abuse	UMLS:C0085762	Alcohol abuse
+T165	Phenotype	13319	13331	HIV-positive	UMLS:C2186509	reported positive HIV test
+T166	Phenotype	13479	13491	HIV-positive	UMLS:C2186509	reported positive HIV test
+T167	Disease	13527	13531	AIDS	UMLS:C0001175	Acquired Immunodeficiency Syndrome
+T168	Drug	13640	13645	HAART	UMLS:C0887947	Antiretroviral Therapy, Highly Active
+T180	Phenotype	13601	13613	HIV-positive	UMLS:C2186509	reported positive HIV test
+T171	Drug	13709	13719	Nevirapine	DrugBank:DB00238	Nevirapine
+T195	Drug	13760	13770	Zidovudine	DrugBank:DB00495	Zidovudine
+T196	Drug	13845	13866	antiretroviral agents	UMLS:C0599685	Anti-Retroviral Agents
+T182	Phenotype	13965	13977	HIV-positive	UMLS:C2186509	reported positive HIV test
+T183	Phenotype	14041	14053	HIV-positive	UMLS:C2186509	reported positive HIV test
+T184	Phenotype	14135	14147	HIV-positive	UMLS:C2186509	reported positive HIV test
+T185	Phenotype	14305	14317	HIV-positive	UMLS:C2186509	reported positive HIV test
+T197	Measure	14498	14518	WMS-III spatial span	UMLS:C0451575	Wechsler memory scale
+T198	Measure	14544	14558	color trails 2	null	null
+T199	Disease	14612	14616	HAND	null	null
+T186	Phenotype	14631	14643	HIV-positive	UMLS:C2186509	reported positive HIV test
+T200	Disease	14664	14680	symptomatic HAND	null	null
+T224	Disease	14722	14725	HAD	UMLS:C0001849	AIDS Dementia Complex
+T187	Phenotype	14812	14824	HIV-positive	UMLS:C2186509	reported positive HIV test
+T202	Disease	14845	14861	symptomatic HAND	null	null
+T225	Disease	14902	14905	HAD	UMLS:C0001849	AIDS Dementia Complex
+T235	Disease	14932	14935	ANI	null	null
+T236	Disease	15128	15131	ANI	null	null
+T173	Drug	15545	15550	HAART	UMLS:C0887947	Antiretroviral Therapy, Highly Active
+T188	Phenotype	15497	15509	HIV-positive	UMLS:C2186509	reported positive HIV test
+T245	Phenotype	15604	15612	lower Hb	UMLS:C0162119	Hemoglobin low
+T247	Phenotype	15656	15673	higher viral load	null	null
+T203	Disease	15905	15909	HAND	null	null
+T135	Phenotype	15846	15856	depression	HPO:HP:0000716	Depression
+T141	Measure	16067	16070	BDI	UMLS:C0451022	Beck depression inventory
+T226	Disease	15942	15945	HAD	UMLS:C0001849	AIDS Dementia Complex
+T249	Phenotype	16046	16054	lower Hb	UMLS:C0162119	Hemoglobin low
+T189	Phenotype	16126	16138	HIV-positive	UMLS:C2186509	reported positive HIV test
+T204	Disease	16180	16196	symptomatic HAND	null	null
+T205	Disease	16247	16263	symptomatic HAND	null	null
+T125	Disease	16345	16380	HIV-related neurocognitive deficits	null	null
+T227	Disease	16420	16423	HAD	UMLS:C0001849	AIDS Dementia Complex
+T251	Phenotype	16608	16624	higher CD4 count	null	null
+T228	Disease	16730	16733	HAD	UMLS:C0001849	AIDS Dementia Complex
+T206	Disease	16800	16816	symptomatic HAND	null	null
+T251	Measure	17052	17076	neuropsychological tests	UMLS:C0027902	Neuropsychological Tests
+T252	Gender	17193	17199	female	Gender:C0015780	female
+T253	Measure	17086	17090	IHDS	null	null
+T254	Measure	17092	17109	stick design test	null	null
+T255	Measure	17115	17131	word recall test	null	null
+T207	Disease	17310	17314	HAND	null	null
+T256	Measure	17239	17243	IHDS	null	null
+T257	Measure	17373	17386	MDNPT battery	null	null
+T258	Measure	17437	17454	stick design test	null	null
+T259	AgeGroup	17668	17708	older people of at least 65 years of age	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T260	AgeGroup	17668	17708	older people of at least 65 years of age	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T208	Disease	17778	17782	HAND	null	null
+T261	Phenotype	17830	17858	typical subcortical deficits	null	null
+T262	Disease	17872	17884	HIV infected	UMLS:C0019693	HIV Infections
+T243	Disease	18006	18021	HIV-related NCI	null	null
+T229	Disease	18188	18191	HAD	UMLS:C0001849	AIDS Dementia Complex
+T263	Measure	18101	18141	comprehensive neuropsychological testing	UMLS:C0027902	Neuropsychological Tests
+T264	Demographic	18145	18151	Uganda	UMLS:C0041573	Uganda
+T265	Demographic	18156	18168	South Africa	UMLS:C0037712	South Africa
+T175	Drug	18358	18363	HAART	UMLS:C0887947	Antiretroviral Therapy, Highly Active
+T230	Disease	18277	18280	HAD	UMLS:C0001849	AIDS Dementia Complex
+T237	Disease	18296	18299	ANI	null	null
+T209	Disease	18374	18440	less severe grades of HAND are more common than the severest grade	null	null
+T266	Disease	18374	18440	less severe grades of HAND are more common than the severest grade	null	null
+T176	Drug	18454	18459	HAART	UMLS:C0887947	Antiretroviral Therapy, Highly Active
+T238	Disease	18584	18587	ANI	null	null
+T126	Disease	18465	18512	less severe forms of neurocognitive dysfunction	UMLS:C0338656	Impaired cognition
+T190	Phenotype	18880	18892	HIV-positive	UMLS:C2186509	reported positive HIV test
+T210	Disease	19015	19041	symptomatic grades of HAND	null	null
+T240	Disease	18910	18913	ANI	null	null
+T239	Disease	19061	19064	ANI	null	null
+T267	Phenotype	19082	19104	decline in functioning	null	null
+T191	Phenotype	19300	19312	HIV-positive	UMLS:C2186509	reported positive HIV test
+T211	Disease	19268	19272	HAND	null	null
+T212	Disease	19411	19427	symptomatic HAND	null	null
+T241	Disease	19274	19277	ANI	null	null
+T177	Drug	19478	19483	HAART	UMLS:C0887947	Antiretroviral Therapy, Highly Active
+T231	Disease	19541	19544	HAD	UMLS:C0001849	AIDS Dementia Complex
+T268	Disease	19568	19571	ADC	UMLS:C0001849	AIDS Dementia Complex
+T269	Disease	19577	19623	relentless and progressive subcortical disease	null	null
+T270	Phenotype	19641	19689	impaired motor function, SIP, and verbal fluency	HPO:HP:0004302	Functional motor problems
+T271	Phenotype	19641	19689	impaired motor function, SIP, and verbal fluency	UMLS:C0589147	Difficulty processing information at normal speed
+T272	Phenotype	19641	19689	impaired motor function, SIP, and verbal fluency	HPO:HP:0011098	Speech apraxia
+T232	Disease	19811	19814	HAD	UMLS:C0001849	AIDS Dementia Complex
+T273	Phenotype	19719	19774	impairments in memory (learning) and executive function	HPO:HP:0002354	Memory impairment
+T274	Phenotype	19719	19774	impairments in memory (learning) and executive function	UMLS:C1843023	Loss of executive functions
+T178	Drug	20025	20030	HAART	UMLS:C0887947	Antiretroviral Therapy, Highly Active
+T275	Disease	20118	20131	HIV infection	UMLS:C0019693	HIV Infections
+T276	Disease	20312	20320	dementia	UMLS:C0497327	Dementia
+T277	Disease	20448	20456	dementia	UMLS:C0497327	Dementia
+T298	Phenotype	20535	20555	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T280	Demographic	20617	20629	South Africa	UMLS:C0037712	South Africa
+T282	Demographic	20635	20643	Botswana	UMLS:C0006041	Botswana
+T283	Demographic	20653	20661	Cameroon	UMLS:C0006802	Cameroon
+T281	AgeGroup	20716	20725	older age	null	null
+T129	Measure	21012	21032	neurocognitive tests	UMLS:C0872227	neurocognitive test
+T233	Disease	20948	20951	HAD	UMLS:C0001849	AIDS Dementia Complex
+T285	Demographic	21227	21232	China	UMLS:C0008115	China
+T286	Measure	21117	21160	HVLT-R, delayed recall and immediate recall	UMLS:C3640978	Hopkins Verbal Learning Test Revised
+T289	Measure	21079	21115	tests requiring knowledge of English	null	null
+T287	Measure	21294	21324	test of letter fluency (COWAT)	UMLS:C3827022	Controlled Oral Word Association Test
+T288	Demographic	21418	21425	Nigeria	UMLS:C0028075	Nigeria
+T290	Measure	21798	21843	tests requiring knowledge of English language	null	null
+T291	Ethnicity	21918	21927	Nigerians	UMLS:C1556089	Nigerian race
+T292	Measure	21962	21999	international neurobehavioral battery	null	null
+T179	Drug	22053	22058	HAART	UMLS:C0887947	Antiretroviral Therapy, Highly Active
+T294	Phenotype	22132	22140	lower Hb	UMLS:C0162119	Hemoglobin low
+T295	Phenotype	22146	22167	higher plasma HIV RNA	UMLS:C0877328	Blood HIV RNA increased
+T296	Phenotype	22298	22317	delayed recognition	null	null
+T297	Phenotype	22466	22483	memory impairment	HPO:HP:0002354	Memory impairment
+T298	Phenotype	22632	22674	executive function and psychomotor slowing	HPO:HP:0002361	Psychomotor deterioration
+T299	Phenotype	22632	22674	executive function and psychomotor slowing	UMLS:C3279333	Defects in executive function
+T300	Measure	23052	23076	neuropsychological tests	UMLS:C0027902	Neuropsychological Tests
+T301	Demographic	23136	23139	SSA	UMLS:C0001738	Africa South of the Sahara
+T302	Disease	23115	23124	neuroAIDS	null	null
+T303	Demographic	23177	23183	Uganda	UMLS:C0041573	Uganda
+T304	Demographic	23188	23200	South Africa	UMLS:C0037712	South Africa
+T305	Measure	23242	23266	neuropsychological tests	UMLS:C0027902	Neuropsychological Tests
+T307	Measure	23302	23338	Auditory Verbal Learning Test (AVLT)	null	null
+T308	Measure	23340	23368	symbol digit modalities test	UMLS:C0451522	Symbol digit modalities test
+T309	Measure	23370	23390	color trails 1 and 2	null	null
+T311	Measure	23453	23486	digit span (forward and backward)	UMLS:C0871634	Digit Span Testing
+T306	Measure	23537	23562	trail making test A and B	UMLS:C0040604	Trail Making Test
+T310	Measure	23607	23625	IHDS memory subset	null	null
+T312	Measure	23564	23597	digit span (forward and backward)	UMLS:C0871634	Digit Span Testing
+T313	Demographic	23656	23663	Nigeria	UMLS:C0028075	Nigeria
+T314	Measure	23684	23710	neuropsychological testing	UMLS:C0027902	Neuropsychological Tests
+T315	Demographic	24174	24181	Nigeria	UMLS:C0028075	Nigeria
+T317	Phenotype	24624	24645	functional impairment	UMLS:C0277785	Functional disorder
+T318	Measure	24649	24654	PAOFI	null	null
+T319	Ethnicity	24689	24707	western population	null	null
+T320	Ethnicity	24730	24738	Africans	UMLS:C0027567	African race
+T321	Disease	24998	25011	comorbidities	UMLS:C0009488	Comorbidity
+T214	Disease	25331	25335	HAND	null	null
+T322	Disease	25282	25295	comorbidities	UMLS:C0009488	Comorbidity
+T213	Disease	25376	25380	HAND	null	null
+T323	Disease	25466	25474	HIV/AIDS	UMLS:C0497169	hiv-infection/aids
+T192	Phenotype	25525	25537	HIV-positive	UMLS:C2186509	reported positive HIV test
+T215	Disease	25612	25616	HAND	null	null
+T325	Drug	25651	25654	ART	UMLS:C1963724	Antiretroviral therapy
+T130	Measure	25671	25696	Neurocognitive assessment	UMLS:C0872227	neurocognitive test
+T193	Phenotype	25732	25744	HIV-positive	UMLS:C2186509	reported positive HIV test
+T216	Disease	25765	25769	HAND	null	null
+T217	Disease	25794	25820	symptomatic grades of HAND	null	null
+T218	Disease	25946	25950	HAND	null	null
+T326	Measure	25838	25843	MDNPT	UMLS:C2121096	neuropsychological testing battery
+T327	Demographic	25880	25887	Nigeria	UMLS:C0028075	Nigeria
+T328	Measure	25970	25974	IHDS	null	null
+T331	Measure	25983	25988	CSI-D	null	null
+T194	Phenotype	26172	26184	HIV-positive	UMLS:C2186509	reported positive HIV test
+T219	Disease	26105	26109	HAND	null	null
+T329	Demographic	26073	26080	Nigeria	UMLS:C0028075	Nigeria
+R1	hasScale	10991	10994	Measure	10984	10987	ScaleMax
+R2	hasScale	11048	11053	Measure	11069	11071	ScaleMax
+R3	hasDetail	11069	11071	ScaleMax	11072	11092	Detail

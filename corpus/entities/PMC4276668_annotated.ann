@@ -1,0 +1,140 @@
+T1	Disease	55	96	Cholinergic Than Noncholinergic Dementias	null	null
+T2	Disease	55	96	Cholinergic Than Noncholinergic Dementias	null	null
+T135	Phenotype	5	22	Cigarette Smoking	UMLS:C0700219	Cigarette smoking behavior
+T3	Disease	123	154	progressive dementing disorders	UMLS:C0497327	Dementia
+T4	Phenotype	171	203	cortical cholinergic dysfunction	null	null
+T5	Phenotype	222	242	cholinergic deficits	null	null
+T6	Disease	455	476	cholinergic dementias	null	null
+T7	Disease	514	535	cholinergic dementias	null	null
+T8	Disease	836	857	cholinergic dementias	null	null
+T9	Disease	871	895	noncholinergic dementias	null	null
+T10	Disease	959	980	cholinergic dementias	null	null
+T11	Disease	1007	1028	cholinergic dementias	null	null
+T12	Disease	1091	1112	cholinergic dementias	null	null
+T13	Disease	1282	1303	cholinergic dementias	null	null
+T14	Phenotype	1390	1416	brain cholinergic deficits	null	null
+T15	Disease	1428	1459	progressive dementing disorders	UMLS:C0497327	Dementia
+T16	Disease	1519	1540	cholinergic dementias	null	null
+T17	Disease	1542	1563	Cholinergic dementias	null	null
+T18	Phenotype	1587	1643	progressive degeneration of cortical cholinergic neurons	null	null
+T19	Disease	1652	1676	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T20	Disease	1678	1715	dementia in Parkinson's disease (PDD)	UMLS:C0349081	Dementia in Parkinson's disease
+T21	Disease	1716	1733	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T22	Disease	1739	1763	Lewy body dementia (LBD)	UMLS:C0752347	Lewy Body Disease
+T23	Phenotype	1782	1799	cognitive decline	HPO:HP:0001268	Mental deterioration
+T24	Phenotype	1821	1867	decreasing levels of brain acetylcholine (ACh)	null	null
+T25	Phenotype	1880	1908	cortical cholinergic deficit	null	null
+T26	Disease	1934	1937	LBD	UMLS:C0752347	Lewy Body Disease
+T27	Phenotype	1978	2018	deficit of cortical cholinergic function	null	null
+T28	Disease	2053	2056	LBD	UMLS:C0752347	Lewy Body Disease
+T29	Disease	2067	2088	cholinergic dementias	null	null
+T30	Phenotype	2188	2225	reduced cortical cholinergic function	null	null
+T31	Phenotype	2253	2271	cognitive deficits	HPO:HP:0100543	Cognitive impairment
+T32	Phenotype	2299	2327	cortical ACh levels decrease	null	null
+T33	Phenotype	2397	2429	reduction of cortical ACh levels	null	null
+T34	Drug	2534	2566	Cholinesterase inhibitor therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T35	Disease	2603	2624	cholinergic dementias	null	null
+T36	Drug	2693	2718	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T37	Phenotype	2736	2749	neuronal loss	HPO:HP:0002529	Neuronal loss in central nervous system
+T39	Disease	3151	3160	dementias	UMLS:C0497327	Dementia
+T40	AgeGroup	3264	3269	young	null	null
+T41	Phenotype	3303	3332	cortical cholinergic deficits	null	null
+T43	Drug	3584	3609	nonselective AChR agonist	UMLS:C0242948	Nicotinic Agonists
+T42	Phenotype	3635	3652	nAChR dysfunction	null	null
+T45	Phenotype	3684	3702	cognitive deficits	HPO:HP:0100543	Cognitive impairment
+T46	Disease	3706	3725	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T136	Phenotype	3779	3796	cigarette smoking	UMLS:C0700219	Cigarette smoking behavior
+T47	Drug	3872	3898	Chronic nicotine treatment	UMLS:C0028040	Nicotine
+T48	Phenotype	3925	3951	nAChR synaptic impairments	null	null
+T49	Disease	4008	4027	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T51	Phenotype	4046	4085	impaired learning and short-term memory	HPO:HP:0001328	Specific learning disability
+T53	Disease	4244	4265	cholinergic dementias	null	null
+T137	Phenotype	4129	4146	cigarette smoking	UMLS:C0700219	Cigarette smoking behavior
+T54	Disease	4389	4397	dementia	UMLS:C0497327	Dementia
+T138	Phenotype	4358	4375	cigarette smoking	UMLS:C0700219	Cigarette smoking behavior
+T55	Disease	4441	4462	cholinergic dementias	null	null
+T56	Disease	4526	4550	noncholinergic dementias	null	null
+T57	Disease	4635	4656	cholinergic dementias	null	null
+T58	Disease	4680	4704	noncholinergic dementias	null	null
+T59	Phenotype	4750	4778	cortical cholinergic deficit	null	null
+T60	Disease	4782	4803	cholinergic dementias	null	null
+T139	Phenotype	4600	4617	cigarette smoking	UMLS:C0700219	Cigarette smoking behavior
+T61	AgeGroup	5083	5109	adults, over the age of 18	AgeGroups:C0238598	young adult (19-24 years)
+T62	AgeGroup	5083	5109	adults, over the age of 18	AgeGroups:C0001675	adult (19-44 years)
+T63	AgeGroup	5083	5109	adults, over the age of 18	AgeGroups:C0683973	middle aged adult (45-64 years)
+T64	AgeGroup	5083	5109	adults, over the age of 18	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T65	AgeGroup	5083	5109	adults, over the age of 18	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T67	Disease	5329	5337	dementia	UMLS:C0497327	Dementia
+T68	Disease	5342	5361	Parkinson's disease	UMLS:C0030567	Parkinson Disease
+T69	Disease	5462	5470	dementia	UMLS:C0497327	Dementia
+T70	Disease	5711	5731	cholinergic dementia	null	null
+T71	Disease	5752	5772	cholinergic dementia	null	null
+T72	Disease	5812	5832	cholinergic dementia	null	null
+T73	Phenotype	5882	5919	deficit of brain acetylcholine levels	null	null
+T74	Disease	6018	6037	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T75	Disease	6039	6070	dementia in Parkinson's disease	UMLS:C0349081	Dementia in Parkinson's disease
+T76	Disease	6072	6089	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T77	Disease	6095	6113	Lewy body dementia	UMLS:C0752347	Lewy Body Disease
+T78	Disease	6148	6168	cholinergic dementia	null	null
+T79	Phenotype	6204	6230	brain cholinergic deficits	null	null
+T80	Disease	6301	6324	frontotemporal dementia	UMLS:C0338451	Frontotemporal dementia
+T140	Phenotype	6429	6446	cigarette smoking	UMLS:C0700219	Cigarette smoking behavior
+T141	Phenotype	6546	6563	cigarette smoking	UMLS:C0700219	Cigarette smoking behavior
+T142	Phenotype	6746	6763	cigarette smoking	UMLS:C0700219	Cigarette smoking behavior
+T82	Disease	6897	6918	cholinergic dementias	null	null
+T83	Disease	6941	6962	cholinergic dementias	null	null
+T84	Disease	6984	7008	noncholinergic dementias	null	null
+T85	Disease	7735	7754	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T86	Disease	7764	7789	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T87	Disease	7798	7815	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T88	Disease	7862	7893	dementia in Parkinson's disease	UMLS:C0349081	Dementia in Parkinson's disease
+T91	Disease	7825	7848	frontotemporal dementia	UMLS:C0338451	Frontotemporal dementia
+T92	Disease	8202	8223	cholinergic dementias	null	null
+T93	Disease	8262	8286	noncholinergic dementias	null	null
+T94	Disease	8324	8345	cholinergic dementias	null	null
+T95	AgeGroup	8365	8370	older	null	null
+T96	Disease	8433	8454	cholinergic dementias	null	null
+T97	Disease	8493	8514	cholinergic dementias	null	null
+T98	Gender	8587	8593	female	Gender:C0015780	female
+T99	Disease	8704	8725	cholinergic dementias	null	null
+T100	Disease	8752	8773	cholinergic dementias	null	null
+T143	Phenotype	8643	8660	cigarette smoking	UMLS:C0700219	Cigarette smoking behavior
+T101	Disease	8915	8936	cholinergic dementias	null	null
+T102	Disease	8963	8984	cholinergic dementias	null	null
+T144	Phenotype	8848	8865	cigarette smoking	UMLS:C0700219	Cigarette smoking behavior
+T103	Disease	9144	9165	cholinergic dementias	null	null
+T104	Disease	9295	9316	cholinergic dementias	null	null
+T105	Disease	9342	9366	noncholinergic dementias	null	null
+T145	Phenotype	9192	9209	cigarette smoking	UMLS:C0700219	Cigarette smoking behavior
+T146	Phenotype	9258	9275	cigarette smoking	UMLS:C0700219	Cigarette smoking behavior
+T106	Phenotype	9396	9425	cortical cholinergic deficits	null	null
+T107	Phenotype	9733	9759	brain cholinergic deficits	null	null
+T130	Disease	9936	9984	cholinergic rather than noncholinergic dementias	null	null
+T131	Disease	9936	9984	cholinergic rather than noncholinergic dementias	null	null
+T132	AgeGroup	9794	9801	elderly	null	null
+T133	Phenotype	9867	9887	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T134	AgeGroup	10024	10031	elderly	null	null
+T108	Disease	10168	10170	AD	UMLS:C0002395	Alzheimer's Disease
+T109	Disease	10176	10184	dementia	UMLS:C0497327	Dementia
+T147	Phenotype	10149	10166	cigarette smoking	UMLS:C0700219	Cigarette smoking behavior
+T110	Disease	10339	10347	dementia	UMLS:C0497327	Dementia
+T111	Disease	10352	10354	AD	UMLS:C0002395	Alzheimer's Disease
+T112	Disease	10487	10495	dementia	UMLS:C0497327	Dementia
+T113	Disease	10500	10502	AD	UMLS:C0002395	Alzheimer's Disease
+T148	Phenotype	10432	10449	cigarette smoking	UMLS:C0700219	Cigarette smoking behavior
+T114	Disease	10541	10543	AD	UMLS:C0002395	Alzheimer's Disease
+T115	Phenotype	10588	10601	brain atrophy	HPO:HP:0012444	Brain atrophy
+T116	Phenotype	10628	10647	generalized atrophy	UMLS:C0333641	Atrophic
+T117	Phenotype	10665	10672	atrophy	UMLS:C0333641	Atrophic
+T118	Disease	10708	10710	AD	UMLS:C0002395	Alzheimer's Disease
+T122	Disease	10855	10877	degenerative dementias	UMLS:C3714594	Primary degenerative dementia
+T120	Disease	10936	10939	LBD	UMLS:C0752347	Lewy Body Disease
+T121	Disease	10944	10946	PD	UMLS:C0030567	Parkinson Disease
+T122	Disease	10958	10977	Parkinson's disease	UMLS:C0030567	Parkinson Disease
+T123	Disease	12391	12412	cholinergic dementias	null	null
+T124	Disease	12475	12499	noncholinergic dementias	null	null
+T149	Phenotype	12435	12452	cigarette smoking	UMLS:C0700219	Cigarette smoking behavior
+T126	Phenotype	12640	12668	cortical cholinergic deficit	null	null
+T127	Disease	12768	12787	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T128	Disease	12798	12819	cholinergic dementias	null	null
+T129	Disease	12972	12993	cholinergic dementias	null	null

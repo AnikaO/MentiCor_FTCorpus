@@ -1,0 +1,85 @@
+T1	Ethnicity	140	154	Ibero-American	null	null
+T2	Disease	95	139	early-onset and familial Alzheimer's disease	UMLS:C0338445	  
+T3	Disease	167	200	familial Alzheimer's disease (AD)	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T19	Disease	336	365	frontotemporal dementia (FTD)	UMLS:C0338451	Frontotemporal dementia
+T20	Disease	407	409	AD	UMLS:C0002395	Alzheimer's Disease
+T21	Ethnicity	893	907	Ibero-American	null	null
+T5	Disease	1062	1149	AD cases (15 familial early-onset, 136 sporadic early-onset and 16 familial late-onset)	UMLS:C0338445	Familial Alzheimer's disease of early onset
+T6	Disease	1062	1149	AD cases (15 familial early-onset, 136 sporadic early-onset and 16 familial late-onset)	UMLS:C1863051	ALZHEIMER DISEASE 2
+T7	Disease	1062	1149	AD cases (15 familial early-onset, 136 sporadic early-onset and 16 familial late-onset)	null	null
+T23	Ethnicity	1165	1172	Uruguay	UMLS:C1553376	Uruguayan
+T26	Disease	2291	2293	AD	UMLS:C0002395	Alzheimer's Disease
+T27	Disease	2411	2414	FTD	UMLS:C0338451	Frontotemporal dementia
+T28	Disease	2419	2421	AD	UMLS:C0002395	Alzheimer's Disease
+T29	Disease	2441	2465	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T30	Disease	2493	2501	dementia	UMLS:C0497327	Dementia
+T57	AgeGroup	2542	2563	age 65 years or older	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T58	AgeGroup	2542	2563	age 65 years or older	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T59	AgeGroup	2594	2609	age 80 or older	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T94	AgeGroup	2594	2609	age 80 or older	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T31	Disease	2690	2692	AD	UMLS:C0002395	Alzheimer's Disease
+T119	Phenotype	3050	3055	aging	UMLS:C0001811	Aging
+T8	Disease	3164	3185	early-onset AD (EOAD)	UMLS:C0750901	Alzheimer Disease, Early Onset
+T32	Disease	3101	3103	AD	UMLS:C0002395	Alzheimer's Disease
+T33	Disease	3235	3255	late-onset AD (LOAD)	UMLS:C0494463	Alzheimer Disease, Late Onset
+T9	Disease	3376	3389	familial EOAD	UMLS:C0338445	Familial Alzheimer's disease of early onset
+T34	Disease	3316	3339	AD cases are late-onset	UMLS:C0494463	Alzheimer Disease, Late Onset
+T35	Disease	3447	3449	AD	UMLS:C0002395	Alzheimer's Disease
+T10	Disease	3575	3588	familial EOAD	UMLS:C0338445	Familial Alzheimer's disease of early onset
+T37	Disease	3928	3930	AD	UMLS:C0002395	Alzheimer's Disease
+T38	Disease	4031	4033	AD	UMLS:C0002395	Alzheimer's Disease
+T39	Disease	4207	4215	dementia	UMLS:C0497327	Dementia
+T102	Ethnicity	4268	4275	Uruguay	UMLS:C1553376	Uruguayan
+T42	Disease	4319	4321	AD	UMLS:C0002395	Alzheimer's Disease
+T43	Disease	4563	4565	AD	UMLS:C0002395	Alzheimer's Disease
+T44	AgeGroup	4589	4594	older	null	null
+T45	Ethnicity	4609	4625	Spanish ancestry	UMLS:C0337817	Spaniards
+T46	Disease	4801	4803	AD	UMLS:C0002395	Alzheimer's Disease
+T49	Ethnicity	5153	5160	Uruguay	UMLS:C1553376	Uruguayan
+T47	Ethnicity	5008	5023	Spanish descent	UMLS:C0337817	Spaniards
+T50	Disease	5245	5247	AD	UMLS:C0002395	Alzheimer's Disease
+T51	Disease	5325	5327	AD	UMLS:C0002395	Alzheimer's Disease
+T11	Disease	5376	5389	familial EOAD	UMLS:C0338445	Familial Alzheimer's disease of early onset
+T12	Disease	5404	5417	sporadic EOAD	null	null
+T13	Disease	5434	5447	familial LOAD	UMLS:C1863051	ALZHEIMER DISEASE 2
+T52	Disease	5497	5499	AD	UMLS:C0002395	Alzheimer's Disease
+T53	Disease	5539	5541	AD	UMLS:C0002395	Alzheimer's Disease
+T54	Demographic	5777	5786	St. Louis	UMLS:C3827924	St. Louis City, MO
+T131	Demographic	9181	9190	San Diego	null	null
+T132	Demographic	9192	9194	CA	UMLS:C0006754	California
+T123	Demographic	9731	9736	Seoul	null	null
+T134	Demographic	9738	9743	Korea	UMLS:C0022771	Korea
+T14	Disease	9970	9983	familial EOAD	UMLS:C0338445	Familial Alzheimer's disease of early onset
+T15	Disease	9998	10011	sporadic EOAD	null	null
+T16	Disease	10024	10037	familial LOAD	UMLS:C1863051	ALZHEIMER DISEASE 2
+T17	Disease	10066	10068	AD	UMLS:C0002395	Alzheimer's Disease
+T55	Disease	11231	11233	AD	UMLS:C0002395	Alzheimer's Disease
+T56	AgeGroup	11279	11284	older	null	null
+T61	Ethnicity	11297	11312	Spanish descent	UMLS:C0337817	Spaniards
+T73	Disease	13627	13629	AD	UMLS:C0002395	Alzheimer's Disease
+T75	Disease	13866	13868	AD	UMLS:C0002395	Alzheimer's Disease
+T76	Disease	13977	13979	AD	UMLS:C0002395	Alzheimer's Disease
+T77	AgeGroup	14136	14141	older	null	null
+T84	Phenotype	16545	16568	global cortical atrophy	HPO:HP:0002120	Cerebral cortical atrophy
+T85	Phenotype	16637	16659	ventricular dilatation	HPO:HP:0002119	Ventriculomegaly
+T86	Phenotype	16664	16699	atrophy of the medial temporal lobe	null	null
+T87	Phenotype	16848	16864	neuritic plaques	HPO:HP:0100256	Senile plaques
+T88	Phenotype	16923	16946	neurofibrillary tangles	HPO:HP:0002185	Neurofibrillary tangles
+T91	Disease	17867	17869	AD	UMLS:C0002395	Alzheimer's Disease
+T92	Disease	18391	18393	AD	UMLS:C0002395	Alzheimer's Disease
+T93	Disease	18713	18715	AD	UMLS:C0002395	Alzheimer's Disease
+T94	AgeGroup	18899	18904	older	null	null
+T96	Disease	19575	19577	AD	UMLS:C0002395	Alzheimer's Disease
+T97	Disease	19567	19570	FTD	UMLS:C0338451	Frontotemporal dementia
+T101	Disease	21162	21164	AD	UMLS:C0002395	Alzheimer's Disease
+T102	Disease	21193	21196	FTD	UMLS:C0338451	Frontotemporal dementia
+T103	Phenotype	21260	21277	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T104	Disease	21315	21319	EOAD	UMLS:C0750901	Alzheimer Disease, Early Onset
+T105	Disease	21324	21328	LOAD	UMLS:C0494463	Alzheimer Disease, Late Onset
+T106	Disease	21517	21519	AD	UMLS:C0002395	Alzheimer's Disease
+T107	Disease	21656	21658	AD	UMLS:C0002395	Alzheimer's Disease
+T108	Disease	21858	21860	AD	UMLS:C0002395	Alzheimer's Disease
+T109	Disease	21776	21788	amnestic FTD	null	null
+T110	Disease	22031	22033	AD	UMLS:C0002395	Alzheimer's Disease
+T111	Disease	22038	22041	FTD	UMLS:C0338451	Frontotemporal dementia
+T112	Phenotype	22105	22113	demented	UMLS:C0860630	Demented

@@ -1,0 +1,93 @@
+T1	Disease	66	74	Dementia	UMLS:C0497327	Dementia
+T62	AgeGroup	142	147	older	null	null
+T2	Disease	242	250	dementia	UMLS:C0497327	Dementia
+T3	Disease	326	334	dementia	UMLS:C0497327	Dementia
+T4	Disease	436	444	dementia	UMLS:C0497327	Dementia
+T63	Ethnicity	338	345	Iceland	UMLS:C0337808	Icelanders
+T5	Disease	643	651	dementia	UMLS:C0497327	Dementia
+T6	Disease	1050	1058	dementia	UMLS:C0497327	Dementia
+T7	Disease	1102	1110	dementia	UMLS:C0497327	Dementia
+T8	Disease	1358	1366	dementia	UMLS:C0497327	Dementia
+T9	Disease	1555	1563	dementia	UMLS:C0497327	Dementia
+T10	Disease	1686	1694	dementia	UMLS:C0497327	Dementia
+T11	Disease	1937	1945	dementia	UMLS:C0497327	Dementia
+T64	AgeGroup	2092	2100	children	null	null
+T65	AgeGroup	2105	2111	adults	null	null
+T66	Phenotype	2378	2397	physical inactivity	UMLS:C1821208	Impaired physical activity
+T67	Disease	2430	2437	obesity	UMLS:C0028754	Obesity
+T68	Disease	2439	2461	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T69	Phenotype	2590	2609	physical inactivity	UMLS:C1821208	Impaired physical activity
+T71	AgeGroup	3029	3041	older adults	null	null
+T72	AgeGroup	3159	3166	elderly	null	null
+T73	AgeGroup	3311	3323	aged over 65	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T74	AgeGroup	3311	3323	aged over 65	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T75	AgeGroup	3351	3381	younger and middle-aged adults	null	null
+T76	AgeGroup	3351	3381	younger and middle-aged adults	null	null
+T12	Disease	3467	3475	dementia	UMLS:C0497327	Dementia
+T13	Disease	3586	3594	dementia	UMLS:C0497327	Dementia
+T77	Phenotype	3563	3582	behavioral symptoms	UMLS:C0004941	Behavioral Symptoms
+T14	Disease	3839	3847	dementia	UMLS:C0497327	Dementia
+T15	Disease	4339	4347	dementia	UMLS:C0497327	Dementia
+T16	Disease	4516	4524	dementia	UMLS:C0497327	Dementia
+T17	Disease	4665	4673	dementia	UMLS:C0497327	Dementia
+T78	Phenotype	4723	4731	restless	HPO:HP:0000711	Restlessness
+T18	Disease	4932	4940	dementia	UMLS:C0497327	Dementia
+T19	Disease	5168	5176	dementia	UMLS:C0497327	Dementia
+T79	Phenotype	5105	5117	restlessness	HPO:HP:0000711	Restlessness
+T20	Disease	5271	5279	dementia	UMLS:C0497327	Dementia
+T21	Disease	5449	5457	dementia	UMLS:C0497327	Dementia
+T22	Disease	5539	5547	dementia	UMLS:C0497327	Dementia
+T80	Demographic	5672	5679	Iceland	UMLS:C0020750	Iceland
+T81	Ethnicity	6088	6098	Icelanders	UMLS:C0337808	Icelanders
+T23	Disease	6330	6338	dementia	UMLS:C0497327	Dementia
+T24	Disease	6571	6579	dementia	UMLS:C0497327	Dementia
+T95	Disease	6824	6831	illness	UMLS:C0221423	Illness (finding)
+T82	Disease	6972	6979	illness	UMLS:C0221423	Illness (finding)
+T83	Phenotype	7602	7621	behavioral symptoms	UMLS:C0004941	Behavioral Symptoms
+T25	Disease	8051	8059	dementia	UMLS:C0497327	Dementia
+T26	Disease	8251	8259	dementia	UMLS:C0497327	Dementia
+T27	Disease	8704	8712	dementia	UMLS:C0497327	Dementia
+T28	Disease	9974	9982	dementia	UMLS:C0497327	Dementia
+T30	Disease	10050	10058	dementia	UMLS:C0497327	Dementia
+T29	Disease	10554	10562	dementia	UMLS:C0497327	Dementia
+T31	Disease	11095	11103	dementia	UMLS:C0497327	Dementia
+T33	Disease	11145	11153	dementia	UMLS:C0497327	Dementia
+T84	AgeGroup	11159	11193	very old, i.e. in their 80s or 90s	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T85	AgeGroup	11224	11227	70s	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T86	AgeGroup	11243	11250	younger	null	null
+T32	Disease	11452	11460	dementia	UMLS:C0497327	Dementia
+T96	Disease	11367	11374	illness	UMLS:C0221423	Illness (finding)
+T87	Disease	11567	11574	illness	UMLS:C0221423	Illness (finding)
+T34	Disease	11598	11606	dementia	UMLS:C0497327	Dementia
+T35	Disease	11753	11761	dementia	UMLS:C0497327	Dementia
+T36	Disease	11848	11856	dementia	UMLS:C0497327	Dementia
+T88	Disease	12026	12033	illness	UMLS:C0221423	Illness (finding)
+T37	Disease	12224	12232	dementia	UMLS:C0497327	Dementia
+T89	Disease	12260	12267	illness	UMLS:C0221423	Illness (finding)
+T38	Disease	12643	12651	dementia	UMLS:C0497327	Dementia
+T90	Disease	12739	12746	illness	UMLS:C0221423	Illness (finding)
+T40	Disease	13014	13022	dementia	UMLS:C0497327	Dementia
+T41	Disease	14694	14702	dementia	UMLS:C0497327	Dementia
+T91	Phenotype	14976	14995	behavioral symptoms	UMLS:C0004941	Behavioral Symptoms
+T42	Disease	15151	15159	dementia	UMLS:C0497327	Dementia
+T43	Disease	15218	15226	dementia	UMLS:C0497327	Dementia
+T44	Disease	15269	15277	dementia	UMLS:C0497327	Dementia
+T45	Disease	15418	15426	dementia	UMLS:C0497327	Dementia
+T46	Disease	15675	15683	dementia	UMLS:C0497327	Dementia
+T93	Phenotype	15689	15726	difficulties focusing their attention	UMLS:C0233414	Disturbance of attention
+T94	Treatment	16171	16191	reminiscence therapy	UMLS:C0150321	Reminiscence therapy
+T47	Disease	16341	16349	dementia	UMLS:C0497327	Dementia
+T48	Disease	16752	16760	dementia	UMLS:C0497327	Dementia
+T49	Disease	16589	16597	dementia	UMLS:C0497327	Dementia
+T50	Disease	16885	16919	mild, moderate and severe dementia	UMLS:C3494623	Mild dementia
+T51	Disease	16885	16919	mild, moderate and severe dementia	UMLS:C3494871	Moderate dementia
+T52	Disease	16885	16919	mild, moderate and severe dementia	UMLS:C3494652	Severe dementia
+T53	Disease	17031	17039	dementia	UMLS:C0497327	Dementia
+T54	Disease	17109	17117	dementia	UMLS:C0497327	Dementia
+T55	Disease	17556	17564	dementia	UMLS:C0497327	Dementia
+T56	Disease	17987	18003	dementia illness	UMLS:C0497327	Dementia
+T57	Disease	18425	18433	dementia	UMLS:C0497327	Dementia
+T61	Disease	18941	18949	dementia	UMLS:C0497327	Dementia
+T58	Disease	19217	19225	dementia	UMLS:C0497327	Dementia
+T59	Disease	19119	19127	dementia	UMLS:C0497327	Dementia
+T60	Disease	19312	19320	dementia	UMLS:C0497327	Dementia

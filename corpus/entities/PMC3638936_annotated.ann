@@ -1,0 +1,281 @@
+T1	Disease	36	61	Mild Cognitive Impairment	UMLS:C1270972	Mild cognitive disorder
+T2	Disease	65	73	Dementia	UMLS:C0497327	Dementia
+T3	Disease	77	111	Alzheimer's or Parkinson's Disease	UMLS:C0002395	Alzheimer's Disease
+T4	Disease	77	111	Alzheimer's or Parkinson's Disease	UMLS:C0030567	Parkinson Disease
+T5	Disease	112	136	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T6	Disease	141	165	Parkinson's disease (PD)	UMLS:C0030567	Parkinson Disease
+T7	Phenotype	193	210	cognitive decline	HPO:HP:0001268	Mental deterioration
+T8	Disease	312	346	amnestic mild cognitively impaired	null	null
+T9	Disease	374	408	mild cognitively impaired (MCI) PD	null	null
+T10	Disease	446	448	AD	UMLS:C0002395	Alzheimer's Disease
+T11	Disease	475	486	PD dementia	UMLS:C0349081	Dementia in Parkinson's disease
+T12	Disease	549	553	aMCI	null	null
+T84	Disease	603	609	MCI PD	null	null
+T168	Phenotype	568	595	impaired in episodic memory	HPO:HP:0002354	Memory impairment
+T169	Phenotype	626	669	deficits in visuoconstruction and attention	UMLS:C0041671	Attention Deficit Disorder
+T170	Phenotype	626	669	deficits in visuoconstruction and attention	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T33	Disease	671	673	AD	UMLS:C0002395	Alzheimer's Disease
+T143	Disease	678	681	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T171	Phenotype	709	772	deficits on tests for language, attention and visuoconstruction	HPO:HP:0002463	Language impairment
+T172	Phenotype	709	772	deficits on tests for language, attention and visuoconstruction	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T173	Phenotype	709	772	deficits on tests for language, attention and visuoconstruction	UMLS:C0041671	Attention Deficit Disorder
+T13	Disease	818	822	aMCI	null	null
+T34	Disease	833	835	AD	UMLS:C0002395	Alzheimer's Disease
+T144	Disease	790	793	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T145	Disease	947	950	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T175	Phenotype	869	886	memory impairment	HPO:HP:0002354	Memory impairment
+T176	Measure	981	1010	depressive mood questionnaire	null	null
+T276	Phenotype	1064	1180	functional deficits associated with parietal and temporal lobe functions (attention, visuoconstruction and language)	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T277	Phenotype	1064	1180	functional deficits associated with parietal and temporal lobe functions (attention, visuoconstruction and language)	HPO:HP:0002463	Language impairment
+T35	Disease	1282	1284	AD	UMLS:C0002395	Alzheimer's Disease
+T146	Disease	1362	1365	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T177	Phenotype	1344	1358	depressed mood	HPO:HP:0000716	Depression
+T178	Phenotype	1260	1278	recognition errors	null	null
+T36	Disease	1452	1476	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T85	Disease	1481	1505	Parkinson's disease (PD)	UMLS:C0030567	Parkinson Disease
+T179	Disease	1528	1555	neurodegenerative disorders	UMLS:C0524851	Neurodegenerative Disorders
+T37	Disease	1557	1559	AD	UMLS:C0002395	Alzheimer's Disease
+T166	Phenotype	1582	1611	progressive cognitive decline	HPO:HP:0001268	Mental deterioration
+T86	Disease	1643	1645	PD	UMLS:C0030567	Parkinson Disease
+T125	Disease	1664	1672	dementia	UMLS:C0497327	Dementia
+T126	Disease	1837	1845	dementia	UMLS:C0497327	Dementia
+T180	Phenotype	1755	1773	cognitive deficits	HPO:HP:0100543	Cognitive impairment
+T38	Disease	1957	1959	AD	UMLS:C0002395	Alzheimer's Disease
+T87	Disease	1994	1996	PD	UMLS:C0030567	Parkinson Disease
+T181	Phenotype	1935	1953	cognitive deficits	HPO:HP:0100543	Cognitive impairment
+T39	Disease	2046	2048	AD	UMLS:C0002395	Alzheimer's Disease
+T88	Disease	2114	2116	PD	UMLS:C0030567	Parkinson Disease
+T187	Phenotype	2078	2104	decline in episodic memory	HPO:HP:0002354	Memory impairment
+T188	Phenotype	2146	2186	executive and visuoconstructive deficits	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T189	Phenotype	2146	2186	executive and visuoconstructive deficits	UMLS:C1843023	Loss of executive functions
+T40	Disease	2623	2625	AD	UMLS:C0002395	Alzheimer's Disease
+T89	Disease	2630	2632	PD	UMLS:C0030567	Parkinson Disease
+T182	Phenotype	2676	2694	cognitive deficits	HPO:HP:0100543	Cognitive impairment
+T41	Disease	2743	2745	AD	UMLS:C0002395	Alzheimer's Disease
+T191	Phenotype	2766	2789	neurofibrillary tangles	HPO:HP:0002185	Neurofibrillary tangles
+T90	Disease	2912	2914	PD	UMLS:C0030567	Parkinson Disease
+T192	Phenotype	2916	2933	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T193	Phenotype	3152	3173	cognitive impairments	HPO:HP:0100543	Cognitive impairment
+T194	Phenotype	3413	3433	beta-amyloid plaques	null	null
+T42	Disease	3565	3567	AD	UMLS:C0002395	Alzheimer's Disease
+T91	Disease	3529	3531	PD	UMLS:C0030567	Parkinson Disease
+T183	Phenotype	3713	3731	cognitive deficits	HPO:HP:0100543	Cognitive impairment
+T43	Disease	4156	4158	AD	UMLS:C0002395	Alzheimer's Disease
+T92	Disease	4162	4164	PD	UMLS:C0030567	Parkinson Disease
+T44	Disease	4414	4416	AD	UMLS:C0002395	Alzheimer's Disease
+T93	Disease	4421	4423	PD	UMLS:C0030567	Parkinson Disease
+T195	Phenotype	4447	4454	illness	UMLS:C0221423	Illness (finding)
+T196	Measure	4503	4539	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T45	Disease	4643	4645	AD	UMLS:C0002395	Alzheimer's Disease
+T46	Disease	4864	4866	AD	UMLS:C0002395	Alzheimer's Disease
+T47	Disease	4949	4951	AD	UMLS:C0002395	Alzheimer's Disease
+T48	Disease	5140	5142	AD	UMLS:C0002395	Alzheimer's Disease
+T94	Disease	4956	4958	PD	UMLS:C0030567	Parkinson Disease
+T95	Disease	5147	5149	PD	UMLS:C0030567	Parkinson Disease
+T127	Disease	5037	5045	dementia	UMLS:C0497327	Dementia
+T136	Disease	5185	5188	MCI	UMLS:C1270972	Mild cognitive disorder
+T167	Phenotype	5215	5232	cognitive decline	HPO:HP:0001268	Mental deterioration
+T184	Phenotype	5118	5136	cognitive deficits	HPO:HP:0100543	Cognitive impairment
+T49	Disease	5279	5281	AD	UMLS:C0002395	Alzheimer's Disease
+T14	Disease	5366	5385	amnestic MCI (aMCI)	null	null
+T50	Disease	5458	5460	AD	UMLS:C0002395	Alzheimer's Disease
+T96	Disease	5404	5406	PD	UMLS:C0030567	Parkinson Disease
+T123	Disease	5482	5499	PD dementia (PDD)	UMLS:C0349081	Dementia in Parkinson's disease
+T128	Disease	5422	5430	dementia	UMLS:C0497327	Dementia
+T137	Disease	5411	5414	MCI	UMLS:C1270972	Mild cognitive disorder
+T51	Disease	5914	5916	AD	UMLS:C0002395	Alzheimer's Disease
+T198	Measure	5952	5981	neuropsychological assessment	UMLS:C0027902	Neuropsychological Tests
+T124	Disease	6099	6101	PD	UMLS:C0030567	Parkinson Disease
+T15	Disease	6288	6292	aMCI	null	null
+T52	Disease	6178	6180	AD	UMLS:C0002395	Alzheimer's Disease
+T129	Disease	6269	6286	dementia syndrome	UMLS:C0497327	Dementia
+T147	Disease	6185	6188	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T199	Measure	6219	6223	MMSE	UMLS:C0451306	Mini-mental state examination
+T200	ScaleMax	6203	6211	below 25	null	null
+T201	Phenotype	6417	6444	decrease in memory function	HPO:HP:0002354	Memory impairment
+T98	Disease	6446	6452	MCI PD	null	null
+T202	Measure	6522	6546	neuropsychological tests	UMLS:C0027902	Neuropsychological Tests
+T53	Disease	6634	6636	AD	UMLS:C0002395	Alzheimer's Disease
+T97	Disease	6641	6643	PD	UMLS:C0030567	Parkinson Disease
+T138	Disease	6629	6632	MCI	UMLS:C1270972	Mild cognitive disorder
+T203	Disease	6580	6615	neurological or psychiatric disease	UMLS:C0027765	nervous system disorder
+T204	Disease	6580	6615	neurological or psychiatric disease	UMLS:C0004936	Mental disorders
+T205	AgeGroup	6896	6903	elderly	null	null
+T206	Demographic	6998	7005	Germany	UMLS:C0017480	Germany
+T207	Measure	7114	7144	neuropsychological examination	UMLS:C0027902	Neuropsychological Tests
+T208	Measure	7160	7231	Consortium to Establish a Registry for Alzheimer's Disease (CERAD) test	null	null
+T209	Measure	7261	7265	MMSE	UMLS:C0451306	Mini-mental state examination
+T278	Measure	7277	7316	short version of the Boston Naming Test	UMLS:C0451037	Boston naming test
+T279	Measure	7318	7363	semantic word fluency for the animal category	null	null
+T280	Measure	7373	7391	word list learning	null	null
+T281	Measure	7478	7509	delayed recall of the word list	null	null
+T282	Measure	7636	7676	figure copying and delayed figure recall	null	null
+T283	Measure	7521	7533	copying task	null	null
+T284	Measure	7536	7547	recognition	null	null
+T285	Measure	7619	7632	delayed recal	null	null
+T286	Measure	7695	7749	letter fluency task from the Leistungsprüfsystem (LPS)	null	null
+T211	Measure	7985	8006	Wechsler Memory Scale	UMLS:C0451575	Wechsler memory scale
+T224	Measure	7822	7849	Zahlenverbindungstest (ZVT)	null	null
+T225	Measure	7880	7897	Trail Making Test	UMLS:C0040604	Trail Making Test
+T226	Measure	8076	8115	Mehrfachwahl-Wortschatz-Intelligenztest	null	null
+T227	Measure	8278	8307	Rey Verbal Comprehension task	null	null
+T210	Measure	8394	8419	Beck Depression Inventory	UMLS:C0451022	Beck depression inventory
+T212	Measure	8455	8485	Neuropsychological examination	UMLS:C0027902	Neuropsychological Tests
+T16	Disease	9706	9710	aMCI	null	null
+T54	Disease	9724	9726	AD	UMLS:C0002395	Alzheimer's Disease
+T17	Disease	10019	10023	aMCI	null	null
+T99	Disease	10050	10056	MCI PD	null	null
+T213	Measure	10086	10090	MMSE	UMLS:C0451306	Mini-mental state examination
+T214	Measure	10152	10156	MMSE	UMLS:C0451306	Mini-mental state examination
+T215	Measure	10191	10195	MMSE	UMLS:C0451306	Mini-mental state examination
+T216	Measure	10226	10230	MMSE	UMLS:C0451306	Mini-mental state examination
+T219	ScaleMin	10248	10250	26	null	null
+T220	Measure	10278	10282	MMSE	UMLS:C0451306	Mini-mental state examination
+T221	ScaleMax	10300	10302	29	null	null
+T18	Disease	10341	10345	aMCI	null	null
+T100	Disease	10353	10359	MCI PD	null	null
+T217	Measure	10412	10416	MMSE	UMLS:C0451306	Mini-mental state examination
+T55	Disease	10432	10434	AD	UMLS:C0002395	Alzheimer's Disease
+T148	Disease	10461	10464	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T19	Disease	10484	10488	aMCI	null	null
+T56	Disease	10515	10517	AD	UMLS:C0002395	Alzheimer's Disease
+T101	Disease	10531	10537	MCI PD	null	null
+T149	Disease	10541	10544	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T185	Phenotype	10613	10631	cognitive deficits	HPO:HP:0100543	Cognitive impairment
+T20	Disease	10794	10798	aMCI	null	null
+T21	Disease	10789	10792	MCI	UMLS:C1270972	Mild cognitive disorder
+T57	Disease	10826	10828	AD	UMLS:C0002395	Alzheimer's Disease
+T102	Disease	10803	10805	PD	UMLS:C0030567	Parkinson Disease
+T130	Disease	10816	10824	dementia	UMLS:C0497327	Dementia
+T150	Disease	10833	10836	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T218	Measure	10875	10879	MMSE	UMLS:C0451306	Mini-mental state examination
+T22	Disease	10977	10981	aMCI	null	null
+T103	Disease	10986	10992	MCI PD	null	null
+T222	Measure	10952	10956	MMSE	UMLS:C0451306	Mini-mental state examination
+T223	Measure	11028	11043	attention tests	null	null
+T23	Disease	11313	11317	aMCI	null	null
+T104	Disease	11280	11286	MCI PD	null	null
+T58	Disease	11493	11495	AD	UMLS:C0002395	Alzheimer's Disease
+T151	Disease	11500	11503	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T228	Phenotype	11693	11708	depressive mood	HPO:HP:0000716	Depression
+T59	Disease	11766	11768	AD	UMLS:C0002395	Alzheimer's Disease
+T152	Disease	11832	11835	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T229	Phenotype	11811	11826	depressive mood	HPO:HP:0000716	Depression
+T24	Disease	11959	11963	aMCI	null	null
+T60	Disease	11977	11979	AD	UMLS:C0002395	Alzheimer's Disease
+T105	Disease	11884	11886	PD	UMLS:C0030567	Parkinson Disease
+T131	Disease	12060	12068	dementia	UMLS:C0497327	Dementia
+T139	Disease	12207	12210	MCI	UMLS:C1270972	Mild cognitive disorder
+T231	Phenotype	12102	12158	impairment with respect to language and memory functions	HPO:HP:0002354	Memory impairment
+T25	Disease	12285	12289	aMCI	null	null
+T61	Disease	12245	12247	AD	UMLS:C0002395	Alzheimer's Disease
+T106	Disease	12334	12336	PD	UMLS:C0030567	Parkinson Disease
+T234	Measure	12313	12316	ZVT	null	null
+T26	Disease	12486	12490	aMCI	null	null
+T62	Disease	12495	12497	AD	UMLS:C0002395	Alzheimer's Disease
+T107	Disease	12434	12440	MCI PD	null	null
+T153	Disease	12407	12410	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T232	Phenotype	12453	12468	depressive mood	HPO:HP:0000716	Depression
+T273	Phenotype	12538	12548	depression	HPO:HP:0000716	Depression
+T63	Disease	12720	12722	AD	UMLS:C0002395	Alzheimer's Disease
+T108	Disease	12744	12746	PD	UMLS:C0030567	Parkinson Disease
+T132	Disease	12582	12590	dementia	UMLS:C0497327	Dementia
+T140	Disease	12625	12628	MCI	UMLS:C1270972	Mild cognitive disorder
+T233	Measure	12694	12699	CERAD	null	null
+T27	Disease	12848	12852	aMCI	null	null
+T64	Disease	12823	12825	AD	UMLS:C0002395	Alzheimer's Disease
+T154	Disease	13118	13121	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T28	Disease	13572	13576	aMCI	null	null
+T109	Disease	13431	13437	MCI PD	null	null
+T235	Phenotype	13461	13503	attentional and visuoconstructive deficits	UMLS:C0041671	Attention Deficit Disorder
+T236	Phenotype	13461	13503	attentional and visuoconstructive deficits	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T237	Phenotype	13513	13540	episodic memory impairments	HPO:HP:0002354	Memory impairment
+T238	Phenotype	13633	13700	deficits in attentional or language functions and visuoconstruction	UMLS:C0041671	Attention Deficit Disorder
+T239	Phenotype	13633	13700	deficits in attentional or language functions and visuoconstruction	HPO:HP:0002463	Language impairment
+T240	Phenotype	13633	13700	deficits in attentional or language functions and visuoconstruction	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T65	Disease	13803	13805	AD	UMLS:C0002395	Alzheimer's Disease
+T155	Disease	13773	13776	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T241	Phenotype	13728	13743	depressive mood	HPO:HP:0000716	Depression
+T66	Disease	13877	13879	AD	UMLS:C0002395	Alzheimer's Disease
+T67	Disease	13807	13809	AD	UMLS:C0002395	Alzheimer's Disease
+T156	Disease	13922	13925	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T157	Disease	13814	13817	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T242	Phenotype	13856	13870	delayed recall	UMLS:C0561757	Has delayed recall
+T68	Disease	13948	13950	AD	UMLS:C0002395	Alzheimer's Disease
+T158	Disease	13955	13958	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T186	Phenotype	13980	13998	cognitive deficits	HPO:HP:0100543	Cognitive impairment
+T69	Disease	14503	14505	AD	UMLS:C0002395	Alzheimer's Disease
+T70	Disease	14688	14690	AD	UMLS:C0002395	Alzheimer's Disease
+T110	Disease	14708	14710	PD	UMLS:C0030567	Parkinson Disease
+T159	Disease	14804	14807	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T243	Phenotype	14712	14758	impairments in visuoconstruction and attention	UMLS:C0041671	Attention Deficit Disorder
+T244	Phenotype	14712	14758	impairments in visuoconstruction and attention	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T245	Phenotype	14897	14925	impaired executive functions	UMLS:C1843023	Loss of executive functions
+T246	Phenotype	14830	14892	cognitive slowing (visual attention and verbal working memory)	HPO:HP:0030455	Abnormality of pattern visual evoked potentials
+T247	Phenotype	14830	14892	cognitive slowing (visual attention and verbal working memory)	UMLS:C0589137	Delayed verbal memory
+T71	Disease	15182	15184	AD	UMLS:C0002395	Alzheimer's Disease
+T111	Disease	15106	15112	MCI PD	null	null
+T160	Disease	15117	15120	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T141	Disease	15302	15305	MCI	UMLS:C1270972	Mild cognitive disorder
+T248	Phenotype	15318	15332	delayed recall	UMLS:C0561757	Has delayed recall
+T249	Phenotype	15684	15707	deficit in recollection	null	null
+T250	Phenotype	15879	15912	deficit in familiarity processing	null	null
+T72	Disease	16103	16105	AD	UMLS:C0002395	Alzheimer's Disease
+T251	Phenotype	16185	16211	deficit in episodic memory	HPO:HP:0002354	Memory impairment
+T73	Disease	16257	16259	AD	UMLS:C0002395	Alzheimer's Disease
+T133	Disease	16311	16319	dementia	UMLS:C0497327	Dementia
+T112	Disease	16477	16479	PD	UMLS:C0030567	Parkinson Disease
+T252	Phenotype	16453	16473	recognition deficits	null	null
+T113	Disease	16582	16584	PD	UMLS:C0030567	Parkinson Disease
+T114	Disease	16680	16682	PD	UMLS:C0030567	Parkinson Disease
+T253	Phenotype	16706	16725	familiarity deficit	null	null
+T255	Phenotype	16767	16787	recollection deficit	null	null
+T115	Disease	17180	17182	PD	UMLS:C0030567	Parkinson Disease
+T254	Phenotype	17217	17236	familiarity deficit	null	null
+T29	Disease	17381	17385	aMCI	null	null
+T74	Disease	17299	17301	AD	UMLS:C0002395	Alzheimer's Disease
+T116	Disease	17346	17352	MCI PD	null	null
+T161	Disease	17264	17267	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T263	Phenotype	17533	17558	impairment in recognition	null	null
+T264	Phenotype	17580	17607	impairment in consolidation	null	null
+T262	Phenotype	17623	17656	impairment in delayed free recall	null	null
+T30	Disease	17890	17894	aMCI	null	null
+T117	Disease	17879	17885	MCI PD	null	null
+T260	Phenotype	17976	18002	deficit in episodic memory	HPO:HP:0002354	Memory impairment
+T261	Phenotype	18029	18056	deficit in strategic search	null	null
+T118	Disease	18088	18094	MCI PD	null	null
+T265	Measure	18156	18180	delayed free recall task	null	null
+T76	Disease	18431	18433	AD	UMLS:C0002395	Alzheimer's Disease
+T162	Disease	18272	18275	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T267	Phenotype	18400	18423	episodic memory deficit	HPO:HP:0002354	Memory impairment
+T266	Measure	18349	18373	delayed free recall task	null	null
+T75	Disease	18514	18516	AD	UMLS:C0002395	Alzheimer's Disease
+T77	Disease	18620	18622	AD	UMLS:C0002395	Alzheimer's Disease
+T119	Disease	18717	18719	PD	UMLS:C0030567	Parkinson Disease
+T163	Disease	18521	18524	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T256	Phenotype	18684	18704	impairs recollection	null	null
+T164	Disease	19051	19054	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T268	Phenotype	19025	19035	depression	HPO:HP:0000716	Depression
+T120	Disease	19540	19542	PD	UMLS:C0030567	Parkinson Disease
+T134	Disease	19571	19579	dementia	UMLS:C0497327	Dementia
+T272	Phenotype	19556	19566	depression	HPO:HP:0000716	Depression
+T31	Disease	19828	19832	aMCI	null	null
+T78	Disease	19915	19917	AD	UMLS:C0002395	Alzheimer's Disease
+T79	Disease	19940	19942	AD	UMLS:C0002395	Alzheimer's Disease
+T80	Disease	20077	20079	AD	UMLS:C0002395	Alzheimer's Disease
+T165	Disease	20315	20318	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T81	Disease	20463	20465	AD	UMLS:C0002395	Alzheimer's Disease
+T121	Disease	20470	20472	PD	UMLS:C0030567	Parkinson Disease
+T135	Disease	20415	20423	dementia	UMLS:C0497327	Dementia
+T142	Disease	20395	20398	MCI	UMLS:C1270972	Mild cognitive disorder
+T269	Phenotype	20442	20459	loss of functions	UMLS:C0277785	Functional disorder
+T270	Phenotype	20575	20607	cognitive and affective deficits	HPO:HP:0100543	Cognitive impairment
+T271	Phenotype	20575	20607	cognitive and affective deficits	null	null
+T274	Measure	21027	21043	CERAD-NP battery	null	null
+T82	Disease	21101	21103	AD	UMLS:C0002395	Alzheimer's Disease
+T122	Disease	21108	21110	PD	UMLS:C0030567	Parkinson Disease
+T83	Disease	21365	21367	AD	UMLS:C0002395	Alzheimer's Disease
+T275	Phenotype	21391	21410	depressive symptoms	HPO:HP:0000716	Depression
+R1	hasScale	6219	6223	Measure	6203	6211	ScaleMax
+R2	hasScale	10226	10230	Measure	10248	10250	ScaleMin
+R3	hasScale	10278	10282	Measure	10300	10302	ScaleMax

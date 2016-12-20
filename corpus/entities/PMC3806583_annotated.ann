@@ -1,0 +1,86 @@
+T1	Disease	26	52	familial Alzheimer disease	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T22	Phenotype	15	22	atrophy	UMLS:C0333641	Atrophic
+T2	Disease	117	149	familial Alzheimer disease (FAD)	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T23	Phenotype	84	113	gray and white matter atrophy	HPO:HP:0012762	Cerebral white matter atrophy
+T87	Phenotype	84	113	gray and white matter atrophy	null	null
+T34	Measure	419	449	Clinical Dementia Rating [CDR]	UMLS:C0451074	Clinical dementia rating scale
+T35	Measure	465	468	CDR	UMLS:C0451074	Clinical dementia rating scale
+T36	Measure	969	972	CDR	UMLS:C0451074	Clinical dementia rating scale
+T37	Measure	781	784	CDR	UMLS:C0451074	Clinical dementia rating scale
+T3	Disease	1561	1564	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T4	Disease	1742	1745	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T24	Phenotype	1550	1557	Atrophy	UMLS:C0333641	Atrophic
+T38	Disease	1623	1649	sporadic Alzheimer disease	null	null
+T83	Phenotype	1720	1738	amyloid deposition	HPO:HP:0003216	Generalized amyloid deposition
+T39	Disease	1807	1829	Alzheimer disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T40	Disease	1862	1887	mild to moderate dementia	UMLS:C3494623	Mild dementia
+T41	Disease	1862	1887	mild to moderate dementia	UMLS:C3494871	Moderate dementia
+T42	Phenotype	2048	2065	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T44	Disease	2391	2393	AD	UMLS:C0002395	Alzheimer's Disease
+T5	Disease	2478	2495	familial AD (FAD)	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T6	Disease	2873	2876	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T84	Phenotype	2787	2805	Amyloid deposition	HPO:HP:0003216	Generalized amyloid deposition
+T58	Phenotype	2932	2949	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T45	Disease	3003	3014	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T7	Disease	3344	3347	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T8	Disease	3565	3568	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T9	Disease	3896	3899	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T60	Measure	4969	5001	Clinical Dementia Rating19 (CDR)	UMLS:C0451074	Clinical dementia rating scale
+T61	Measure	5092	5095	CDR	UMLS:C0451074	Clinical dementia rating scale
+T62	Measure	5158	5161	CDR	UMLS:C0451074	Clinical dementia rating scale
+T46	Disease	5277	5288	sporadic AD	null	null
+T63	Measure	5237	5240	CDR	UMLS:C0451074	Clinical dementia rating scale
+T64	AgeGroup	5309	5330	under 45 years of age	AgeGroups:C0001675	adult (19-44 years)
+T65	AgeGroup	5309	5330	under 45 years of age	AgeGroups:C0238598	young adult (19-24 years)
+T66	AgeGroup	5309	5330	under 45 years of age	AgeGroups:C0205653	adolescent (13-18 years)
+T67	AgeGroup	5309	5330	under 45 years of age	AgeGroups:C0008059	children (6-12 years)
+T68	AgeGroup	5309	5330	under 45 years of age	AgeGroups:C0008100	preschool children (2-5 years)
+T39	Disease	5379	5389	depression	UMLS:C0011581	Depressive disorder
+T70	Measure	8836	8839	CDR	UMLS:C0451074	Clinical dementia rating scale
+T71	Measure	8861	8864	CDR	UMLS:C0451074	Clinical dementia rating scale
+T72	Measure	8883	8886	CDR	UMLS:C0451074	Clinical dementia rating scale
+T73	Measure	11036	11039	CDR	UMLS:C0451074	Clinical dementia rating scale
+T74	Measure	11120	11123	CDR	UMLS:C0451074	Clinical dementia rating scale
+T75	Measure	11171	11174	CDR	UMLS:C0451074	Clinical dementia rating scale
+T76	Measure	11335	11338	CDR	UMLS:C0451074	Clinical dementia rating scale
+T10	Disease	12086	12089	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T47	Disease	12001	12003	AD	UMLS:C0002395	Alzheimer's Disease
+T25	Phenotype	12171	12178	atrophy	UMLS:C0333641	Atrophic
+T26	Phenotype	12273	12280	atrophy	UMLS:C0333641	Atrophic
+T48	Disease	12972	12996	sporadic (late-onset) AD	null	null
+T49	Disease	13161	13172	sporadic AD	null	null
+T53	Disease	13244	13246	AD	UMLS:C0002395	Alzheimer's Disease
+T51	AgeGroup	13252	13259	elderly	null	null
+T52	Phenotype	13281	13305	objective memory decline	null	null
+T77	Measure	13423	13426	CDR	UMLS:C0451074	Clinical dementia rating scale
+T11	Disease	13770	13773	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T85	Phenotype	13858	13876	amyloid deposition	HPO:HP:0003216	Generalized amyloid deposition
+T53	Disease	14121	14143	sporadic late-onset AD	null	null
+T54	Disease	14298	14309	sporadic AD	null	null
+T27	Phenotype	14446	14453	atrophy	UMLS:C0333641	Atrophic
+T12	Disease	14738	14741	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T28	Phenotype	15329	15339	GM atrophy	null	null
+T13	Disease	15515	15518	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T78	Measure	15644	15647	CDR	UMLS:C0451074	Clinical dementia rating scale
+T79	Measure	15837	15840	CDR	UMLS:C0451074	Clinical dementia rating scale
+T14	Disease	16075	16078	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T81	Phenotype	16051	16071	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T55	Disease	16171	16182	sporadic AD	null	null
+T29	Phenotype	16324	16343	progressive atrophy	UMLS:C1265895	Progressive atrophy
+T30	Phenotype	16427	16445	increasing atrophy	UMLS:C1265895	Progressive atrophy
+T15	Disease	16607	16610	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T59	Phenotype	16880	16897	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T56	Disease	17739	17750	sporadic AD	null	null
+T82	AgeGroup	17485	17495	very young	null	null
+T80	Measure	18066	18069	CDR	UMLS:C0451074	Clinical dementia rating scale
+T31	Phenotype	20168	20175	atrophy	UMLS:C0333641	Atrophic
+T16	Disease	20350	20353	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T32	Phenotype	20492	20499	atrophy	UMLS:C0333641	Atrophic
+T20	Disease	20756	20780	familial and sporadic AD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T21	Disease	20756	20780	familial and sporadic AD	null	null
+T17	Disease	20844	20847	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T57	Disease	20964	20966	AD	UMLS:C0002395	Alzheimer's Disease
+T18	Disease	21115	21118	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T86	Phenotype	21073	21091	amyloid deposition	HPO:HP:0003216	Generalized amyloid deposition
+T19	Disease	21189	21192	FAD	UMLS:C0276496	Familial Alzheimer Disease (FAD)
+T33	Phenotype	21178	21185	atrophy	UMLS:C0333641	Atrophic

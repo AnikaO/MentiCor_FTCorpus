@@ -1,0 +1,154 @@
+T1	Drug	26	51	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T14	Drug	59	68	memantine	DrugBank:DB01043	Memantine
+T31	Disease	99	116	Alzheimer disease	UMLS:C0002395	Alzheimer's Disease
+T37	Drug	194	212	antidementia drugs	UMLS:C1276997	Antidementia drug
+T32	Disease	309	331	Alzheimer disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T38	Drug	260	278	antidementia drugs	UMLS:C1276997	Antidementia drug
+T73	Disease	436	438	AD	UMLS:C0002395	Alzheimer's Disease
+T53	Measure	700	736	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T70	Measure	738	804	Alzheimer's Disease Assessment Scale-Cognitive Subscale (ADAS-Cog)	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T86	Measure	806	855	Baylor Profound Mental Status Examination (BPMSE)	null	null
+T94	Measure	857	903	Clinical Dementia Rating-Sum of Boxes (CDR-SB)	UMLS:C0451074	Clinical dementia rating scale
+T54	Measure	1263	1267	MMSE	UMLS:C0451306	Mini-mental state examination
+T171	Measure	1322	1328	CDR-SB	UMLS:C0451074	Clinical dementia rating scale
+T87	Measure	1446	1451	BPMSE	null	null
+T71	Measure	1480	1488	ADAS-Cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T72	Measure	1603	1611	ADAS-Cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T55	Measure	1699	1703	MMSE	UMLS:C0451306	Mini-mental state examination
+T95	Measure	1778	1784	CDR-SB	UMLS:C0451074	Clinical dementia rating scale
+T107	Disease	1944	1946	AD	UMLS:C0002395	Alzheimer's Disease
+T33	Disease	2236	2258	Alzheimer disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T2	Drug	2446	2477	cholinesterase inhibitor (ChEI)	UMLS:C0008425	Cholinesterase Inhibitors
+T108	Disease	2521	2523	AD	UMLS:C0002395	Alzheimer's Disease
+T109	Drug	2528	2535	tacrine	DrugBank:DB00382	Tacrine
+T111	Drug	2563	2574	Galantamine	DrugBank:DB00674	Galantamine
+T112	Drug	2579	2591	rivastigmine	DrugBank:DB00989	Rivastigmine
+T113	Disease	2635	2637	AD	UMLS:C0002395	Alzheimer's Disease
+T114	Drug	2643	2652	donepezil	DrugBank:DB00843	Donepezil
+T115	Disease	2689	2691	AD	UMLS:C0002395	Alzheimer's Disease
+T116	Disease	2754	2756	AD	UMLS:C0002395	Alzheimer's Disease
+T117	Drug	2773	2782	Donepezil	DrugBank:DB00843	Donepezil
+T118	Disease	2883	2885	AD	UMLS:C0002395	Alzheimer's Disease
+T119	Disease	3063	3065	AD	UMLS:C0002395	Alzheimer's Disease
+T120	Drug	3138	3147	donepezil	DrugBank:DB00843	Donepezil
+T15	Drug	3373	3382	Memantine	DrugBank:DB01043	Memantine
+T122	Disease	3508	3510	AD	UMLS:C0002395	Alzheimer's Disease
+T16	Drug	3626	3647	memantine monotherapy	DrugBank:DB01043	Memantine
+T17	Drug	3740	3749	memantine	DrugBank:DB01043	Memantine
+T123	Drug	3755	3764	donepezil	DrugBank:DB00843	Donepezil
+T124	Drug	3794	3803	donepezil	DrugBank:DB00843	Donepezil
+T18	Drug	3937	3958	memantine monotherapy	DrugBank:DB01043	Memantine
+T125	Disease	3884	3886	AD	UMLS:C0002395	Alzheimer's Disease
+T4	Drug	4534	4538	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T5	Drug	4591	4595	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T19	Drug	4600	4609	memantine	DrugBank:DB01043	Memantine
+T6	Drug	4683	4687	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T8	Drug	4781	4785	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T20	Drug	4693	4702	memantine	DrugBank:DB01043	Memantine
+T126	Disease	4625	4627	AD	UMLS:C0002395	Alzheimer's Disease
+T140	Phenotype	4714	4746	cognitive and functional decline	HPO:HP:0001268	Mental deterioration
+T141	Phenotype	4714	4746	cognitive and functional decline	null	null
+T7	Drug	4959	4963	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T9	Drug	5027	5031	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T21	Drug	5037	5046	memantine	DrugBank:DB01043	Memantine
+T127	Disease	4842	4844	AD	UMLS:C0002395	Alzheimer's Disease
+T39	Drug	5313	5338	antidementia drug therapy	UMLS:C1276997	Antidementia drug
+T22	Drug	5430	5439	memantine	DrugBank:DB01043	Memantine
+T23	Drug	5421	5426	ChEIs	UMLS:C0008425	Cholinesterase Inhibitors
+T128	Disease	5537	5539	AD	UMLS:C0002395	Alzheimer's Disease
+T142	Phenotype	5489	5524	decline on cognitive and functional	HPO:HP:0001268	Mental deterioration
+T143	Phenotype	5489	5524	decline on cognitive and functional	null	null
+T129	Disease	6153	6155	AD	UMLS:C0002395	Alzheimer's Disease
+T130	Disease	6332	6334	AD	UMLS:C0002395	Alzheimer's Disease
+T132	Disease	6511	6519	dementia	UMLS:C0497327	Dementia
+T34	Phenotype	6833	6840	illness	UMLS:C0221423	Illness (finding)
+T131	Disease	7003	7005	AD	UMLS:C0002395	Alzheimer's Disease
+T144	Phenotype	6992	6999	illness	UMLS:C0221423	Illness (finding)
+T40	Drug	8218	8236	antidementia drugs	UMLS:C1276997	Antidementia drug
+T24	Drug	8641	8650	memantine	DrugBank:DB01043	Memantine
+T25	Drug	8634	8639	ChEIs	UMLS:C0008425	Cholinesterase Inhibitors
+T41	Drug	8662	8680	antidementia drugs	UMLS:C1276997	Antidementia drug
+T42	Drug	9252	9270	antidementia drugs	UMLS:C1276997	Antidementia drug
+T10	Drug	9402	9406	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T11	Drug	9437	9441	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T147	Drug	9446	9465	glutamate modulator	null	null
+T29	Drug	9481	9486	ChEIs	UMLS:C0008425	Cholinesterase Inhibitors
+T110	Drug	9535	9542	tacrine	DrugBank:DB00382	Tacrine
+T148	Drug	9552	9561	donepezil	DrugBank:DB00843	Donepezil
+T149	Drug	9571	9583	rivastigmine	DrugBank:DB00989	Rivastigmine
+T150	Drug	9597	9608	galantamine	DrugBank:DB00674	Galantamine
+T26	Drug	9685	9694	memantine	DrugBank:DB01043	Memantine
+T56	Measure	9794	9830	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T151	ScaleMin	9902	9903	0	null	null
+T152	ScaleMax	9907	9909	30	null	null
+T156	Disease	9851	9859	dementia	UMLS:C0497327	Dementia
+T57	Measure	10045	10049	MMSE	UMLS:C0451306	Mini-mental state examination
+T88	Measure	9964	10013	Baylor Profound Mental Status Examination (BPMSE)	null	null
+T153	ScaleMax	10060	10071	10 or below	null	null
+T89	Measure	10077	10082	BPMSE	null	null
+T133	Disease	10159	10161	AD	UMLS:C0002395	Alzheimer's Disease
+T58	Measure	10251	10255	MMSE	UMLS:C0451306	Mini-mental state examination
+T74	Measure	10436	10502	Alzheimer's Disease Assessment Scale-Cognitive Subscale (ADAS-Cog)	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T76	Disease	10553	10555	AD	UMLS:C0002395	Alzheimer's Disease
+T134	ScaleMin	10625	10626	0	null	null
+T135	ScaleMax	10630	10632	70	null	null
+T136	Phenotype	10668	10688	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T59	Measure	10785	10789	MMSE	UMLS:C0451306	Mini-mental state examination
+T75	Measure	10694	10702	ADAS-Cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T98	Measure	10853	10899	Clinical Dementia Rating-Sum of Boxes (CDR-SB)	UMLS:C0451074	Clinical dementia rating scale
+T99	Measure	11016	11022	CDR-SB	UMLS:C0451074	Clinical dementia rating scale
+T100	ScaleMin	11211	11212	0	null	null
+T101	ScaleMax	11216	11218	18	null	null
+T145	Phenotype	12076	12083	illness	UMLS:C0221423	Illness (finding)
+T154	Phenotype	12267	12288	functional impairment	UMLS:C0872173	functional disability
+T137	Disease	12290	12292	AD	UMLS:C0002395	Alzheimer's Disease
+T35	Disease	13152	13171	Alzheimer's Disease	UMLS:C0002395	Alzheimer's Disease
+T43	Drug	13097	13117	antidementia therapy	UMLS:C1276997	Antidementia drug
+T60	Measure	12992	12996	MMSE	UMLS:C0451306	Mini-mental state examination
+T155	Disease	12947	12955	dementia	UMLS:C0497327	Dementia
+T61	Measure	13669	13673	MMSE	UMLS:C0451306	Mini-mental state examination
+T77	Measure	13675	13683	ADAS-Cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T90	Measure	13709	13714	BPMSE	null	null
+T102	Measure	13697	13703	CDR-SB	UMLS:C0451074	Clinical dementia rating scale
+T44	Drug	13815	13832	antidementia drug	UMLS:C1276997	Antidementia drug
+T62	Measure	14746	14750	MMSE	UMLS:C0451306	Mini-mental state examination
+T157	Disease	14701	14709	dementia	UMLS:C0497327	Dementia
+T63	Measure	16165	16169	MMSE	UMLS:C0451306	Mini-mental state examination
+T78	Measure	16155	16163	ADAS-Cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T91	Measure	16171	16176	BPMSE	null	null
+T103	Measure	16194	16200	CDR-SB	UMLS:C0451074	Clinical dementia rating scale
+T12	Drug	16689	16693	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T13	Drug	16740	16744	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T27	Drug	16749	16758	memantine	DrugBank:DB01043	Memantine
+T28	Drug	16791	16800	memantine	DrugBank:DB01043	Memantine
+T45	Drug	16839	16856	antidementia drug	UMLS:C1276997	Antidementia drug
+T64	Measure	16937	16941	MMSE	UMLS:C0451306	Mini-mental state examination
+T79	Measure	16956	16964	ADAS-Cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T104	Measure	17017	17023	CDR-SB	UMLS:C0451074	Clinical dementia rating scale
+T46	Drug	17091	17108	antidementia drug	UMLS:C1276997	Antidementia drug
+T92	Measure	17157	17162	BPMSE	null	null
+T80	Measure	17265	17273	ADAS-Cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T47	Drug	17373	17390	antidementia drug	UMLS:C1276997	Antidementia drug
+T81	Measure	17334	17342	ADAS-Cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T82	Measure	17447	17455	ADAS-Cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T65	Measure	17780	17784	MMSE	UMLS:C0451306	Mini-mental state examination
+T105	Measure	17883	17889	CDR-SB	UMLS:C0451074	Clinical dementia rating scale
+T66	Measure	18043	18047	MMSE	UMLS:C0451306	Mini-mental state examination
+T106	Measure	18133	18139	CDR-SB	UMLS:C0451074	Clinical dementia rating scale
+T83	Measure	18180	18188	ADAS-Cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T48	Drug	18392	18409	antidementia drug	UMLS:C1276997	Antidementia drug
+T49	Drug	18469	18487	antidementia drugs	UMLS:C1276997	Antidementia drug
+T146	Phenotype	18513	18520	illness	UMLS:C0221423	Illness (finding)
+T30	Drug	18791	18796	ChEIs	UMLS:C0008425	Cholinesterase Inhibitors
+T67	Measure	19041	19045	MMSE	UMLS:C0451306	Mini-mental state examination
+T84	Measure	19050	19058	ADAS-Cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T158	Measure	18902	18930	global dementia rating scale	null	null
+T50	Drug	19389	19407	antidementia drugs	UMLS:C1276997	Antidementia drug
+T68	Measure	19475	19479	MMSE	UMLS:C0451306	Mini-mental state examination
+T51	Drug	20435	20453	antidementia drugs	UMLS:C1276997	Antidementia drug
+T138	Disease	21753	21755	AD	UMLS:C0002395	Alzheimer's Disease
+T52	Drug	21872	21890	antidementia drugs	UMLS:C1276997	Antidementia drug
+T139	Disease	21962	21964	AD	UMLS:C0002395	Alzheimer's Disease
+R5	hasScale	9794	9830	Measure	9902	9903	ScaleMin
+R6	hasScale	9794	9830	Measure	9907	9909	ScaleMax
+R7	hasScale	10045	10049	Measure	10060	10071	ScaleMax

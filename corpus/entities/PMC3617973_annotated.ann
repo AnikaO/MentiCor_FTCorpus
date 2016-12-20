@@ -1,0 +1,220 @@
+T1	Drug	15	49	Cholinesterase Inhibitor Treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T89	Disease	53	61	Dementia	UMLS:C0497327	Dementia
+T2	Drug	98	130	Cholinesterase inhibitors (ChEI)	UMLS:C0008425	Cholinesterase Inhibitors
+T90	Disease	150	158	dementia	UMLS:C0497327	Dementia
+T5	Drug	394	398	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T91	Disease	334	353	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T92	Disease	357	375	Lewy body dementia	UMLS:C0752347	Lewy Body Disease
+T113	Gender	321	327	female	Gender:C0015780	female
+T4	Drug	526	540	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T6	Drug	728	732	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T116	Phenotype	547	570	behavioural disturbance	HPO:HP:0000708	Behavioral abnormality
+T117	Phenotype	580	603	cognitive deterioration	HPO:HP:0001268	Mental deterioration
+T7	Drug	956	960	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T3	Drug	1118	1150	cholinesterase inhibitors (ChEI)	UMLS:C0008425	Cholinesterase Inhibitors
+T118	Drug	1234	1267	primary pharmacological treatment	UMLS:C0013216	Pharmacotherapy
+T103	Disease	1271	1373	Alzheimer's disease (AD) – with or without associated cerebrovascular disease – and Lewy body dementia	UMLS:C0752347	Lewy Body Disease
+T119	Disease	1271	1373	Alzheimer's disease (AD) – with or without associated cerebrovascular disease – and Lewy body dementia	UMLS:C0007222	Cardiovascular Diseases
+T120	Disease	1271	1373	Alzheimer's disease (AD) – with or without associated cerebrovascular disease – and Lewy body dementia	UMLS:C0002395	Alzheimer's Disease
+T134	Disease	1809	1820	comorbidity	UMLS:C0009488	Comorbidity
+T100	Phenotype	1822	1838	physical frailty	UMLS:C0424594	Frailty
+T8	Drug	2074	2078	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T9	Drug	2234	2238	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T10	Drug	2394	2398	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T88	Drug	2838	2842	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T124	Phenotype	2908	2931	cognitive deterioration	HPO:HP:0001268	Mental deterioration
+T136	Drug	2849	2858	donepezil	DrugBank:DB00843	Donepezil
+T137	Drug	2860	2872	rivastigmine	DrugBank:DB00989	Rivastigmine
+T138	Drug	2878	2889	galantamine	DrugBank:DB00674	Galantamine
+T12	Drug	3029	3033	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T104	Disease	3078	3080	AD	UMLS:C0002395	Alzheimer's Disease
+T105	Disease	3084	3102	Lewy body dementia	UMLS:C0752347	Lewy Body Disease
+T13	Drug	3252	3266	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T93	Disease	3643	3651	dementia	UMLS:C0497327	Dementia
+T15	Drug	3706	3710	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T16	Drug	3797	3801	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T139	Drug	3717	3726	donepezil	DrugBank:DB00843	Donepezil
+T140	Drug	3728	3740	rivastigmine	DrugBank:DB00989	Rivastigmine
+T141	Drug	3746	3757	galantamine	DrugBank:DB00674	Galantamine
+T142	Drug	3775	3786	galantamine	DrugBank:DB00674	Galantamine
+T143	Demographic	3829	3834	Spain	UMLS:C0037747	Spain
+T17	Drug	4071	4075	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T125	Phenotype	3997	4017	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T154	Measure	4326	4362	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T155	Measure	4372	4408	Clinical Dementia Rating Scale (CDR)	UMLS:C0451074	Clinical dementia rating scale
+T20	Drug	4712	4716	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T21	Drug	4840	4844	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T22	Drug	4961	4965	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T144	Drug	5065	5074	donepezil	DrugBank:DB00843	Donepezil
+T162	Drug	5202	5214	Rivastigmine	DrugBank:DB00989	Rivastigmine
+T168	Disease	5240	5252	parkinsonism	UMLS:C0242422	Parkinsonian Disorders
+T169	Disease	5254	5267	liver disease	UMLS:C0023895	Liver diseases
+T94	Disease	5337	5351	mixed dementia	UMLS:C3532942	Mixed dementia
+T165	Drug	5375	5386	galantamine	DrugBank:DB00674	Galantamine
+T170	Disease	5306	5332	Impaired sleep-wake rhythm	UMLS:C0393771	Irregular sleep-wake pattern
+T23	Drug	5450	5454	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T95	Disease	5650	5658	Dementia	UMLS:C0497327	Dementia
+T106	Disease	5945	5947	AD	UMLS:C0002395	Alzheimer's Disease
+T107	Disease	5955	5973	Lewy body dementia	UMLS:C0752347	Lewy Body Disease
+T171	Measure	6408	6437	Mini-Mental State Examination	UMLS:C0451306	Mini-mental state examination
+T172	ScaleMin	6558	6559	0	null	null
+T173	ScaleMax	6587	6589	30	null	null
+T174	Detail	6561	6582	worse cognitive state	null	null
+T175	Detail	6591	6611	best cognitive state	null	null
+T176	Disease	6726	6728	AD	UMLS:C0002395	Alzheimer's Disease
+T177	Phenotype	6695	6712	functional losses	UMLS:C0277785	Functional disorder
+T178	Disease	6828	6830	AD	UMLS:C0002395	Alzheimer's Disease
+T181	Phenotype	7159	7168	delusions	HPO:HP:0000746	Delusions
+T182	Phenotype	7170	7184	hallucinations	HPO:HP:0000738	Hallucinations
+T183	Phenotype	7186	7206	aggressive behaviour	HPO:HP:0000718	Aggressive behavior
+T185	Phenotype	7219	7226	anxiety	HPO:HP:0000739	Anxiety
+T186	Phenotype	7228	7234	apathy	HPO:HP:0000741	Apathy
+T187	Phenotype	7236	7248	irritability	HPO:HP:0000737	Irritability
+T188	Phenotype	7250	7274	aberrant motor behaviour	null	null
+T189	Phenotype	7276	7305	appetite and eating disorders	UMLS:C0003621	Appetite Disorders
+T190	Phenotype	7276	7305	appetite and eating disorders	UMLS:C0013473	Eating Disorders
+T191	Phenotype	7307	7315	euphoria	UMLS:C0235146	Euphoric mood
+T192	Phenotype	7321	7334	disinhibition	HPO:HP:0000734	Disinhibition
+T97	Phenotype	7100	7157	behavioural and psychological symptoms of dementia (BPSD)	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T96	Phenotype	6926	6976	Behavioural and Psychological Symptoms of Dementia	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T193	Phenotype	7342	7346	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T201	Measure	7414	7440	Neuropsychiatric Inventory	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T194	Phenotype	7507	7511	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T126	Phenotype	7618	7636	cognitive symptoms	UMLS:C0525041	Neurobehavioral Manifestations
+T196	Phenotype	7710	7714	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T197	Phenotype	7813	7817	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T198	Phenotype	7849	7853	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T25	Drug	8165	8169	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T26	Drug	8300	8304	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T202	Phenotype	8412	8417	falls	HPO:HP:0002527	Falls
+T203	Phenotype	8419	8439	falls with fractures	null	null
+T204	Phenotype	8453	8474	loss of consciousness	HPO:HP:0007185	Loss of consciousness
+T27	Drug	8837	8841	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T29	Drug	8897	8901	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T28	Drug	8985	8989	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T30	Drug	9025	9029	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T32	Drug	9076	9080	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T33	Drug	9125	9129	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T31	Drug	9220	9224	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T34	Drug	9230	9234	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T35	Drug	9412	9416	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T36	Drug	9479	9493	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T205	Disease	9586	9602	chronic diseases	UMLS:C0008679	Chronic disease
+T37	Drug	9994	9998	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T156	Measure	10154	10158	MMSE	UMLS:C0451306	Mini-mental state examination
+T199	Phenotype	10211	10215	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T38	Drug	10419	10423	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T206	Drug	10500	10513	antipsychotic	UMLS:C0040615	Antipsychotic Agents
+T207	Demographic	10738	10745	Chicago	UMLS:C0008044	Chicago
+T208	Demographic	10753	10756	USA	UMLS:C0041703	United States
+T98	Disease	11135	11143	dementia	UMLS:C0497327	Dementia
+T99	Disease	10942	10959	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T127	Phenotype	10908	10928	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T128	Phenotype	11111	11131	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T179	Disease	11012	11014	AD	UMLS:C0002395	Alzheimer's Disease
+T180	Disease	11018	11035	Lewy body disease	UMLS:C0752347	Lewy Body Disease
+T100	Disease	11050	11068	secondary dementia	UMLS:C0856416	Secondary dementia
+T108	Disease	11799	11817	Lewy body dementia	UMLS:C0752347	Lewy Body Disease
+T209	Drug	11859	11880	neuroleptic treatment	UMLS:C0040615	Antipsychotic Agents
+T210	AgeGroup	11684	11689	older	null	null
+T40	Drug	12086	12100	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T114	Gender	12249	12255	female	Gender:C0015780	female
+T101	Disease	12429	12451	mild stage of dementia	UMLS:C3494623	Mild dementia
+T157	Measure	12469	12472	CDR	UMLS:C0451074	Clinical dementia rating scale
+T158	Measure	12474	12477	CDR	UMLS:C0451074	Clinical dementia rating scale
+T159	Measure	12489	12492	CDR	UMLS:C0451074	Clinical dementia rating scale
+T160	Measure	12502	12505	CDR	UMLS:C0451074	Clinical dementia rating scale
+T161	Measure	12518	12521	CDR	UMLS:C0451074	Clinical dementia rating scale
+T115	Gender	12562	12568	female	Gender:C0015780	female
+T41	Drug	12769	12773	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T145	Drug	12718	12727	Donepezil	DrugBank:DB00843	Donepezil
+T150	Drug	12794	12805	galantamine	DrugBank:DB00674	Galantamine
+T151	Drug	12818	12830	rivastigmine	DrugBank:DB00989	Rivastigmine
+T146	Drug	12840	12849	Donepezil	DrugBank:DB00843	Donepezil
+T147	Drug	12920	12931	galantamine	DrugBank:DB00674	Galantamine
+T148	Drug	12936	12948	rivastigmine	DrugBank:DB00989	Rivastigmine
+T152	Disease	12908	12910	AD	UMLS:C0002395	Alzheimer's Disease
+T213	Disease	13014	13016	AD	UMLS:C0002395	Alzheimer's Disease
+T214	Disease	13061	13078	Lewy body disease	UMLS:C0752347	Lewy Body Disease
+T149	Drug	13171	13180	donepezil	DrugBank:DB00843	Donepezil
+T166	Drug	13091	13102	Galantamine	DrugBank:DB00674	Galantamine
+T215	Disease	13149	13161	hypertension	UMLS:C0020538	Hypertensive disease
+T129	Phenotype	13313	13336	cognitive deterioration	HPO:HP:0001268	Mental deterioration
+T163	Drug	13262	13274	Rivastigmine	DrugBank:DB00989	Rivastigmine
+T216	Phenotype	13343	13349	apathy	HPO:HP:0000741	Apathy
+T42	Drug	13629	13633	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T43	Drug	13671	13675	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T44	Drug	13876	13880	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T45	Drug	14013	14027	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T46	Drug	13955	13959	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T218	AgeGroup	13965	13972	younger	null	null
+T47	Drug	14063	14067	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T48	Drug	14177	14181	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T219	Drug	14077	14092	antidepressants	UMLS:C0003289	Antidepressive Agents
+T49	Drug	14281	14285	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T50	Drug	14495	14499	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T51	Drug	14644	14648	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T52	Drug	14671	14675	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T53	Drug	14904	14908	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T122	Phenotype	14719	14742	behavioural disturbance	HPO:HP:0000708	Behavioral abnormality
+T130	Phenotype	14752	14775	cognitive deterioration	HPO:HP:0001268	Mental deterioration
+T220	Phenotype	14940	14964	functional deterioration	null	null
+T54	Drug	15425	15439	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T221	Phenotype	15320	15329	delusions	HPO:HP:0000746	Delusions
+T55	Drug	15537	15541	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T123	Phenotype	15571	15594	behavioural disturbance	HPO:HP:0000708	Behavioral abnormality
+T222	Drug	15661	15684	psychotropic medication	UMLS:C0033978	Psychotropic Drugs
+T56	Drug	15878	15882	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T57	Drug	15977	15991	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T223	Drug	15769	15781	neuroleptics	UMLS:C0040615	Antipsychotic Agents
+T224	Drug	16139	16163	psychotropic medications	UMLS:C0033978	Psychotropic Drugs
+T58	Drug	16474	16478	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T59	Drug	16624	16638	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T60	Drug	16762	16766	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T200	Phenotype	16777	16781	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T62	Drug	16958	16972	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T61	Drug	17009	17023	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T63	Drug	17229	17233	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T65	Drug	17487	17491	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T64	Drug	17568	17572	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T66	Drug	17763	17767	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T153	Drug	17824	17833	donepezil	DrugBank:DB00843	Donepezil
+T164	Drug	17953	17965	rivastigmine	DrugBank:DB00989	Rivastigmine
+T167	Drug	17911	17922	galantamine	DrugBank:DB00674	Galantamine
+T67	Drug	18068	18072	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T68	Drug	18170	18174	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T69	Drug	18370	18374	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T70	Drug	18504	18518	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T109	Disease	18542	18544	AD	UMLS:C0002395	Alzheimer's Disease
+T110	Disease	18548	18566	Lewy body dementia	UMLS:C0752347	Lewy Body Disease
+T71	Drug	18871	18885	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T225	Disease	18752	18775	cerebrovascular disease	UMLS:C0007820	Cerebrovascular Disorders
+T73	Drug	19298	19302	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T74	Drug	19549	19553	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T75	Drug	19584	19588	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T76	Drug	19669	19673	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T77	Drug	19861	19865	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T78	Drug	19930	19934	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T79	Drug	19962	19966	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T80	Drug	20053	20057	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T81	Drug	20265	20269	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T82	Drug	20552	20566	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T211	AgeGroup	20572	20577	older	null	null
+T212	AgeGroup	20688	20693	older	null	null
+T226	Disease	20602	20618	chronic diseases	UMLS:C0008679	Chronic disease
+T228	AgeGroup	20790	20793	old	null	null
+T83	Drug	21002	21006	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T84	Drug	20867	20871	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T131	Phenotype	20896	20934	cognitive and functional deterioration	HPO:HP:0001268	Mental deterioration
+T132	Phenotype	20896	20934	cognitive and functional deterioration	null	null
+T102	Disease	21184	21192	dementia	UMLS:C0497327	Dementia
+T85	Drug	21296	21300	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T133	Phenotype	21342	21365	cognitive deterioration	HPO:HP:0001268	Mental deterioration
+T87	Drug	21387	21391	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T111	Disease	21453	21487	Alzheimer's and Lewy body dementia	UMLS:C0002395	Alzheimer's Disease
+T112	Disease	21453	21487	Alzheimer's and Lewy body dementia	UMLS:C0752347	Lewy Body Disease
+T86	Drug	21703	21717	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+R1	hasScale	6408	6437	Measure	6558	6559	ScaleMin
+R2	hasScale	6408	6437	Measure	6587	6589	ScaleMax
+R3	hasDetail	6558	6559	ScaleMin	6561	6582	Detail
+R4	hasDetail	6587	6589	ScaleMax	6591	6611	Detail

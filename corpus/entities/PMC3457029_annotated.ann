@@ -1,0 +1,56 @@
+T1	Disease	48	67	Alzheimer's Disease	UMLS:C0002395	Alzheimer's Disease
+T2	Disease	311	335	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T4	Disease	600	602	AD	UMLS:C0002395	Alzheimer's Disease
+T5	Disease	664	666	AD	UMLS:C0002395	Alzheimer's Disease
+T30	Measure	780	809	Mini-Mental State Examination	UMLS:C0451306	Mini-mental state examination
+T35	Measure	866	909	global Clinical Dementia Rating (CDR) scale	UMLS:C0451074	Clinical dementia rating scale
+T51	Phenotype	677	695	higher serum G-CSF	null	null
+T6	Disease	1028	1030	AD	UMLS:C0002395	Alzheimer's Disease
+T42	Phenotype	1110	1117	illness	UMLS:C0221423	Illness (finding)
+T3	Disease	2013	2037	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T43	Phenotype	2113	2133	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T45	Phenotype	2150	2170	chronic inflammation	UMLS:C0021376	Chronic inflammation
+T7	Disease	2416	2418	AD	UMLS:C0002395	Alzheimer's Disease
+T8	Disease	2597	2599	AD	UMLS:C0002395	Alzheimer's Disease
+T9	Disease	3087	3089	AD	UMLS:C0002395	Alzheimer's Disease
+T31	Measure	3176	3212	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T37	Measure	3226	3262	Clinical Dementia Rating (CDR) scale	UMLS:C0451074	Clinical dementia rating scale
+T10	Disease	3512	3514	AD	UMLS:C0002395	Alzheimer's Disease
+T60	Demographic	4021	4024	USA	UMLS:C0041703	United States
+T11	Disease	4982	4984	AD	UMLS:C0002395	Alzheimer's Disease
+T32	Measure	5054	5058	MMSE	UMLS:C0451306	Mini-mental state examination
+T38	Measure	5063	5066	CDR	UMLS:C0451074	Clinical dementia rating scale
+T12	Disease	5521	5523	AD	UMLS:C0002395	Alzheimer's Disease
+T49	AgeGroup	5644	5649	older	null	null
+T50	Ethnicity	5591	5599	Hispanic	UMLS:C0086409	Hispanics
+T13	Disease	5920	5922	AD	UMLS:C0002395	Alzheimer's Disease
+T14	Disease	6624	6626	AD	UMLS:C0002395	Alzheimer's Disease
+T33	Measure	6742	6746	MMSE	UMLS:C0451306	Mini-mental state examination
+T40	Measure	6840	6850	CDR Global	UMLS:C0451074	Clinical dementia rating scale
+T53	Phenotype	6656	6674	higher serum G-CSF	null	null
+T15	Disease	7169	7171	AD	UMLS:C0002395	Alzheimer's Disease
+T16	Disease	7343	7345	AD	UMLS:C0002395	Alzheimer's Disease
+T47	Phenotype	7456	7468	inflammation	UMLS:C0021368	Inflammation
+T17	Disease	7758	7760	AD	UMLS:C0002395	Alzheimer's Disease
+T18	Disease	8152	8154	AD	UMLS:C0002395	Alzheimer's Disease
+T44	Phenotype	8241	8261	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T54	Phenotype	8197	8227	decreases β-amyloid deposition	null	null
+T19	Disease	8397	8399	AD	UMLS:C0002395	Alzheimer's Disease
+T21	Disease	8472	8474	AD	UMLS:C0002395	Alzheimer's Disease
+T20	Disease	8554	8556	AD	UMLS:C0002395	Alzheimer's Disease
+T22	Disease	8645	8647	AD	UMLS:C0002395	Alzheimer's Disease
+T48	Ethnicity	8493	8502	Caucasian	UMLS:C0043157	Caucasians
+T55	Phenotype	8603	8630	lower serum levels of G-CSF	null	null
+T34	Measure	8866	8870	MMSE	UMLS:C0451306	Mini-mental state examination
+T41	Measure	8875	8878	CDR	UMLS:C0451074	Clinical dementia rating scale
+T23	Disease	8986	8988	AD	UMLS:C0002395	Alzheimer's Disease
+T56	Phenotype	8951	8969	lower plasma G-CSF	null	null
+T24	Disease	9068	9070	AD	UMLS:C0002395	Alzheimer's Disease
+T25	Disease	9317	9319	AD	UMLS:C0002395	Alzheimer's Disease
+T57	Phenotype	9404	9425	increased serum G-CSF	null	null
+T26	Disease	9705	9707	AD	UMLS:C0002395	Alzheimer's Disease
+T27	Disease	9872	9874	AD	UMLS:C0002395	Alzheimer's Disease
+T28	Disease	10553	10555	AD	UMLS:C0002395	Alzheimer's Disease
+T58	Phenotype	10514	10537	reduced G-CSF abundance	null	null
+T59	Phenotype	10693	10711	elevation in G-CSF	null	null
+T29	Disease	11064	11066	AD	UMLS:C0002395	Alzheimer's Disease

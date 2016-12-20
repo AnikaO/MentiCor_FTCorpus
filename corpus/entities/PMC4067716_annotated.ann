@@ -1,0 +1,402 @@
+T1	Drug	44	53	Donepezil	DrugBank:DB00843	Donepezil
+T3	Drug	57	68	Galantamine	DrugBank:DB00674	Galantamine
+T87	Phenotype	95	144	Behavioral and Psychological Symptoms of Dementia	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T126	Disease	148	167	Alzheimer's Disease	UMLS:C0002395	Alzheimer's Disease
+T2	Drug	387	396	donepezil	DrugBank:DB00843	Donepezil
+T4	Drug	400	411	galantamine	DrugBank:DB00674	Galantamine
+T59	Drug	197	208	galantamine	DrugBank:DB00674	Galantamine
+T88	Phenotype	226	282	behavioral and psychological symptoms of dementia (BPSD)	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T127	Disease	303	334	mild cognitive impairment (MCI)	UMLS:C1270972	Mild cognitive disorder
+T128	Disease	339	363	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T5	Drug	455	464	donepezil	DrugBank:DB00843	Donepezil
+T6	Drug	468	479	galantamine	DrugBank:DB00674	Galantamine
+T130	Disease	557	569	amnestic MCI	null	null
+T131	Disease	582	601	mild-to-moderate AD	UMLS:C0002395	Alzheimer's Disease
+T60	Drug	659	670	galantamine	DrugBank:DB00674	Galantamine
+T199	Measure	694	730	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T200	Measure	740	772	Neuropsychiatric Inventory (NPI)	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T201	Measure	777	813	NPI Brief Questionnaire Form (NPI-Q)	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T111	Phenotype	903	907	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T132	Disease	975	977	AD	UMLS:C0002395	Alzheimer's Disease
+T133	Disease	1044	1055	moderate AD	UMLS:C0002395	Alzheimer's Disease
+T183	Phenotype	923	932	delusions	HPO:HP:0000746	Delusions
+T184	Phenotype	934	943	agitation	HPO:HP:0000713	Agitation
+T202	Measure	866	869	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T203	Measure	1057	1061	MMSE	UMLS:C0451306	Mini-mental state examination
+T204	Disease	1121	1124	MCI	UMLS:C1270972	Mild cognitive disorder
+T205	Measure	1126	1130	MMSE	UMLS:C0451306	Mini-mental state examination
+T134	Disease	1291	1293	AD	UMLS:C0002395	Alzheimer's Disease
+T228	Measure	1158	1163	NPI-Q	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T135	Disease	1361	1363	AD	UMLS:C0002395	Alzheimer's Disease
+T206	Measure	1304	1308	MMSE	UMLS:C0451306	Mini-mental state examination
+T259	Disease	1342	1345	MCI	UMLS:C1270972	Mild cognitive disorder
+T7	Drug	1415	1424	donepezil	DrugBank:DB00843	Donepezil
+T8	Drug	1428	1439	galantamine	DrugBank:DB00674	Galantamine
+T9	Drug	1534	1543	donepezil	DrugBank:DB00843	Donepezil
+T10	Drug	1588	1607	donepezil treatment	DrugBank:DB00843	Donepezil
+T112	Phenotype	1509	1513	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T136	Disease	1491	1493	AD	UMLS:C0002395	Alzheimer's Disease
+T89	Phenotype	1708	1764	behavioral and psychological symptoms of dementia (BPSD)	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T129	Disease	1639	1663	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T186	Phenotype	1773	1782	delusions	HPO:HP:0000746	Delusions
+T187	Phenotype	1784	1798	hallucinations	HPO:HP:0000738	Hallucinations
+T188	Phenotype	1800	1810	depression	HPO:HP:0000716	Depression
+T189	Phenotype	1811	1820	dysphoria	UMLS:C0233477	Dysphoric mood
+T190	Phenotype	1822	1829	anxiety	HPO:HP:0000739	Anxiety
+T191	Phenotype	1831	1840	agitation	HPO:HP:0000713	Agitation
+T192	Phenotype	1841	1851	aggression	HPO:HP:0000718	Aggressive behavior
+T193	Phenotype	1853	1860	elation	UMLS:C0233492	Elation
+T194	Phenotype	1861	1869	euphoria	UMLS:C0235146	Euphoric mood
+T195	Phenotype	1871	1884	disinhibition	HPO:HP:0000734	Disinhibition
+T196	Phenotype	1886	1898	irritability	HPO:HP:0000737	Irritability
+T198	Phenotype	1909	1928	apathy/indifference	HPO:HP:0000741	Apathy
+T260	Phenotype	1673	1706	disturbance of cognitive function	HPO:HP:0100543	Cognitive impairment
+T113	Phenotype	2250	2254	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T137	Disease	2060	2067	mild AD	UMLS:C0002395	Alzheimer's Disease
+T138	Disease	2219	2240	moderate or severe AD	UMLS:C0002395	Alzheimer's Disease
+T261	Phenotype	2073	2093	psychiatric symptoms	UMLS:C0233401	Psychiatric symptom
+T262	Phenotype	2095	2104	delusions	HPO:HP:0000746	Delusions
+T263	Phenotype	2106	2120	hallucinations	HPO:HP:0000738	Hallucinations
+T264	Phenotype	2126	2144	emotional symptoms	null	null
+T265	Phenotype	2146	2155	agitation	HPO:HP:0000713	Agitation
+T266	Phenotype	2157	2166	dysphoria	UMLS:C0233477	Dysphoric mood
+T267	Phenotype	2168	2175	anxiety	HPO:HP:0000739	Anxiety
+T268	Phenotype	2177	2189	irritability	HPO:HP:0000737	Irritability
+T269	Phenotype	2305	2322	cognitive changes	UMLS:C1392786	Cognitive changes
+T114	Phenotype	2340	2344	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T139	Disease	2465	2467	AD	UMLS:C0002395	Alzheimer's Disease
+T284	Phenotype	2386	2392	stress	UMLS:C0038435	Stress
+T115	Phenotype	2526	2530	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T285	Disease	2609	2617	dementia	UMLS:C0497327	Dementia
+T11	Drug	2715	2724	donepezil	DrugBank:DB00843	Donepezil
+T61	Drug	2640	2651	Galantamine	DrugBank:DB00674	Galantamine
+T140	Disease	2786	2805	mild to moderate AD	UMLS:C0002395	Alzheimer's Disease
+T286	Demographic	2668	2673	Japan	UMLS:C0022341	Japan
+T62	Drug	2807	2818	Galantamine	DrugBank:DB00674	Galantamine
+T90	Phenotype	3001	3041	behavioral and neuropsychiatric symptoms	UMLS:C0004941	Behavioral Symptoms
+T91	Phenotype	3001	3041	behavioral and neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T287	Drug	2932	2970	acetylcholinesterase inhibitor (AChEI)	UMLS:C0001046	Acetylcholinesterase Inhibitors
+T12	Drug	3174	3183	donepezil	DrugBank:DB00843	Donepezil
+T13	Drug	3187	3198	galantamine	DrugBank:DB00674	Galantamine
+T14	Drug	3333	3342	donepezil	DrugBank:DB00843	Donepezil
+T15	Drug	3388	3407	donepezil treatment	DrugBank:DB00843	Donepezil
+T63	Drug	3078	3089	galantamine	DrugBank:DB00674	Galantamine
+T116	Phenotype	3123	3127	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T117	Phenotype	3307	3311	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T142	Disease	3288	3290	AD	UMLS:C0002395	Alzheimer's Disease
+T141	Disease	3243	3283	amnestic mild cognitive impairment (MCI)	null	null
+T288	Phenotype	3097	3118	symptoms of cognition	UMLS:C0525041	Neurobehavioral Manifestations
+T143	Disease	3467	3470	MCI	UMLS:C1270972	Mild cognitive disorder
+T144	Disease	3474	3502	mild to moderate probable AD	UMLS:C0002395	Alzheimer's Disease
+T289	AgeGroup	3719	3730	62-95 years	AgeGroups:C0683973	middle aged adult (45-64 years)
+T290	AgeGroup	3719	3730	62-95 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T291	AgeGroup	3719	3730	62-95 years	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T292	Gender	3797	3803	female	Gender:C0015780	female
+T16	Drug	3830	3839	donepezil	DrugBank:DB00843	Donepezil
+T207	Measure	3895	3931	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T145	Disease	3988	3990	AD	UMLS:C0002395	Alzheimer's Disease
+T294	Phenotype	4146	4169	reduction of blood flow	UMLS:C0232342	Decreased vascular flow
+T293	Phenotype	4015	4040	atrophy of the hippocampi	UMLS:C3280737	Hippocampal atrophy (1 patient)
+T208	Measure	4282	4286	MMSE	UMLS:C0451306	Mini-mental state examination
+T295	Disease	4230	4242	amnestic MCI	null	null
+T296	Phenotype	4306	4329	reduction of blood flow	UMLS:C0232342	Decreased vascular flow
+T297	Phenotype	4426	4445	hippocampal atrophy	UMLS:C3280737	Hippocampal atrophy (1 patient)
+T146	Disease	4517	4543	neurodegenerative diseases	UMLS:C0524851	Neurodegenerative Disorders
+T147	Disease	4555	4557	AD	UMLS:C0002395	Alzheimer's Disease
+T271	Disease	4590	4598	dementia	UMLS:C0497327	Dementia
+T272	Disease	4607	4630	frontotemporal dementia	UMLS:C0338451	Frontotemporal dementia
+T273	Disease	4635	4660	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T274	Phenotype	4662	4682	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T275	Disease	4698	4722	cerebrovascular dementia	null	null
+T276	Disease	4724	4745	metabolic disturbance	UMLS:C0746556	metabolic disturbance
+T279	Disease	4754	4806	hepatic, renal, pulmonary and endocrine disturbances	UMLS:C0014130	Endocrine System Diseases
+T279	Disease	4754	4806	hepatic, renal, pulmonary and endocrine disturbances	UMLS:C0014130	Endocrine System Diseases
+T279	Disease	4754	4806	hepatic, renal, pulmonary and endocrine disturbances	UMLS:C0014130	Endocrine System Diseases
+T279	Disease	4754	4806	hepatic, renal, pulmonary and endocrine disturbances	UMLS:C0014130	Endocrine System Diseases
+T281	Disease	4808	4826	vitamin deficiency	UMLS:C1510471	Vitamin Deficiency
+T282	Disease	4828	4836	epilepsy	UMLS:C0014544	Epilepsy
+T283	Disease	4842	4861	psychiatric disease	UMLS:C0004936	Mental disorders
+T270	Phenotype	4916	4933	cognitive decline	HPO:HP:0001268	Mental deterioration
+T148	Disease	5238	5241	MCI	UMLS:C1270972	Mild cognitive disorder
+T149	Disease	5255	5257	AD	UMLS:C0002395	Alzheimer's Disease
+T298	Ethnicity	5183	5191	Japanese	UMLS:C1556094	Japanese race
+T299	Phenotype	5485	5510	gastrointestinal symptoms	UMLS:C0426576	Gastrointestinal symptom
+T300	Phenotype	5519	5525	nausea	HPO:HP:0002018	Nausea
+T301	Phenotype	5527	5535	vomiting	HPO:HP:0002013	Vomiting
+T302	Phenotype	5540	5548	diarrhea	HPO:HP:0002014	Diarrhea
+T17	Drug	5579	5588	donepezil	DrugBank:DB00843	Donepezil
+T18	Drug	5723	5732	donepezil	DrugBank:DB00843	Donepezil
+T19	Drug	5778	5797	donepezil treatment	DrugBank:DB00843	Donepezil
+T64	Drug	5592	5603	galantamine	DrugBank:DB00674	Galantamine
+T150	Disease	5662	5665	MCI	UMLS:C1270972	Mild cognitive disorder
+T151	Disease	5670	5672	AD	UMLS:C0002395	Alzheimer's Disease
+T20	Drug	5814	5823	donepezil	DrugBank:DB00843	Donepezil
+T21	Drug	5888	5899	galantamine	DrugBank:DB00674	Galantamine
+T24	Drug	5985	5991	AChEIs	UMLS:C0001046	Acetylcholinesterase Inhibitors
+T26	Drug	6057	6072	antidepressants	UMLS:C0003289	Antidepressive Agents
+T27	Drug	6076	6100	psychotropic medications	UMLS:C0033978	Psychotropic Drugs
+T28	Drug	6109	6120	anxiolytics	UMLS:C0040616	Anti-Anxiety Agents
+T29	Drug	6122	6131	hypnotics	UMLS:C0020591	Hypnotics
+T30	Drug	6137	6149	neuroleptics	UMLS:C0040615	Antipsychotic Agents
+T22	Drug	6495	6504	donepezil	DrugBank:DB00843	Donepezil
+T23	Drug	6508	6519	galantamine	DrugBank:DB00674	Galantamine
+T209	Measure	6232	6236	MMSE	UMLS:C0451306	Mini-mental state examination
+T229	Measure	6276	6308	Neuropsychiatric Inventory (NPI)	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T230	Measure	6323	6347	Caregiver Distress Scale	null	null
+T231	Measure	6356	6415	Neuropsychiatric Inventory Brief Questionnaire Form (NPI-Q)	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T92	Phenotype	6649	6658	delusions	HPO:HP:0000746	Delusions
+T93	Phenotype	6660	6674	hallucinations	HPO:HP:0000738	Hallucinations
+T94	Phenotype	6676	6686	depression	HPO:HP:0000716	Depression
+T95	Phenotype	6687	6696	dysphoria	UMLS:C0233477	Dysphoric mood
+T96	Phenotype	6698	6705	anxiety	HPO:HP:0000739	Anxiety
+T97	Phenotype	6707	6716	agitation	HPO:HP:0000713	Agitation
+T98	Phenotype	6717	6727	aggression	HPO:HP:0000718	Aggressive behavior
+T99	Phenotype	6729	6736	elation	UMLS:C0233492	Elation
+T100	Phenotype	6737	6745	euphoria	UMLS:C0235146	Euphoric mood
+T101	Phenotype	6747	6760	disinhibition	HPO:HP:0000734	Disinhibition
+T102	Phenotype	6762	6774	irritability	HPO:HP:0000737	Irritability
+T105	Phenotype	6785	6804	apathy/indifference	HPO:HP:0000741	Apathy
+T106	Phenotype	6838	6842	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T107	Disease	6870	6878	dementia	UMLS:C0497327	Dementia
+T232	Measure	6525	6528	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T303	Phenotype	6614	6622	distress	UMLS:C0231303	Distress
+T304	Measure	6889	6892	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T305	Phenotype	6937	6968	neuropsychiatric manifestations	UMLS:C3534763	One or more neuropsychiatric symptoms
+T351	ScaleMin	7043	7044	1	null	null
+T352	ScaleMax	7045	7046	4	null	null
+T353	ScaleMin	7062	7063	1	null	null
+T354	ScaleMax	7064	7065	3	null	null
+T306	Phenotype	7144	7152	distress	UMLS:C0231303	Distress
+T307	Phenotype	7180	7204	neuropsychiatric symptom	UMLS:C3534763	One or more neuropsychiatric symptoms
+T308	ScaleMin	7227	7228	0	null	null
+T309	ScaleMax	7246	7247	5	null	null
+T310	Detail	7230	7241	no distress	null	null
+T311	Detail	7249	7265	extreme distress	null	null
+T152	Phenotype	7318	7343	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T153	Disease	7347	7349	AD	UMLS:C0002395	Alzheimer's Disease
+T233	Measure	7272	7275	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T234	Measure	7368	7373	NPI-Q	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T312	Phenotype	7432	7457	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T313	Phenotype	7483	7491	distress	UMLS:C0231303	Distress
+T314	Phenotype	7741	7749	distress	UMLS:C0231303	Distress
+T235	Measure	7763	7768	NPI-Q	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T315	ScaleMin	7859	7860	0	null	null
+T316	ScaleMax	7871	7872	1	null	null
+T317	ScaleMax	7881	7882	2	null	null
+T318	ScaleMax	7899	7900	3	null	null
+T319	Detail	7862	7868	absent	null	null
+T320	Detail	7874	7878	mild	null	null
+T321	Detail	7884	7892	moderate	null	null
+T322	Detail	7902	7908	severe	null	null
+T256	Measure	7921	7926	NPI-Q	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T323	ScaleMin	8006	8007	0	null	null
+T324	ScaleMax	8011	8013	30	null	null
+T257	Measure	8019	8043	NPI-Q caregiver distress	null	null
+T325	ScaleMin	8066	8067	0	null	null
+T326	ScaleMax	8085	8086	5	null	null
+T327	Detail	8069	8080	no distress	null	null
+T328	Detail	8088	8099	very severe	null	null
+T258	Measure	8112	8126	NPI-Q distress	null	null
+T329	ScaleMin	8197	8198	0	null	null
+T330	ScaleMax	8202	8204	50	null	null
+T254	Measure	8234	8237	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T255	Measure	8242	8247	NPI-Q	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T31	Drug	8371	8380	donepezil	DrugBank:DB00843	Donepezil
+T32	Drug	8384	8395	galantamine	DrugBank:DB00674	Galantamine
+T210	Measure	8316	8320	MMSE	UMLS:C0451306	Mini-mental state examination
+T211	Measure	8322	8325	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T212	Measure	8330	8335	NPI-Q	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T154	Disease	8644	8646	AD	UMLS:C0002395	Alzheimer's Disease
+T155	Disease	8657	8660	MCI	UMLS:C1270972	Mild cognitive disorder
+T156	Disease	8679	8686	mild AD	UMLS:C0002395	Alzheimer's Disease
+T157	Disease	8710	8721	moderate AD	UMLS:C0002395	Alzheimer's Disease
+T213	Measure	8662	8666	MMSE	UMLS:C0451306	Mini-mental state examination
+T214	Measure	8688	8692	MMSE	UMLS:C0451306	Mini-mental state examination
+T215	Measure	8723	8727	MMSE	UMLS:C0451306	Mini-mental state examination
+T236	Measure	8558	8561	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T237	Measure	8566	8571	NPI-Q	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T331	ScaleMax	8673	8676	≥24	null	null
+T332	ScaleMin	8699	8701	20	null	null
+T333	ScaleMax	8702	8704	23	null	null
+T334	ScaleMin	8734	8736	10	null	null
+T335	ScaleMax	8737	8739	19	null	null
+T337	Phenotype	8917	8931	overexcitement	UMLS:C0424317	Uncontrollable excitement
+T338	Phenotype	8983	8994	dehydration	HPO:HP:0001944	Dehydration
+T33	Drug	9166	9175	donepezil	DrugBank:DB00843	Donepezil
+T34	Drug	9179	9190	galantamine	DrugBank:DB00674	Galantamine
+T339	Gender	9291	9297	female	Gender:C0015780	female
+T35	Drug	9320	9341	galantamine treatment	DrugBank:DB00674	Galantamine
+T65	Drug	9397	9408	galantamine	DrugBank:DB00674	Galantamine
+T36	Drug	9550	9559	donepezil	DrugBank:DB00843	Donepezil
+T66	Drug	9664	9675	galantamine	DrugBank:DB00674	Galantamine
+T340	Drug	9503	9512	memantine	DrugBank:DB01043	Memantine
+T341	Drug	9619	9628	memantine	DrugBank:DB01043	Memantine
+T342	Drug	9722	9745	antihypertensive agents	UMLS:C0003364	Antihypertensive Agents
+T343	Drug	9768	9789	antithrombotic agents	UMLS:C1704311	Antithrombotic Agents
+T344	Drug	9812	9832	hypolipidemic agents	UMLS:C0086440	Hypolipidemic Agents
+T345	Drug	9854	9867	antidiabetics	UMLS:C0935929	Antidiabetics
+T346	Drug	9889	9898	memantine	DrugBank:DB01043	Memantine
+T347	Drug	9923	9936	anticoagulant	UMLS:C0003280	Anticoagulants
+T348	Drug	9959	9969	quetiapine	DrugBank:DB01224	Quetiapine
+T37	Drug	10019	10028	donepezil	DrugBank:DB00843	Donepezil
+T38	Drug	10032	10043	galantamine	DrugBank:DB00674	Galantamine
+T158	Disease	10140	10142	AD	UMLS:C0002395	Alzheimer's Disease
+T216	Measure	10158	10162	MMSE	UMLS:C0451306	Mini-mental state examination
+T217	Measure	10186	10190	MMSE	UMLS:C0451306	Mini-mental state examination
+T238	Measure	10299	10302	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T218	Measure	10505	10509	MMSE	UMLS:C0451306	Mini-mental state examination
+T219	Measure	10575	10579	MMSE	UMLS:C0451306	Mini-mental state examination
+T239	Measure	10623	10626	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T349	Disease	10486	10489	MCI	UMLS:C1270972	Mild cognitive disorder
+T67	Drug	10909	10920	galantamine	DrugBank:DB00674	Galantamine
+T160	Disease	10821	10843	moderately advanced AD	UMLS:C0002395	Alzheimer's Disease
+T220	Measure	10777	10781	MMSE	UMLS:C0451306	Mini-mental state examination
+T221	Measure	10853	10857	MMSE	UMLS:C0451306	Mini-mental state examination
+T222	Measure	11119	11123	MMSE	UMLS:C0451306	Mini-mental state examination
+T223	Measure	10961	10965	MMSE	UMLS:C0451306	Mini-mental state examination
+T240	Measure	10928	10931	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T159	Disease	10754	10767	MCI + mild AD	UMLS:C0002395	Alzheimer's Disease
+T350	Disease	10754	10767	MCI + mild AD	UMLS:C1270972	Mild cognitive disorder
+T161	Disease	11327	11329	AD	UMLS:C0002395	Alzheimer's Disease
+T241	Measure	11195	11198	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T355	Phenotype	11211	11220	delusions	HPO:HP:0000746	Delusions
+T356	Phenotype	11234	11243	agitation	HPO:HP:0000713	Agitation
+T162	Disease	11569	11571	AD	UMLS:C0002395	Alzheimer's Disease
+T242	Measure	11361	11366	NPI-Q	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T358	Phenotype	11510	11518	distress	UMLS:C0231303	Distress
+T359	Disease	11593	11596	MCI	UMLS:C1270972	Mild cognitive disorder
+T360	Phenotype	11701	11709	distress	UMLS:C0231303	Distress
+T68	Drug	11793	11804	galantamine	DrugBank:DB00674	Galantamine
+T224	Measure	11964	11968	MMSE	UMLS:C0451306	Mini-mental state examination
+T225	Measure	12189	12193	MMSE	UMLS:C0451306	Mini-mental state examination
+T243	Measure	11812	11817	NPI-Q	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T361	Phenotype	11887	11895	distress	UMLS:C0231303	Distress
+T362	Phenotype	12116	12124	distress	UMLS:C0231303	Distress
+T118	Phenotype	12206	12210	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T163	Disease	12256	12258	AD	UMLS:C0002395	Alzheimer's Disease
+T244	Measure	12331	12334	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T363	Phenotype	12214	12236	non-cognitive symptoms	null	null
+T119	Phenotype	12389	12393	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T164	Disease	12360	12362	AD	UMLS:C0002395	Alzheimer's Disease
+T165	Phenotype	12364	12384	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T120	Phenotype	12425	12429	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T166	Phenotype	12454	12464	disability	UMLS:C0231170	Disability
+T167	Disease	12468	12470	AD	UMLS:C0002395	Alzheimer's Disease
+T364	Phenotype	12506	12514	distress	UMLS:C0231303	Distress
+T121	Phenotype	12572	12576	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T122	Phenotype	12706	12710	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T123	Phenotype	13042	13046	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T168	Phenotype	12914	12939	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T169	Disease	12943	12945	AD	UMLS:C0002395	Alzheimer's Disease
+T367	Drug	13015	13021	AChEIs	UMLS:C0001046	Acetylcholinesterase Inhibitors
+T69	Drug	13091	13102	galantamine	DrugBank:DB00674	Galantamine
+T70	Drug	13137	13158	galantamine treatment	DrugBank:DB00674	Galantamine
+T71	Drug	13282	13293	galantamine	DrugBank:DB00674	Galantamine
+T108	Phenotype	13167	13186	behavioral symptoms	UMLS:C0004941	Behavioral Symptoms
+T109	Disease	13190	13192	AD	UMLS:C0002395	Alzheimer's Disease
+T170	Disease	13119	13121	AD	UMLS:C0002395	Alzheimer's Disease
+T245	Measure	13260	13263	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T72	Drug	13369	13380	galantamine	DrugBank:DB00674	Galantamine
+T171	Disease	13398	13417	mild to moderate AD	UMLS:C0002395	Alzheimer's Disease
+T368	Phenotype	13440	13465	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T369	Phenotype	13495	13503	distress	UMLS:C0231303	Distress
+T74	Drug	13699	13710	galantamine	DrugBank:DB00674	Galantamine
+T172	Disease	13646	13648	AD	UMLS:C0002395	Alzheimer's Disease
+T173	Phenotype	13622	13642	problematic behavior	UMLS:C0233514	Abnormal behavior
+T246	Measure	13737	13740	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T73	Drug	13596	13617	galantamine treatment	DrugBank:DB00674	Galantamine
+T370	Phenotype	13771	13780	agitation	HPO:HP:0000713	Agitation
+T371	Phenotype	13781	13791	aggression	HPO:HP:0000718	Aggressive behavior
+T372	Phenotype	13793	13800	anxiety	HPO:HP:0000739	Anxiety
+T373	Phenotype	13802	13815	disinhibition	HPO:HP:0000734	Disinhibition
+T75	Drug	13907	13918	galantamine	DrugBank:DB00674	Galantamine
+T110	Phenotype	14083	14102	behavioral problems	HPO:HP:0000708	Behavioral abnormality
+T247	Measure	13926	13929	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T39	Drug	14183	14192	donepezil	DrugBank:DB00843	Donepezil
+T76	Drug	14221	14232	galantamine	DrugBank:DB00674	Galantamine
+T174	Disease	14153	14155	AD	UMLS:C0002395	Alzheimer's Disease
+T175	Disease	14329	14331	AD	UMLS:C0002395	Alzheimer's Disease
+T176	Disease	14370	14392	moderately advanced AD	UMLS:C0002395	Alzheimer's Disease
+T177	Disease	14461	14474	MCI + mild AD	UMLS:C0002395	Alzheimer's Disease
+T178	Disease	14461	14474	MCI + mild AD	UMLS:C1270972	Mild cognitive disorder
+T179	Measure	14485	14489	MMSE	UMLS:C0451306	Mini-mental state examination
+T180	Phenotype	14588	14597	delusions	HPO:HP:0000746	Delusions
+T181	Phenotype	14599	14608	agitation	HPO:HP:0000713	Agitation
+T226	Measure	14275	14279	MMSE	UMLS:C0451306	Mini-mental state examination
+T227	Measure	14403	14407	MMSE	UMLS:C0451306	Mini-mental state examination
+T248	Measure	14315	14318	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T40	Drug	14912	14921	donepezil	DrugBank:DB00843	Donepezil
+T77	Drug	14713	14724	galantamine	DrugBank:DB00674	Galantamine
+T249	Measure	14732	14737	NPI-Q	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T376	Disease	14853	14855	AD	UMLS:C0002395	Alzheimer's Disease
+T377	Disease	14951	14954	MCI	UMLS:C1270972	Mild cognitive disorder
+T42	Drug	15053	15062	donepezil	DrugBank:DB00843	Donepezil
+T250	Measure	15152	15155	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T251	Measure	15160	15165	NPI-Q	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T41	Drug	14996	15017	galantamine treatment	DrugBank:DB00674	Galantamine
+T378	Disease	15224	15226	AD	UMLS:C0002395	Alzheimer's Disease
+T379	Drug	15453	15479	Anticholinesterase therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T380	Disease	15484	15486	AD	UMLS:C0002395	Alzheimer's Disease
+T78	Drug	15770	15781	Galantamine	DrugBank:DB00674	Galantamine
+T79	Drug	15965	15976	galantamine	DrugBank:DB00674	Galantamine
+T80	Drug	16188	16199	galantamine	DrugBank:DB00674	Galantamine
+T381	Disease	16203	16205	AD	UMLS:C0002395	Alzheimer's Disease
+T252	Measure	16230	16233	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T253	Measure	16238	16243	NPI-Q	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T43	Drug	16388	16397	donepezil	DrugBank:DB00843	Donepezil
+T44	Drug	16401	16412	galantamine	DrugBank:DB00674	Galantamine
+T382	Phenotype	16533	16565	changes in cognitive performance	UMLS:C1392786	Cognitive changes
+T45	Drug	17000	17009	donepezil	DrugBank:DB00843	Donepezil
+T81	Drug	16959	16970	galantamine	DrugBank:DB00674	Galantamine
+T46	Drug	17089	17098	donepezil	DrugBank:DB00843	Donepezil
+T47	Drug	17102	17113	galantamine	DrugBank:DB00674	Galantamine
+T383	Disease	17062	17064	AD	UMLS:C0002395	Alzheimer's Disease
+T48	Drug	17446	17455	donepezil	DrugBank:DB00843	Donepezil
+T49	Drug	17460	17471	galantamine	DrugBank:DB00674	Galantamine
+T50	Drug	17519	17528	donepezil	DrugBank:DB00843	Donepezil
+T51	Drug	17729	17738	donepezil	DrugBank:DB00843	Donepezil
+T82	Drug	17659	17670	galantamine	DrugBank:DB00674	Galantamine
+T52	Drug	17877	17886	donepezil	DrugBank:DB00843	Donepezil
+T53	Drug	17890	17901	galantamine	DrugBank:DB00674	Galantamine
+T83	Drug	17808	17819	galantamine	DrugBank:DB00674	Galantamine
+T54	Drug	17972	17981	donepezil	DrugBank:DB00843	Donepezil
+T55	Drug	18010	18021	galantamine	DrugBank:DB00674	Galantamine
+T84	Drug	18137	18148	galantamine	DrugBank:DB00674	Galantamine
+T384	Phenotype	18200	18206	nausea	HPO:HP:0002018	Nausea
+T385	Phenotype	18216	18225	dizziness	UMLS:C0012833	Dizziness
+T386	Phenotype	18237	18245	vomiting	HPO:HP:0002013	Vomiting
+T56	Drug	18501	18510	donepezil	DrugBank:DB00843	Donepezil
+T57	Drug	18695	18704	donepezil	DrugBank:DB00843	Donepezil
+T58	Drug	18749	18768	donepezil treatment	DrugBank:DB00843	Donepezil
+T85	Drug	18539	18550	galantamine	DrugBank:DB00674	Galantamine
+T124	Phenotype	18670	18674	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T387	Disease	18642	18653	moderate AD	UMLS:C0002395	Alzheimer's Disease
+T86	Drug	18874	18885	galantamine	DrugBank:DB00674	Galantamine
+T125	Phenotype	18890	18894	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+R26	hasScale	6889	6892	Measure	7043	7044	ScaleMin
+R27	hasScale	6889	6892	Measure	7045	7046	ScaleMax
+R28	hasScale	6889	6892	Measure	7062	7063	ScaleMin
+R29	hasScale	6889	6892	Measure	7064	7065	ScaleMax
+R3	hasDetail	7227	7228	ScaleMin	7230	7241	Detail
+R4	hasDetail	7246	7247	ScaleMax	7249	7265	Detail
+R5	hasDetail	7859	7860	ScaleMin	7862	7868	Detail
+R6	hasDetail	7871	7872	ScaleMax	7874	7878	Detail
+R7	hasDetail	7881	7882	ScaleMax	7884	7892	Detail
+R8	hasDetail	7899	7900	ScaleMax	7902	7908	Detail
+R9	hasScale	7763	7768	Measure	7859	7860	ScaleMin
+R10	hasScale	7763	7768	Measure	7871	7872	ScaleMax
+R11	hasScale	7763	7768	Measure	7881	7882	ScaleMax
+R12	hasScale	7763	7768	Measure	7899	7900	ScaleMax
+R13	hasScale	7921	7926	Measure	8006	8007	ScaleMin
+R14	hasScale	7921	7926	Measure	8011	8013	ScaleMax
+R15	hasScale	8019	8043	Measure	8066	8067	ScaleMin
+R16	hasScale	8019	8043	Measure	8085	8086	ScaleMax
+R17	hasDetail	8066	8067	ScaleMin	8069	8080	Detail
+R18	hasDetail	8085	8086	ScaleMax	8088	8099	Detail
+R19	hasScale	8112	8126	Measure	8197	8198	ScaleMin
+R20	hasScale	8112	8126	Measure	8202	8204	ScaleMax
+R21	hasScale	8662	8666	Measure	8673	8676	ScaleMax
+R22	hasScale	8688	8692	Measure	8699	8701	ScaleMin
+R23	hasScale	8688	8692	Measure	8702	8704	ScaleMax
+R24	hasScale	8723	8727	Measure	8734	8736	ScaleMin
+R25	hasScale	8723	8727	Measure	8737	8739	ScaleMax

@@ -1,0 +1,190 @@
+T1	Phenotype	101	113	hip fracture	UMLS:C0019557	Hip Fractures
+T106	Treatment	16	61	pre- and postoperative orthogeriatric service	null	null
+T2	Phenotype	222	235	hip fractures	UMLS:C0019557	Hip Fractures
+T27	Disease	171	179	Delirium	UMLS:C0011206	Delirium
+T28	Disease	291	299	dementia	UMLS:C0497327	Dementia
+T29	Disease	422	430	delirium	UMLS:C0011206	Delirium
+T30	Phenotype	435	464	longer-term cognitive decline	HPO:HP:0001268	Mental deterioration
+T190	Treatment	355	400	pre- and postoperative orthogeriatric service	null	null
+T5	Phenotype	556	568	hip fracture	UMLS:C0019557	Hip Fractures
+T72	Treatment	803	880	Comprehensive Geriatric Assessment including daily interdisciplinary meetings	UMLS:C0994074	Comprehensive geriatric assessment and treatment planning performed by assessment team
+T73	Measure	1000	1036	Clinical Dementia Rating Scale (CDR)	UMLS:C0451074	Clinical dementia rating scale
+T74	Measure	1090	1164	Consortium to Establish a Registry for Alzheimer’s Disease battery (CERAD)	null	null
+T154	Measure	1045	1080	10 words learning and recalls tasks	null	null
+T31	Disease	1223	1231	delirium	UMLS:C0011206	Delirium
+T34	Disease	1213	1221	delirium	UMLS:C0011206	Delirium
+T32	Disease	1765	1773	delirium	UMLS:C0011206	Delirium
+T191	Treatment	2016	2035	orthogeriatric care	null	null
+T6	Phenotype	2414	2426	hip fracture	UMLS:C0019557	Hip Fractures
+T33	Disease	2354	2362	delirium	UMLS:C0011206	Delirium
+T75	Phenotype	2366	2396	long-term cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T192	Treatment	2248	2290	Pre- and postoperative orthogeriatric care	null	null
+T7	Phenotype	2785	2797	hip fracture	UMLS:C0019557	Hip Fractures
+T3	Phenotype	2894	2907	hip fractures	UMLS:C0019557	Hip Fractures
+T4	Phenotype	2944	2957	hip fractures	UMLS:C0019557	Hip Fractures
+T8	Phenotype	3022	3034	hip fracture	UMLS:C0019557	Hip Fractures
+T76	Phenotype	3045	3050	frail	UMLS:C0871754	Frail
+T77	Disease	3066	3080	co-morbidities	UMLS:C0009488	Comorbidity
+T78	Phenotype	3091	3111	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T79	Treatment	3605	3627	Geriatric intervention	null	null
+T80	Treatment	3734	3775	postoperative orthogeriatric intervention	null	null
+T9	Phenotype	3806	3818	hip fracture	UMLS:C0019557	Hip Fractures
+T35	Disease	3822	3830	delirium	UMLS:C0011206	Delirium
+T81	Phenotype	3846	3885	acute change in cognition and alertness	UMLS:C1392786	Cognitive changes
+T82	Phenotype	3846	3885	acute change in cognition and alertness	UMLS:C2712027	Actual Impaired Alertness
+T83	Phenotype	3891	3925	altered, often psychotic, behavior	UMLS:C0542299	Behavioral change
+T84	Phenotype	3891	3925	altered, often psychotic, behavior	UMLS:C0740409	Psychotic behaviour
+T10	Phenotype	3951	3963	hip fracture	UMLS:C0019557	Hip Fractures
+T36	Disease	3997	4005	delirium	UMLS:C0011206	Delirium
+T37	Disease	4041	4049	Delirium	UMLS:C0011206	Delirium
+T85	Disease	4103	4111	dementia	UMLS:C0497327	Dementia
+T86	Disease	4146	4154	dementia	UMLS:C0497327	Dementia
+T38	Disease	4193	4201	Delirium	UMLS:C0011206	Delirium
+T87	Disease	4310	4318	dementia	UMLS:C0497327	Dementia
+T11	Phenotype	4377	4389	hip fracture	UMLS:C0019557	Hip Fractures
+T39	Disease	4365	4373	delirium	UMLS:C0011206	Delirium
+T40	Disease	4452	4460	delirium	UMLS:C0011206	Delirium
+T88	Treatment	4325	4352	Multifactorial intervention	null	null
+T89	Phenotype	4472	4499	long-term cognitive decline	HPO:HP:0001268	Mental deterioration
+T12	Phenotype	4610	4622	hip fracture	UMLS:C0019557	Hip Fractures
+T90	Treatment	4528	4550	orthogeriatric service	null	null
+T13	Phenotype	4703	4715	hip fracture	UMLS:C0019557	Hip Fractures
+T91	Phenotype	4870	4897	long-term cognitive decline	HPO:HP:0001268	Mental deterioration
+T92	Treatment	4993	5012	orthogeriatric care	null	null
+T14	Phenotype	5195	5207	hip fracture	UMLS:C0019557	Hip Fractures
+T15	Phenotype	5391	5403	hip fracture	UMLS:C0019557	Hip Fractures
+T93	Treatment	5729	5771	pre- and postoperative orthogeriatric care	null	null
+T95	Phenotype	6685	6705	emoral neck fracture	UMLS:C0015806	Femoral Neck Fractures
+T96	Phenotype	6709	6752	trochanteric or a sub-trochanteric fracture	UMLS:C0162387	Trochanteric Fractures
+T94	Phenotype	6668	6680	hip fracture	UMLS:C0019557	Hip Fractures
+T16	Phenotype	6813	6825	hip fracture	UMLS:C0019557	Hip Fractures
+T99	Phenotype	6875	6879	fall	HPO:HP:0002527	Falls
+T100	Phenotype	6924	6932	moribund	UMLS:C0424547	Moribund (finding)
+T101	Disease	7101	7124	acute medical disorders	null	null
+T102	Phenotype	7143	7150	frailty	UMLS:C0424594	Frailty
+T103	Disease	7152	7166	co-morbidities	UMLS:C0009488	Comorbidity
+T104	Phenotype	7171	7183	polypharmacy	UMLS:C2922974	Polypharmacy (finding)
+T17	Phenotype	7241	7253	hip fracture	UMLS:C0019557	Hip Fractures
+T18	Phenotype	7357	7369	hip fracture	UMLS:C0019557	Hip Fractures
+T19	Phenotype	7517	7529	hip fracture	UMLS:C0019557	Hip Fractures
+T20	Phenotype	7577	7589	hip fracture	UMLS:C0019557	Hip Fractures
+T105	Treatment	7736	7776	Comprehensive Geriatric Assessment (CGA)	UMLS:C0994074	Comprehensive geriatric assessment and treatment planning performed by assessment team
+T107	Treatment	8790	8811	geriatric assessments	UMLS:C0017463	Geriatric Assessment
+T21	Phenotype	8852	8864	hip fracture	UMLS:C0019557	Hip Fractures
+T108	Measure	9673	9741	(Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE	UMLS:C3476797	IQCODE
+T41	Disease	10250	10258	delirium	UMLS:C0011206	Delirium
+T109	Measure	10269	10302	Confusion Assessment Method (CAM)	UMLS:C2361121	Confusion Assessment Method (CAM)
+T110	Measure	10566	10569	CAM	UMLS:C2361121	Confusion Assessment Method (CAM)
+T111	Measure	10752	10795	Tests of cognition, attention and alertness	UMLS:C0870300	Assessment: Cognition
+T112	Measure	10752	10795	Tests of cognition, attention and alertness	null	null
+T113	Measure	10752	10795	Tests of cognition, attention and alertness	null	null
+T114	Phenotype	10865	10879	delayed recall	null	null
+T115	Measure	10890	10931	Memorial Delirium Assessment Scale (MDAS)	null	null
+T42	Disease	10939	10947	Delirium	UMLS:C0011206	Delirium
+T116	Measure	10975	10979	MDAS	null	null
+T43	Disease	11188	11196	delirium	UMLS:C0011206	Delirium
+T44	Measure	11217	11237	delirium assessments	null	null
+T117	Measure	11644	11659	cognitive tests	UMLS:C0870300	Assessment: Cognition
+T118	Disease	12366	12374	dementia	UMLS:C0497327	Dementia
+T45	Disease	12498	12506	delirium	UMLS:C0011206	Delirium
+T119	Disease	12571	12579	dementia	UMLS:C0497327	Dementia
+T120	Disease	12830	12845	severe dementia	UMLS:C3494652	Severe dementia
+T121	Phenotype	12852	12872	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T133	Measure	13026	13100	Consortium to Establish a Registry for Alzheimer’s disease battery (CERAD)	null	null
+T155	Measure	13003	13016	10 words test	null	null
+T136	Measure	13225	13259	immediate and delayed recall tasks	null	null
+T137	Measure	13225	13259	immediate and delayed recall tasks	null	null
+T135	Phenotype	13312	13326	memory changes	UMLS:C1822023	Memory changes
+T122	Measure	13382	13417	Clinical Dementia Rating scale (CDR	UMLS:C0451074	Clinical dementia rating scale
+T123	Disease	13591	13599	dementia	UMLS:C0497327	Dementia
+T138	Measure	13425	13428	CDR	UMLS:C0451074	Clinical dementia rating scale
+T139	Phenotype	13556	13573	cognitive changes	UMLS:C1392786	Cognitive changes
+T140	ScaleMin	13674	13678	zero	null	null
+T141	ScaleMax	13705	13707	18	null	null
+T142	Detail	13680	13700	no dementia symptoms	null	null
+T143	Detail	13709	13724	severe dementia	null	null
+T144	ScaleMin	13922	13923	0	null	null
+T145	ScaleMax	13927	13930	100	null	null
+T146	Measure	13940	13943	CDR	UMLS:C0451074	Clinical dementia rating scale
+T147	Measure	14014	14017	CDR	UMLS:C0451074	Clinical dementia rating scale
+T46	Disease	14277	14285	delirium	UMLS:C0011206	Delirium
+T47	Disease	14287	14295	delirium	UMLS:C0011206	Delirium
+T148	Measure	14422	14425	CDR	UMLS:C0451074	Clinical dementia rating scale
+T149	Measure	14518	14554	Mini-mental state examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T150	Measure	14561	14579	clock drawing test	null	null
+T151	Measure	14586	14592	IQCODE	UMLS:C3476797	IQCODE
+T156	Measure	14434	14447	10 words test	null	null
+T152	Measure	14706	14709	CDR	UMLS:C0451074	Clinical dementia rating scale
+T22	Phenotype	14811	14823	hip fracture	UMLS:C0019557	Hip Fractures
+T153	Measure	15308	15311	CDR	UMLS:C0451074	Clinical dementia rating scale
+T157	Measure	15327	15339	10-word test	null	null
+T159	Phenotype	15542	15550	moribund	UMLS:C0424547	Moribund (finding)
+T124	Disease	16884	16892	dementia	UMLS:C0497327	Dementia
+T160	Phenotype	17279	17287	moribund	UMLS:C0424547	Moribund (finding)
+T162	AgeGroup	18479	18486	younger	null	null
+T163	Gender	18562	18565	men	Gender:C0086582	male
+T125	Disease	18664	18672	dementia	UMLS:C0497327	Dementia
+T164	Phenotype	19091	19099	fracture	UMLS:C0016658	Fracture
+T126	Disease	19275	19283	dementia	UMLS:C0497327	Dementia
+T165	AgeGroup	19197	19204	younger	null	null
+T166	Phenotype	19295	19303	fracture	UMLS:C0016658	Fracture
+T48	Disease	19491	19499	delirium	UMLS:C0011206	Delirium
+T49	Disease	19621	19629	delirium	UMLS:C0011206	Delirium
+T50	Disease	19684	19692	delirium	UMLS:C0011206	Delirium
+T167	Measure	19716	19720	MDAS	null	null
+T51	Disease	19836	19844	delirium	UMLS:C0011206	Delirium
+T52	Disease	21355	21363	delirium	UMLS:C0011206	Delirium
+T168	AgeGroup	21340	21349	older age	null	null
+T169	Measure	21309	21315	IQCODE	UMLS:C3476797	IQCODE
+T158	Measure	21646	21649	CDR	UMLS:C0451074	Clinical dementia rating scale
+T170	Measure	21479	21546	CERAD immediate recall (median 12.5 versus 11.5) and delayed recall	null	null
+T171	Measure	21479	21546	CERAD immediate recall (median 12.5 versus 11.5) and delayed recall	null	null
+T172	Measure	21578	21596	clock drawing test	null	null
+T173	Measure	21615	21619	MMSE	UMLS:C0451306	Mini-mental state examination
+T174	Phenotype	22214	22222	fracture	UMLS:C0016658	Fracture
+T127	Disease	22367	22375	dementia	UMLS:C0497327	Dementia
+T23	Phenotype	23104	23116	hip fracture	UMLS:C0019557	Hip Fractures
+T53	Disease	23321	23329	Delirium	UMLS:C0011206	Delirium
+T128	Disease	23762	23770	dementia	UMLS:C0497327	Dementia
+T175	Phenotype	23904	23909	frail	UMLS:C0871754	Frail
+T176	Phenotype	23914	23934	cognitively impaired	HPO:HP:0100543	Cognitive impairment
+T177	Treatment	24864	24891	orthogeriatric intervention	null	null
+T24	Phenotype	25041	25053	hip fracture	UMLS:C0019557	Hip Fractures
+T54	Disease	25029	25037	delirium	UMLS:C0011206	Delirium
+T178	Treatment	24997	25016	orthogeriatric care	null	null
+T55	Disease	25259	25267	delirium	UMLS:C0011206	Delirium
+T179	Demographic	25122	25129	Belgium	UMLS:C0004950	Belgium
+T180	Ethnicity	25357	25365	American	UMLS:C0596070	American
+T181	Ethnicity	25374	25381	Belgian	UMLS:C0337797	Belgians
+T182	Treatment	25479	25499	orthopedic treatment	null	null
+T183	Demographic	26077	26084	Swedish	UMLS:C0038995	Sweden
+T56	Disease	26373	26381	delirium	UMLS:C0011206	Delirium
+T57	Disease	26395	26403	delirium	UMLS:C0011206	Delirium
+T58	Disease	26517	26525	delirium	UMLS:C0011206	Delirium
+T59	Disease	26601	26609	delirium	UMLS:C0011206	Delirium
+T184	Demographic	26686	26693	Swedish	UMLS:C0038995	Sweden
+T25	Phenotype	26929	26941	hip fracture	UMLS:C0019557	Hip Fractures
+T60	Treatment	26885	26904	delirium prevention	null	null
+T185	Treatment	26996	27023	Orthogeriatric intervention	null	null
+T193	Treatment	27608	27631	orthogeriatric services	null	null
+T61	Disease	28500	28508	delirium	UMLS:C0011206	Delirium
+T186	Treatment	28440	28467	orthogeriatric intervention	null	null
+T62	Disease	28554	28562	delirium	UMLS:C0011206	Delirium
+T63	Disease	28573	28581	delirium	UMLS:C0011206	Delirium
+T64	Disease	28820	28828	delirium	UMLS:C0011206	Delirium
+T129	Disease	28883	28891	dementia	UMLS:C0497327	Dementia
+T65	Disease	28899	28907	delirium	UMLS:C0011206	Delirium
+T66	Disease	29061	29069	delirium	UMLS:C0011206	Delirium
+T188	Phenotype	29089	29116	long term cognitive decline	HPO:HP:0001268	Mental deterioration
+T67	Disease	29200	29208	delirium	UMLS:C0011206	Delirium
+T68	Disease	29465	29473	delirium	UMLS:C0011206	Delirium
+T69	Disease	29615	29623	delirium	UMLS:C0011206	Delirium
+T26	Phenotype	29684	29696	hip fracture	UMLS:C0019557	Hip Fractures
+T189	Treatment	29812	29854	pre- and postoperative orthogeriatric care	null	null
+T70	Disease	30034	30042	Delirium	UMLS:C0011206	Delirium
+T71	Treatment	30112	30145	delirium prevention and treatment	null	null
+T194	Treatment	30179	30198	orthogeriatric care	null	null
+R3	hasDetail	13674	13678	ScaleMin	13680	13700	Detail
+R4	hasDetail	13705	13707	ScaleMax	13709	13724	Detail
+R5	hasScale	13940	13943	Measure	13922	13923	ScaleMin
+R6	hasScale	13940	13943	Measure	13927	13930	ScaleMax

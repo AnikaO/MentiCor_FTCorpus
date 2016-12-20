@@ -1,0 +1,198 @@
+T2	Disease	81	100	Alzheimer's Disease	UMLS:C0002395	Alzheimer's Disease
+T1	Treatment	0	36	Music Therapy Using Singing Training	null	null
+T3	Disease	213	237	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T104	Treatment	167	183	singing training	null	null
+T5	Disease	252	254	AD	UMLS:C0002395	Alzheimer's Disease
+T14	Treatment	302	315	music therapy	UMLS:C0026868	Music Therapy
+T15	Treatment	365	378	music therapy	UMLS:C0026868	Music Therapy
+T105	Treatment	322	338	singing training	null	null
+T106	Treatment	448	508	karaoke and a unique voice training method (the YUBA Method)	null	null
+T94	Measure	581	609	neuropsychological batteries	UMLS:C0451331	Neuropsychological battery
+T6	Disease	769	771	AD	UMLS:C0002395	Alzheimer's Disease
+T108	Measure	823	853	neuropsychological assessments	UMLS:C0027902	Neuropsychological Tests
+T16	Treatment	912	925	music therapy	UMLS:C0026868	Music Therapy
+T109	Measure	1156	1182	Neuropsychiatric Inventory	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T110	Measure	964	1009	Japanese Raven's Colored Progressive Matrices	UMLS:C0475506	Ravens colored progressive matrices
+T17	Treatment	1412	1438	music therapy intervention	UMLS:C0026868	Music Therapy
+T75	Disease	1508	1516	dementia	UMLS:C0497327	Dementia
+T18	Treatment	1440	1489	Music therapy intervention using singing training	null	null
+T19	Treatment	1584	1597	Music therapy	UMLS:C0026868	Music Therapy
+T20	Treatment	2037	2050	Music therapy	UMLS:C0026868	Music Therapy
+T22	Treatment	2065	2093	nonpharmaceutical treatments	null	null
+T76	Disease	2112	2120	dementia	UMLS:C0497327	Dementia
+T77	Disease	2241	2249	dementia	UMLS:C0497327	Dementia
+T79	Treatment	2209	2236	nonpharmaceutical therapies	null	null
+T111	Treatment	2275	2300	aerobic physical exercise	UMLS:C0001701	Exercise, Aerobic
+T78	Treatment	2424	2440	aerobic exercise	UMLS:C0001701	Exercise, Aerobic
+T21	Treatment	2564	2577	music therapy	UMLS:C0026868	Music Therapy
+T23	Treatment	2724	2737	music therapy	UMLS:C0026868	Music Therapy
+T80	Disease	2754	2762	dementia	UMLS:C0497327	Dementia
+T24	Treatment	2949	2962	music therapy	UMLS:C0026868	Music Therapy
+T25	Treatment	3153	3166	music therapy	UMLS:C0026868	Music Therapy
+T112	Demographic	3239	3244	Japan	UMLS:C0022341	Japan
+T81	Disease	3817	3825	dementia	UMLS:C0497327	Dementia
+T97	Treatment	3886	3932	pharmaceutical and nonpharmaceutical therapies	null	null
+T205	Phenotype	4040	4050	exhausting	UMLS:C0392674	Exhaustion
+T82	Disease	4167	4175	dementia	UMLS:C0497327	Dementia
+T84	Disease	4228	4236	Dementia	UMLS:C0497327	Dementia
+T114	Phenotype	4237	4266	impairs a patient's abilities	UMLS:C0231170	Disability
+T115	Phenotype	4351	4372	increasing disability	UMLS:C0231170	Disability
+T116	Treatment	4524	4538	voice training	UMLS:C0042944	Voice Training
+T85	Phenotype	4820	4876	behavioral and psychological symptoms of dementia (BPSD)	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T83	Disease	4943	4951	dementia	UMLS:C0497327	Dementia
+T98	Treatment	4893	4937	nonpharmaceutical singing-based intervention	null	null
+T117	Treatment	4988	5063	singing training with karaoke and a unique voice training (the YUBA Method)	null	null
+T118	Measure	5097	5127	neuropsychological assessments	UMLS:C0027902	Neuropsychological Tests
+T26	Treatment	5267	5280	music therapy	UMLS:C0026868	Music Therapy
+T119	Measure	5202	5232	neuropsychological assessments	UMLS:C0027902	Neuropsychological Tests
+T120	Treatment	5352	5367	karaoke singing	null	null
+T4	Disease	5581	5622	mild to moderate Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T7	Disease	5734	5736	AD	UMLS:C0002395	Alzheimer's Disease
+T27	Treatment	5971	5984	music therapy	UMLS:C0026868	Music Therapy
+T120	Drug	6190	6208	antidementia drugs	UMLS:C3653789	ANTI-DEMENTIA DRUGS
+T28	Treatment	6494	6507	music therapy	UMLS:C0026868	Music Therapy
+T121	Disease	6267	6291	cerebrovascular accident	UMLS:C0038454	Cerebrovascular accident
+T122	Disease	6311	6326	chronic disease	UMLS:C0008679	Chronic disease
+T123	Phenotype	6343	6353	exhaustion	UMLS:C0392674	Exhaustion
+T125	Disease	6377	6386	infection	UMLS:C3714514	Infection
+T129	Phenotype	6513	6533	psychiatric symptoms	UMLS:C0233401	Psychiatric symptom
+T8	Disease	6706	6708	AD	UMLS:C0002395	Alzheimer's Disease
+T30	Treatment	6816	6829	music therapy	UMLS:C0026868	Music Therapy
+T130	AgeGroup	6719	6729	ages 69-87	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T131	AgeGroup	6719	6729	ages 69-87	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T132	Gender	6773	6780	females	Gender:C0015780	female
+T133	Gender	6761	6766	males	Gender:C0086582	male
+T9	Disease	7101	7103	AD	UMLS:C0002395	Alzheimer's Disease
+T134	Gender	7171	7176	males	Gender:C0086582	male
+T135	Gender	7183	7190	females	Gender:C0015780	female
+T136	AgeGroup	7129	7139	ages 68-89	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T137	AgeGroup	7129	7139	ages 68-89	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T31	Treatment	7243	7256	music therapy	UMLS:C0026868	Music Therapy
+T32	Treatment	7371	7384	music therapy	UMLS:C0026868	Music Therapy
+T138	Measure	7555	7590	Mini-Mental State Examination, MMSE	UMLS:C0451306	Mini-mental state examination
+T139	Measure	7601	7639	Rivermead Behavioral Memory Test, RBMT	UMLS:C0475507	Rivermead behavioral memory test (assessment scale)
+T156	Measure	7665	7681	word fluency, WF	null	null
+T100	Treatment	7849	7904	pharmaceutical or other nonpharmaceutical interventions	null	null
+T148	Drug	7754	7772	antidementia drugs	UMLS:C3653789	ANTI-DEMENTIA DRUGS
+T141	Drug	7774	7783	donepezil	DrugBank:DB00843	Donepezil
+T33	Treatment	8251	8287	music therapy using singing training	null	null
+T129	Treatment	8516	8530	voice training	UMLS:C0042944	Voice Training
+T143	Treatment	8573	8633	unique technological voice training method (the YUBA Method)	null	null
+T144	AgeGroup	9305	9310	young	null	null
+T34	Treatment	9715	9728	music therapy	UMLS:C0026868	Music Therapy
+T131	Treatment	9899	9913	voice training	UMLS:C0042944	Voice Training
+T146	Treatment	9918	9934	singing training	null	null
+T147	Measure	10260	10290	neuropsychological assessments	UMLS:C0027902	Neuropsychological Tests
+T148	Measure	10351	10355	MMSE	UMLS:C0451306	Mini-mental state examination
+T149	Measure	10364	10416	Japanese Raven's Colored Progressive Matrices (RCPM)	UMLS:C0475506	Ravens colored progressive matrices
+T150	Measure	10445	10449	RCPM	UMLS:C0475506	Ravens colored progressive matrices
+T151	Measure	10593	10597	RBMT	UMLS:C0475507	Rivermead behavioral memory test (assessment scale)
+T152	Measure	11151	11153	WF	null	null
+T153	Measure	11162	11188	frontal assessment battery	UMLS:C2732353	Frontal assessment battery
+T154	Measure	11199	11206	WF task	null	null
+T155	Measure	11366	11381	letters WF task	null	null
+T35	Treatment	11693	11706	music therapy	UMLS:C0026868	Music Therapy
+T157	Measure	11637	11667	neuropsychological assessments	UMLS:C0027902	Neuropsychological Tests
+T158	Treatment	11742	11768	music therapy intervention	UMLS:C0026868	Music Therapy
+T36	Treatment	12003	12029	music therapy intervention	UMLS:C0026868	Music Therapy
+T159	Measure	12061	12093	Neuropsychiatric Inventory (NPI)	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T160	Measure	12164	12204	Disability Assessment for Dementia (DAD)	UMLS:C3641946	Disability Assessment for Dementia Questionnaire
+T37	Treatment	12713	12726	music therapy	UMLS:C0026868	Music Therapy
+T38	Treatment	12838	12851	music therapy	UMLS:C0026868	Music Therapy
+T161	Treatment	13203	13215	karaoke task	null	null
+T202	Treatment	13260	13270	pitch task	null	null
+T163	AgeGroup	13514	13521	elderly	null	null
+T164	Treatment	13748	13760	karaoke task	null	null
+T203	Treatment	13783	13793	pitch task	null	null
+T165	Demographic	15057	15060	USA	UMLS:C0041703	United States
+T39	Treatment	15678	15704	music therapy intervention	UMLS:C0026868	Music Therapy
+T166	Treatment	15590	15613	karaoke and pitch tasks	null	null
+T167	Treatment	15590	15613	karaoke and pitch tasks	null	null
+T40	Treatment	16211	16224	music therapy	UMLS:C0026868	Music Therapy
+T41	Treatment	16718	16744	music therapy intervention	UMLS:C0026868	Music Therapy
+T42	Treatment	16903	16916	music therapy	UMLS:C0026868	Music Therapy
+T168	Measure	16867	16871	RCPM	UMLS:C0475506	Ravens colored progressive matrices
+T169	Measure	17003	17007	RCPM	UMLS:C0475506	Ravens colored progressive matrices
+T43	Treatment	17121	17134	music therapy	UMLS:C0026868	Music Therapy
+T44	Treatment	17266	17279	music therapy	UMLS:C0026868	Music Therapy
+T170	Measure	17325	17328	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T171	Phenotype	17458	17462	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T172	Measure	17509	17512	DAD	UMLS:C3641946	Disability Assessment for Dementia Questionnaire
+T45	Treatment	17920	17933	music therapy	UMLS:C0026868	Music Therapy
+T46	Treatment	17959	17972	music therapy	UMLS:C0026868	Music Therapy
+T173	Phenotype	18043	18051	delusion	HPO:HP:0000746	Delusions
+T174	Disease	18691	18698	illness	UMLS:C0221423	Illness (finding)
+T175	Phenotype	18772	18803	gradual loss of their abilities	UMLS:C0231170	Disability
+T47	Treatment	18830	18843	music therapy	UMLS:C0026868	Music Therapy
+T86	Disease	19045	19053	dementia	UMLS:C0497327	Dementia
+T48	Treatment	19427	19453	music therapy intervention	UMLS:C0026868	Music Therapy
+T176	Treatment	19370	19382	karaoke task	null	null
+T177	Treatment	19394	19404	pitch task	null	null
+T178	Treatment	19674	19697	karaoke and pitch tasks	null	null
+T179	Treatment	19674	19697	karaoke and pitch tasks	null	null
+T180	Treatment	19754	19766	karaoke task	null	null
+T181	Treatment	19819	19831	karaoke task	null	null
+T49	Treatment	20042	20068	music therapy intervention	UMLS:C0026868	Music Therapy
+T182	Treatment	19974	19986	karaoke task	null	null
+T50	Treatment	20227	20253	music therapy intervention	UMLS:C0026868	Music Therapy
+T183	Treatment	20435	20447	karaoke task	null	null
+T204	Treatment	20526	20536	pitch task	null	null
+T87	Disease	20604	20612	dementia	UMLS:C0497327	Dementia
+T51	Treatment	20805	20818	music therapy	UMLS:C0026868	Music Therapy
+T88	Disease	20859	20867	dementia	UMLS:C0497327	Dementia
+T101	Treatment	20824	20854	nonpharmaceutical intervention	null	null
+T52	Treatment	20939	20952	music therapy	UMLS:C0026868	Music Therapy
+T89	Disease	21019	21027	dementia	UMLS:C0497327	Dementia
+T113	Treatment	21111	21152	Singing with the accompaniment of karaoke	null	null
+T90	Disease	21593	21601	dementia	UMLS:C0497327	Dementia
+T102	Treatment	21544	21574	nonpharmaceutical intervention	null	null
+T185	Phenotype	21656	21660	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T53	Treatment	21704	21717	music therapy	UMLS:C0026868	Music Therapy
+T187	Phenotype	21721	21725	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T186	Phenotype	21957	21961	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T91	Disease	22130	22138	dementia	UMLS:C0497327	Dementia
+T188	Measure	22297	22300	DAD	UMLS:C3641946	Disability Assessment for Dementia Questionnaire
+T10	Disease	22505	22507	AD	UMLS:C0002395	Alzheimer's Disease
+T189	Disease	22516	22557	chronic degenerative neurological disease	null	null
+T190	Phenotype	22360	22402	daily activities of the patients decreased	UMLS:C0740765	Activities of daily living impaired
+T54	Treatment	22786	22799	music therapy	UMLS:C0026868	Music Therapy
+T92	Disease	22867	22875	dementia	UMLS:C0497327	Dementia
+T93	Disease	22989	22997	dementia	UMLS:C0497327	Dementia
+T191	Phenotype	23402	23455	worsening of the patients' activities in daily living	UMLS:C0740765	Activities of daily living impaired
+T94	Disease	23555	23563	dementia	UMLS:C0497327	Dementia
+T95	Disease	23620	23628	dementia	UMLS:C0497327	Dementia
+T103	Treatment	23589	23615	nonpharmaceutical strategy	null	null
+T192	AgeGroup	23793	23800	elderly	null	null
+T193	Treatment	23888	23900	karaoke task	null	null
+T194	Treatment	23910	23920	pitch task	null	null
+T195	Phenotype	24059	24081	difficulty remembering	HPO:HP:0002354	Memory impairment
+T162	Treatment	24127	24145	Performing karaoke	null	null
+T55	Treatment	24275	24288	music therapy	UMLS:C0026868	Music Therapy
+T196	Treatment	24411	24423	karaoke task	null	null
+T197	Treatment	24463	24475	karaoke task	null	null
+T56	Treatment	24678	24691	music therapy	UMLS:C0026868	Music Therapy
+T198	Treatment	24736	24748	karaoke task	null	null
+T201	Treatment	25202	25224	performance of karaoke	null	null
+T199	Phenotype	25686	25721	activated brain regions are reduced	null	null
+T57	Treatment	25921	25934	music therapy	UMLS:C0026868	Music Therapy
+T200	Treatment	25979	25994	karaoke singing	null	null
+T58	Treatment	26099	26112	music therapy	UMLS:C0026868	Music Therapy
+T59	Treatment	26167	26193	music therapy intervention	UMLS:C0026868	Music Therapy
+T64	Disease	26197	26205	dementia	UMLS:C0497327	Dementia
+T60	Treatment	26446	26459	music therapy	UMLS:C0026868	Music Therapy
+T61	Treatment	26597	26610	music therapy	UMLS:C0026868	Music Therapy
+T62	Treatment	26722	26735	music therapy	UMLS:C0026868	Music Therapy
+T65	Disease	26740	26748	dementia	UMLS:C0497327	Dementia
+T11	Disease	27004	27023	mild to moderate AD	UMLS:C0002395	Alzheimer's Disease
+T12	Disease	27132	27141	severe AD	UMLS:C0002395	Alzheimer's Disease
+T66	Disease	27185	27210	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T67	Disease	27215	27232	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T13	Disease	27289	27291	AD	UMLS:C0002395	Alzheimer's Disease
+T63	Treatment	27247	27283	music therapy using singing training	null	null
+T69	Treatment	27326	27379	karaoke and a unique vocal training (the YUBA Method)	null	null
+T70	Treatment	27326	27379	karaoke and a unique vocal training (the YUBA Method)	null	null
+T68	Phenotype	27479	27483	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T71	Phenotype	27517	27565	reduction in the size of activated brain regions	null	null
+T72	Treatment	27734	27811	singing training with karaoke as well as the voice training (the YUBA Method)	null	null
+T73	Treatment	27734	27811	singing training with karaoke as well as the voice training (the YUBA Method)	null	null
+T74	Disease	27856	27864	dementia	UMLS:C0497327	Dementia

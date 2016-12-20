@@ -1,0 +1,335 @@
+T1	Disease	38	55	Vascular Dementia	UMLS:C0011269	Dementia, Vascular
+T62	Disease	69	85	Vascular Disease	UMLS:C0042373	Vascular Diseases
+T2	Disease	108	131	vascular dementia (VaD)	UMLS:C0011269	Dementia, Vascular
+T100	Disease	237	261	psychogeriatric diseases	null	null
+T159	Phenotype	153	197	elevated levels of plasma total homocysteine	UMLS:C4017108	HOMOCYSTEINE, TOTAL PLASMA, ELEVATED
+T4	Disease	433	436	VaD	UMLS:C0011269	Dementia, Vascular
+T63	Disease	365	395	extracerebral vascular disease	null	null
+T5	Disease	588	591	VaD	UMLS:C0011269	Dementia, Vascular
+T102	Disease	469	479	depression	UMLS:C0011581	Depressive disorder
+T6	Disease	638	641	VaD	UMLS:C0011269	Dementia, Vascular
+T103	Phenotype	677	704	cobalamin/folate deficiency	HPO:HP:0100507	Folate deficiency
+T104	Phenotype	677	704	cobalamin/folate deficiency	HPO:HP:0100502	Vitamin B12 deficiency
+T7	Disease	898	901	VaD	UMLS:C0011269	Dementia, Vascular
+T64	Disease	767	783	vascular disease	UMLS:C0042373	Vascular Diseases
+T65	Disease	827	843	vascular disease	UMLS:C0042373	Vascular Diseases
+T106	Disease	812	822	depression	UMLS:C0011581	Depressive disorder
+T8	Disease	1028	1031	VaD	UMLS:C0011269	Dementia, Vascular
+T66	Disease	986	1002	vascular disease	UMLS:C0042373	Vascular Diseases
+T136	Disease	1208	1216	dementia	UMLS:C0497327	Dementia
+T133	Phenotype	1280	1286	ageing	UMLS:C0001811	Aging
+T134	Disease	1317	1325	dementia	UMLS:C0497327	Dementia
+T135	Disease	1438	1446	dementia	UMLS:C0497327	Dementia
+T3	Disease	1500	1523	vascular dementia (VaD)	UMLS:C0011269	Dementia, Vascular
+T137	Disease	1556	1564	dementia	UMLS:C0497327	Dementia
+T138	Disease	1607	1615	dementia	UMLS:C0497327	Dementia
+T144	Disease	1471	1495	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T9	Disease	1662	1665	VaD	UMLS:C0011269	Dementia, Vascular
+T145	Disease	1655	1657	AD	UMLS:C0002395	Alzheimer's Disease
+T146	Disease	1782	1784	AD	UMLS:C0002395	Alzheimer's Disease
+T139	Disease	1986	1994	dementia	UMLS:C0497327	Dementia
+T156	Phenotype	1939	1962	poor cognitive function	HPO:HP:0100543	Cognitive impairment
+T157	Phenotype	1964	1981	cognitive decline	HPO:HP:0001268	Mental deterioration
+T67	Disease	2394	2410	vascular disease	UMLS:C0042373	Vascular Diseases
+T182	Phenotype	2349	2374	mild hyperhomocysteinemia	HPO:HP:0002160	Hyperhomocystinemia
+T183	AgeGroup	2471	2478	elderly	null	null
+T191	Phenotype	3294	3314	vitamin deficiencies	UMLS:C1510471	Vitamin Deficiency
+T10	Disease	3386	3389	VaD	UMLS:C0011269	Dementia, Vascular
+T11	Disease	3468	3471	VaD	UMLS:C0011269	Dementia, Vascular
+T148	Disease	3379	3381	AD	UMLS:C0002395	Alzheimer's Disease
+T147	Disease	3699	3701	AD	UMLS:C0002395	Alzheimer's Disease
+T149	Disease	3576	3578	AD	UMLS:C0002395	Alzheimer's Disease
+T150	Disease	3783	3785	AD	UMLS:C0002395	Alzheimer's Disease
+T68	Disease	3907	3923	vascular disease	UMLS:C0042373	Vascular Diseases
+T151	Disease	3822	3824	AD	UMLS:C0002395	Alzheimer's Disease
+T12	Disease	4065	4068	VaD	UMLS:C0011269	Dementia, Vascular
+T13	Disease	4121	4124	VaD	UMLS:C0011269	Dementia, Vascular
+T14	Disease	4248	4251	VaD	UMLS:C0011269	Dementia, Vascular
+T140	Disease	4288	4296	dementia	UMLS:C0497327	Dementia
+T184	AgeGroup	4346	4353	elderly	null	null
+T195	Disease	4368	4383	psychogeriatric	null	null
+T15	Disease	4550	4553	VaD	UMLS:C0011269	Dementia, Vascular
+T16	Disease	4661	4664	VaD	UMLS:C0011269	Dementia, Vascular
+T18	Disease	4794	4797	VaD	UMLS:C0011269	Dementia, Vascular
+T107	Disease	4600	4610	depression	UMLS:C0011581	Depressive disorder
+T165	Phenotype	4749	4776	elevated plasma tHcy levels	UMLS:C4017108	HOMOCYSTEINE, TOTAL PLASMA, ELEVATED
+T17	Disease	4984	4987	VaD	UMLS:C0011269	Dementia, Vascular
+T19	Disease	5065	5068	VaD	UMLS:C0011269	Dementia, Vascular
+T69	Disease	4950	4966	vascular disease	UMLS:C0042373	Vascular Diseases
+T126	Gender	5144	5151	females	Gender:C0015780	female
+T129	Gender	5130	5135	males	Gender:C0086582	male
+T20	Disease	5804	5807	VaD	UMLS:C0011269	Dementia, Vascular
+T108	Disease	5858	5868	depression	UMLS:C0011581	Depressive disorder
+T127	Gender	5827	5834	females	Gender:C0015780	female
+T128	Gender	5887	5894	females	Gender:C0015780	female
+T130	Gender	5873	5878	males	Gender:C0086582	male
+T131	Gender	5813	5818	males	Gender:C0086582	male
+T21	Disease	5986	5989	VaD	UMLS:C0011269	Dementia, Vascular
+T122	Disease	6072	6114	mixed vascular and Alzheimer-type dementia	UMLS:C0002395	Alzheimer's Disease
+T71	Disease	6072	6114	mixed vascular and Alzheimer-type dementia	UMLS:C0002395	Alzheimer's Disease
+T22	Disease	6427	6430	VaD	UMLS:C0011269	Dementia, Vascular
+T73	Disease	6909	6925	vascular disease	UMLS:C0042373	Vascular Diseases
+T23	Disease	7030	7033	VaD	UMLS:C0011269	Dementia, Vascular
+T74	Disease	6966	6982	vascular disease	UMLS:C0042373	Vascular Diseases
+T75	Disease	7125	7152	peripheral vascular disease	UMLS:C0085096	Peripheral Vascular Diseases
+T197	Disease	7056	7083	transient ischaemic attacks	UMLS:C0007787	Transient Ischemic Attack
+T198	Disease	7035	7054	cerebral infarction	UMLS:C0007785	Cerebral Infarction
+T199	Disease	7085	7106	myocardial infarction	UMLS:C0027051	Myocardial Infarction
+T200	Phenotype	7108	7123	angina pectoris	HPO:HP:0001681	Angina pectoris
+T201	Disease	7154	7173	atrial fibrillation	UMLS:C0004238	Atrial Fibrillation
+T132	Phenotype	7178	7190	hypertension	HPO:HP:0000822	Hypertension
+T125	Gender	7254	7261	females	Gender:C0015780	female
+T132	Gender	7241	7246	males	Gender:C0086582	male
+T203	Disease	7517	7539	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T204	Demographic	8321	8328	Finland	UMLS:C0016132	Finland
+T205	Demographic	8314	8319	Turku	null	null
+T206	Demographic	8424	8435	Switzerland	UMLS:C0039021	Switzerland
+T207	Demographic	8612	8615	USA	UMLS:C0041703	United States
+T208	Demographic	8729	8740	Switzerland	UMLS:C0039021	Switzerland
+T209	Gender	9584	9587	men	Gender:C0086582	male
+T210	Gender	9606	9611	women	Gender:C0015780	female
+T76	Disease	10089	10105	vascular disease	UMLS:C0042373	Vascular Diseases
+T211	AgeGroup	10163	10187	above and below 75 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T212	AgeGroup	10163	10187	above and below 75 years	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T213	AgeGroup	10163	10187	above and below 75 years	AgeGroups:C0683973	middle aged adult (45-64 years)
+T214	AgeGroup	10163	10187	above and below 75 years	AgeGroups:C0001675	adult (19-44 years)
+T215	AgeGroup	10163	10187	above and below 75 years	AgeGroups:C0238598	young adult (19-24 years)
+T216	AgeGroup	10163	10187	above and below 75 years	AgeGroups:C0205653	adolescent (13-18 years)
+T217	AgeGroup	10163	10187	above and below 75 years	AgeGroups:C0008059	children (6-12 years)
+T218	AgeGroup	10163	10187	above and below 75 years	AgeGroups:C0008100	preschool children (2-5 years)
+T335	AgeGroup	10163	10187	above and below 75 years	AgeGroups:C0021270	infant
+T336	AgeGroup	10163	10187	above and below 75 years	AgeGroups:C0021289	newborn
+T166	Phenotype	10428	10453	elevated serum creatinine	HPO:HP:0003259	Elevated serum creatinine
+T221	Phenotype	10381	10413	deficiencies of folate/cobalamin	HPO:HP:0100507	Folate deficiency
+T222	Phenotype	10381	10413	deficiencies of folate/cobalamin	HPO:HP:0100502	Vitamin B12 deficiency
+T24	Disease	10495	10498	VaD	UMLS:C0011269	Dementia, Vascular
+T109	Disease	10611	10621	depression	UMLS:C0011581	Depressive disorder
+T271	AgeGroup	10725	10746	younger than 75 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T272	AgeGroup	10725	10746	younger than 75 years	AgeGroups:C0683973	middle aged adult (45-64 years)
+T273	AgeGroup	10725	10746	younger than 75 years	AgeGroups:C0001675	adult (19-44 years)
+T274	AgeGroup	10725	10746	younger than 75 years	AgeGroups:C0238598	young adult (19-24 years)
+T275	AgeGroup	10725	10746	younger than 75 years	AgeGroups:C0205653	adolescent (13-18 years)
+T276	AgeGroup	10725	10746	younger than 75 years	AgeGroups:C0008059	children (6-12 years)
+T277	AgeGroup	10725	10746	younger than 75 years	AgeGroups:C0008100	preschool children (2-5 years)
+T278	AgeGroup	10761	10768	younger	null	null
+T337	AgeGroup	10725	10746	younger than 75 years	AgeGroups:C0021289	newborn
+T338	AgeGroup	10725	10746	younger than 75 years	AgeGroups:C0021270	infant
+T25	Disease	10883	10886	VaD	UMLS:C0011269	Dementia, Vascular
+T110	Disease	10914	10924	depression	UMLS:C0011581	Depressive disorder
+T282	AgeGroup	10925	10956	younger and older than 75 years	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T283	AgeGroup	10925	10956	younger and older than 75 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T284	AgeGroup	10925	10956	younger and older than 75 years	AgeGroups:C0683973	middle aged adult (45-64 years)
+T285	AgeGroup	10925	10956	younger and older than 75 years	AgeGroups:C0001675	adult (19-44 years)
+T286	AgeGroup	10925	10956	younger and older than 75 years	AgeGroups:C0238598	young adult (19-24 years)
+T287	AgeGroup	10925	10956	younger and older than 75 years	AgeGroups:C0205653	adolescent (13-18 years)
+T288	AgeGroup	10925	10956	younger and older than 75 years	AgeGroups:C0008059	children (6-12 years)
+T289	AgeGroup	10925	10956	younger and older than 75 years	AgeGroups:C0008100	preschool children (2-5 years)
+T339	AgeGroup	10925	10956	younger and older than 75 years	AgeGroups:C0021270	infant
+T340	AgeGroup	10925	10956	younger and older than 75 years	AgeGroups:C0021289	newborn
+T26	Disease	11116	11119	VaD	UMLS:C0011269	Dementia, Vascular
+T111	Disease	11124	11134	depression	UMLS:C0011581	Depressive disorder
+T280	AgeGroup	11091	11110	older than 75 years	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T281	AgeGroup	11091	11110	older than 75 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T27	Disease	11332	11335	VaD	UMLS:C0011269	Dementia, Vascular
+T167	Phenotype	11440	11465	elevated serum creatinine	HPO:HP:0003259	Elevated serum creatinine
+T77	Disease	11787	11803	vascular disease	UMLS:C0042373	Vascular Diseases
+T112	Disease	11571	11581	depression	UMLS:C0011581	Depressive disorder
+T28	Disease	11856	11859	VaD	UMLS:C0011269	Dementia, Vascular
+T78	Disease	12007	12037	extracerebral vascular disease	null	null
+T225	Phenotype	12104	12121	folate deficiency	HPO:HP:0100507	Folate deficiency
+T292	Phenotype	11964	11981	folate deficiency	HPO:HP:0100507	Folate deficiency
+T229	Phenotype	12307	12324	folate deficiency	HPO:HP:0100507	Folate deficiency
+T29	Disease	12405	12408	VaD	UMLS:C0011269	Dementia, Vascular
+T113	Disease	12516	12526	depression	UMLS:C0011581	Depressive disorder
+T226	Phenotype	12364	12401	Low levels of cobalamin and/or folate	HPO:HP:0100502	Vitamin B12 deficiency
+T227	Phenotype	12364	12401	Low levels of cobalamin and/or folate	HPO:HP:0100507	Folate deficiency
+T294	AgeGroup	12418	12439	younger than 75 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T295	AgeGroup	12418	12439	younger than 75 years	AgeGroups:C0683973	middle aged adult (45-64 years)
+T296	AgeGroup	12418	12439	younger than 75 years	AgeGroups:C0001675	adult (19-44 years)
+T297	AgeGroup	12418	12439	younger than 75 years	AgeGroups:C0238598	young adult (19-24 years)
+T298	AgeGroup	12418	12439	younger than 75 years	AgeGroups:C0205653	adolescent (13-18 years)
+T299	AgeGroup	12418	12439	younger than 75 years	AgeGroups:C0008059	children (6-12 years)
+T300	AgeGroup	12418	12439	younger than 75 years	AgeGroups:C0008100	preschool children (2-5 years)
+T301	AgeGroup	12467	12486	older than 75 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T302	AgeGroup	12467	12486	older than 75 years	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T341	AgeGroup	12418	12439	younger than 75 years	AgeGroups:C0021289	newborn
+T342	AgeGroup	12418	12439	younger than 75 years	AgeGroups:C0021270	infant
+T72	AgeGroup	12578	12608	below and 17.1% above 75 years	AgeGroups:C0021289	newborn
+T343	AgeGroup	12578	12608	below and 17.1% above 75 years	AgeGroups:C0021270	infant
+T344	AgeGroup	12578	12608	below and 17.1% above 75 years	AgeGroups:C0008100	preschool children (2-5 years)
+T345	AgeGroup	12578	12608	below and 17.1% above 75 years	AgeGroups:C0008059	children (6-12 years)
+T346	AgeGroup	12578	12608	below and 17.1% above 75 years	AgeGroups:C0205653	adolescent (13-18 years)
+T347	AgeGroup	12578	12608	below and 17.1% above 75 years	AgeGroups:C0238598	young adult (19-24 years)
+T348	AgeGroup	12578	12608	below and 17.1% above 75 years	AgeGroups:C0001675	adult (19-44 years)
+T349	AgeGroup	12578	12608	below and 17.1% above 75 years	AgeGroups:C0683973	middle aged adult (45-64 years)
+T350	AgeGroup	12578	12608	below and 17.1% above 75 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T351	AgeGroup	12578	12608	below and 17.1% above 75 years	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T30	Disease	12699	12702	VaD	UMLS:C0011269	Dementia, Vascular
+T114	Disease	12764	12774	depression	UMLS:C0011581	Depressive disorder
+T293	Phenotype	12621	12656	Elevated levels of serum creatinine	HPO:HP:0003259	Elevated serum creatinine
+T352	AgeGroup	12708	12736	below and 25% above 75 years	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T353	AgeGroup	12708	12736	below and 25% above 75 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T354	AgeGroup	12708	12736	below and 25% above 75 years	AgeGroups:C0683973	middle aged adult (45-64 years)
+T355	AgeGroup	12708	12736	below and 25% above 75 years	AgeGroups:C0001675	adult (19-44 years)
+T356	AgeGroup	12708	12736	below and 25% above 75 years	AgeGroups:C0238598	young adult (19-24 years)
+T357	AgeGroup	12708	12736	below and 25% above 75 years	AgeGroups:C0205653	adolescent (13-18 years)
+T358	AgeGroup	12708	12736	below and 25% above 75 years	AgeGroups:C0008059	children (6-12 years)
+T359	AgeGroup	12708	12736	below and 25% above 75 years	AgeGroups:C0008100	preschool children (2-5 years)
+T360	AgeGroup	12708	12736	below and 25% above 75 years	AgeGroups:C0021270	infant
+T361	AgeGroup	12708	12736	below and 25% above 75 years	AgeGroups:C0021289	newborn
+T31	Disease	12870	12873	VaD	UMLS:C0011269	Dementia, Vascular
+T32	Disease	12890	12893	VaD	UMLS:C0011269	Dementia, Vascular
+T79	Disease	12920	12950	extracerebral vascular disease	null	null
+T80	Disease	12966	13008	concomitant extracerebral vascular disease	null	null
+T81	Disease	13104	13134	extracerebral vascular disease	null	null
+T179	Phenotype	13024	13043	higher blood folate	UMLS:C0855979	Blood folate increased
+T303	Phenotype	13050	13081	lower level of serum creatinine	HPO:HP:0012101	Decreased serum creatinine
+T82	Disease	13256	13298	concomitant extracerebral vascular disease	null	null
+T83	Disease	13329	13345	vascular disease	UMLS:C0042373	Vascular Diseases
+T84	Disease	13452	13468	vascular disease	UMLS:C0042373	Vascular Diseases
+T115	Disease	13314	13324	depression	UMLS:C0011581	Depressive disorder
+T304	AgeGroup	13360	13365	older	null	null
+T187	Phenotype	13380	13429	higher levels of plasma tHcy and serum creatinine	HPO:HP:0003259	Elevated serum creatinine
+T306	Phenotype	13380	13429	higher levels of plasma tHcy and serum creatinine	HPO:HP:0003259	Elevated serum creatinine
+T33	Disease	13548	13551	VaD	UMLS:C0011269	Dementia, Vascular
+T34	Disease	13559	13562	VaD	UMLS:C0011269	Dementia, Vascular
+T35	Disease	13772	13775	VaD	UMLS:C0011269	Dementia, Vascular
+T85	Disease	13580	13622	concomitant extracerebral vascular disease	null	null
+T86	Disease	13719	13735	vascular disease	UMLS:C0042373	Vascular Diseases
+T116	Disease	13704	13714	depression	UMLS:C0011581	Depressive disorder
+T308	Phenotype	13633	13686	cobalamin and folate levels were significantly higher	null	null
+T309	Phenotype	13633	13686	cobalamin and folate levels were significantly higher	null	null
+T36	Disease	13789	13792	VaD	UMLS:C0011269	Dementia, Vascular
+T87	Disease	13807	13849	concomitant extracerebral vascular disease	null	null
+T88	Disease	13952	13968	vascular disease	UMLS:C0042373	Vascular Diseases
+T117	Disease	13937	13947	depression	UMLS:C0011581	Depressive disorder
+T168	Phenotype	14091	14116	elevated serum creatinine	HPO:HP:0003259	Elevated serum creatinine
+T230	Phenotype	14056	14083	cobalamin/folate deficiency	HPO:HP:0100507	Folate deficiency
+T231	Phenotype	14056	14083	cobalamin/folate deficiency	HPO:HP:0100502	Vitamin B12 deficiency
+T37	Disease	14200	14203	VaD	UMLS:C0011269	Dementia, Vascular
+T232	Phenotype	14234	14261	cobalamin/folate deficiency	HPO:HP:0100502	Vitamin B12 deficiency
+T233	Phenotype	14234	14261	cobalamin/folate deficiency	HPO:HP:0100507	Folate deficiency
+T311	Phenotype	14155	14177	Elevated plasma tHcy l	UMLS:C4017108	HOMOCYSTEINE, TOTAL PLASMA, ELEVATED
+T38	Disease	14439	14442	VaD	UMLS:C0011269	Dementia, Vascular
+T235	Phenotype	14605	14638	higher levels of serum creatinine	HPO:HP:0003259	Elevated serum creatinine
+T313	AgeGroup	14452	14471	older than 75 years	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T314	AgeGroup	14452	14471	older than 75 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T169	Phenotype	14903	14928	elevated serum creatinine	HPO:HP:0003259	Elevated serum creatinine
+T236	Phenotype	14863	14895	lower levels of cobalamin/folate	HPO:HP:0100507	Folate deficiency
+T237	Phenotype	14863	14895	lower levels of cobalamin/folate	HPO:HP:0100502	Vitamin B12 deficiency
+T39	Disease	15055	15058	VaD	UMLS:C0011269	Dementia, Vascular
+T318	Phenotype	15121	15138	folate deficiency	HPO:HP:0100507	Folate deficiency
+T319	AgeGroup	15301	15320	older than 75 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T320	AgeGroup	15301	15320	older than 75 years	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T321	Phenotype	15458	15485	cobalamin/folate deficiency	HPO:HP:0100502	Vitamin B12 deficiency
+T322	Phenotype	15458	15485	cobalamin/folate deficiency	HPO:HP:0100507	Folate deficiency
+T238	Phenotype	15541	15570	cobalamin/folate deficiencies	HPO:HP:0100507	Folate deficiency
+T239	Phenotype	15541	15570	cobalamin/folate deficiencies	HPO:HP:0100502	Vitamin B12 deficiency
+T185	AgeGroup	15881	15888	elderly	null	null
+T240	Phenotype	15817	15850	cobalamin and folate deficiencies	HPO:HP:0100502	Vitamin B12 deficiency
+T241	Phenotype	15817	15850	cobalamin and folate deficiencies	HPO:HP:0100507	Folate deficiency
+T186	AgeGroup	15979	15986	elderly	null	null
+T187	AgeGroup	15998	16008	aged 65–74	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T188	AgeGroup	16038	16050	aged over 75	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T189	AgeGroup	16038	16050	aged over 75	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T323	Demographic	15911	15925	United Kingdom	UMLS:C0041700	United Kingdom
+T324	Phenotype	15927	15947	cobalamin deficiency	HPO:HP:0100502	Vitamin B12 deficiency
+T242	Phenotype	16243	16260	low folate levels	HPO:HP:0100507	Folate deficiency
+T243	Phenotype	16058	16075	Folate deficiency	HPO:HP:0100507	Folate deficiency
+T325	Phenotype	16153	16175	cobalamin deficiencies	HPO:HP:0100502	Vitamin B12 deficiency
+T326	Phenotype	16213	16233	low cobalamin levels	HPO:HP:0100502	Vitamin B12 deficiency
+T327	AgeGroup	16095	16100	older	null	null
+T40	Disease	16347	16350	VaD	UMLS:C0011269	Dementia, Vascular
+T118	Disease	16456	16466	depression	UMLS:C0011581	Depressive disorder
+T244	Phenotype	16306	16343	low levels of cobalamin and/or folate	HPO:HP:0100502	Vitamin B12 deficiency
+T245	Phenotype	16306	16343	low levels of cobalamin and/or folate	HPO:HP:0100507	Folate deficiency
+T362	AgeGroup	16370	16390	before the age of 75	AgeGroups:C0021289	newborn
+T363	AgeGroup	16370	16390	before the age of 75	AgeGroups:C0021270	infant
+T364	AgeGroup	16370	16390	before the age of 75	AgeGroups:C0008100	preschool children (2-5 years)
+T365	AgeGroup	16370	16390	before the age of 75	AgeGroups:C0008059	children (6-12 years)
+T366	AgeGroup	16370	16390	before the age of 75	AgeGroups:C0205653	adolescent (13-18 years)
+T367	AgeGroup	16370	16390	before the age of 75	AgeGroups:C0238598	young adult (19-24 years)
+T368	AgeGroup	16370	16390	before the age of 75	AgeGroups:C0001675	adult (19-44 years)
+T369	AgeGroup	16370	16390	before the age of 75	AgeGroups:C0683973	middle aged adult (45-64 years)
+T370	AgeGroup	16370	16390	before the age of 75	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T371	AgeGroup	16407	16426	after the age of 75	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T372	AgeGroup	16407	16426	after the age of 75	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T373	AgeGroup	16518	16554	before and 17.1% after the age of 75	AgeGroups:C0021270	infant
+T374	AgeGroup	16518	16554	before and 17.1% after the age of 75	AgeGroups:C0008100	preschool children (2-5 years)
+T375	AgeGroup	16518	16554	before and 17.1% after the age of 75	AgeGroups:C0008059	children (6-12 years)
+T376	AgeGroup	16518	16554	before and 17.1% after the age of 75	AgeGroups:C0205653	adolescent (13-18 years)
+T377	AgeGroup	16518	16554	before and 17.1% after the age of 75	AgeGroups:C0238598	young adult (19-24 years)
+T378	AgeGroup	16518	16554	before and 17.1% after the age of 75	AgeGroups:C0001675	adult (19-44 years)
+T379	AgeGroup	16518	16554	before and 17.1% after the age of 75	AgeGroups:C0683973	middle aged adult (45-64 years)
+T380	AgeGroup	16518	16554	before and 17.1% after the age of 75	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T381	AgeGroup	16518	16554	before and 17.1% after the age of 75	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T382	AgeGroup	16518	16554	before and 17.1% after the age of 75	AgeGroups:C0021289	newborn
+T246	Phenotype	16587	16614	cobalamin/folate deficiency	HPO:HP:0100502	Vitamin B12 deficiency
+T247	Phenotype	16587	16614	cobalamin/folate deficiency	HPO:HP:0100507	Folate deficiency
+T328	Phenotype	16762	16780	vitamin deficiency	UMLS:C1510471	Vitamin Deficiency
+T41	Disease	16877	16880	VaD	UMLS:C0011269	Dementia, Vascular
+T190	AgeGroup	16905	16912	elderly	null	null
+T248	Phenotype	16820	16847	cobalamin/folate deficiency	HPO:HP:0100502	Vitamin B12 deficiency
+T249	Phenotype	16820	16847	cobalamin/folate deficiency	HPO:HP:0100507	Folate deficiency
+T42	Disease	16950	16953	VaD	UMLS:C0011269	Dementia, Vascular
+T119	Disease	17046	17056	depression	UMLS:C0011581	Depressive disorder
+T170	Phenotype	16981	17006	elevated serum creatinine	HPO:HP:0003259	Elevated serum creatinine
+T43	Disease	17243	17246	VaD	UMLS:C0011269	Dementia, Vascular
+T120	Disease	17184	17194	depression	UMLS:C0011581	Depressive disorder
+T44	Disease	17386	17389	VaD	UMLS:C0011269	Dementia, Vascular
+T45	Disease	17463	17466	VaD	UMLS:C0011269	Dementia, Vascular
+T250	Phenotype	17471	17498	cobalamin/folate deficiency	HPO:HP:0100502	Vitamin B12 deficiency
+T251	Phenotype	17471	17498	cobalamin/folate deficiency	HPO:HP:0100507	Folate deficiency
+T46	Disease	17664	17667	VaD	UMLS:C0011269	Dementia, Vascular
+T175	Phenotype	17854	17873	elevated creatinine	HPO:HP:0003259	Elevated serum creatinine
+T253	Phenotype	17816	17849	lower levels of folate, cobalamin	HPO:HP:0100507	Folate deficiency
+T254	Phenotype	17816	17849	lower levels of folate, cobalamin	HPO:HP:0100502	Vitamin B12 deficiency
+T47	Disease	18078	18081	VaD	UMLS:C0011269	Dementia, Vascular
+T255	Phenotype	17993	18020	folate/cobalamin deficiency	HPO:HP:0100502	Vitamin B12 deficiency
+T256	Phenotype	17993	18020	folate/cobalamin deficiency	HPO:HP:0100507	Folate deficiency
+T141	Disease	18342	18350	dementia	UMLS:C0497327	Dementia
+T177	Phenotype	18295	18318	poor cognitive function	HPO:HP:0100543	Cognitive impairment
+T178	Phenotype	18320	18337	cognitive decline	HPO:HP:0001268	Mental deterioration
+T179	Phenotype	18450	18467	cognitive decline	HPO:HP:0001268	Mental deterioration
+T142	Disease	18645	18653	dementia	UMLS:C0497327	Dementia
+T180	Phenotype	18624	18641	cognitive decline	HPO:HP:0001268	Mental deterioration
+T143	Disease	18922	18930	dementia	UMLS:C0497327	Dementia
+T181	Phenotype	18892	18912	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T259	Phenotype	18827	18857	cobalamin or folate deficiency	HPO:HP:0100507	Folate deficiency
+T260	Phenotype	18827	18857	cobalamin or folate deficiency	HPO:HP:0100502	Vitamin B12 deficiency
+T48	Disease	19139	19142	VaD	UMLS:C0011269	Dementia, Vascular
+T49	Disease	18963	18966	VaD	UMLS:C0011269	Dementia, Vascular
+T89	Disease	18975	19005	extracerebral vascular disease	null	null
+T90	Disease	19149	19191	concomitant extracerebral vascular disease	null	null
+T332	Phenotype	19085	19118	higher levels of serum creatinine	HPO:HP:0003259	Elevated serum creatinine
+T50	Disease	19310	19313	VaD	UMLS:C0011269	Dementia, Vascular
+T51	Disease	19318	19321	VaD	UMLS:C0011269	Dementia, Vascular
+T52	Disease	19503	19506	VaD	UMLS:C0011269	Dementia, Vascular
+T91	Disease	19235	19251	vascular disease	UMLS:C0042373	Vascular Diseases
+T92	Disease	19339	19381	concomitant extracerebral vascular disease	null	null
+T93	Disease	19478	19494	vascular disease	UMLS:C0042373	Vascular Diseases
+T121	Disease	19220	19230	depression	UMLS:C0011581	Depressive disorder
+T122	Disease	19463	19473	depression	UMLS:C0011581	Depressive disorder
+T53	Disease	19522	19525	VaD	UMLS:C0011269	Dementia, Vascular
+T94	Disease	19540	19582	concomitant extracerebral vascular disease	null	null
+T95	Disease	19670	19686	vascular disease	UMLS:C0042373	Vascular Diseases
+T123	Disease	19655	19665	depression	UMLS:C0011581	Depressive disorder
+T174	Phenotype	19778	19803	elevated serum creatinine	HPO:HP:0003259	Elevated serum creatinine
+T264	Phenotype	19743	19770	cobalamin/folate deficiency	HPO:HP:0100502	Vitamin B12 deficiency
+T265	Phenotype	19743	19770	cobalamin/folate deficiency	HPO:HP:0100507	Folate deficiency
+T54	Disease	19918	19921	VaD	UMLS:C0011269	Dementia, Vascular
+T55	Disease	20015	20018	VaD	UMLS:C0011269	Dementia, Vascular
+T96	Disease	19987	20003	vascular disease	UMLS:C0042373	Vascular Diseases
+T152	Disease	19934	19936	AD	UMLS:C0002395	Alzheimer's Disease
+T56	Disease	20195	20198	VaD	UMLS:C0011269	Dementia, Vascular
+T266	Phenotype	20082	20109	cobalamin/folate deficiency	HPO:HP:0100502	Vitamin B12 deficiency
+T267	Phenotype	20082	20109	cobalamin/folate deficiency	HPO:HP:0100507	Folate deficiency
+T57	Disease	20357	20360	VaD	UMLS:C0011269	Dementia, Vascular
+T97	Disease	20385	20401	vascular disease	UMLS:C0042373	Vascular Diseases
+T58	Disease	20485	20488	VaD	UMLS:C0011269	Dementia, Vascular
+T61	Disease	20602	20605	VaD	UMLS:C0011269	Dementia, Vascular
+T98	Disease	20524	20540	vascular disease	UMLS:C0042373	Vascular Diseases
+T124	Disease	20509	20519	depression	UMLS:C0011581	Depressive disorder
+T59	Disease	20693	20696	VaD	UMLS:C0011269	Dementia, Vascular
+T99	Disease	20726	20742	vascular disease	UMLS:C0042373	Vascular Diseases
+T60	Disease	20892	20895	VaD	UMLS:C0011269	Dementia, Vascular

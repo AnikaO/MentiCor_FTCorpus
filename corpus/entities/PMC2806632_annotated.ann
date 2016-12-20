@@ -1,0 +1,334 @@
+T1	Drug	7	36	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T105	Disease	49	57	dementia	UMLS:C0497327	Dementia
+T166	Gender	77	81	male	Gender:C0086582	male
+T2	Drug	155	184	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T106	Disease	225	233	dementia	UMLS:C0497327	Dementia
+T165	Disease	201	220	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T167	Gender	414	418	male	Gender:C0086582	male
+T211	AgeGroup	438	453	aged 65 or more	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T212	AgeGroup	438	453	aged 65 or more	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T211	AgeGroup	438	453	aged 65 or more	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T212	AgeGroup	438	453	aged 65 or more	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T215	Disease	459	481	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T3	Drug	572	601	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T107	Disease	545	553	dementia	UMLS:C0497327	Dementia
+T166	Disease	522	541	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T216	Disease	811	833	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T222	Drug	603	613	lisinopril	DrugBank:DB00722	Lisinopril
+T244	Drug	625	645	cardiovascular drugs	UMLS:C0007220	Cardiovascular Agents
+T250	Disease	789	797	diabetes	UMLS:C0011847	Diabetes
+T263	Disease	799	805	stroke	UMLS:C0038454	Cerebrovascular accident
+T108	Disease	968	976	dementia	UMLS:C0497327	Dementia
+T167	Disease	945	964	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T4	Drug	1028	1056	angiotensin receptor blocker	UMLS:C0815017	Angiotensin Receptor Antagonists
+T109	Disease	1012	1020	dementia	UMLS:C0497327	Dementia
+T223	Drug	1198	1208	lisinopril	DrugBank:DB00722	Lisinopril
+T5	Drug	1261	1290	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T168	Disease	1321	1340	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T6	Drug	1473	1502	Angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T7	Drug	1577	1617	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T8	Drug	1650	1690	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T110	Disease	1744	1752	dementia	UMLS:C0497327	Dementia
+T344	Phenotype	1865	1903	systolic and diastolic blood pressures	UMLS:C0428883	Diastolic blood pressure
+T345	Phenotype	1865	1903	systolic and diastolic blood pressures	UMLS:C0871470	Systolic Pressure
+T169	Disease	1958	1977	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T9	Drug	1991	2020	Angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T10	Drug	2148	2188	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T111	Disease	2125	2133	dementia	UMLS:C0497327	Dementia
+T168	Gender	2238	2242	male	Gender:C0086582	male
+T170	Disease	2101	2120	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T245	Drug	2198	2218	cardiovascular drugs	UMLS:C0007220	Cardiovascular Agents
+T112	Disease	2255	2263	Dementia	UMLS:C0497327	Dementia
+T171	Disease	2275	2294	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T113	Disease	2356	2364	Dementia	UMLS:C0497327	Dementia
+T114	Disease	2494	2502	dementia	UMLS:C0497327	Dementia
+T172	Disease	2508	2527	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T115	Disease	2787	2795	dementia	UMLS:C0497327	Dementia
+T116	Disease	2953	2961	dementia	UMLS:C0497327	Dementia
+T251	Disease	2911	2919	diabetes	UMLS:C0011847	Diabetes
+T278	Disease	2870	2891	hypercholesterolaemia	UMLS:C0020443	Hypercholesterolemia
+T279	Disease	2893	2905	hypertension	UMLS:C0020538	Hypertensive disease
+T117	Disease	3041	3049	dementia	UMLS:C0497327	Dementia
+T280	Drug	3060	3075	Pharmacotherapy	UMLS:C0013216	Pharmacotherapy
+T281	Disease	3162	3174	hypertension	UMLS:C0020538	Hypertensive disease
+T339	Disease	3179	3203	cardiovascular morbidity	UMLS:C1301700	Cardiovascular morbidity
+T101	Drug	3858	3898	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T288	Drug	3963	3997	agents for lowering blood pressure	UMLS:C0003364	Antihypertensive Agents
+T282	Disease	4094	4106	hypertension	UMLS:C0020538	Hypertensive disease
+T283	Disease	4160	4184	congestive heart failure	UMLS:C0018802	Congestive heart failure
+T284	Disease	4186	4206	myocardial ischaemia	UMLS:C0151744	Myocardial Ischemia
+T285	Disease	4208	4221	renal disease	UMLS:C0022658	Kidney Diseases
+T257	Drug	4238	4256	hypertensive drugs	UMLS:C0003364	Antihypertensive Agents
+T11	Drug	4324	4364	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T287	Phenotype	4382	4399	cognitive decline	HPO:HP:0001268	Mental deterioration
+T12	Drug	4465	4494	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T13	Drug	4670	4710	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T289	Disease	4582	4603	myocardial infarction	UMLS:C0027051	Myocardial Infarction
+T290	Disease	4608	4627	atrial fibrillation	UMLS:C0004238	Atrial Fibrillation
+T14	Drug	4717	4746	Angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T15	Drug	4814	4854	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T252	Disease	4768	4776	diabetes	UMLS:C0011847	Diabetes
+T16	Drug	4923	4952	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T17	Drug	4957	4997	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T306	Drug	5107	5118	Candesartan	DrugBank:DB00796	Candesartan
+T307	Disease	5122	5135	Heart Failure	UMLS:C0018801	Heart failure
+T18	Drug	5270	5299	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T19	Drug	5388	5417	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T206	Disease	5609	5628	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T20	Drug	5784	5813	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T21	Drug	5818	5858	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T118	Disease	5862	5870	dementia	UMLS:C0497327	Dementia
+T22	Drug	5925	5954	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T119	Disease	5971	5979	dementia	UMLS:C0497327	Dementia
+T173	Disease	5984	6003	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T120	Disease	6517	6525	dementia	UMLS:C0497327	Dementia
+T174	Disease	6493	6512	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T23	Drug	6812	6841	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T224	Drug	6874	6884	lisinopril	DrugBank:DB00722	Lisinopril
+T264	AgeGroup	7008	7023	aged 65 or more	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T265	AgeGroup	7008	7023	aged 65 or more	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T264	AgeGroup	7008	7023	aged 65 or more	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T265	AgeGroup	7008	7023	aged 65 or more	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T121	Disease	7262	7270	dementia	UMLS:C0497327	Dementia
+T175	Disease	7226	7245	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T122	Disease	7589	7597	dementia	UMLS:C0497327	Dementia
+T123	Disease	7634	7642	dementia	UMLS:C0497327	Dementia
+T176	Disease	7566	7585	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T124	Disease	7860	7868	dementia	UMLS:C0497327	Dementia
+T177	Disease	7872	7891	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T24	Drug	8077	8106	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T25	Drug	8291	8320	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T26	Drug	8497	8526	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T76	Drug	8125	8164	angiotensin converting enzyme inhibitor	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T77	Drug	8335	8375	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T225	Drug	8165	8175	lisinopril	DrugBank:DB00722	Lisinopril
+T226	Drug	8415	8425	lisinopril	DrugBank:DB00722	Lisinopril
+T246	Drug	8194	8214	cardiovascular drugs	UMLS:C0007220	Cardiovascular Agents
+T291	Drug	8322	8329	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T227	Drug	8591	8601	lisinopril	DrugBank:DB00722	Lisinopril
+T78	Drug	8746	8785	angiotensin converting enzyme inhibitor	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T79	Drug	8848	8888	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T27	Drug	9023	9052	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T247	Drug	8991	9011	cardiovascular drugs	UMLS:C0007220	Cardiovascular Agents
+T28	Drug	9205	9234	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T29	Drug	9281	9310	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T80	Drug	9160	9200	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T30	Drug	9412	9440	angiotensin receptor blocker	UMLS:C0815017	Angiotensin Receptor Antagonists
+T81	Drug	9500	9539	angiotensin converting enzyme inhibitor	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T31	Drug	9930	9959	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T32	Drug	10011	10039	angiotensin receptor blocker	UMLS:C0815017	Angiotensin Receptor Antagonists
+T82	Drug	9886	9926	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T33	Drug	10234	10263	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T228	Drug	10219	10229	Lisinopril	DrugBank:DB00722	Lisinopril
+T292	Drug	10273	10290	antihypertensives	UMLS:C0003364	Antihypertensive Agents
+T293	Drug	10397	10424	calcium channel antagonists	UMLS:C0006684	Calcium Channel Blockers
+T294	Drug	10382	10392	β blockers	UMLS:C0001645	Adrenergic beta-Antagonists
+T316	Disease	10474	10487	comorbidities	UMLS:C0009488	Comorbidity
+T346	Phenotype	10943	10980	systolic and diastolic blood pressure	UMLS:C0871470	Systolic Pressure
+T347	Phenotype	10943	10980	systolic and diastolic blood pressure	null	null
+T217	Disease	12233	12255	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T253	Disease	12301	12309	diabetes	UMLS:C0011847	Diabetes
+T264	Disease	12175	12181	stroke	UMLS:C0038454	Cerebrovascular accident
+T295	Disease	12198	12210	hypertension	UMLS:C0020538	Hypertensive disease
+T296	Disease	12342	12354	hypertension	UMLS:C0020538	Hypertensive disease
+T34	Drug	12434	12463	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T300	Disease	12500	12519	renal insufficiency	UMLS:C1565489	Renal Insufficiency
+T301	Disease	12564	12577	renal disease	UMLS:C0022658	Kidney Diseases
+T302	Disease	12606	12625	renal insufficiency	UMLS:C1565489	Renal Insufficiency
+T303	Disease	12735	12748	Renal Disease	UMLS:C0022658	Kidney Diseases
+T178	Disease	12976	12995	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T179	Disease	13154	13173	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T180	Disease	13276	13295	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T181	Disease	13463	13482	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T35	Drug	14018	14046	angiotensin receptor blocker	UMLS:C0815017	Angiotensin Receptor Antagonists
+T218	Disease	14444	14466	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T254	Disease	14472	14480	diabetes	UMLS:C0011847	Diabetes
+T265	Disease	14422	14428	stroke	UMLS:C0038454	Cerebrovascular accident
+T297	Disease	14430	14442	hypertension	UMLS:C0020538	Hypertensive disease
+T282	AgeGroup	14768	14784	aged 65 or older	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T283	AgeGroup	14768	14784	aged 65 or older	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T282	AgeGroup	14768	14784	aged 65 or older	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T283	AgeGroup	14768	14784	aged 65 or older	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T125	Disease	15824	15832	dementia	UMLS:C0497327	Dementia
+T182	Disease	15766	15785	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T36	Drug	15995	16023	angiotensin receptor blocker	UMLS:C0815017	Angiotensin Receptor Antagonists
+T37	Drug	16175	16203	angiotensin receptor blocker	UMLS:C0815017	Angiotensin Receptor Antagonists
+T126	Disease	16142	16150	dementia	UMLS:C0497327	Dementia
+T183	Disease	15885	15904	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T229	Drug	16043	16053	lisinopril	DrugBank:DB00722	Lisinopril
+T230	Drug	16225	16235	lisinopril	DrugBank:DB00722	Lisinopril
+T38	Drug	16361	16389	angiotensin receptor blocker	UMLS:C0815017	Angiotensin Receptor Antagonists
+T39	Drug	16510	16538	angiotensin receptor blocker	UMLS:C0815017	Angiotensin Receptor Antagonists
+T127	Disease	16492	16500	dementia	UMLS:C0497327	Dementia
+T184	Disease	16329	16348	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T231	Drug	16409	16419	lisinopril	DrugBank:DB00722	Lisinopril
+T232	Drug	16556	16566	lisinopril	DrugBank:DB00722	Lisinopril
+T128	Disease	16810	16818	dementia	UMLS:C0497327	Dementia
+T185	Disease	16782	16801	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T40	Drug	17007	17035	angiotensin receptor blocker	UMLS:C0815017	Angiotensin Receptor Antagonists
+T41	Drug	17148	17176	angiotensin receptor blocker	UMLS:C0815017	Angiotensin Receptor Antagonists
+T42	Drug	17297	17326	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T219	Disease	16955	16977	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T233	Drug	17040	17050	lisinopril	DrugBank:DB00722	Lisinopril
+T234	Drug	17331	17341	lisinopril	DrugBank:DB00722	Lisinopril
+T235	Drug	17181	17191	lisinopril	DrugBank:DB00722	Lisinopril
+T255	Disease	17120	17128	diabetes	UMLS:C0011847	Diabetes
+T256	Disease	17384	17392	diabetes	UMLS:C0011847	Diabetes
+T266	Disease	16982	16988	stroke	UMLS:C0038454	Cerebrovascular accident
+T350	Disease	17421	17439	comorbid illnesses	UMLS:C0009488	Comorbidity
+T348	Phenotype	17538	17576	systolic and diastolic blood pressures	UMLS:C0871470	Systolic Pressure
+T349	Phenotype	17538	17576	systolic and diastolic blood pressures	UMLS:C0428883	Diastolic blood pressure
+T129	Disease	17688	17696	dementia	UMLS:C0497327	Dementia
+T186	Disease	17664	17683	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T43	Drug	17795	17824	Angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T187	Disease	17881	17900	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T236	Drug	17915	17925	lisinopril	DrugBank:DB00722	Lisinopril
+T130	Disease	18111	18119	dementia	UMLS:C0497327	Dementia
+T188	Disease	18134	18153	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T189	Disease	18202	18221	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T44	Drug	18223	18252	Angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T131	Disease	18314	18322	dementia	UMLS:C0497327	Dementia
+T237	Drug	18337	18347	lisinopril	DrugBank:DB00722	Lisinopril
+T298	Disease	18458	18470	hypertension	UMLS:C0020538	Hypertensive disease
+T304	Disease	18475	18494	renal insufficiency	UMLS:C1565489	Renal Insufficiency
+T132	Disease	18729	18737	dementia	UMLS:C0497327	Dementia
+T190	Disease	18640	18659	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T191	Disease	18705	18724	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T45	Drug	18789	18818	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T192	Disease	18824	18843	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T133	Disease	19097	19105	dementia	UMLS:C0497327	Dementia
+T267	Disease	19117	19123	Stroke	UMLS:C0038454	Cerebrovascular accident
+T305	Drug	19313	19324	candesartan	DrugBank:DB00796	Candesartan
+T310	Drug	19326	19336	irbesartan	DrugBank:DB01029	Irbesartan
+T311	Drug	19338	19346	losartan	DrugBank:DB00678	Losartan
+T312	Drug	19351	19360	valsartan	DrugBank:DB00177	Valsartan
+T134	Disease	19524	19532	dementia	UMLS:C0497327	Dementia
+T135	Disease	19640	19648	dementia	UMLS:C0497327	Dementia
+T308	Drug	19593	19604	candesartan	DrugBank:DB00796	Candesartan
+T313	Drug	19724	19733	valsartan	DrugBank:DB00177	Valsartan
+T314	Drug	19739	19747	losartan	DrugBank:DB00678	Losartan
+T46	Drug	19907	19936	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T83	Drug	19863	19903	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T136	Disease	19967	19975	dementia	UMLS:C0497327	Dementia
+T47	Drug	20181	20210	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T84	Drug	20214	20254	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T137	Disease	20152	20160	dementia	UMLS:C0497327	Dementia
+T85	Drug	20508	20548	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T48	Drug	20578	20607	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T49	Drug	20707	20736	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T86	Drug	20650	20690	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T102	Drug	20842	20882	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T138	Disease	20783	20791	dementia	UMLS:C0497327	Dementia
+T50	Drug	20989	21018	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T87	Drug	21040	21080	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T139	Disease	21135	21143	dementia	UMLS:C0497327	Dementia
+T51	Drug	21183	21212	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T103	Drug	21217	21257	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T140	Disease	21557	21565	dementia	UMLS:C0497327	Dementia
+T141	Disease	21497	21505	dementia	UMLS:C0497327	Dementia
+T142	Disease	21658	21666	dementia	UMLS:C0497327	Dementia
+T193	Disease	21474	21493	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T194	Disease	21635	21654	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T52	Drug	21743	21772	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T88	Drug	21780	21819	angiotensin converting enzyme inhibitor	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T238	Drug	21830	21840	lisinopril	DrugBank:DB00722	Lisinopril
+T89	Drug	21946	21986	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T143	Disease	22067	22075	dementia	UMLS:C0497327	Dementia
+T195	Disease	22006	22025	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T53	Drug	22269	22298	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T90	Drug	22366	22405	angiotensin converting enzyme inhibitor	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T144	Disease	22207	22215	dementia	UMLS:C0497327	Dementia
+T239	Drug	22348	22358	lisinopril	DrugBank:DB00722	Lisinopril
+T54	Drug	22468	22497	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T145	Disease	22579	22587	dementia	UMLS:C0497327	Dementia
+T196	Disease	22555	22574	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T220	Disease	22618	22640	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T299	Disease	22644	22656	hypertension	UMLS:C0020538	Hypertensive disease
+T55	Drug	22803	22832	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T56	Drug	23074	23103	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T57	Drug	23208	23236	angiotensin receptor blocker	UMLS:C0815017	Angiotensin Receptor Antagonists
+T146	Disease	23173	23181	dementia	UMLS:C0497327	Dementia
+T147	Disease	23308	23316	dementia	UMLS:C0497327	Dementia
+T309	Drug	23237	23248	candesartan	DrugBank:DB00796	Candesartan
+T148	Disease	23435	23443	dementia	UMLS:C0497327	Dementia
+T240	Drug	23318	23328	Lisinopril	DrugBank:DB00722	Lisinopril
+T58	Drug	23499	23528	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T59	Drug	23677	23706	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T91	Drug	23633	23673	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T104	Drug	23562	23602	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T149	Disease	23746	23754	dementia	UMLS:C0497327	Dementia
+T92	Drug	24068	24108	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T241	Drug	24043	24053	lisinopril	DrugBank:DB00722	Lisinopril
+T150	Disease	24377	24385	dementia	UMLS:C0497327	Dementia
+T197	Disease	24353	24372	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T60	Drug	24771	24799	angiotensin receptor blocker	UMLS:C0815017	Angiotensin Receptor Antagonists
+T93	Drug	24691	24731	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T242	Drug	24677	24687	lisinopril	DrugBank:DB00722	Lisinopril
+T61	Drug	24965	24994	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T94	Drug	25043	25083	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T62	Drug	25214	25243	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T63	Drug	25418	25447	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T95	Drug	25292	25332	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T96	Drug	25452	25492	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T151	Disease	25896	25904	dementia	UMLS:C0497327	Dementia
+T152	Disease	26199	26207	dementia	UMLS:C0497327	Dementia
+T198	Disease	26175	26194	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T315	Disease	26497	26510	Comorbidities	UMLS:C0009488	Comorbidity
+T257	Disease	26551	26559	diabetes	UMLS:C0011847	Diabetes
+T268	Disease	26564	26570	stroke	UMLS:C0038454	Cerebrovascular accident
+T64	Drug	26783	26812	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T153	Disease	26713	26721	dementia	UMLS:C0497327	Dementia
+T199	Disease	26689	26708	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T65	Drug	26997	27026	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T97	Drug	27031	27071	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T66	Drug	27276	27304	angiotensin receptor blocker	UMLS:C0815017	Angiotensin Receptor Antagonists
+T154	Disease	27251	27259	dementia	UMLS:C0497327	Dementia
+T317	Demographic	27601	27614	United States	UMLS:C0041703	United States
+T155	Disease	28210	28218	dementia	UMLS:C0497327	Dementia
+T156	Disease	29280	29288	dementia	UMLS:C0497327	Dementia
+T67	Drug	29516	29545	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T157	Disease	29495	29503	dementia	UMLS:C0497327	Dementia
+T158	Disease	29467	29475	dementia	UMLS:C0497327	Dementia
+T221	Disease	29648	29670	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T243	Drug	29597	29607	lisinopril	DrugBank:DB00722	Lisinopril
+T269	Disease	29672	29678	Stroke	UMLS:C0038454	Cerebrovascular accident
+T159	Disease	29789	29797	dementia	UMLS:C0497327	Dementia
+T270	Disease	29777	29783	stroke	UMLS:C0038454	Cerebrovascular accident
+T318	Phenotype	29939	29953	cognitive loss	HPO:HP:0001268	Mental deterioration
+T200	Disease	30044	30063	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T319	Phenotype	29962	29991	Decreased cerebral blood flow	null	null
+T68	Drug	30097	30126	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T98	Drug	30161	30201	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T273	Disease	30263	30269	stroke	UMLS:C0038454	Cerebrovascular accident
+T320	Drug	30212	30235	antihypertensive agents	UMLS:C0003364	Antihypertensive Agents
+T271	Disease	30486	30492	stroke	UMLS:C0038454	Cerebrovascular accident
+T272	Disease	30549	30555	stroke	UMLS:C0038454	Cerebrovascular accident
+T322	Drug	30426	30437	telmisartan	DrugBank:DB00966	Telmisartan
+T323	Drug	30443	30451	ramipril	DrugBank:DB00178	Ramipril
+T324	Drug	30516	30527	telmisartan	DrugBank:DB00966	Telmisartan
+T69	Drug	30619	30648	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T201	Disease	30853	30872	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T342	Phenotype	30914	30941	Loss of cerebral blood flow	null	null
+T343	Phenotype	31018	31043	accumulation of amyloid β	null	null
+T70	Drug	31052	31081	Angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T320	Disease	31130	31145	vascular damage	UMLS:C1389629	vascular; damage
+T71	Drug	31306	31335	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T99	Drug	31340	31380	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T248	Drug	31461	31481	cardiovascular drugs	UMLS:C0007220	Cardiovascular Agents
+T274	Disease	31208	31214	stroke	UMLS:C0038454	Cerebrovascular accident
+T275	Disease	31527	31533	stroke	UMLS:C0038454	Cerebrovascular accident
+T328	Phenotype	31235	31252	cognitive decline	HPO:HP:0001268	Mental deterioration
+T329	Phenotype	31422	31439	cognitive decline	HPO:HP:0001268	Mental deterioration
+T325	Phenotype	31495	31510	neuronal damage	null	null
+T160	Disease	31621	31629	dementia	UMLS:C0497327	Dementia
+T202	Disease	31597	31616	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T258	Disease	31560	31568	Diabetes	UMLS:C0011847	Diabetes
+T259	Disease	31635	31643	diabetes	UMLS:C0011847	Diabetes
+T72	Drug	31728	31757	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T260	Disease	31792	31800	diabetes	UMLS:C0011847	Diabetes
+T332	Drug	31821	31843	antihypertensive drugs	UMLS:C0003364	Antihypertensive Agents
+T73	Drug	31850	31878	Angiotensin receptor blocker	UMLS:C0815017	Angiotensin Receptor Antagonists
+T261	Disease	31930	31938	diabetes	UMLS:C0011847	Diabetes
+T74	Drug	32447	32476	angiotensin receptor blockers	UMLS:C0815017	Angiotensin Receptor Antagonists
+T100	Drug	32481	32521	angiotensin converting enzyme inhibitors	UMLS:C0003015	Angiotensin-Converting Enzyme Inhibitors
+T330	Phenotype	32408	32425	cognitive decline	HPO:HP:0001268	Mental deterioration

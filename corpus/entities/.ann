@@ -1,0 +1,314 @@
+T1	Disease	14	39	mild cognitive impairment	UMLS:C1270972	Mild cognitive disorder
+T2	Disease	52	71	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T3	Disease	299	330	mild cognitive impairment (MCI)	UMLS:C1270972	Mild cognitive disorder
+T87	Disease	348	372	Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T5	AgeGroup	387	392	adult	null	null
+T6	Disease	407	410	MCI	UMLS:C1270972	Mild cognitive disorder
+T7	Measure	434	463	neuropsychological evaluation	UMLS:C0027902	Neuropsychological Tests
+T258	Phenotype	814	832	cortical thickness	UMLS:C2677810	Cortical thickening
+T8	Phenotype	948	965	memory impairment	HPO:HP:0002354	Memory impairment
+T9	Phenotype	994	1010	cortical atrophy	HPO:HP:0002120	Cerebral cortical atrophy
+T10	Phenotype	1015	1068	lower perfusional rate in the temporo-parietal cortex	null	null
+T11	Disease	1132	1134	AD	UMLS:C0002395	Alzheimer's Disease
+T12	Phenotype	1193	1210	cortical thinning	UMLS:C3278126	Cortical thinning
+T13	Phenotype	1215	1259	lower perfusion in the temporo-parietal lobe	null	null
+T14	Phenotype	1271	1278	atrophy	UMLS:C0333641	Atrophic
+T15	Phenotype	1283	1303	lower perfusion rate	UMLS:C0442856	Hypoperfusion
+T16	Phenotype	1344	1361	memory impairment	HPO:HP:0002354	Memory impairment
+T17	Disease	1365	1368	MCI	UMLS:C1270972	Mild cognitive disorder
+T18	Disease	1508	1519	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T19	Disease	1565	1596	Mild cognitive impairment (MCI)	UMLS:C1270972	Mild cognitive disorder
+T20	Disease	1649	1657	dementia	UMLS:C0497327	Dementia
+T21	Disease	1974	1998	Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T22	Disease	2025	2027	AD	UMLS:C0002395	Alzheimer's Disease
+T23	Disease	2229	2231	AD	UMLS:C0002395	Alzheimer's Disease
+T24	Phenotype	2350	2372	glucose hypometabolism	null	null
+T25	Phenotype	2448	2482	atrophy of hippocampal volume (HV)	UMLS:C3280737	Hippocampal atrophy (1 patient)
+T27	Phenotype	2635	2666	large neural network is altered	HPO:HP:0002180	Neurodegeneration
+T28	Disease	2684	2696	prodromal AD	UMLS:C3805054	Prodromal Alzheimer's disease
+T29	Phenotype	2731	2748	cognitive decline	HPO:HP:0001268	Mental deterioration
+T30	Phenotype	2760	2767	atrophy	UMLS:C0333641	Atrophic
+T31	Phenotype	2772	2824	loss of gray matter in cortical-specific brain areas	null	null
+T32	Disease	3244	3246	AD	UMLS:C0002395	Alzheimer's Disease
+T33	Phenotype	3706	3725	hippocampal atrophy	UMLS:C3280737	Hippocampal atrophy (1 patient)
+T34	Disease	3776	3779	MCI	UMLS:C1270972	Mild cognitive disorder
+T35	Disease	3783	3785	AD	UMLS:C0002395	Alzheimer's Disease
+T36	Disease	3798	3813	non-AD dementia	null	null
+T259	Phenotype	3930	3945	lower perfusion	UMLS:C0442856	Hypoperfusion
+T37	Phenotype	4142	4159	memory impairment	HPO:HP:0002354	Memory impairment
+T38	Disease	4167	4170	MCI	UMLS:C1270972	Mild cognitive disorder
+T39	Disease	4343	4346	MCI	UMLS:C1270972	Mild cognitive disorder
+T40	Phenotype	4412	4432	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T41	Ethnicity	4673	4678	Italy	UMLS:C0337810	Italians
+T42	Disease	4695	4698	MCI	UMLS:C1270972	Mild cognitive disorder
+T43	Measure	4722	4742	cognitive assessment	UMLS:C0870300	Assessment: Cognition
+T44	Measure	5343	5379	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T45	Measure	5390	5427	Clinical Dementia Rating Scale (CDRS)	UMLS:C0451074	Clinical dementia rating scale
+T46	Measure	5587	5613	neuropsychological battery	UMLS:C0451331	Neuropsychological battery
+T47	Measure	5633	5685	Babcock Story Recall – Rey–Osterrieth Complex Figure	null	null
+T48	Measure	5687	5725	Recall – Auditory-Verbal Learning Test	UMLS:C3640516	Alzheimer's Disease Neuroimaging Initiative Auditory Verbal Learning Test Questionnaire
+T49	Measure	5731	5759	immediate and delayed recall	null	null
+T50	Measure	5828	5858	Trail Making Test B, A and B-A	UMLS:C0040604	Trail Making Test
+T51	Measure	5863	5905	Inverted Motor Learning-Clock Drawing Test	null	null
+T52	Measure	5938	5972	Raven Colored Progressive Matrices	UMLS:C0475506	Ravens colored progressive matrices
+T53	Measure	5994	6017	Inverted Motor Learning	null	null
+T54	Measure	6030	6074	Phonological and Semantic fluency-Token test	null	null
+T55	Measure	6125	6154	Rey–Osterrieth Complex Figure	null	null
+T56	Measure	6156	6171	Rey figure copy	null	null
+T57	Measure	6177	6195	Clock Drawing Test	null	null
+T58	Measure	6211	6235	neuropsychological tests	UMLS:C0027902	Neuropsychological Tests
+T59	Ethnicity	6260	6267	Italian	UMLS:C0337810	Italians
+T60	Ethnicity	6376	6383	Italian	UMLS:C0337810	Italians
+T61	Phenotype	6558	6578	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T62	Disease	6580	6583	MCI	UMLS:C1270972	Mild cognitive disorder
+T63	Phenotype	6615	6672	objective impairment in memory or other cognitive domains	HPO:HP:0002354	Memory impairment
+T64	Phenotype	6615	6672	objective impairment in memory or other cognitive domains	HPO:HP:0100543	Cognitive impairment
+T65	Phenotype	6783	6804	functional impairment	UMLS:C0277785	Functional disorder
+T66	Measure	6721	6745	neuropsychological tests	UMLS:C0027902	Neuropsychological Tests
+T67	Disease	6845	6851	stroke	UMLS:C0038454	Cerebrovascular accident
+T68	Disease	6864	6874	depression	UMLS:C0011581	Depressive disorder
+T69	Disease	6881	6917	mild to moderate or major depression	UMLS:C0588006	Mild depression
+T70	Disease	6881	6917	mild to moderate or major depression	UMLS:C0588007	Moderate depression
+T71	Disease	6881	6917	mild to moderate or major depression	UMLS:C1269683	Major Depressive Disorder
+T72	Disease	6922	6946	juvenile-onset psychosis	null	null
+T74	Disease	6982	6990	dementia	UMLS:C0497327	Dementia
+T75	Disease	6992	7000	epilepsy	UMLS:C0014544	Epilepsy
+T76	Disease	7002	7016	drug addiction	UMLS:C1510472	Drug Dependence
+T77	Disease	7021	7039	alcohol dependence	UMLS:C0001973	Alcoholic Intoxication, Chronic
+T78	Drug	7048	7066	psychoactive drugs	UMLS:C0033978	Psychotropic Drugs
+T79	Drug	7078	7109	acetylcholinesterase inhibitors	UMLS:C0001046	Acetylcholinesterase Inhibitors
+T81	Disease	7210	7255	uncontrolled or complicated systemic diseases	UMLS:C0442893	Systemic disease
+T82	Disease	7267	7284	diabetes mellitus	UMLS:C0011849	Diabetes Mellitus
+T83	Phenotype	7289	7313	traumatic brain injuries	UMLS:C0876926	Traumatic Brain Injury
+T84	Disease	7402	7405	MCI	UMLS:C1270972	Mild cognitive disorder
+T85	Phenotype	7515	7536	gray matter (GM) loss	null	null
+T86	Disease	7565	7568	MCI	UMLS:C1270972	Mild cognitive disorder
+T4	Disease	7623	7684	MCI, i.e., amnesic or non-amnesic, single or multiple domains	null	null
+T88	Disease	7623	7684	MCI, i.e., amnesic or non-amnesic, single or multiple domains	null	null
+T89	Disease	7623	7684	MCI, i.e., amnesic or non-amnesic, single or multiple domains	null	null
+T90	Disease	7623	7684	MCI, i.e., amnesic or non-amnesic, single or multiple domains	null	null
+T92	Disease	8731	8734	MCI	UMLS:C1270972	Mild cognitive disorder
+T93	Disease	8762	8770	dementia	UMLS:C0497327	Dementia
+T106	Disease	8775	8778	MCI	UMLS:C1270972	Mild cognitive disorder
+T107	Disease	8796	8798	AD	UMLS:C0002395	Alzheimer's Disease
+T108	Disease	8807	8810	MCI	UMLS:C1270972	Mild cognitive disorder
+T109	Disease	8828	8836	dementia	UMLS:C0497327	Dementia
+T110	Disease	8848	8850	AD	UMLS:C0002395	Alzheimer's Disease
+T111	Disease	8852	8882	fronto-temporal spectrum (FTD)	UMLS:C0338451	Frontotemporal dementia
+T112	Disease	8884	8906	vascular dementia (VD)	UMLS:C0011269	Dementia, Vascular
+T113	Disease	8911	8935	Lewy body dementia,(LBD)	UMLS:C0752347	Lewy Body Disease
+T120	Demographic	9767	9770	USA	UMLS:C0041703	United States
+T121	Demographic	10585	10592	Germany	UMLS:C0017480	Germany
+T122	Disease	15521	15524	MCI	UMLS:C1270972	Mild cognitive disorder
+T123	Disease	16303	16306	MCI	UMLS:C1270972	Mild cognitive disorder
+T124	Disease	16424	16427	MCI	UMLS:C1270972	Mild cognitive disorder
+T125	Disease	16465	16484	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T126	Disease	16538	16541	MCI	UMLS:C1270972	Mild cognitive disorder
+T127	Disease	17055	17058	MCI	UMLS:C1270972	Mild cognitive disorder
+T337	Phenotype	17016	17034	Cortical thickness	UMLS:C2677810	Cortical thickening
+T338	Phenotype	17502	17520	cortical thickness	UMLS:C2677810	Cortical thickening
+T339	Phenotype	18416	18434	Cortical thickness	UMLS:C2677810	Cortical thickening
+T340	Phenotype	19360	19378	cortical thickness	UMLS:C2677810	Cortical thickening
+T128	Demographic	19645	19652	Chicago	UMLS:C0008044	Chicago
+T129	Demographic	19658	19661	USA	UMLS:C0041703	United States
+T341	Phenotype	20182	20200	cortical thickness	UMLS:C2677810	Cortical thickening
+T103	Measure	20440	20444	MMSE	UMLS:C0451306	Mini-mental state examination
+T131	Phenotype	20457	20461	WMHs	UMLS:C2938912	White matter hyperintensities
+T132	Disease	21721	21724	MCI	UMLS:C1270972	Mild cognitive disorder
+T133	Disease	21818	21820	AD	UMLS:C0002395	Alzheimer's Disease
+T134	Measure	21863	21875	memory tests	null	null
+T135	Phenotype	21740	21765	greater cortical thinning	UMLS:C3278126	Cortical thinning
+T136	Phenotype	21910	21939	increase in cortical thinning	UMLS:C3278126	Cortical thinning
+T137	Phenotype	21957	21987	decrease in memory performance	HPO:HP:0002354	Memory impairment
+T138	Measure	22028	22043	cognitive tests	UMLS:C0870300	Assessment: Cognition
+T139	Disease	22114	22117	MCI	UMLS:C1270972	Mild cognitive disorder
+T140	Phenotype	22133	22158	greater cortical thinning	UMLS:C3278126	Cortical thinning
+T141	Disease	22211	22213	AD	UMLS:C0002395	Alzheimer's Disease
+T142	Measure	22256	22268	memory tests	null	null
+T143	Measure	22380	22410	neuropsychological memory test	null	null
+T144	Measure	22420	22432	Babcock Test	null	null
+T145	Measure	22434	22491	Rey auditory verbal learning test (AVLT) immediate recall	null	null
+T146	Measure	22497	22520	Rey AVLT delayed recall	null	null
+T147	Demographic	23416	23423	Bergamo	null	null
+T148	Demographic	23758	23761	USA	UMLS:C0041703	United States
+T149	Demographic	24593	24596	USA	UMLS:C0041703	United States
+T150	Demographic	24743	24749	London	UMLS:C0023973	London
+T151	Demographic	24751	24753	UK	UMLS:C0041700	United Kingdom
+T152	Phenotype	25119	25155	low uptake in ventricular structures	null	null
+T153	Phenotype	25160	25182	cortical hypoperfusion	UMLS:C1695782	Cerebral hypoperfusion
+T154	AgeGroup	25213	25220	elderly	null	null
+T155	Disease	25625	25628	MCI	UMLS:C1270972	Mild cognitive disorder
+T156	Disease	25664	25666	AD	UMLS:C0002395	Alzheimer's Disease
+T157	Disease	26496	26499	MCI	UMLS:C1270972	Mild cognitive disorder
+T158	Phenotype	26683	26719	white matter hyperintensities (WMHs)	UMLS:C2938912	White matter hyperintensities
+T335	Measure	26824	26828	MMSE	UMLS:C0451306	Mini-mental state examination
+T336	Phenotype	26841	26845	WMHs	UMLS:C2938912	White matter hyperintensities
+T159	Phenotype	27131	27271	thinning of the bilateral superior temporal, supramarginal, and precuneus cortices, in the right inferior parietal cortex and insular cortex	null	null
+T160	Phenotype	27131	27271	thinning of the bilateral superior temporal, supramarginal, and precuneus cortices, in the right inferior parietal cortex and insular cortex	null	null
+T161	Phenotype	27131	27271	thinning of the bilateral superior temporal, supramarginal, and precuneus cortices, in the right inferior parietal cortex and insular cortex	null	null
+T162	Phenotype	27131	27271	thinning of the bilateral superior temporal, supramarginal, and precuneus cortices, in the right inferior parietal cortex and insular cortex	null	null
+T163	Phenotype	27277	27319	total cortical gray matter (CGM) reduction	null	null
+T164	Phenotype	27449	27483	higher regional cortical thickness	UMLS:C2677810	Cortical thickening
+T165	Disease	27487	27490	MCI	UMLS:C1270972	Mild cognitive disorder
+T166	Disease	27537	27540	MCI	UMLS:C1270972	Mild cognitive disorder
+T167	Disease	27790	27819	MCI mild cognitive impairment	UMLS:C1270972	Mild cognitive disorder
+T168	Phenotype	27895	27912	cortical thinning	UMLS:C3278126	Cortical thinning
+T169	Phenotype	27969	28061	atrophy were located in the left supramarginal gyrus, left precuneus, and postcentral cortex	null	null
+T182	Phenotype	27969	28061	atrophy were located in the left supramarginal gyrus, left precuneus, and postcentral cortex	null	null
+T183	Phenotype	27969	28061	atrophy were located in the left supramarginal gyrus, left precuneus, and postcentral cortex	null	null
+T170	Phenotype	28067	28086	total CGM reduction	null	null
+T171	Phenotype	28239	28256	cortical thinning	UMLS:C3278126	Cortical thinning
+T173	Phenotype	28504	28522	cortical thickness	UMLS:C2677810	Cortical thickening
+T174	Phenotype	28650	28668	cortical thickness	UMLS:C2677810	Cortical thickening
+T175	Disease	28672	28675	MCI	UMLS:C1270972	Mild cognitive disorder
+T176	Disease	28722	28725	MCI	UMLS:C1270972	Mild cognitive disorder
+T177	Disease	28978	29007	MCI mild cognitive impairment	UMLS:C1270972	Mild cognitive disorder
+T178	Measure	29008	29020	Babcock Test	null	null
+T253	Measure	29142	29154	Babcock test	null	null
+T179	Measure	29583	29604	AVLT immediate recall	null	null
+T180	Phenotype	29696	29714	cortical thickness	UMLS:C2677810	Cortical thickening
+T184	Phenotype	30483	30531	mild-to-moderate temporo-parietal hypometabolism	null	null
+T185	Phenotype	30483	30531	mild-to-moderate temporo-parietal hypometabolism	null	null
+T186	Disease	30558	30561	MCI	UMLS:C1270972	Mild cognitive disorder
+T187	Disease	30602	30605	MCI	UMLS:C1270972	Mild cognitive disorder
+T188	Disease	30712	30741	MCI mild cognitive impairment	UMLS:C1270972	Mild cognitive disorder
+T240	Measure	30741	30760	AVLT delayed recall	null	null
+T241	Phenotype	30841	30859	cortical thickness	UMLS:C2677810	Cortical thickening
+T189	Disease	31356	31359	MCI	UMLS:C1270972	Mild cognitive disorder
+T210	Disease	31577	31579	AD	UMLS:C0002395	Alzheimer's Disease
+T242	Measure	31704	31708	MMSE	UMLS:C0451306	Mini-mental state examination
+T243	Phenotype	31732	31752	white matter lesions	UMLS:C2752009	White matter lesion
+T190	Disease	31871	31874	MCI	UMLS:C1270972	Mild cognitive disorder
+T191	Disease	31911	31914	MCI	UMLS:C1270972	Mild cognitive disorder
+T211	Disease	31903	31905	AD	UMLS:C0002395	Alzheimer's Disease
+T212	Disease	31944	31946	AD	UMLS:C0002395	Alzheimer's Disease
+T213	Disease	32077	32079	AD	UMLS:C0002395	Alzheimer's Disease
+T247	Phenotype	33851	33866	lower perfusion	UMLS:C0442856	Hypoperfusion
+T248	Phenotype	33878	33913	left hippocampal volumes were lower	null	null
+T214	Disease	34018	34020	AD	UMLS:C0002395	Alzheimer's Disease
+T215	Disease	34206	34208	AD	UMLS:C0002395	Alzheimer's Disease
+T249	Measure	34830	34842	Babcock Test	null	null
+T250	Measure	34964	34976	Babcock test	null	null
+T252	Phenotype	34981	34996	lower perfusion	UMLS:C0442856	Hypoperfusion
+T251	Phenotype	35163	35182	hippocampal atrophy	UMLS:C3280737	Hippocampal atrophy (1 patient)
+T181	Measure	35205	35226	AVLT immediate recall	null	null
+T254	Phenotype	35314	35329	lower perfusion	UMLS:C0442856	Hypoperfusion
+T255	Measure	35442	35461	AVLT delayed recall	null	null
+T256	Phenotype	35542	35557	lower perfusion	UMLS:C0442856	Hypoperfusion
+T193	Disease	35929	35932	MCI	UMLS:C1270972	Mild cognitive disorder
+T216	Disease	36049	36051	AD	UMLS:C0002395	Alzheimer's Disease
+T217	Disease	36045	36048	MCI	UMLS:C1270972	Mild cognitive disorder
+T257	Measure	36212	36242	neuropsychological tests (NPS)	UMLS:C0027902	Neuropsychological Tests
+T194	Disease	39137	39140	MCI	UMLS:C1270972	Mild cognitive disorder
+T342	Phenotype	39101	39119	cortical thickness	UMLS:C2677810	Cortical thickening
+T195	Disease	39246	39249	MCI	UMLS:C1270972	Mild cognitive disorder
+T218	Disease	39325	39327	AD	UMLS:C0002395	Alzheimer's Disease
+T196	Disease	39363	39366	MCI	UMLS:C1270972	Mild cognitive disorder
+T275	Phenotype	39423	39446	global cortical atrophy	HPO:HP:0002120	Cerebral cortical atrophy
+T197	Disease	39890	39893	MCI	UMLS:C1270972	Mild cognitive disorder
+T219	Disease	40000	40008	early AD	UMLS:C0002395	Alzheimer's Disease
+T220	Disease	39913	39915	AD	UMLS:C0002395	Alzheimer's Disease
+T221	Disease	40106	40108	AD	UMLS:C0002395	Alzheimer's Disease
+T222	Disease	40636	40638	AD	UMLS:C0002395	Alzheimer's Disease
+T260	Phenotype	40676	40713	higher brain regional blood perfusion	UMLS:C1611713	Cerebral hyperperfusion syndrome
+T261	Phenotype	40813	40843	lower cerebral blood perfusion	UMLS:C1695782	Cerebral hypoperfusion
+T223	Disease	41702	41704	AD	UMLS:C0002395	Alzheimer's Disease
+T262	Phenotype	41715	41749	cholinergic-glutamatergic deficits	null	null
+T263	Phenotype	41715	41749	cholinergic-glutamatergic deficits	null	null
+T264	Phenotype	41796	41816	Neuronal injury/loss	HPO:HP:0002529	Neuronal loss in central nervous system
+T265	Phenotype	41796	41816	Neuronal injury/loss	UMLS:C0161479	Nerve injury
+T266	Phenotype	41893	41912	cholinergic deficit	null	null
+T224	Disease	42145	42147	AD	UMLS:C0002395	Alzheimer's Disease
+T267	Phenotype	42169	42193	hyperexcitability states	UMLS:C0856984	Hyperexcitability Behavior
+T268	Phenotype	42056	42078	modify septal networks	null	null
+T225	Disease	42602	42604	AD	UMLS:C0002395	Alzheimer's Disease
+T269	Phenotype	42560	42598	functional and structural degeneration	UMLS:C0277785	Functional disorder
+T270	Phenotype	42560	42598	functional and structural degeneration	UMLS:C0549658	STRUCTURAL DYSFUNCTION
+T226	Disease	42710	42712	AD	UMLS:C0002395	Alzheimer's Disease
+T271	Phenotype	42734	42767	damage of inhibitory interneurons	null	null
+T272	Phenotype	42780	42820	loss of inhibition at the cellular level	null	null
+T273	Phenotype	42852	42865	disinhibition	HPO:HP:0000734	Disinhibition
+T274	Phenotype	43081	43094	brain atrophy	HPO:HP:0012444	Brain atrophy
+T282	Phenotype	43145	43179	inhibitory interneuron dysfunction	null	null
+T283	Phenotype	43416	43450	dysfunction of cellular inhibition	null	null
+T284	Phenotype	43470	43483	disinhibition	HPO:HP:0000734	Disinhibition
+T285	Phenotype	43599	43620	higher amyloid burden	HPO:HP:0003216	Generalized amyloid deposition
+T286	Phenotype	43666	43678	degeneration	UMLS:C0011164	Abnormal degeneration
+T287	Phenotype	43683	43690	atrophy	UMLS:C0333641	Atrophic
+T288	Phenotype	44081	44102	higher amyloid burden	HPO:HP:0003216	Generalized amyloid deposition
+T289	Phenotype	44196	44220	atrophy of the precuneus	null	null
+T290	Phenotype	44237	44362	atrophy in the supramarginal gyrus and, to a lesser extent, the inferior parietal cortex, insula, and superior temporal gyrus	null	null
+T291	Phenotype	44237	44362	atrophy in the supramarginal gyrus and, to a lesser extent, the inferior parietal cortex, insula, and superior temporal gyrus	null	null
+T292	Phenotype	44237	44362	atrophy in the supramarginal gyrus and, to a lesser extent, the inferior parietal cortex, insula, and superior temporal gyrus	null	null
+T293	Phenotype	44237	44362	atrophy in the supramarginal gyrus and, to a lesser extent, the inferior parietal cortex, insula, and superior temporal gyrus	null	null
+T198	Disease	44422	44425	MCI	UMLS:C1270972	Mild cognitive disorder
+T294	Phenotype	44369	44376	atrophy	UMLS:C0333641	Atrophic
+T200	Disease	44848	44851	MCI	UMLS:C1270972	Mild cognitive disorder
+T295	Phenotype	44821	44828	atrophy	UMLS:C0333641	Atrophic
+T296	Phenotype	44990	45021	atrophy of isolated brain areas	HPO:HP:0012444	Brain atrophy
+T297	Phenotype	44925	44975	loss of GM in an entire anatomo-functional network	null	null
+T227	Disease	45059	45061	AD	UMLS:C0002395	Alzheimer's Disease
+T298	Phenotype	45081	45108	cortical network impairment	null	null
+T299	Phenotype	45123	45155	atrophy of single cortical areas	HPO:HP:0002120	Cerebral cortical atrophy
+T199	Disease	45342	45345	MCI	UMLS:C1270972	Mild cognitive disorder
+T276	Phenotype	45228	45244	cortical atrophy	HPO:HP:0002120	Cerebral cortical atrophy
+T300	Measure	45305	45317	memory tests	null	null
+T201	Disease	45438	45441	MCI	UMLS:C1270972	Mild cognitive disorder
+T228	Disease	45471	45473	AD	UMLS:C0002395	Alzheimer's Disease
+T301	Measure	45361	45373	memory tests	null	null
+T302	Disease	45857	45892	early and mild cognitive impairment	UMLS:C1270972	Mild cognitive disorder
+T203	Disease	46096	46099	MCI	UMLS:C1270972	Mild cognitive disorder
+T229	Disease	46281	46293	prodromal AD	UMLS:C3805054	Prodromal Alzheimer's disease
+T303	Measure	45945	45956	memory test	null	null
+T304	Phenotype	46072	46090	cortical thickness	UMLS:C2677810	Cortical thickening
+T305	Measure	46191	46202	memory test	null	null
+T306	Phenotype	46223	46241	cortical thickness	UMLS:C2677810	Cortical thickening
+T202	Disease	46344	46347	MCI	UMLS:C1270972	Mild cognitive disorder
+T277	Phenotype	46403	46419	cortical atrophy	HPO:HP:0002120	Cerebral cortical atrophy
+T204	Disease	46545	46548	MCI	UMLS:C1270972	Mild cognitive disorder
+T307	Phenotype	46644	46661	cortical thinning	UMLS:C3278126	Cortical thinning
+T308	Measure	46688	46699	memory test	null	null
+T205	Disease	46870	46873	MCI	UMLS:C1270972	Mild cognitive disorder
+T230	Disease	46914	46916	AD	UMLS:C0002395	Alzheimer's Disease
+T309	Phenotype	46933	47015	impairment in other cognitive domains, such as visuospatial attention or execution	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T310	Phenotype	46933	47015	impairment in other cognitive domains, such as visuospatial attention or execution	UMLS:C1843023	Loss of executive functions
+T311	Phenotype	47198	47222	left hippocampal atrophy	UMLS:C3280737	Hippocampal atrophy (1 patient)
+T312	Phenotype	47292	47307	memory deficits	HPO:HP:0002354	Memory impairment
+T206	Disease	47544	47547	MCI	UMLS:C1270972	Mild cognitive disorder
+T231	Disease	47562	47574	prodromal AD	UMLS:C3805054	Prodromal Alzheimer's disease
+T313	Phenotype	47443	47478	atrophy of a specific brain network	HPO:HP:0012444	Brain atrophy
+T314	Phenotype	47818	47835	memory impairment	HPO:HP:0002354	Memory impairment
+T315	Phenotype	47791	47810	degenerative nature	UMLS:C0011164	Abnormal degeneration
+T207	Disease	48043	48046	MCI	UMLS:C1270972	Mild cognitive disorder
+T316	Disease	48090	48109	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T208	Disease	48283	48285	AD	UMLS:C0002395	Alzheimer's Disease
+T232	Disease	48216	48218	AD	UMLS:C0002395	Alzheimer's Disease
+T233	Disease	48243	48258	non-AD dementia	null	null
+T317	Disease	48195	48214	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T234	Disease	48376	48378	AD	UMLS:C0002395	Alzheimer's Disease
+T235	Disease	48582	48584	AD	UMLS:C0002395	Alzheimer's Disease
+T318	Phenotype	49509	49524	memory deficits	HPO:HP:0002354	Memory impairment
+T319	Phenotype	49570	49597	little cognitive processing	HPO:HP:0100543	Cognitive impairment
+T320	Phenotype	49605	49623	epileptic seizures	UMLS:C0014544	Epilepsy
+T321	Phenotype	49627	49642	slow wave sleep	UMLS:C0234451	Sleep, Slow-Wave
+T236	Disease	49689	49691	AD	UMLS:C0002395	Alzheimer's Disease
+T322	Phenotype	49661	49681	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T323	Phenotype	49697	49720	typical synaptic losses	null	null
+T278	Phenotype	49985	50001	cortical atrophy	HPO:HP:0002120	Cerebral cortical atrophy
+T279	Disease	49954	49974	degenerative disease	UMLS:C1285162	Degenerative disorder
+T280	Phenotype	49912	49946	disruption of the cortical network	HPO:HP:0005731	Cortical irregularity
+T237	Disease	50284	50286	AD	UMLS:C0002395	Alzheimer's Disease
+T238	Disease	50383	50385	AD	UMLS:C0002395	Alzheimer's Disease
+T324	Measure	50455	50459	MMSE	UMLS:C0451306	Mini-mental state examination
+T325	Phenotype	50777	50812	atrophy of a specific brain network	HPO:HP:0012444	Brain atrophy
+T326	Phenotype	50830	50863	impairment in memory performances	HPO:HP:0002354	Memory impairment
+T327	Phenotype	51118	51136	cortical thickness	UMLS:C2677810	Cortical thickening
+T328	Phenotype	51895	51913	cortical thickness	UMLS:C2677810	Cortical thickening
+T329	Phenotype	51992	52009	cortical thinning	UMLS:C3278126	Cortical thinning
+T330	Phenotype	52014	52058	lower perfusion in the temporo-parietal lobe	null	null
+T331	Phenotype	52014	52058	lower perfusion in the temporo-parietal lobe	null	null
+T14	Phenotype	1271	1278	atrophy	UMLS:C0333641	Atrophic
+T15	Phenotype	1283	1303	lower perfusion rate	UMLS:C0442856	Hypoperfusion
+T16	Phenotype	1344	1361	memory impairment	HPO:HP:0002354	Memory impairment
+T17	Disease	1365	1368	MCI	UMLS:C1270972	Mild cognitive disorder
+T239	Disease	52307	52318	AD dementia	UMLS:C0002395	Alzheimer's Disease

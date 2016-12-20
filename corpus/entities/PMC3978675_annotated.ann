@@ -1,0 +1,205 @@
+T1	Disease	61	80	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T2	Disease	106	130	Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T129	Disease	162	171	dementias	UMLS:C0497327	Dementia
+T130	Disease	361	369	dementia	UMLS:C0497327	Dementia
+T5	Disease	530	532	AD	UMLS:C0002395	Alzheimer's Disease
+T131	Phenotype	488	526	calmodulin (CaM) signaling is impaired	null	null
+T6	Disease	741	743	AD	UMLS:C0002395	Alzheimer's Disease
+T132	Disease	805	828	frontotemporal dementia	UMLS:C0338451	Frontotemporal dementia
+T133	Disease	875	900	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T143	Disease	771	796	mild cognitive impairment	UMLS:C1270972	Mild cognitive disorder
+T144	Disease	919	938	Parkinson’s disease	UMLS:C0030567	Parkinson Disease
+T145	Disease	948	977	amyotrophic lateral sclerosis	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T146	Disease	986	1016	progressive supranuclear palsy	UMLS:C0038868	Progressive supranuclear palsy
+T7	Disease	1289	1291	AD	UMLS:C0002395	Alzheimer's Disease
+T8	Disease	1380	1382	AD	UMLS:C0002395	Alzheimer's Disease
+T147	Disease	1411	1438	neurodegenerative disorders	UMLS:C0524851	Neurodegenerative Disorders
+T148	Phenotype	1337	1376	CaM levels were significantly increased	null	null
+T9	Disease	1466	1468	AD	UMLS:C0002395	Alzheimer's Disease
+T103	Disease	1586	1589	MCI	UMLS:C1270972	Mild cognitive disorder
+T10	Disease	1699	1701	AD	UMLS:C0002395	Alzheimer's Disease
+T134	Disease	1766	1774	dementia	UMLS:C0497327	Dementia
+T3	Disease	1776	1800	Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T135	Disease	1828	1836	dementia	UMLS:C0497327	Dementia
+T136	AgeGroup	1840	1845	older	null	null
+T11	Disease	1871	1873	AD	UMLS:C0002395	Alzheimer's Disease
+T12	Disease	1976	1978	AD	UMLS:C0002395	Alzheimer's Disease
+T149	Disease	2112	2134	neurological disorders	UMLS:C0027765	nervous system disorder
+T13	Disease	2199	2201	AD	UMLS:C0002395	Alzheimer's Disease
+T14	Disease	2244	2246	AD	UMLS:C0002395	Alzheimer's Disease
+T150	Disease	2341	2343	AD	UMLS:C0002395	Alzheimer's Disease
+T151	Phenotype	2431	2444	neuronal loss	HPO:HP:0002529	Neuronal loss in central nervous system
+T15	Disease	2560	2562	AD	UMLS:C0002395	Alzheimer's Disease
+T152	Phenotype	2892	2906	senile plaques	HPO:HP:0100256	Senile plaques
+T153	Phenotype	2947	2968	amyloid-beta deposits	null	null
+T154	Phenotype	3186	3198	inflammation	UMLS:C0021368	Inflammation
+T16	Disease	3494	3496	AD	UMLS:C0002395	Alzheimer's Disease
+T17	Disease	3876	3878	AD	UMLS:C0002395	Alzheimer's Disease
+T18	Disease	3901	3903	AD	UMLS:C0002395	Alzheimer's Disease
+T19	Disease	4341	4343	AD	UMLS:C0002395	Alzheimer's Disease
+T20	Disease	4487	4489	AD	UMLS:C0002395	Alzheimer's Disease
+T155	Phenotype	4460	4483	increased levels of CaM	null	null
+T21	Disease	4612	4614	AD	UMLS:C0002395	Alzheimer's Disease
+T156	Phenotype	4562	4580	higher CaM content	null	null
+T157	Disease	4648	4675	neurodegenerative disorders	UMLS:C0524851	Neurodegenerative Disorders
+T25	Disease	4844	4871	mild, moderate or severe AD	UMLS:C0002395	Alzheimer's Disease
+T104	Disease	4890	4921	mild cognitive impairment (MCI)	UMLS:C1270972	Mild cognitive disorder
+T22	Disease	4981	4983	AD	UMLS:C0002395	Alzheimer's Disease
+T105	Disease	4953	4956	MCI	UMLS:C1270972	Mild cognitive disorder
+T137	Disease	5120	5128	dementia	UMLS:C0497327	Dementia
+T158	Phenotype	5027	5045	cognitive symptoms	UMLS:C0525041	Neurobehavioral Manifestations
+T23	Disease	5171	5173	AD	UMLS:C0002395	Alzheimer's Disease
+T24	Disease	5736	5738	AD	UMLS:C0002395	Alzheimer's Disease
+T26	Disease	5930	5932	AD	UMLS:C0002395	Alzheimer's Disease
+T162	Disease	5801	5810	dementias	UMLS:C0497327	Dementia
+T163	Disease	5814	5841	neurodegenerative disorders	UMLS:C0524851	Neurodegenerative Disorders
+T27	Disease	6235	6237	AD	UMLS:C0002395	Alzheimer's Disease
+T166	Phenotype	6524	6541	cognitive decline	HPO:HP:0001268	Mental deterioration
+T167	Measure	6543	6603	neuropsychological test battery, clinical mental examination	UMLS:C2121096	neuropsychological testing battery
+T168	Phenotype	6628	6673	impairment in social or occupational function	UMLS:C0679477	impaired social functioning
+T169	Phenotype	6628	6673	impairment in social or occupational function	null	null
+T28	Measure	6679	6708	Mini-Mental State Examination	UMLS:C0451306	Mini-mental state examination
+T29	Disease	6771	6810	mild, moderate and severe degrees of AD	UMLS:C0002395	Alzheimer's Disease
+T106	Disease	6901	6904	MCI	UMLS:C1270972	Mild cognitive disorder
+T96	Disease	7009	7012	FTD	UMLS:C0338451	Frontotemporal dementia
+T82	Disease	7252	7255	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T88	Disease	7242	7245	DLB	UMLS:C0752347	Lewy Body Disease
+T118	Disease	7271	7273	PD	UMLS:C0030567	Parkinson Disease
+T125	Disease	7283	7286	PSP	UMLS:C0038868	Progressive supranuclear palsy
+T170	Disease	7401	7421	neurological disease	UMLS:C0027765	nervous system disorder
+T171	Phenotype	7425	7442	cognitive decline	HPO:HP:0001268	Mental deterioration
+T172	Demographic	7933	7938	Spain	UMLS:C0037747	Spain
+T173	Demographic	8229	8235	Norway	UMLS:C0028423	Norway
+T174	Demographic	8655	8658	USA	UMLS:C0041703	United States
+T175	Demographic	9357	9364	Germany	UMLS:C0017480	Germany
+T176	Demographic	9715	9720	Spain	UMLS:C0037747	Spain
+T177	Demographic	10063	10066	USA	UMLS:C0041703	United States
+T178	Demographic	10129	10134	Spain	UMLS:C0037747	Spain
+T179	Demographic	10282	10285	USA	UMLS:C0041703	United States
+T180	Demographic	10381	10387	Sweden	UMLS:C0038995	Sweden
+T181	Demographic	10597	10600	USA	UMLS:C0041703	United States
+T182	Demographic	11026	11029	USA	UMLS:C0041703	United States
+T183	Demographic	11299	11304	Spain	UMLS:C0037747	Spain
+T184	Demographic	11351	11358	Denmark	UMLS:C0011318	Denmark
+T185	Demographic	11469	11474	Spain	UMLS:C0037747	Spain
+T186	Demographic	11613	11624	Netherlands	UMLS:C0027778	Netherlands
+T187	Demographic	12656	12661	Spain	UMLS:C0037747	Spain
+T188	Demographic	13150	13153	USA	UMLS:C0041703	United States
+T30	Disease	14264	14266	AD	UMLS:C0002395	Alzheimer's Disease
+T189	Demographic	14571	14574	USA	UMLS:C0041703	United States
+T31	Disease	14664	14666	AD	UMLS:C0002395	Alzheimer's Disease
+T83	Disease	14682	14685	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T89	Disease	14673	14676	DLB	UMLS:C0752347	Lewy Body Disease
+T97	Disease	14668	14671	FTD	UMLS:C0338451	Frontotemporal dementia
+T119	Disease	14678	14680	PD	UMLS:C0030567	Parkinson Disease
+T126	Disease	14690	14693	PSP	UMLS:C0038868	Progressive supranuclear palsy
+T32	Disease	15364	15366	AD	UMLS:C0002395	Alzheimer's Disease
+T190	Phenotype	15324	15360	CaM levels were significantly higher	null	null
+T84	Disease	15689	15692	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T90	Disease	15520	15523	DLB	UMLS:C0752347	Lewy Body Disease
+T98	Disease	15528	15531	FTD	UMLS:C0338451	Frontotemporal dementia
+T120	Disease	15685	15687	PD	UMLS:C0030567	Parkinson Disease
+T127	Disease	15696	15699	PSP	UMLS:C0038868	Progressive supranuclear palsy
+T138	Disease	15502	15510	dementia	UMLS:C0497327	Dementia
+T191	Disease	15649	15676	neurodegenerative disorders	UMLS:C0524851	Neurodegenerative Disorders
+T33	Disease	15761	15763	AD	UMLS:C0002395	Alzheimer's Disease
+T34	Disease	15813	15815	AD	UMLS:C0002395	Alzheimer's Disease
+T99	Disease	15843	15846	FTD	UMLS:C0338451	Frontotemporal dementia
+T121	Disease	15851	15853	PD	UMLS:C0030567	Parkinson Disease
+T35	Disease	16130	16132	AD	UMLS:C0002395	Alzheimer's Disease
+T36	Disease	16326	16328	AD	UMLS:C0002395	Alzheimer's Disease
+T37	Disease	16418	16420	AD	UMLS:C0002395	Alzheimer's Disease
+T38	Disease	16454	16456	AD	UMLS:C0002395	Alzheimer's Disease
+T192	Measure	16587	16616	Mini-Mental State Examination	UMLS:C0451306	Mini-mental state examination
+T193	Measure	16653	16682	Mini-Mental State Examination	UMLS:C0451306	Mini-mental state examination
+T194	Measure	16721	16756	Mini-Mental State Examination score	UMLS:C0451306	Mini-mental state examination
+T195	ScaleMin	16631	16633	18	null	null
+T196	ScaleMax	16638	16640	24	null	null
+T197	ScaleMin	16697	16699	10	null	null
+T198	ScaleMax	16704	16706	18	null	null
+T199	ScaleMax	16757	16760	<10	null	null
+T200	Detail	16581	16585	mild	null	null
+T201	Detail	16643	16651	moderate	null	null
+T202	Detail	16713	16719	severe	null	null
+T39	Disease	16845	16847	AD	UMLS:C0002395	Alzheimer's Disease
+T40	Disease	16906	16908	AD	UMLS:C0002395	Alzheimer's Disease
+T107	Disease	16788	16799	amnesic MCI	null	null
+T41	Disease	16966	16968	AD	UMLS:C0002395	Alzheimer's Disease
+T42	Disease	17198	17200	AD	UMLS:C0002395	Alzheimer's Disease
+T43	Disease	17443	17445	AD	UMLS:C0002395	Alzheimer's Disease
+T46	Disease	17534	17541	mild AD	UMLS:C0002395	Alzheimer's Disease
+T108	Disease	17392	17395	MCI	UMLS:C1270972	Mild cognitive disorder
+T109	Disease	17465	17468	MCI	UMLS:C1270972	Mild cognitive disorder
+T110	Disease	17526	17529	MCI	UMLS:C1270972	Mild cognitive disorder
+T44	Disease	17832	17834	AD	UMLS:C0002395	Alzheimer's Disease
+T45	Disease	18080	18082	AD	UMLS:C0002395	Alzheimer's Disease
+T111	Disease	18060	18063	MCI	UMLS:C1270972	Mild cognitive disorder
+T47	Disease	18171	18173	AD	UMLS:C0002395	Alzheimer's Disease
+T48	Disease	18387	18389	AD	UMLS:C0002395	Alzheimer's Disease
+T112	Disease	18379	18382	MCI	UMLS:C1270972	Mild cognitive disorder
+T49	Disease	18834	18836	AD	UMLS:C0002395	Alzheimer's Disease
+T203	Demographic	18962	18965	USA	UMLS:C0041703	United States
+T50	Disease	18991	18993	AD	UMLS:C0002395	Alzheimer's Disease
+T51	Disease	19217	19219	AD	UMLS:C0002395	Alzheimer's Disease
+T52	Disease	19368	19370	AD	UMLS:C0002395	Alzheimer's Disease
+T53	Disease	19497	19499	AD	UMLS:C0002395	Alzheimer's Disease
+T54	Disease	19778	19780	AD	UMLS:C0002395	Alzheimer's Disease
+T139	Disease	19802	19810	dementia	UMLS:C0497327	Dementia
+T55	Disease	19927	19929	AD	UMLS:C0002395	Alzheimer's Disease
+T204	Phenotype	19884	19905	increased CaM content	null	null
+T205	Phenotype	19960	19992	impaired proteasomal degradation	null	null
+T206	Phenotype	20112	20134	cell cycle dysfunction	HPO:HP:0011018	Abnormality of the cell cycle
+T207	Disease	20169	20195	neurodegenerative diseases	UMLS:C0524851	Neurodegenerative Disorders
+T56	Disease	20483	20485	AD	UMLS:C0002395	Alzheimer's Disease
+T57	Disease	20434	20436	AD	UMLS:C0002395	Alzheimer's Disease
+T208	Phenotype	20456	20479	increased levels of CaM	null	null
+T58	Disease	20670	20672	AD	UMLS:C0002395	Alzheimer's Disease
+T209	Phenotype	20617	20637	higher levels of CaM	null	null
+T60	Disease	21228	21230	AD	UMLS:C0002395	Alzheimer's Disease
+T213	Phenotype	21307	21330	increased levels of CaM	null	null
+T61	Disease	21483	21485	AD	UMLS:C0002395	Alzheimer's Disease
+T92	Disease	21388	21391	DLB	UMLS:C0752347	Lewy Body Disease
+T140	Disease	21420	21428	dementia	UMLS:C0497327	Dementia
+T62	Disease	21528	21530	AD	UMLS:C0002395	Alzheimer's Disease
+T214	Phenotype	21755	21772	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T215	Phenotype	21806	21821	loss of neurons	HPO:HP:0002529	Neuronal loss in central nervous system
+T113	Disease	22088	22091	MCI	UMLS:C1270972	Mild cognitive disorder
+T114	Disease	22166	22169	MCI	UMLS:C1270972	Mild cognitive disorder
+T216	Phenotype	22061	22084	increased levels of CaM	null	null
+T63	Disease	22306	22308	AD	UMLS:C0002395	Alzheimer's Disease
+T64	Disease	22759	22761	AD	UMLS:C0002395	Alzheimer's Disease
+T141	Disease	22812	22820	dementia	UMLS:C0497327	Dementia
+T217	Disease	22843	22869	neurodegenerative diseases	UMLS:C0524851	Neurodegenerative Disorders
+T65	Disease	23007	23009	AD	UMLS:C0002395	Alzheimer's Disease
+T66	Disease	23093	23095	AD	UMLS:C0002395	Alzheimer's Disease
+T218	Phenotype	23050	23089	higher plasma circulating levels of CaM	null	null
+T67	Disease	23322	23324	AD	UMLS:C0002395	Alzheimer's Disease
+T219	Disease	23335	23362	neurodegenerative disorders	UMLS:C0524851	Neurodegenerative Disorders
+T68	Disease	23364	23366	AD	UMLS:C0002395	Alzheimer's Disease
+T71	Disease	23707	23709	AD	UMLS:C0002395	Alzheimer's Disease
+T69	Disease	23815	23817	AD	UMLS:C0002395	Alzheimer's Disease
+T70	Disease	23960	23962	AD	UMLS:C0002395	Alzheimer's Disease
+T220	Phenotype	23900	23920	higher levels of CaM	null	null
+T72	Disease	24356	24358	AD	UMLS:C0002395	Alzheimer's Disease
+T73	Disease	24569	24571	AD	UMLS:C0002395	Alzheimer's Disease
+T78	Disease	24479	24481	AD	UMLS:C0002395	Alzheimer's Disease
+T74	Disease	24654	24656	AD	UMLS:C0002395	Alzheimer's Disease
+T75	Disease	24828	24830	AD	UMLS:C0002395	Alzheimer's Disease
+T115	Disease	24844	24847	MCI	UMLS:C1270972	Mild cognitive disorder
+T76	Disease	24964	24966	AD	UMLS:C0002395	Alzheimer's Disease
+T142	Disease	24987	24995	dementia	UMLS:C0497327	Dementia
+T221	Disease	25019	25046	neurodegenerative disorders	UMLS:C0524851	Neurodegenerative Disorders
+T77	Disease	25212	25214	AD	UMLS:C0002395	Alzheimer's Disease
+T222	Phenotype	25149	25168	altered CaM content	null	null
+T79	Disease	25335	25337	AD	UMLS:C0002395	Alzheimer's Disease
+T80	Disease	25368	25370	AD	UMLS:C0002395	Alzheimer's Disease
+R1	hasScale	16587	16616	Measure	16631	16633	ScaleMin
+R2	hasScale	16587	16616	Measure	16638	16640	ScaleMax
+R3	hasDetail	16631	16633	ScaleMin	16581	16585	Detail
+R4	hasDetail	16638	16640	ScaleMax	16581	16585	Detail
+R5	hasDetail	16697	16699	ScaleMin	16643	16651	Detail
+R6	hasDetail	16704	16706	ScaleMax	16643	16651	Detail
+R7	hasScale	16653	16682	Measure	16697	16699	ScaleMin
+R8	hasScale	16653	16682	Measure	16704	16706	ScaleMax
+R9	hasScale	16721	16756	Measure	16757	16760	ScaleMax
+R10	hasDetail	16757	16760	ScaleMax	16713	16719	Detail

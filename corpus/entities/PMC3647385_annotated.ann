@@ -1,0 +1,309 @@
+T1	Disease	28	34	cancer	UMLS:C1882062	Neoplastic disease
+T103	Disease	39	58	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T2	Disease	255	261	cancer	UMLS:C1882062	Neoplastic disease
+T3	Disease	121	127	cancer	UMLS:C1882062	Neoplastic disease
+T104	Disease	198	217	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T105	Disease	298	317	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T190	Demographic	447	450	USA	UMLS:C0041703	United States
+T4	Disease	513	519	cancer	UMLS:C1882062	Neoplastic disease
+T191	AgeGroup	529	544	aged 65 or more	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T192	Disease	557	565	dementia	UMLS:C0497327	Dementia
+T193	AgeGroup	529	544	aged 65 or more	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T5	Disease	695	701	cancer	UMLS:C1882062	Neoplastic disease
+T106	Disease	671	690	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T107	Disease	768	787	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T6	Disease	804	810	Cancer	UMLS:C1882062	Neoplastic disease
+T108	Disease	850	869	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T239	Disease	1003	1026	smoking related cancers	UMLS:C1333049	Cigarette Smoking-Related Carcinoma
+T240	Disease	1072	1099	non-smoking related cancers	null	null
+T109	Disease	1163	1182	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T7	Disease	1197	1219	smoking related cancer	UMLS:C1333049	Cigarette Smoking-Related Carcinoma
+T224	Disease	1258	1264	stroke	UMLS:C0038454	Cerebrovascular accident
+T8	Disease	1402	1408	cancer	UMLS:C1882062	Neoplastic disease
+T110	Disease	1351	1370	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T111	Disease	1488	1507	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T194	Disease	1523	1531	dementia	UMLS:C0497327	Dementia
+T9	Disease	1552	1558	Cancer	UMLS:C1882062	Neoplastic disease
+T10	Disease	1628	1634	cancer	UMLS:C1882062	Neoplastic disease
+T11	Disease	1703	1709	cancer	UMLS:C1882062	Neoplastic disease
+T112	Disease	1589	1608	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T113	Disease	1654	1673	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T114	Disease	1723	1742	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T241	Disease	1770	1793	smoking related cancers	UMLS:C1333049	Cigarette Smoking-Related Carcinoma
+T12	Disease	1862	1868	cancer	UMLS:C1882062	Neoplastic disease
+T13	Disease	1960	1966	cancer	UMLS:C1882062	Neoplastic disease
+T253	Disease	1896	1915	Parkinson’s disease	UMLS:C0030567	Parkinson Disease
+T254	Phenotype	1971	1988	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T14	Disease	2016	2022	cancer	UMLS:C1882062	Neoplastic disease
+T15	Disease	2139	2145	cancer	UMLS:C1882062	Neoplastic disease
+T115	Disease	2058	2077	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T116	Disease	2099	2118	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T255	Disease	2194	2213	Parkinson’s disease	UMLS:C0030567	Parkinson Disease
+T256	Disease	2223	2230	cancers	UMLS:C1882062	Neoplastic disease
+T16	Disease	2277	2283	cancer	UMLS:C1882062	Neoplastic disease
+T262	Phenotype	2288	2305	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T17	Disease	2540	2546	cancer	UMLS:C1882062	Neoplastic disease
+T263	Phenotype	2600	2617	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T18	Disease	2841	2847	cancer	UMLS:C1882062	Neoplastic disease
+T117	Disease	2817	2836	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T19	Disease	3042	3048	cancer	UMLS:C1882062	Neoplastic disease
+T20	Disease	3210	3216	cancer	UMLS:C1882062	Neoplastic disease
+T118	Disease	3089	3108	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T119	Disease	3135	3154	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T22	Disease	3570	3576	cancer	UMLS:C1882062	Neoplastic disease
+T120	Disease	3598	3617	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T264	Phenotype	3430	3457	severe cognitive impairment	UMLS:C3554639	Severe cognitive impairment
+T23	Disease	3742	3748	cancer	UMLS:C1882062	Neoplastic disease
+T121	Disease	3716	3735	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T24	Disease	3896	3902	cancer	UMLS:C1882062	Neoplastic disease
+T122	Disease	3938	3957	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T27	Disease	4335	4341	cancer	UMLS:C1882062	Neoplastic disease
+T123	Disease	4249	4268	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T290	Disease	4202	4209	cancers	UMLS:C1882062	Neoplastic disease
+T25	Disease	4380	4386	cancer	UMLS:C1882062	Neoplastic disease
+T26	Disease	4575	4581	cancer	UMLS:C1882062	Neoplastic disease
+T124	Disease	4391	4410	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T125	Disease	4551	4570	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T265	Demographic	4756	4769	Massachusetts	UMLS:C0024874	Massachusetts (geographic location)
+T266	Demographic	4771	4784	United States	UMLS:C0041703	United States
+T267	Gender	4840	4843	men	Gender:C0086582	male
+T268	Gender	4853	4858	women	Gender:C0015780	female
+T269	AgeGroup	4860	4870	aged 28-62	AgeGroups:C0001675	adult (19-44 years)
+T270	AgeGroup	4860	4870	aged 28-62	AgeGroups:C0683973	middle aged adult (45-64 years)
+T195	Disease	5401	5409	dementia	UMLS:C0497327	Dementia
+T271	AgeGroup	5366	5383	aged 65 and older	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T272	AgeGroup	5366	5383	aged 65 and older	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T196	Disease	5558	5566	dementia	UMLS:C0497327	Dementia
+T28	Disease	5774	5780	cancer	UMLS:C1882062	Neoplastic disease
+T291	Disease	6256	6263	cancers	UMLS:C1882062	Neoplastic disease
+T292	Disease	6416	6423	cancers	UMLS:C1882062	Neoplastic disease
+T273	Disease	6562	6585	non-malignant neoplasms	UMLS:C1547217	Non-malignant neoplasm
+T274	Disease	6590	6615	non-melanoma skin cancers	UMLS:C0699893	Skin carcinoma
+T29	Disease	6637	6643	cancer	UMLS:C1882062	Neoplastic disease
+T126	Disease	6857	6876	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T197	Disease	6844	6852	dementia	UMLS:C0497327	Dementia
+T275	Measure	6882	6920	Folstein mini-mental state examination	UMLS:C0451306	Mini-mental state examination
+T276	Phenotype	7286	7297	memory loss	HPO:HP:0002354	Memory impairment
+T277	Phenotype	7381	7402	neurological symptoms	UMLS:C0235031	Neurologic Symptoms
+T198	Disease	7486	7494	dementia	UMLS:C0497327	Dementia
+T199	Disease	7845	7853	Dementia	UMLS:C0497327	Dementia
+T200	Disease	7992	8000	dementia	UMLS:C0497327	Dementia
+T278	Measure	8035	8059	clinical dementia rating	UMLS:C0451074	Clinical dementia rating scale
+T279	ScaleMax	8069	8078	1 or more	null	null
+T128	Disease	8089	8108	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T127	Disease	8288	8307	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T129	Disease	8396	8415	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T130	Disease	8427	8446	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T131	Disease	8478	8497	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T132	Disease	8602	8621	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T133	Disease	8644	8663	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T201	Disease	8325	8333	dementia	UMLS:C0497327	Dementia
+T202	Disease	8341	8349	dementia	UMLS:C0497327	Dementia
+T203	Disease	8376	8384	dementia	UMLS:C0497327	Dementia
+T204	Disease	8720	8728	dementia	UMLS:C0497327	Dementia
+T205	Disease	8578	8586	dementia	UMLS:C0497327	Dementia
+T30	Disease	8952	8958	cancer	UMLS:C1882062	Neoplastic disease
+T206	Disease	9256	9264	dementia	UMLS:C0497327	Dementia
+T31	Disease	9554	9560	cancer	UMLS:C1882062	Neoplastic disease
+T134	Disease	9429	9448	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T135	Disease	9486	9505	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T207	Disease	9415	9423	dementia	UMLS:C0497327	Dementia
+T32	Disease	9566	9572	cancer	UMLS:C1882062	Neoplastic disease
+T33	Disease	9631	9637	cancer	UMLS:C1882062	Neoplastic disease
+T34	Disease	9744	9750	cancer	UMLS:C1882062	Neoplastic disease
+T243	Disease	9910	9937	non-smoking related cancers	null	null
+T280	Disease	9762	9786	non-melanoma skin cancer	UMLS:C0699893	Skin carcinoma
+T242	Disease	9789	9902	smoking related cancers (oral, pharynx, larynx, oesophagus, stomach, pancreas, lung, cervix, bladder, and kidney)	UMLS:C1333049	Cigarette Smoking-Related Carcinoma
+T329	Disease	9789	9902	smoking related cancers (oral, pharynx, larynx, oesophagus, stomach, pancreas, lung, cervix, bladder, and kidney)	UMLS:C0153405	Malignant neoplasm of pharynx
+T330	Disease	9789	9902	smoking related cancers (oral, pharynx, larynx, oesophagus, stomach, pancreas, lung, cervix, bladder, and kidney)	UMLS:C0007107	Malignant neoplasm of larynx
+T331	Disease	9789	9902	smoking related cancers (oral, pharynx, larynx, oesophagus, stomach, pancreas, lung, cervix, bladder, and kidney)	UMLS:C0546837	Malignant neoplasm of esophagus
+T333	Disease	9789	9902	smoking related cancers (oral, pharynx, larynx, oesophagus, stomach, pancreas, lung, cervix, bladder, and kidney)	UMLS:C0346647	Malignant neoplasm of pancreas
+T136	Disease	10097	10116	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T35	Disease	10241	10247	cancer	UMLS:C1882062	Neoplastic disease
+T137	Disease	10252	10271	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T36	Disease	10455	10461	cancer	UMLS:C1882062	Neoplastic disease
+T37	Disease	10590	10596	cancer	UMLS:C1882062	Neoplastic disease
+T155	Disease	10703	10709	stroke	UMLS:C0038454	Cerebrovascular accident
+T38	Disease	10734	10740	cancer	UMLS:C1882062	Neoplastic disease
+T138	Disease	10758	10777	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T291	Disease	10883	10889	stroke	UMLS:C0038454	Cerebrovascular accident
+T39	Disease	10956	10962	cancer	UMLS:C1882062	Neoplastic disease
+T208	Disease	10932	10940	dementia	UMLS:C0497327	Dementia
+T209	Disease	10980	10988	dementia	UMLS:C0497327	Dementia
+T210	Disease	11061	11069	dementia	UMLS:C0497327	Dementia
+T262	Disease	11085	11093	dementia	UMLS:C0497327	Dementia
+T40	Disease	11181	11187	cancer	UMLS:C1882062	Neoplastic disease
+T212	Disease	11248	11256	dementia	UMLS:C0497327	Dementia
+T213	Disease	11330	11338	dementia	UMLS:C0497327	Dementia
+T214	Disease	11371	11379	dementia	UMLS:C0497327	Dementia
+T41	Disease	11449	11455	cancer	UMLS:C1882062	Neoplastic disease
+T215	Disease	11459	11467	dementia	UMLS:C0497327	Dementia
+T42	Disease	11693	11699	cancer	UMLS:C1882062	Neoplastic disease
+T139	Disease	11726	11745	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T217	Gender	11854	11857	men	Gender:C0086582	male
+T218	AgeGroup	11859	11875	aged 65 or older	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T219	AgeGroup	11859	11875	aged 65 or older	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T43	Disease	11997	12003	cancer	UMLS:C1882062	Neoplastic disease
+T45	Disease	11924	11930	cancer	UMLS:C1882062	Neoplastic disease
+T44	Disease	12173	12179	cancer	UMLS:C1882062	Neoplastic disease
+T216	Disease	12203	12211	dementia	UMLS:C0497327	Dementia
+T140	Disease	12315	12334	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T141	Disease	12355	12374	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T142	Disease	12383	12402	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T143	Disease	12431	12450	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T223	Disease	12455	12472	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T294	Disease	12408	12414	stroke	UMLS:C0038454	Cerebrovascular accident
+T220	Disease	12531	12549	Lewy body dementia	UMLS:C0752347	Lewy Body Disease
+T221	Disease	12558	12575	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T222	Disease	12585	12608	frontotemporal dementia	UMLS:C0338451	Frontotemporal dementia
+T224	Disease	12651	12659	dementia	UMLS:C0497327	Dementia
+T284	Disease	12499	12522	non-Alzheimer’s disease	null	null
+T46	Disease	12707	12713	cancer	UMLS:C1882062	Neoplastic disease
+T48	Disease	12795	12801	cancer	UMLS:C1882062	Neoplastic disease
+T144	Disease	12830	12849	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T286	Disease	12851	12858	Cancers	UMLS:C1882062	Neoplastic disease
+T287	Disease	13081	13088	cancers	UMLS:C1882062	Neoplastic disease
+T285	Disease	12969	13043	Cancers with high lethality such as those of the lung, pancreas, and brain	UMLS:C0684249	Carcinoma of lung
+T338	Disease	12969	13043	Cancers with high lethality such as those of the lung, pancreas, and brain	UMLS:C0153633	Malignant neoplasm of brain
+T339	Disease	12969	13043	Cancers with high lethality such as those of the lung, pancreas, and brain	UMLS:C0346647	Malignant neoplasm of pancreas
+T47	Disease	13090	13096	Cancer	UMLS:C1882062	Neoplastic disease
+T145	Disease	13150	13169	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T146	Disease	13302	13321	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T225	Disease	13337	13345	dementia	UMLS:C0497327	Dementia
+T147	Disease	13414	13433	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T244	Disease	13463	13486	smoking related cancers	UMLS:C1333049	Cigarette Smoking-Related Carcinoma
+T245	Disease	13530	13557	non-smoking related cancers	null	null
+T49	Disease	13928	13934	cancer	UMLS:C1882062	Neoplastic disease
+T148	Disease	13956	13975	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T149	Disease	14058	14077	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T50	Disease	14092	14114	smoking related cancer	UMLS:C1333049	Cigarette Smoking-Related Carcinoma
+T297	Disease	14149	14155	stroke	UMLS:C0038454	Cerebrovascular accident
+T150	Disease	14306	14325	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T151	Disease	14347	14366	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T226	Disease	14281	14289	dementia	UMLS:C0497327	Dementia
+T51	Disease	14525	14531	cancer	UMLS:C1882062	Neoplastic disease
+T52	Disease	14575	14581	cancer	UMLS:C1882062	Neoplastic disease
+T53	Disease	14690	14696	cancer	UMLS:C1882062	Neoplastic disease
+T54	Disease	14782	14788	cancer	UMLS:C1882062	Neoplastic disease
+T152	Disease	14871	14890	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T153	Disease	14926	14945	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T227	Disease	14836	14844	dementia	UMLS:C0497327	Dementia
+T55	Disease	15046	15052	cancer	UMLS:C1882062	Neoplastic disease
+T154	Disease	15175	15194	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T56	Disease	15344	15350	cancer	UMLS:C1882062	Neoplastic disease
+T57	Disease	15230	15236	cancer	UMLS:C1882062	Neoplastic disease
+T155	Disease	15295	15314	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T58	Disease	15388	15394	cancer	UMLS:C1882062	Neoplastic disease
+T246	Disease	15411	15434	smoking related cancers	UMLS:C1333049	Cigarette Smoking-Related Carcinoma
+T247	Disease	15444	15471	non-smoking related cancers	null	null
+T60	Disease	15699	15705	cancer	UMLS:C1882062	Neoplastic disease
+T298	Disease	15576	15582	stroke	UMLS:C0038454	Cerebrovascular accident
+T59	Disease	15817	15823	cancer	UMLS:C1882062	Neoplastic disease
+T156	Disease	15760	15779	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T289	Disease	15834	15843	dementias	UMLS:C0497327	Dementia
+T228	Disease	15988	15996	dementia	UMLS:C0497327	Dementia
+T229	Disease	15906	15914	dementia	UMLS:C0497327	Dementia
+T294	Disease	15961	15968	cancers	UMLS:C1882062	Neoplastic disease
+T61	Disease	16152	16158	cancer	UMLS:C1882062	Neoplastic disease
+T157	Disease	16163	16182	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T62	Disease	16373	16379	cancer	UMLS:C1882062	Neoplastic disease
+T63	Disease	16523	16529	cancer	UMLS:C1882062	Neoplastic disease
+T64	Disease	16628	16634	cancer	UMLS:C1882062	Neoplastic disease
+T158	Disease	16534	16553	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T65	Disease	16883	16889	cancer	UMLS:C1882062	Neoplastic disease
+T66	Disease	16954	16960	cancer	UMLS:C1882062	Neoplastic disease
+T67	Disease	17510	17516	cancer	UMLS:C1882062	Neoplastic disease
+T68	Disease	17559	17565	cancer	UMLS:C1882062	Neoplastic disease
+T159	Disease	17475	17494	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T230	Disease	17585	17593	dementia	UMLS:C0497327	Dementia
+T69	Disease	17641	17647	cancer	UMLS:C1882062	Neoplastic disease
+T160	Disease	17617	17636	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T307	Ethnicity	17825	17830	white	UMLS:C0043157	Caucasians
+T161	Disease	17920	17939	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T231	Disease	17846	17863	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T70	Disease	18076	18082	cancer	UMLS:C1882062	Neoplastic disease
+T72	Disease	18196	18202	cancer	UMLS:C1882062	Neoplastic disease
+T71	Disease	18355	18361	cancer	UMLS:C1882062	Neoplastic disease
+T73	Disease	18516	18522	cancer	UMLS:C1882062	Neoplastic disease
+T162	Disease	18392	18411	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T74	Disease	18622	18628	cancer	UMLS:C1882062	Neoplastic disease
+T163	Disease	18676	18695	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T308	Disease	18848	18883	non-Alzheimer’s and mixed dementias	null	null
+T309	Disease	18848	18883	non-Alzheimer’s and mixed dementias	UMLS:C3532942	Mixed dementia
+T75	Disease	18921	18927	cancer	UMLS:C1882062	Neoplastic disease
+T164	Disease	18957	18976	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T232	Disease	19196	19204	dementia	UMLS:C0497327	Dementia
+T295	Disease	19233	19240	cancers	UMLS:C1882062	Neoplastic disease
+T310	Disease	19135	19144	dementias	UMLS:C0497327	Dementia
+T76	Disease	19366	19372	cancer	UMLS:C1882062	Neoplastic disease
+T165	Disease	19390	19409	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T311	Phenotype	19292	19312	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T77	Disease	19515	19521	cancer	UMLS:C1882062	Neoplastic disease
+T166	Disease	19553	19572	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T233	Disease	19616	19624	dementia	UMLS:C0497327	Dementia
+T78	Disease	19708	19714	cancer	UMLS:C1882062	Neoplastic disease
+T167	Disease	19743	19762	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T234	Disease	19819	19836	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T79	Disease	20002	20008	cancer	UMLS:C1882062	Neoplastic disease
+T80	Disease	20136	20142	cancer	UMLS:C1882062	Neoplastic disease
+T168	Disease	19945	19964	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T235	Disease	20056	20064	dementia	UMLS:C0497327	Dementia
+T236	Disease	20085	20102	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T312	Ethnicity	19873	19881	Japanese	UMLS:C1556094	Japanese race
+T169	Disease	20351	20370	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T170	Disease	20340	20346	cancer	UMLS:C1882062	Neoplastic disease
+T237	Disease	20258	20266	dementia	UMLS:C0497327	Dementia
+T313	AgeGroup	20236	20243	elderly	null	null
+T171	Disease	20456	20475	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T257	Disease	20555	20574	Parkinson’s disease	UMLS:C0030567	Parkinson Disease
+T81	Disease	20399	20421	smoking related cancer	UMLS:C1333049	Cigarette Smoking-Related Carcinoma
+T82	Disease	20732	20738	cancer	UMLS:C1882062	Neoplastic disease
+T249	Disease	20764	20787	smoking related cancers	UMLS:C1333049	Cigarette Smoking-Related Carcinoma
+T250	Disease	20817	20844	non-smoking related cancers	null	null
+T258	Disease	20627	20646	Parkinson’s disease	UMLS:C0030567	Parkinson Disease
+T172	Disease	21029	21048	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T251	Disease	20863	20886	smoking related cancers	UMLS:C1333049	Cigarette Smoking-Related Carcinoma
+T259	Disease	20922	20941	Parkinson’s disease	UMLS:C0030567	Parkinson Disease
+T173	Disease	21212	21231	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T297	Disease	21155	21177	smoking related cancer	UMLS:C1333049	Cigarette Smoking-Related Carcinoma
+T298	Disease	21289	21311	smoking related cancer	UMLS:C1333049	Cigarette Smoking-Related Carcinoma
+T299	Phenotype	21348	21365	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T84	Disease	21465	21471	cancer	UMLS:C1882062	Neoplastic disease
+T174	Disease	21372	21391	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T260	Disease	21396	21415	Parkinson’s disease	UMLS:C0030567	Parkinson Disease
+T300	Phenotype	21545	21562	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T83	Disease	21592	21598	cancer	UMLS:C1882062	Neoplastic disease
+T314	Disease	21639	21665	neurodegenerative diseases	UMLS:C0524851	Neurodegenerative Disorders
+T85	Disease	21852	21858	cancer	UMLS:C1882062	Neoplastic disease
+T301	Phenotype	21890	21907	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T86	Disease	22024	22030	cancer	UMLS:C1882062	Neoplastic disease
+T175	Disease	22000	22019	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T176	Disease	22252	22271	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T315	Phenotype	22150	22157	tumours	UMLS:C0027651	Neoplasms
+T177	Disease	22396	22415	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T302	Phenotype	22463	22480	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T316	Phenotype	22358	22365	tumours	UMLS:C0027651	Neoplasms
+T88	Disease	22656	22662	cancer	UMLS:C1882062	Neoplastic disease
+T178	Disease	22610	22629	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T87	Disease	22801	22807	cancer	UMLS:C1882062	Neoplastic disease
+T179	Disease	22830	22849	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T180	Disease	22912	22931	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T303	Phenotype	23036	23053	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T304	Phenotype	22947	22959	inflammation	UMLS:C0021368	Inflammation
+T181	Disease	23162	23181	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T323	Phenotype	23202	23222	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T89	Disease	23384	23397	breast cancer	UMLS:C0678222	Breast Carcinoma
+T238	Disease	23461	23469	dementia	UMLS:C0497327	Dementia
+T321	Phenotype	23554	23578	neuronal damage and loss	UMLS:C0751792	Trauma, Nervous System
+T90	Treatment	23641	23655	cancer therapy	UMLS:C0920425	cancer treatment
+T91	Disease	23858	23864	cancer	UMLS:C1882062	Neoplastic disease
+T182	Disease	23869	23888	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T92	Disease	24218	24224	cancer	UMLS:C1882062	Neoplastic disease
+T183	Disease	24174	24193	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T93	Treatment	24250	24266	cancer treatment	UMLS:C0920425	cancer treatment
+T184	Disease	24278	24297	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T94	Treatment	24367	24397	curative treatments for cancer	UMLS:C0920425	cancer treatment
+T185	Disease	24442	24461	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T95	Disease	24502	24508	cancer	UMLS:C1882062	Neoplastic disease
+T305	Phenotype	24538	24555	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+R1	hasScale	8035	8059	Measure	8069	8078	ScaleMax

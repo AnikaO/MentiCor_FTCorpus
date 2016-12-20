@@ -1,0 +1,214 @@
+T1	Treatment	41	73	Nonpharmacological Interventions	null	null
+T2	AgeGroup	78	85	Old-Old	null	null
+T3	Measure	102	126	Clinical Dementia Rating	UMLS:C0451074	Clinical dementia rating scale
+T4	Treatment	187	219	nonpharmacological interventions	null	null
+T5	Disease	268	276	dementia	UMLS:C0497327	Dementia
+T6	Disease	278	303	mild cognitive impairment	UMLS:C1270972	Mild cognitive disorder
+T7	Measure	309	339	Clinical Dementia Rating (CDR)	UMLS:C0451074	Clinical dementia rating scale
+T8	Treatment	432	460	cognitive interventions (CI)	UMLS:C3899527	Cognitive Intervention
+T9	Treatment	462	486	physical activities (PA)	UMLS:C0026606	Physical activity
+T10	Treatment	499	526	reminiscence approach (GRA)	UMLS:C0150321	Reminiscence therapy
+T11	AgeGroup	645	653	aged >74	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T12	AgeGroup	645	653	aged >74	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T13	Measure	667	670	CDR	UMLS:C0451074	Clinical dementia rating scale
+T14	Treatment	724	726	CI	UMLS:C3899527	Cognitive Intervention
+T15	Treatment	728	730	PA	UMLS:C0026606	Physical activity
+T16	Treatment	735	738	GRA	UMLS:C0150321	Reminiscence therapy
+T17	Measure	834	870	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T18	Measure	872	904	Trail Making Test part A (TMT-A)	UMLS:C0040604	Trail Making Test
+T19	Measure	906	923	word fluency (WF)	null	null
+T20	Treatment	1055	1057	CI	UMLS:C3899527	Cognitive Intervention
+T21	Treatment	1062	1064	PA	UMLS:C0026606	Physical activity
+T22	Measure	1080	1084	MMSE	UMLS:C0451306	Mini-mental state examination
+T23	Measure	1121	1126	TMT-A	UMLS:C0040604	Trail Making Test
+T24	Measure	1128	1130	WF	null	null
+T25	Treatment	1232	1234	CI	UMLS:C3899527	Cognitive Intervention
+T26	Treatment	1239	1241	PA	UMLS:C0026606	Physical activity
+T27	Disease	1464	1472	dementia	UMLS:C0497327	Dementia
+T28	Disease	1515	1546	mild cognitive impairment (MCI)	UMLS:C1270972	Mild cognitive disorder
+T29	Measure	1552	1582	Clinical Dementia Rating (CDR)	UMLS:C0451074	Clinical dementia rating scale
+T30	Disease	1641	1649	dementia	UMLS:C0497327	Dementia
+T31	Disease	1715	1723	dementia	UMLS:C0497327	Dementia
+T33	Treatment	1859	1891	nonpharmacological interventions	null	null
+T34	Treatment	1931	1963	nonpharmacological methodologies	null	null
+T35	Treatment	2035	2063	cognitive interventions (CI)	UMLS:C3899527	Cognitive Intervention
+T36	Treatment	2065	2089	physical activities (PA)	UMLS:C0026606	Physical activity
+T37	Treatment	2096	2154	group reminiscence approach with reality orientation (GRA)	UMLS:C0150321	Reminiscence therapy
+T38	Treatment	2156	2158	CI	UMLS:C3899527	Cognitive Intervention
+T39	Disease	2417	2425	dementia	UMLS:C0497327	Dementia
+T40	Treatment	2433	2452	cognitive exercises	UMLS:C3899527	Cognitive Intervention
+T41	Treatment	2487	2504	memory strategies	UMLS:C3898430	Memory Intervention
+T42	Treatment	2535	2537	PA	UMLS:C0026606	Physical activity
+T43	Treatment	2573	2620	aerobic [4] as well as resistance [9] exercises	UMLS:C0001701	Exercise, Aerobic
+T44	Treatment	2573	2620	aerobic [4] as well as resistance [9] exercises	UMLS:C0872279	Resistance Training
+T45	Disease	2689	2692	MCI	UMLS:C1270972	Mild cognitive disorder
+T46	Treatment	2698	2701	GRA	UMLS:C0150321	Reminiscence therapy
+T47	Treatment	2761	2787	psychosocial interventions	UMLS:C0454041	Psychosocial intervention strategy
+T48	Disease	2791	2799	dementia	UMLS:C0497327	Dementia
+T49	Treatment	3065	3068	GRA	UMLS:C0150321	Reminiscence therapy
+T51	Disease	3278	3286	dementia	UMLS:C0497327	Dementia
+T52	Treatment	3702	3734	nonpharmacological interventions	null	null
+T53	Treatment	3875	3878	GRA	UMLS:C0150321	Reminiscence therapy
+T54	Measure	3898	3901	CDR	UMLS:C0451074	Clinical dementia rating scale
+T55	Treatment	3932	3964	nonpharmacological interventions	null	null
+T56	Disease	4029	4035	stroke	UMLS:C0038454	Cerebrovascular accident
+T57	Disease	4040	4048	dementia	UMLS:C0497327	Dementia
+T58	AgeGroup	4148	4156	aged ≥75	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T59	Measure	4189	4192	CDR	UMLS:C0451074	Clinical dementia rating scale
+T72	Demographic	4078	4092	northern Japan	null	null
+T226	AgeGroup	4148	4156	aged ≥75	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T60	Measure	4283	4319	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T61	Measure	4511	4514	CDR	UMLS:C0451074	Clinical dementia rating scale
+T62	Measure	4586	4589	CDR	UMLS:C0451074	Clinical dementia rating scale
+T63	Disease	4904	4922	syphilis infection	UMLS:C0749211	syphilis infection
+T64	Disease	4927	4972	dysfunctions of the thyroid, liver and kidney	UMLS:C0348024	Thyroid dysfunction
+T65	Disease	4927	4972	dysfunctions of the thyroid, liver and kidney	UMLS:C0086565	Liver Dysfunction
+T66	Disease	4927	4972	dysfunctions of the thyroid, liver and kidney	UMLS:C0151746	Abnormal renal function
+T67	Disease	5004	5030	neurodegenerative diseases	UMLS:C0524851	Neurodegenerative Disorders
+T68	Disease	5039	5058	Parkinson's disease	UMLS:C0030567	Parkinson Disease
+T69	Disease	5060	5090	progressive supranuclear palsy	UMLS:C0038868	Progressive supranuclear palsy
+T70	Disease	5094	5122	spinocerebellar degeneration	UMLS:C0087012	Ataxia, Spinocerebellar
+T71	Demographic	5254	5259	Japan	UMLS:C0022341	Japan
+T73	Demographic	5247	5252	Tokyo	UMLS:C0040371	Tokyo
+T74	Disease	5292	5302	depression	UMLS:C0011581	Depressive disorder
+T75	Disease	5306	5319	schizophrenia	UMLS:C0036341	Schizophrenia
+T76	Drug	5371	5386	antidepressants	UMLS:C0003289	Antidepressive Agents
+T77	Drug	5390	5410	antipsychotic agents	UMLS:C0040615	Antipsychotic Agents
+T78	Drug	5423	5437	sleeping drugs	UMLS:C0871377	Sleep Inducing Drugs
+T79	Disease	5669	5682	heart disease	UMLS:C0018799	Heart Diseases
+T80	Disease	5704	5718	osteoarthritis	UMLS:C0029408	Degenerative polyarthritis
+T81	Treatment	5740	5742	PA	UMLS:C0026606	Physical activity
+T82	Treatment	5766	5768	PA	UMLS:C0026606	Physical activity
+T83	Measure	5817	5820	CDR	UMLS:C0451074	Clinical dementia rating scale
+T84	Gender	5837	5842	males	Gender:C0086582	male
+T85	Gender	5850	5857	females	Gender:C0015780	female
+T86	Treatment	6179	6181	CI	UMLS:C3899527	Cognitive Intervention
+T87	Treatment	6183	6185	PA	UMLS:C0026606	Physical activity
+T88	Treatment	6189	6192	GRA	UMLS:C0150321	Reminiscence therapy
+T89	Treatment	6256	6258	CI	UMLS:C3899527	Cognitive Intervention
+T90	Treatment	6260	6262	PA	UMLS:C0026606	Physical activity
+T91	Treatment	6267	6270	GRA	UMLS:C0150321	Reminiscence therapy
+T92	Measure	6320	6324	MMSE	UMLS:C0451306	Mini-mental state examination
+T93	Measure	6326	6343	word fluency (WF)	null	null
+T94	Measure	6345	6377	Trail Making Test part A (TMT-A)	UMLS:C0040604	Trail Making Test
+T95	Measure	6485	6489	MMSE	UMLS:C0451306	Mini-mental state examination
+T96	Measure	6556	6558	WF	null	null
+T97	Measure	6567	6572	TMT-A	UMLS:C0040604	Trail Making Test
+T98	Measure	7023	7071	Geriatric Depression Scale (GDS) – short version	UMLS:C2919619	Geriatric depression scale short form
+T99	Measure	7219	7223	MMSE	UMLS:C0451306	Mini-mental state examination
+T100	Measure	7225	7227	WF	null	null
+T101	Measure	7232	7237	TMT-A	UMLS:C0040604	Trail Making Test
+T102	Measure	7193	7217	neuropsychological tests	UMLS:C0027902	Neuropsychological Tests
+T104	Measure	7316	7320	MMSE	UMLS:C0451306	Mini-mental state examination
+T103	Measure	7290	7314	neuropsychological tests	UMLS:C0027902	Neuropsychological Tests
+T105	Measure	7322	7324	WF	null	null
+T106	Measure	7329	7334	TMT-A	UMLS:C0040604	Trail Making Test
+T117	Treatment	8633	8635	CI	UMLS:C3899527	Cognitive Intervention
+T118	Treatment	8637	8639	PA	UMLS:C0026606	Physical activity
+T119	Treatment	8643	8646	GRA	UMLS:C0150321	Reminiscence therapy
+T120	Treatment	9533	9535	CI	UMLS:C3899527	Cognitive Intervention
+T188	Measure	10041	10043	WF	null	null
+T189	Measure	10258	10260	WF	null	null
+T137	Treatment	10484	10486	PA	UMLS:C0026606	Physical activity
+T138	Treatment	10405	10407	PA	UMLS:C0026606	Physical activity
+T139	Treatment	10415	10418	GRA	UMLS:C0150321	Reminiscence therapy
+T140	Treatment	10511	10513	PA	UMLS:C0026606	Physical activity
+T193	Demographic	10977	10982	Japan	UMLS:C0022341	Japan
+T194	Demographic	10970	10975	Tokyo	UMLS:C0040371	Tokyo
+T195	Treatment	10907	10920	step aerobics	UMLS:C0695430	step aerobics
+T219	Treatment	11216	11224	exercise	UMLS:C0026606	Physical activity
+T146	Treatment	11886	11889	GRA	UMLS:C0150321	Reminiscence therapy
+T197	Treatment	12061	12082	reminiscence approach	UMLS:C0150321	Reminiscence therapy
+T199	Treatment	12174	12195	reminiscence approach	UMLS:C0150321	Reminiscence therapy
+T200	Demographic	12958	12961	USA	UMLS:C0041703	United States
+T150	Measure	14555	14559	MMSE	UMLS:C0451306	Mini-mental state examination
+T151	Measure	14561	14563	WF	null	null
+T152	Measure	14565	14570	TMT-A	UMLS:C0040604	Trail Making Test
+T201	ScaleMax	14621	14622	2	null	null
+T202	ScaleMax	14631	14632	2	null	null
+T203	ScaleMax	14640	14641	2	null	null
+T153	Measure	14913	14917	MMSE	UMLS:C0451306	Mini-mental state examination
+T154	Measure	14919	14921	WF	null	null
+T155	Measure	14923	14928	TMT-A	UMLS:C0040604	Trail Making Test
+T204	Measure	14853	14856	GDS	UMLS:C2919619	Geriatric depression scale short form
+T205	Measure	15154	15157	GDS	UMLS:C2919619	Geriatric depression scale short form
+T156	Measure	15561	15565	MMSE	UMLS:C0451306	Mini-mental state examination
+T157	Measure	15567	15569	WF	null	null
+T158	Measure	15571	15576	TMT-A	UMLS:C0040604	Trail Making Test
+T206	Measure	15597	15600	GDS	UMLS:C2919619	Geriatric depression scale short form
+T159	Measure	15946	15950	MMSE	UMLS:C0451306	Mini-mental state examination
+T160	Measure	15952	15954	WF	null	null
+T161	Measure	15956	15961	TMT-A	UMLS:C0040604	Trail Making Test
+T121	Treatment	16180	16182	CI	UMLS:C3899527	Cognitive Intervention
+T122	Treatment	16184	16186	PA	UMLS:C0026606	Physical activity
+T123	Treatment	16191	16194	GRA	UMLS:C0150321	Reminiscence therapy
+T162	Measure	16509	16513	MMSE	UMLS:C0451306	Mini-mental state examination
+T124	Treatment	16661	16663	CI	UMLS:C3899527	Cognitive Intervention
+T125	Treatment	16672	16674	PA	UMLS:C0026606	Physical activity
+T163	Measure	16615	16619	MMSE	UMLS:C0451306	Mini-mental state examination
+T164	Measure	17238	17242	MMSE	UMLS:C0451306	Mini-mental state examination
+T165	Measure	17286	17290	MMSE	UMLS:C0451306	Mini-mental state examination
+T107	Treatment	17889	17921	nonpharmacological interventions	null	null
+T108	Treatment	17923	17925	CI	UMLS:C3899527	Cognitive Intervention
+T109	Treatment	17927	17929	PA	UMLS:C0026606	Physical activity
+T110	Treatment	17934	17937	GRA	UMLS:C0150321	Reminiscence therapy
+T126	Treatment	17996	17998	CI	UMLS:C3899527	Cognitive Intervention
+T141	Treatment	18121	18123	PA	UMLS:C0026606	Physical activity
+T166	Measure	18051	18055	MMSE	UMLS:C0451306	Mini-mental state examination
+T167	AgeGroup	18059	18066	elderly	null	null
+T178	Measure	18103	18106	CDR	UMLS:C0451074	Clinical dementia rating scale
+T176	Measure	18219	18224	TMT-A	UMLS:C0040604	Trail Making Test
+T177	Measure	18208	18210	WF	null	null
+T168	Measure	18526	18530	MMSE	UMLS:C0451306	Mini-mental state examination
+T169	Measure	18573	18577	MMSE	UMLS:C0451306	Mini-mental state examination
+T170	Measure	18693	18697	MMSE	UMLS:C0451306	Mini-mental state examination
+T190	Measure	18832	18834	WF	null	null
+T191	Measure	18899	18901	WF	null	null
+T192	Disease	18870	18873	MCI	UMLS:C1270972	Mild cognitive disorder
+T142	Treatment	19294	19296	PA	UMLS:C0026606	Physical activity
+T147	Treatment	19301	19304	GRA	UMLS:C0150321	Reminiscence therapy
+T208	Treatment	19241	19259	cognitive training	UMLS:C3899527	Cognitive Intervention
+T210	Treatment	19777	19794	aerobic trainings	UMLS:C0001701	Exercise, Aerobic
+T211	AgeGroup	19891	19903	older adults	null	null
+T213	Disease	19981	19984	MCI	UMLS:C1270972	Mild cognitive disorder
+T214	Disease	20122	20134	amnestic MCI	null	null
+T215	Gender	20111	20116	women	Gender:C0015780	female
+T216	AgeGroup	20104	20110	senior	null	null
+T143	Treatment	20207	20209	PA	UMLS:C0026606	Physical activity
+T180	Disease	20296	20304	dementia	UMLS:C0497327	Dementia
+T127	Treatment	20472	20474	CI	UMLS:C3899527	Cognitive Intervention
+T128	Treatment	20482	20485	GRA	UMLS:C0150321	Reminiscence therapy
+T144	Treatment	20552	20554	PA	UMLS:C0026606	Physical activity
+T129	Treatment	20703	20706	GRA	UMLS:C0150321	Reminiscence therapy
+T130	Treatment	21055	21058	GRA	UMLS:C0150321	Reminiscence therapy
+T148	Treatment	21593	21596	GRA	UMLS:C0150321	Reminiscence therapy
+T182	AgeGroup	21528	21535	Elderly	null	null
+T111	Treatment	21814	21845	nonpharmacological intervention	null	null
+T171	Measure	21913	21917	MMSE	UMLS:C0451306	Mini-mental state examination
+T172	Measure	22003	22007	MMSE	UMLS:C0451306	Mini-mental state examination
+T112	Treatment	22267	22299	nonpharmacological interventions	null	null
+T113	Treatment	22312	22314	CI	UMLS:C3899527	Cognitive Intervention
+T173	Measure	22180	22184	MMSE	UMLS:C0451306	Mini-mental state examination
+T179	Measure	22048	22051	CDR	UMLS:C0451074	Clinical dementia rating scale
+T174	Measure	22553	22557	MMSE	UMLS:C0451306	Mini-mental state examination
+T131	Treatment	22872	22874	CI	UMLS:C3899527	Cognitive Intervention
+T175	Measure	22719	22723	MMSE	UMLS:C0451306	Mini-mental state examination
+T145	Treatment	22989	22991	PA	UMLS:C0026606	Physical activity
+T224	AgeGroup	23083	23090	old-old	null	null
+T225	Phenotype	23054	23079	limited physical capacity	UMLS:C0391853	Physical activity decreased
+T114	Treatment	23368	23400	nonpharmacological interventions	null	null
+T115	Treatment	23560	23591	nonpharmacological intervention	null	null
+T184	Drug	24334	24343	donepezil	DrugBank:DB00843	Donepezil
+T185	Disease	24347	24366	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T186	Drug	24431	24440	donepezil	DrugBank:DB00843	Donepezil
+T116	Treatment	24635	24667	nonpharmacological interventions	null	null
+T132	Treatment	24669	24671	CI	UMLS:C3899527	Cognitive Intervention
+T133	Treatment	24676	24678	PA	UMLS:C0026606	Physical activity
+T134	Treatment	25183	25185	CI	UMLS:C3899527	Cognitive Intervention
+T135	Treatment	25187	25189	PA	UMLS:C0026606	Physical activity
+T136	Treatment	25198	25201	GRA	UMLS:C0150321	Reminiscence therapy
+T149	Treatment	25048	25051	GRA	UMLS:C0150321	Reminiscence therapy
+T187	Disease	25137	25145	dementia	DrugBank:C0497327	Dementia
+R1	hasScale	14555	14559	Measure	14621	14622	ScaleMax
+R2	hasScale	14561	14563	Measure	14631	14632	ScaleMax
+R3	hasScale	14565	14570	Measure	14640	14641	ScaleMax

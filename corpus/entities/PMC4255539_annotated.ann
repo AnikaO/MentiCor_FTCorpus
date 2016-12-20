@@ -1,0 +1,483 @@
+T1	Disease	0	11	Comorbidity	UMLS:C0009488	Comorbidity
+T2	Disease	23	48	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T3	Disease	56	75	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T25	Disease	211	242	dementia with Lewy bodies (DLB)	UMLS:C0752347	Lewy Body Disease
+T207	Disease	185	209	Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T26	Disease	410	413	DLB	UMLS:C0752347	Lewy Body Disease
+T208	Disease	376	389	comorbidities	UMLS:C0009488	Comorbidity
+T4	Disease	472	483	comorbidity	UMLS:C0009488	Comorbidity
+T27	Disease	495	498	DLB	UMLS:C0752347	Lewy Body Disease
+T205	Disease	503	505	AD	UMLS:C0002395	Alzheimer's Disease
+T28	Disease	692	695	DLB	UMLS:C0752347	Lewy Body Disease
+T206	Disease	722	724	AD	UMLS:C0002395	Alzheimer's Disease
+T5	Disease	764	775	Comorbidity	UMLS:C0009488	Comorbidity
+T29	Disease	1062	1065	DLB	UMLS:C0752347	Lewy Body Disease
+T204	Disease	1070	1072	AD	UMLS:C0002395	Alzheimer's Disease
+T349	Disease	971	984	comorbidities	UMLS:C0009488	Comorbidity
+T205	Disease	1010	1035	neuropsychiatric diseases	null	null
+T6	Disease	1081	1092	Comorbidity	UMLS:C0009488	Comorbidity
+T211	Disease	1129	1137	dementia	UMLS:C0497327	Dementia
+T30	Disease	1473	1476	DLB	UMLS:C0752347	Lewy Body Disease
+T212	Disease	1150	1181	Mental and behavioral disorders	UMLS:C0004936	Mental disorders
+T213	Disease	1150	1181	Mental and behavioral disorders	UMLS:C0004930	Behavior Disorders
+T214	Disease	1185	1215	diseases of the nervous system	UMLS:C0027765	nervous system disorder
+T210	Disease	1219	1249	diseases of the eye and adnexa	UMLS:C1314803	Disorder of eye and adnexa NOS
+T210	Disease	1219	1249	diseases of the eye and adnexa	UMLS:C1314803	Disorder of eye and adnexa NOS
+T217	Disease	1252	1325	diseases of the “circulatory”, “respiratory”, and “genitourinary” systems	UMLS:C0728936	Disorder of circulatory system
+T218	Disease	1252	1325	diseases of the “circulatory”, “respiratory”, and “genitourinary” systems	UMLS:C0035204	Respiration Disorders
+T219	Disease	1252	1325	diseases of the “circulatory”, “respiratory”, and “genitourinary” systems	UMLS:C0080276	Disorder of the genitourinary system
+T220	Disease	1328	1372	diseases of the skin and subcutaneous tissue	UMLS:C0178298	Skin and subcutaneous tissue disorders
+T222	Disease	1379	1439	diseases of the musculoskeletal system and connective tissue	UMLS:C0263660	Musculoskeletal and connective tissue disorders
+T31	Disease	1689	1692	DLB	UMLS:C0752347	Lewy Body Disease
+T224	Disease	1514	1524	Depression	UMLS:C0011581	Depressive disorder
+T225	Disease	1571	1579	migraine	UMLS:C0149931	Migraine Disorders
+T226	Disease	1673	1681	dementia	UMLS:C0497327	Dementia
+T32	Disease	1824	1827	DLB	UMLS:C0752347	Lewy Body Disease
+T203	Disease	1853	1855	AD	UMLS:C0002395	Alzheimer's Disease
+T227	Disease	1710	1718	dementia	UMLS:C0497327	Dementia
+T228	Disease	1730	1745	ischemic stroke	UMLS:C0948008	Ischemic stroke
+T8	Disease	1896	1907	comorbidity	UMLS:C0009488	Comorbidity
+T33	Disease	1919	1922	DLB	UMLS:C0752347	Lewy Body Disease
+T202	Disease	2008	2010	AD	UMLS:C0002395	Alzheimer's Disease
+T229	Disease	1958	1968	depression	UMLS:C0011581	Depressive disorder
+T230	Disease	1970	1976	stroke	UMLS:C0038454	Cerebrovascular accident
+T231	Disease	1981	1989	migraine	UMLS:C0149931	Migraine Disorders
+T7	Disease	2156	2167	comorbidity	UMLS:C0009488	Comorbidity
+T34	Disease	2179	2182	DLB	UMLS:C0752347	Lewy Body Disease
+T201	Disease	2195	2197	AD	UMLS:C0002395	Alzheimer's Disease
+T35	Disease	2233	2264	Dementia with Lewy bodies (DLB)	UMLS:C0752347	Lewy Body Disease
+T199	Disease	2327	2351	Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T200	Disease	2299	2320	degenerative dementia	UMLS:C1395092	dementia; degenerative
+T36	Disease	2375	2378	DLB	UMLS:C0752347	Lewy Body Disease
+T198	Disease	2371	2373	AD	UMLS:C0002395	Alzheimer's Disease
+T232	Phenotype	2521	2553	cognitive and functional decline	HPO:HP:0001268	Mental deterioration
+T233	Phenotype	2521	2553	cognitive and functional decline	null	null
+T37	Disease	2656	2659	DLB	UMLS:C0752347	Lewy Body Disease
+T38	Disease	2830	2833	DLB	UMLS:C0752347	Lewy Body Disease
+T234	Phenotype	2685	2706	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T236	Phenotype	2726	2741	sleep disorders	UMLS:C0851578	Sleep Disorders
+T237	Phenotype	2746	2767	autonomic dysfunction	HPO:HP:0002459	Dysautonomia
+T238	Disease	2769	2782	comorbidities	UMLS:C0009488	Comorbidity
+T239	Disease	2844	2861	Comorbid diseases	UMLS:C0009488	Comorbidity
+T240	AgeGroup	2973	2978	older	null	null
+T241	Disease	3043	3051	dementia	UMLS:C0497327	Dementia
+T39	Disease	3147	3150	DLB	UMLS:C0752347	Lewy Body Disease
+T242	Disease	3113	3126	comorbidities	UMLS:C0009488	Comorbidity
+T40	Disease	3244	3247	DLB	UMLS:C0752347	Lewy Body Disease
+T196	Disease	3276	3278	AD	UMLS:C0002395	Alzheimer's Disease
+T351	Phenotype	3195	3205	depression	HPO:HP:0000716	Depression
+T352	Phenotype	3218	3225	anxiety	HPO:HP:0000739	Anxiety
+T41	Disease	3383	3386	DLB	UMLS:C0752347	Lewy Body Disease
+T42	Disease	3331	3334	DLB	UMLS:C0752347	Lewy Body Disease
+T197	Disease	3410	3412	AD	UMLS:C0002395	Alzheimer's Disease
+T353	Phenotype	3280	3290	Depression	HPO:HP:0000716	Depression
+T43	Disease	3499	3502	DLB	UMLS:C0752347	Lewy Body Disease
+T195	Disease	3565	3567	AD	UMLS:C0002395	Alzheimer's Disease
+T354	Phenotype	3439	3445	stroke	HPO:HP:0001297	Stroke
+T355	Phenotype	3450	3457	anxiety	HPO:HP:0000739	Anxiety
+T44	Disease	3679	3682	DLB	UMLS:C0752347	Lewy Body Disease
+T209	Disease	3621	3634	comorbidities	UMLS:C0009488	Comorbidity
+T45	Disease	3789	3792	DLB	UMLS:C0752347	Lewy Body Disease
+T9	Disease	3890	3901	comorbidity	UMLS:C0009488	Comorbidity
+T46	Disease	3922	3925	DLB	UMLS:C0752347	Lewy Body Disease
+T47	Disease	3973	3976	DLB	UMLS:C0752347	Lewy Body Disease
+T194	Disease	3915	3917	AD	UMLS:C0002395	Alzheimer's Disease
+T48	Disease	4046	4049	DLB	UMLS:C0752347	Lewy Body Disease
+T210	Disease	4383	4391	dementia	UMLS:C0497327	Dementia
+T243	Ethnicity	4406	4412	Sweden	UMLS:C0337818	Swedes
+T244	Disease	4547	4555	dementia	UMLS:C0497327	Dementia
+T49	Disease	4768	4771	DLB	UMLS:C0752347	Lewy Body Disease
+T191	Disease	4708	4722	early-onset AD	UMLS:C0750901	Alzheimer Disease, Early Onset
+T192	Disease	4724	4737	late-onset AD	UMLS:C0494463	Alzheimer Disease, Late Onset
+T67	Disease	4739	4747	mixed AD	UMLS:C0349078	Dementia in Alzheimer's disease, atypical or mixed type
+T245	Disease	4684	4692	dementia	UMLS:C0497327	Dementia
+T246	Disease	4749	4766	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T247	Disease	4773	4796	frontotemporal dementia	UMLS:C0338451	Frontotemporal dementia
+T249	Disease	4833	4853	unspecified dementia	UMLS:C0497327	Dementia
+T248	Disease	4798	4831	Parkinson’s disease with dementia	UMLS:C0349081	Dementia in Parkinson's disease
+T250	Demographic	4920	4926	Sweden	UMLS:C0038995	Sweden
+T251	Demographic	4972	4978	Sweden	UMLS:C0038995	Sweden
+T252	Disease	5075	5083	dementia	UMLS:C0497327	Dementia
+T253	Demographic	5087	5093	Sweden	UMLS:C0038995	Sweden
+T254	Disease	5147	5155	dementia	UMLS:C0497327	Dementia
+T255	Disease	5262	5270	dementia	UMLS:C0497327	Dementia
+T50	Disease	5429	5432	DLB	UMLS:C0752347	Lewy Body Disease
+T51	Disease	5434	5437	DLB	UMLS:C0752347	Lewy Body Disease
+T189	Disease	5466	5468	AD	UMLS:C0002395	Alzheimer's Disease
+T190	Disease	5470	5472	AD	UMLS:C0002395	Alzheimer's Disease
+T256	Disease	5522	5530	Dementia	UMLS:C0497327	Dementia
+T52	Disease	5687	5690	DLB	UMLS:C0752347	Lewy Body Disease
+T53	Disease	5777	5780	DLB	UMLS:C0752347	Lewy Body Disease
+T54	Disease	5823	5826	DLB	UMLS:C0752347	Lewy Body Disease
+T55	Measure	5865	5901	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T187	Disease	5785	5787	AD	UMLS:C0002395	Alzheimer's Disease
+T188	Disease	5851	5853	AD	UMLS:C0002395	Alzheimer's Disease
+T257	Disease	5938	5946	dementia	UMLS:C0497327	Dementia
+T10	Disease	7216	7227	comorbidity	UMLS:C0009488	Comorbidity
+T11	Disease	7424	7435	comorbidity	UMLS:C0009488	Comorbidity
+T258	Disease	7369	7382	comorbidities	UMLS:C0009488	Comorbidity
+T260	Disease	7512	7537	neuropsychiatric diseases	null	null
+T260	Disease	7644	7654	depression	UMLS:C0011581	Depressive disorder
+T261	Disease	7667	7674	anxiety	UMLS:C0003469	Anxiety Disorders
+T262	Disease	7687	7707	behavioral disorders	UMLS:C0004930	Behavior Disorders
+T263	Disease	7805	7831	bipolar affective disorder	UMLS:C0005586	Bipolar Disorder
+T264	Disease	7839	7853	sleep disorder	UMLS:C0851578	Sleep Disorders
+T265	Disease	7866	7873	syncope	UMLS:C0039070	Syncope
+T266	Disease	7881	7896	ischemic stroke	UMLS:C0948008	Ischemic stroke
+T267	Disease	7919	7938	cerebral hemorrhage	UMLS:C2937358	Cerebral Hemorrhage
+T268	Disease	7956	7964	epilepsy	UMLS:C0014544	Epilepsy
+T269	Disease	7972	7980	migraine	UMLS:C0149931	Migraine Disorders
+T270	Phenotype	8006	8014	headache	HPO:HP:0002315	Headache
+T271	Disease	8115	8123	dementia	UMLS:C0497327	Dementia
+T272	Disease	8338	8346	dementia	UMLS:C0497327	Dementia
+T273	Disease	8355	8368	comorbidities	UMLS:C0009488	Comorbidity
+T12	Disease	8520	8531	comorbidity	UMLS:C0009488	Comorbidity
+T274	Disease	8424	8437	comorbidities	UMLS:C0009488	Comorbidity
+T275	Disease	8552	8560	dementia	UMLS:C0497327	Dementia
+T493	Disease	8865	8878	comorbidities	UMLS:C0009488	Comorbidity
+T56	Disease	8992	8995	DLB	UMLS:C0752347	Lewy Body Disease
+T184	Disease	9000	9002	AD	UMLS:C0002395	Alzheimer's Disease
+T57	Disease	9270	9273	DLB	UMLS:C0752347	Lewy Body Disease
+T185	Disease	9278	9280	AD	UMLS:C0002395	Alzheimer's Disease
+T58	Disease	9448	9451	DLB	UMLS:C0752347	Lewy Body Disease
+T186	Disease	9456	9458	AD	UMLS:C0002395	Alzheimer's Disease
+T276	Disease	9422	9435	comorbidities	UMLS:C0009488	Comorbidity
+T13	Disease	9606	9617	comorbidity	UMLS:C0009488	Comorbidity
+T59	Disease	9731	9734	DLB	UMLS:C0752347	Lewy Body Disease
+T183	Disease	9739	9741	AD	UMLS:C0002395	Alzheimer's Disease
+T277	Disease	9643	9656	comorbidities	UMLS:C0009488	Comorbidity
+T278	Disease	9703	9711	dementia	UMLS:C0497327	Dementia
+T279	Disease	9721	9729	dementia	UMLS:C0497327	Dementia
+T14	Disease	9843	9854	comorbidity	UMLS:C0009488	Comorbidity
+T280	Disease	9789	9803	comorbid event	UMLS:C0009488	Comorbidity
+T281	Disease	9819	9827	dementia	UMLS:C0497327	Dementia
+T472	Disease	9909	9917	dementia	UMLS:C0497327	Dementia
+T60	Disease	10512	10515	DLB	UMLS:C0752347	Lewy Body Disease
+T182	Disease	10526	10528	AD	UMLS:C0002395	Alzheimer's Disease
+T61	Disease	10558	10561	DLB	UMLS:C0752347	Lewy Body Disease
+T181	Disease	10669	10671	AD	UMLS:C0002395	Alzheimer's Disease
+T282	Gender	10593	10598	males	Gender:C0086582	male
+T283	Gender	10702	10707	males	Gender:C0086582	male
+T285	Gender	10615	10622	females	Gender:C0015780	female
+T286	Gender	10726	10733	females	Gender:C0015780	female
+T287	Disease	10790	10798	dementia	UMLS:C0497327	Dementia
+T62	Disease	10988	10991	DLB	UMLS:C0752347	Lewy Body Disease
+T284	Gender	10928	10933	males	Gender:C0086582	male
+T288	AgeGroup	10956	10959	old	null	null
+T63	Disease	11182	11185	DLB	UMLS:C0752347	Lewy Body Disease
+T180	Disease	11208	11210	AD	UMLS:C0002395	Alzheimer's Disease
+T289	Measure	11146	11150	MMSE	UMLS:C0451306	Mini-mental state examination
+T64	Disease	11265	11268	DLB	UMLS:C0752347	Lewy Body Disease
+T179	Disease	11347	11349	AD	UMLS:C0002395	Alzheimer's Disease
+T65	Disease	11385	11388	DLB	UMLS:C0752347	Lewy Body Disease
+T178	Disease	11504	11506	AD	UMLS:C0002395	Alzheimer's Disease
+T66	Disease	11583	11586	DLB	UMLS:C0752347	Lewy Body Disease
+T67	Disease	11808	11811	DLB	UMLS:C0752347	Lewy Body Disease
+T68	Disease	12057	12060	DLB	UMLS:C0752347	Lewy Body Disease
+T177	Disease	11824	11826	AD	UMLS:C0002395	Alzheimer's Disease
+T290	Drug	11770	11795	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T295	Drug	11855	11887	N-methyl d-aspartate antagonists	UMLS:C3536824	N-methyl-D-aspartate Receptor Antagonist [EPC]
+T292	Drug	11906	11921	antidepressants	UMLS:C0003289	Antidepressive Agents
+T293	Drug	11941	11955	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T294	Drug	11977	11988	anxiolytics	UMLS:C0040616	Anti-Anxiety Agents
+T15	Disease	12091	12102	comorbidity	UMLS:C0009488	Comorbidity
+T69	Disease	12118	12121	DLB	UMLS:C0752347	Lewy Body Disease
+T70	Disease	12333	12336	DLB	UMLS:C0752347	Lewy Body Disease
+T71	Disease	12912	12915	DLB	UMLS:C0752347	Lewy Body Disease
+T176	Disease	12126	12128	AD	UMLS:C0002395	Alzheimer's Disease
+T295	Disease	12198	12229	Mental and behavioral disorders	UMLS:C0004936	Mental disorders
+T296	Disease	12198	12229	Mental and behavioral disorders	UMLS:C0004930	Behavior Disorders
+T301	Disease	12244	12274	diseases of the eye and adnexa	UMLS:C1314803	Disorder of eye and adnexa NOS
+T301	Disease	12244	12274	diseases of the eye and adnexa	UMLS:C1314803	Disorder of eye and adnexa NOS
+T299	Disease	12359	12389	diseases of the nervous system	UMLS:C0027765	nervous system disorder
+T300	Disease	12408	12410	AD	UMLS:C0002395	Alzheimer's Disease
+T303	Disease	12421	12451	diseases of the eye and adnexa	UMLS:C1314803	Disorder of eye and adnexa NOS
+T303	Disease	12421	12451	diseases of the eye and adnexa	UMLS:C1314803	Disorder of eye and adnexa NOS
+T303	Disease	12463	12523	diseases of the musculoskeletal system and connective tissue	UMLS:C0263660	Musculoskeletal and connective tissue disorders
+T305	Disease	12538	12572	diseases of the circulatory system	UMLS:C0728936	Disorder of circulatory system
+T306	Disease	12613	12632	comorbid conditions	UMLS:C0009488	Comorbidity
+T307	Disease	12635	12666	Mental and behavioral disorders	UMLS:C0004936	Mental disorders
+T308	Disease	12635	12666	Mental and behavioral disorders	UMLS:C0004930	Behavior Disorders
+T314	Disease	12670	12700	diseases of the nervous system	UMLS:C0027765	nervous system disorder
+T309	Disease	12705	12735	diseases of the eye and adnexa	UMLS:C1314803	Disorder of eye and adnexa NOS
+T309	Disease	12705	12735	diseases of the eye and adnexa	UMLS:C1314803	Disorder of eye and adnexa NOS
+T320	Disease	12739	12826	diseases of the ‘circulatory’ , ‘respiratory’ , ‘digestive’ and ‘genitourinary’ systems	UMLS:C0728936	Disorder of circulatory system
+T321	Disease	12739	12826	diseases of the ‘circulatory’ , ‘respiratory’ , ‘digestive’ and ‘genitourinary’ systems	UMLS:C0035204	Respiration Disorders
+T322	Disease	12739	12826	diseases of the ‘circulatory’ , ‘respiratory’ , ‘digestive’ and ‘genitourinary’ systems	UMLS:C0012242	Digestive System Disorders
+T323	Disease	12739	12826	diseases of the ‘circulatory’ , ‘respiratory’ , ‘digestive’ and ‘genitourinary’ systems	UMLS:C0080276	Disorder of the genitourinary system
+T325	Disease	12836	12880	diseases of the skin and subcutaneous tissue	UMLS:C0178298	Skin and subcutaneous tissue disorders
+T221	Disease	13100	13132	diseases of the digestive system	UMLS:C0012242	Digestive System Disorders
+T72	Disease	13145	13148	DLB	UMLS:C0752347	Lewy Body Disease
+T223	Disease	13182	13242	diseases of the musculoskeletal system and connective tissue	UMLS:C0263660	Musculoskeletal and connective tissue disorders
+T73	Disease	13749	13752	DLB	UMLS:C0752347	Lewy Body Disease
+T309	Disease	13421	13452	mental and behavioral disorders	UMLS:C0004936	Mental disorders
+T310	Disease	13421	13452	mental and behavioral disorders	UMLS:C0004930	Behavior Disorders
+T315	Disease	13518	13548	diseases of the nervous system	UMLS:C0027765	nervous system disorder
+T319	Disease	13617	13647	diseases of the eye and adnexa	UMLS:C1314803	Disorder of eye and adnexa NOS
+T319	Disease	13617	13647	diseases of the eye and adnexa	UMLS:C1314803	Disorder of eye and adnexa NOS
+T16	Disease	13904	13915	comorbidity	UMLS:C0009488	Comorbidity
+T74	Disease	13936	13939	DLB	UMLS:C0752347	Lewy Body Disease
+T175	Disease	13944	13946	AD	UMLS:C0002395	Alzheimer's Disease
+T17	Disease	13986	13997	comorbidity	UMLS:C0009488	Comorbidity
+T75	Disease	14126	14129	DLB	UMLS:C0752347	Lewy Body Disease
+T311	Disease	14018	14049	mental and behavioral disorders	UMLS:C0004936	Mental disorders
+T312	Disease	14018	14049	mental and behavioral disorders	UMLS:C0004930	Behavior Disorders
+T313	Disease	14056	14086	diseases of the nervous system	UMLS:C0027765	nervous system disorder
+T76	Disease	14320	14323	DLB	UMLS:C0752347	Lewy Body Disease
+T324	Disease	14244	14278	diseases of the circulatory system	UMLS:C0728936	Disorder of circulatory system
+T327	Gender	14342	14348	female	Gender:C0015780	female
+T328	Measure	14383	14388	MMSE 	UMLS:C0451306	Mini-mental state examination
+T77	Disease	14560	14563	DLB	UMLS:C0752347	Lewy Body Disease
+T329	Disease	14490	14524	diseases of the respiratory system	UMLS:C0035204	Respiration Disorders
+T344	Gender	14717	14722	males	Gender:C0086582	male
+T404	Measure	14583	14588	MMSE 	UMLS:C0451306	Mini-mental state examination
+T405	Measure	14609	14614	MMSE 	UMLS:C0451306	Mini-mental state examination
+T78	Disease	15027	15030	DLB	UMLS:C0752347	Lewy Body Disease
+T174	Disease	15055	15057	AD	UMLS:C0002395	Alzheimer's Disease
+T304	Disease	14903	14963	diseases of the musculoskeletal system and connective tissue	UMLS:C0263660	Musculoskeletal and connective tissue disorders
+T326	Disease	14835	14867	diseases of the digestive system	UMLS:C0012242	Digestive System Disorders
+T330	Measure	15093	15098	MMSE 	UMLS:C0451306	Mini-mental state examination
+T18	Disease	15129	15140	Comorbidity	UMLS:C0009488	Comorbidity
+T79	Disease	15157	15160	DLB	UMLS:C0752347	Lewy Body Disease
+T173	Disease	15165	15167	AD	UMLS:C0002395	Alzheimer's Disease
+T80	Disease	15340	15343	DLB	UMLS:C0752347	Lewy Body Disease
+T331	Disease	15291	15315	Cerebrovascular diseases	UMLS:C0007820	Cerebrovascular Disorders
+T81	Disease	15595	15598	DLB	UMLS:C0752347	Lewy Body Disease
+T172	Disease	15487	15489	AD	UMLS:C0002395	Alzheimer's Disease
+T332	Disease	15557	15570	comorbidities	UMLS:C0009488	Comorbidity
+T19	Disease	15693	15704	comorbidity	UMLS:C0009488	Comorbidity
+T82	Disease	15754	15757	DLB	UMLS:C0752347	Lewy Body Disease
+T83	Disease	15787	15790	DLB	UMLS:C0752347	Lewy Body Disease
+T333	Disease	16128	16158	neuropsychiatric comorbidities	null	null
+T334	Disease	16200	16208	dementia	UMLS:C0497327	Dementia
+T20	Disease	16276	16304	neuropsychiatric comorbidity	null	null
+T84	Disease	16362	16365	DLB	UMLS:C0752347	Lewy Body Disease
+T171	Disease	16378	16380	AD	UMLS:C0002395	Alzheimer's Disease
+T335	Disease	16245	16255	depression	UMLS:C0011581	Depressive disorder
+T336	Disease	16329	16337	dementia	UMLS:C0497327	Dementia
+T85	Disease	16551	16554	DLB	UMLS:C0752347	Lewy Body Disease
+T86	Disease	16441	16444	DLB	UMLS:C0752347	Lewy Body Disease
+T168	Disease	16463	16465	AD	UMLS:C0002395	Alzheimer's Disease
+T169	Disease	16544	16546	AD	UMLS:C0002395	Alzheimer's Disease
+T337	Disease	16389	16396	strokes	UMLS:C0038454	Cerebrovascular accident
+T338	Disease	16398	16417	cerebral infarction	UMLS:C0007785	Cerebral Infarction
+T345	Phenotype	16496	16516	cerebral hemorrhages	HPO:HP:0001342	Cerebral hemorrhage
+T87	Disease	16755	16758	DLB	UMLS:C0752347	Lewy Body Disease
+T170	Disease	16777	16779	AD	UMLS:C0002395	Alzheimer's Disease
+T340	Disease	16610	16620	depression	UMLS:C0011581	Depressive disorder
+T341	Disease	16634	16654	behavioral disorders	UMLS:C0004930	Behavior Disorders
+T343	Disease	16691	16699	migraine	UMLS:C0149931	Migraine Disorders
+T88	Disease	16889	16892	DLB	UMLS:C0752347	Lewy Body Disease
+T167	Disease	16905	16907	AD	UMLS:C0002395	Alzheimer's Disease
+T406	Phenotype	16815	16823	headache	HPO:HP:0002315	Headache
+T21	Disease	17018	17046	neuropsychiatric comorbidity	null	null
+T89	Disease	17050	17053	DLB	UMLS:C0752347	Lewy Body Disease
+T166	Disease	17059	17061	AD	UMLS:C0002395	Alzheimer's Disease
+T91	Disease	17309	17312	DLB	UMLS:C0752347	Lewy Body Disease
+T356	Disease	17128	17138	depression	UMLS:C0011581	Depressive disorder
+T357	Disease	17188	17196	migraine	UMLS:C0149931	Migraine Disorders
+T358	Disease	17293	17301	dementia	UMLS:C0497327	Dementia
+T90	Disease	17501	17504	DLB	UMLS:C0752347	Lewy Body Disease
+T165	Disease	17532	17534	AD	UMLS:C0002395	Alzheimer's Disease
+T359	Disease	17355	17370	ischemic stroke	UMLS:C0948008	Ischemic stroke
+T360	Disease	17441	17459	comorbid condition	UMLS:C0009488	Comorbidity
+T361	Disease	17565	17573	dementia	UMLS:C0497327	Dementia
+T92	Disease	17864	17867	DLB	UMLS:C0752347	Lewy Body Disease
+T93	Disease	17739	17742	DLB	UMLS:C0752347	Lewy Body Disease
+T164	Disease	17763	17765	AD	UMLS:C0002395	Alzheimer's Disease
+T345	Gender	17786	17791	males	Gender:C0086582	male
+T346	Gender	17922	17927	males	Gender:C0086582	male
+T348	Gender	17796	17803	females	Gender:C0015780	female
+T362	Disease	17693	17703	depression	UMLS:C0011581	Depressive disorder
+T363	Disease	17708	17714	stroke	UMLS:C0038454	Cerebrovascular accident
+T94	Disease	18058	18061	DLB	UMLS:C0752347	Lewy Body Disease
+T163	Disease	18089	18091	AD	UMLS:C0002395	Alzheimer's Disease
+T365	Phenotype	17992	18002	depression	HPO:HP:0000716	Depression
+T366	Phenotype	18004	18010	stroke	HPO:HP:0001297	Stroke
+T367	Phenotype	18015	18023	migraine	HPO:HP:0002076	Migraine
+T368	Measure	18120	18125	MMSE 	UMLS:C0451306	Mini-mental state examination
+T95	Disease	18220	18223	DLB	UMLS:C0752347	Lewy Body Disease
+T162	Disease	18251	18253	AD	UMLS:C0002395	Alzheimer's Disease
+T369	Phenotype	18146	18156	Depression	HPO:HP:0000716	Depression
+T370	Phenotype	18158	18173	sleep disorders	UMLS:C0851578	Sleep Disorders
+T371	Phenotype	18178	18184	stroke	HPO:HP:0001297	Stroke
+T372	Phenotype	18329	18337	migraine	HPO:HP:0002076	Migraine
+T373	Disease	18360	18363	DLB	UMLS:C0752347	Lewy Body Disease
+T96	Disease	18525	18528	DLB	UMLS:C0752347	Lewy Body Disease
+T161	Disease	18548	18550	AD	UMLS:C0002395	Alzheimer's Disease
+T374	Disease	18484	18497	comorbidities	UMLS:C0009488	Comorbidity
+T97	Disease	18581	18584	DLB	UMLS:C0752347	Lewy Body Disease
+T347	Gender	18568	18573	males	Gender:C0086582	male
+T98	Disease	18682	18685	DLB	UMLS:C0752347	Lewy Body Disease
+T407	Disease	18654	18662	dementia	UMLS:C0497327	Dementia
+T408	AgeGroup	18700	18707	younger	null	null
+T409	Phenotype	18739	18759	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T410	Drug	18818	18840	psychiatric medication	UMLS:C1979799	Psychiatric drugs
+T99	Disease	18973	18976	DLB	UMLS:C0752347	Lewy Body Disease
+T160	Disease	19089	19091	AD	UMLS:C0002395	Alzheimer's Disease
+T411	Disease	18932	18940	dementia	UMLS:C0497327	Dementia
+T412	Disease	19062	19070	dementia	UMLS:C0497327	Dementia
+T100	Disease	19116	19119	DLB	UMLS:C0752347	Lewy Body Disease
+T375	Phenotype	19155	19165	depression	HPO:HP:0000716	Depression
+T376	Phenotype	19167	19173	stroke	HPO:HP:0001297	Stroke
+T377	Phenotype	19178	19205	cerebrovascular infarctions	UMLS:C1262200	Cerebrovascular infarction
+T378	Phenotype	19210	19218	migraine	HPO:HP:0002076	Migraine
+T101	Disease	19341	19344	DLB	UMLS:C0752347	Lewy Body Disease
+T159	Disease	19349	19351	AD	UMLS:C0002395	Alzheimer's Disease
+T379	Drug	19286	19311	Cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T102	Disease	19464	19467	DLB	UMLS:C0752347	Lewy Body Disease
+T103	Disease	19521	19524	DLB	UMLS:C0752347	Lewy Body Disease
+T158	Disease	19401	19403	AD	UMLS:C0002395	Alzheimer's Disease
+T380	Disease	19408	19441	Parkinson’s disease with dementia	UMLS:C0349081	Dementia in Parkinson's disease
+T104	Disease	19572	19575	DLB	UMLS:C0752347	Lewy Body Disease
+T105	Disease	19654	19657	DLB	UMLS:C0752347	Lewy Body Disease
+T157	Disease	19596	19598	AD	UMLS:C0002395	Alzheimer's Disease
+T381	Drug	19536	19545	Memantine	DrugBank:DB01043	Memantine
+T106	Disease	19741	19744	DLB	UMLS:C0752347	Lewy Body Disease
+T382	Drug	19700	19709	memantine	DrugBank:DB01043	Memantine
+T107	Disease	19844	19847	DLB	UMLS:C0752347	Lewy Body Disease
+T156	Disease	19868	19870	AD	UMLS:C0002395	Alzheimer's Disease
+T413	Gender	19831	19836	women	Gender:C0015780	female
+T414	Gender	19823	19826	men	Gender:C0086582	male
+T416	Disease	19944	19952	dementia	UMLS:C0497327	Dementia
+T108	Disease	20002	20005	DLB	UMLS:C0752347	Lewy Body Disease
+T391	Phenotype	19968	19978	Depression	HPO:HP:0000716	Depression
+T109	Disease	20171	20174	DLB	UMLS:C0752347	Lewy Body Disease
+T392	Phenotype	20075	20085	depression	HPO:HP:0000716	Depression
+T393	Phenotype	20135	20145	depression	HPO:HP:0000716	Depression
+T394	Disease	20125	20133	dementia	UMLS:C0497327	Dementia
+T110	Disease	20180	20183	DLB	UMLS:C0752347	Lewy Body Disease
+T395	Disease	20231	20241	depression	UMLS:C0011581	Depressive disorder
+T396	Disease	20264	20274	depression	UMLS:C0011581	Depressive disorder
+T397	Disease	20322	20330	dementia	UMLS:C0497327	Dementia
+T111	Disease	20410	20413	DLB	UMLS:C0752347	Lewy Body Disease
+T398	Disease	20357	20367	depression	UMLS:C0011581	Depressive disorder
+T399	Disease	20455	20463	dementia	UMLS:C0497327	Dementia
+T112	Disease	20552	20555	DLB	UMLS:C0752347	Lewy Body Disease
+T155	Disease	20560	20562	AD	UMLS:C0002395	Alzheimer's Disease
+T400	Disease	20475	20483	dementia	UMLS:C0497327	Dementia
+T401	Phenotype	20503	20513	depression	HPO:HP:0000716	Depression
+T113	Disease	20659	20662	DLB	UMLS:C0752347	Lewy Body Disease
+T389	Phenotype	20607	20617	depression	HPO:HP:0000716	Depression
+T114	Disease	20749	20752	DLB	UMLS:C0752347	Lewy Body Disease
+T116	Disease	20872	20875	DLB	UMLS:C0752347	Lewy Body Disease
+T390	Phenotype	20784	20794	depression	HPO:HP:0000716	Depression
+T402	Phenotype	20664	20681	Nonmotor symptoms	null	null
+T403	Disease	20760	20768	dementia	UMLS:C0497327	Dementia
+T417	Phenotype	20697	20723	brain pathological changes	null	null
+T115	Disease	21003	21006	DLB	UMLS:C0752347	Lewy Body Disease
+T388	Disease	20960	20970	depression	UMLS:C0011581	Depressive disorder
+T418	Disease	21038	21046	dementia	UMLS:C0497327	Dementia
+T117	Disease	21094	21097	DLB	UMLS:C0752347	Lewy Body Disease
+T419	Disease	21062	21070	migraine	UMLS:C0149931	Migraine Disorders
+T420	Disease	21111	21119	dementia	UMLS:C0497327	Dementia
+T118	Disease	21179	21182	DLB	UMLS:C0752347	Lewy Body Disease
+T421	Measure	21209	21213	MMSE	UMLS:C0451306	Mini-mental state examination
+T422	Phenotype	21246	21254	Migraine	HPO:HP:0002076	Migraine
+T423	Disease	21297	21305	dementia	UMLS:C0497327	Dementia
+T424	Phenotype	21376	21384	headache	HPO:HP:0002315	Headache
+T425	Disease	21444	21461	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T119	Disease	21573	21576	DLB	UMLS:C0752347	Lewy Body Disease
+T426	Phenotype	21561	21569	migraine	HPO:HP:0002076	Migraine
+T120	Disease	21617	21620	DLB	UMLS:C0752347	Lewy Body Disease
+T427	Disease	21658	21666	migraine	UMLS:C0149931	Migraine Disorders
+T428	Phenotype	21683	21703	visual hallucination	HPO:HP:0002367	Visual hallucinations
+T429	Phenotype	21713	21746	disorders in olfactory perception	null	null
+T121	Disease	21899	21902	DLB	UMLS:C0752347	Lewy Body Disease
+T122	Disease	21984	21987	DLB	UMLS:C0752347	Lewy Body Disease
+T154	Disease	22012	22014	AD	UMLS:C0002395	Alzheimer's Disease
+T430	Disease	21917	21924	Strokes	UMLS:C0038454	Cerebrovascular accident
+T431	Gender	21963	21966	men	Gender:C0086582	male
+T432	Gender	21971	21976	women	Gender:C0015780	female
+T433	Measure	22056	22060	MMSE	UMLS:C0451306	Mini-mental state examination
+T123	Disease	22201	22204	DLB	UMLS:C0752347	Lewy Body Disease
+T153	Disease	22225	22227	AD	UMLS:C0002395	Alzheimer's Disease
+T434	Disease	22087	22114	cerebrovascular infarctions	UMLS:C1262200	Cerebrovascular infarction
+T422	Phenotype	22123	22143	cerebral hemorrhages	HPO:HP:0001342	Cerebral hemorrhage
+T436	Disease	22150	22158	dementia	UMLS:C0497327	Dementia
+T437	Disease	22283	22291	dementia	UMLS:C0497327	Dementia
+T152	Disease	22371	22373	AD	UMLS:C0002395	Alzheimer's Disease
+T438	Phenotype	22337	22344	strokes	HPO:HP:0001297	Stroke
+T439	Drug	22405	22419	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T124	Disease	22483	22486	DLB	UMLS:C0752347	Lewy Body Disease
+T125	Disease	22594	22597	DLB	UMLS:C0752347	Lewy Body Disease
+T440	Phenotype	22611	22618	lesions	UMLS:C0221198	Lesion
+T441	Disease	22622	22638	ischemic strokes	UMLS:C0948008	Ischemic stroke
+T126	Disease	22713	22716	DLB	UMLS:C0752347	Lewy Body Disease
+T442	Disease	22749	22755	stroke	UMLS:C0038454	Cerebrovascular accident
+T127	Disease	22791	22794	DLB	UMLS:C0752347	Lewy Body Disease
+T443	Disease	22882	22888	stroke	UMLS:C0038454	Cerebrovascular accident
+T444	Disease	22893	22917	cerebrovascular diseases	UMLS:C0007820	Cerebrovascular Disorders
+T494	Phenotype	22826	22835	Lewy body	HPO:HP:0100315	Lewy bodies
+T128	Disease	23047	23050	DLB	UMLS:C0752347	Lewy Body Disease
+T445	Disease	22949	22957	infarcts	UMLS:C0021308	Infarction
+T446	Disease	22959	22974	atherosclerosis	UMLS:C0004153	Atherosclerosis
+T447	Disease	22979	22999	small vessel disease	UMLS:C3810309	Small-vessel disease
+T129	Disease	23137	23140	DLB	UMLS:C0752347	Lewy Body Disease
+T130	Disease	23247	23250	DLB	UMLS:C0752347	Lewy Body Disease
+T131	Disease	23344	23347	DLB	UMLS:C0752347	Lewy Body Disease
+T151	Disease	23396	23410	concomitant AD	null	null
+T451	Phenotype	23373	23391	pathological aging	null	null
+T132	Disease	23604	23607	DLB	UMLS:C0752347	Lewy Body Disease
+T452	Disease	23559	23565	stroke	UMLS:C0038454	Cerebrovascular accident
+T453	Disease	23580	23600	cerebral infarctions	UMLS:C0007785	Cerebral Infarction
+T454	Drug	23724	23738	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T455	Disease	23782	23789	strokes	UMLS:C0038454	Cerebrovascular accident
+T133	Disease	23848	23851	DLB	UMLS:C0752347	Lewy Body Disease
+T456	Drug	23879	23903	antipsychotic medication	UMLS:C0040615	Antipsychotic Agents
+T457	Disease	23936	23944	dementia	UMLS:C0497327	Dementia
+T134	Disease	24002	24005	DLB	UMLS:C0752347	Lewy Body Disease
+T150	Disease	24032	24034	AD	UMLS:C0002395	Alzheimer's Disease
+T458	Phenotype	24045	24066	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T444	Disease	24119	24140	psychiatric disorders	UMLS:C0233514	Abnormal behavior
+T460	Drug	24191	24205	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T461	Drug	24230	24253	antipsychotic treatment	UMLS:C0040615	Antipsychotic Agents
+T462	Disease	24257	24265	dementia	UMLS:C0497327	Dementia
+T463	AgeGroup	24388	24393	older	null	null
+T464	Phenotype	24460	24485	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T465	Disease	24489	24497	dementia	UMLS:C0497327	Dementia
+T466	Drug	24519	24533	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T467	Phenotype	24581	24599	psychotic symptoms	UMLS:C0871189	Psychotic symptom
+T468	Phenotype	24603	24613	aggression	HPO:HP:0000718	Aggressive behavior
+T469	AgeGroup	24725	24730	older	null	null
+T470	Disease	24743	24751	dementia	UMLS:C0497327	Dementia
+T471	Disease	24815	24843	Cardiovascular comorbidities	null	null
+T473	Disease	24864	24882	dementia disorders	UMLS:C0497327	Dementia
+T135	Disease	25000	25003	DLB	UMLS:C0752347	Lewy Body Disease
+T148	Disease	25024	25026	AD	UMLS:C0002395	Alzheimer's Disease
+T482	Gender	25044	25050	female	Gender:C0015780	female
+T483	Phenotype	25106	25128	lower cognitive status	HPO:HP:0100543	Cognitive impairment
+T136	Disease	25230	25233	DLB	UMLS:C0752347	Lewy Body Disease
+T149	Disease	25353	25355	AD	UMLS:C0002395	Alzheimer's Disease
+T484	Demographic	25202	25208	Sweden	UMLS:C0038995	Sweden
+T485	Drug	25261	25286	cardiovascular medication	UMLS:C0007220	Cardiovascular Agents
+T137	Disease	25436	25439	DLB	UMLS:C0752347	Lewy Body Disease
+T486	Phenotype	25483	25504	autonomic dysfunction	HPO:HP:0002459	Dysautonomia
+T147	Disease	25506	25508	AD	UMLS:C0002395	Alzheimer's Disease
+T474	Disease	25648	25656	dementia	UMLS:C0497327	Dementia
+T475	Disease	25572	25590	dementia disorders	UMLS:C0497327	Dementia
+T476	Disease	25777	25785	dementia	UMLS:C0497327	Dementia
+T477	Disease	25826	25844	dementia disorders	UMLS:C0497327	Dementia
+T487	Disease	25746	25759	comorbidities	UMLS:C0009488	Comorbidity
+T488	Disease	26135	26148	comorbidities	UMLS:C0009488	Comorbidity
+T478	Disease	26710	26728	dementia disorders	UMLS:C0497327	Dementia
+T479	Disease	26815	26823	dementia	UMLS:C0497327	Dementia
+T489	Demographic	26870	26876	Sweden	UMLS:C0038995	Sweden
+T138	Disease	27010	27013	DLB	UMLS:C0752347	Lewy Body Disease
+T144	Disease	27018	27020	AD	UMLS:C0002395	Alzheimer's Disease
+T139	Disease	27378	27381	DLB	UMLS:C0752347	Lewy Body Disease
+T22	Disease	27531	27542	comorbidity	UMLS:C0009488	Comorbidity
+T490	Disease	27487	27500	comorbidities	UMLS:C0009488	Comorbidity
+T23	Disease	27598	27609	comorbidity	UMLS:C0009488	Comorbidity
+T480	Disease	27614	27622	dementia	UMLS:C0497327	Dementia
+T481	Disease	27754	27762	dementia	UMLS:C0497327	Dementia
+T491	Disease	27708	27721	comorbidities	UMLS:C0009488	Comorbidity
+T492	Demographic	28034	28040	Sweden	UMLS:C0038995	Sweden
+T24	Disease	28196	28207	comorbidity	UMLS:C0009488	Comorbidity
+T140	Disease	28219	28222	DLB	UMLS:C0752347	Lewy Body Disease
+T145	Disease	28312	28314	AD	UMLS:C0002395	Alzheimer's Disease
+T384	Disease	28261	28271	depression	UMLS:C0011581	Depressive disorder
+T385	Disease	28273	28279	stroke	UMLS:C0038454	Cerebrovascular accident
+T386	Disease	28284	28292	migraine	UMLS:C0149931	Migraine Disorders
+T141	Disease	28378	28381	DLB	UMLS:C0752347	Lewy Body Disease
+T146	Disease	28386	28388	AD	UMLS:C0002395	Alzheimer's Disease

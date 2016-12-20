@@ -1,0 +1,151 @@
+T1	Disease	48	73	Mild Cognitive Impairment	UMLS:C1270972	Mild cognitive disorder
+T2	Phenotype	108	131	Cognitive Deterioration	HPO:HP:0001268	Mental deterioration
+T174	Phenotype	0	30	Asymmetric Cerebral Blood Flow	null	null
+T3	Disease	192	223	mild cognitive impairment (MCI)	UMLS:C1270972	Mild cognitive disorder
+T8	Phenotype	359	399	deteriorate in their cognitive functions	HPO:HP:0001268	Mental deterioration
+T15	Disease	267	275	dementia	UMLS:C0497327	Dementia
+T16	Disease	317	325	dementia	UMLS:C0497327	Dementia
+T58	Disease	414	417	MCI	UMLS:C1270972	Mild cognitive disorder
+T17	Disease	589	597	dementia	UMLS:C0497327	Dementia
+T62	Disease	887	891	SMCI	null	null
+T175	Phenotype	770	804	abnormally low cerebral blood flow	null	null
+T64	Disease	1033	1037	SMCI	null	null
+T66	Disease	1192	1196	SMCI	null	null
+T9	Phenotype	1355	1372	cognitive decline	HPO:HP:0001268	Mental deterioration
+T67	Disease	1376	1379	MCI	UMLS:C1270972	Mild cognitive disorder
+T176	Phenotype	1248	1269	blood flow reductions	UMLS:C0232342	Decreased vascular flow
+T4	Disease	1390	1421	Mild cognitive impairment (MCI)	UMLS:C1270972	Mild cognitive disorder
+T18	Disease	1485	1493	dementia	UMLS:C0497327	Dementia
+T19	Disease	1559	1567	dementia	UMLS:C0497327	Dementia
+T68	Disease	1509	1512	MCI	UMLS:C1270972	Mild cognitive disorder
+T20	Disease	1686	1694	dementia	UMLS:C0497327	Dementia
+T44	Disease	1617	1641	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T45	Disease	1700	1712	prodromal AD	UMLS:C3805054	Prodromal Alzheimer's disease
+T46	Disease	1750	1762	MCI disorder	UMLS:C1270972	Mild cognitive disorder
+T21	Disease	1897	1905	dementia	UMLS:C0497327	Dementia
+T22	Disease	1939	1957	dementia disorders	UMLS:C0497327	Dementia
+T69	Disease	1827	1830	MCI	UMLS:C1270972	Mild cognitive disorder
+T70	Disease	1773	1776	MCI	UMLS:C1270972	Mild cognitive disorder
+T47	Disease	2077	2079	AD	UMLS:C0002395	Alzheimer's Disease
+T71	Disease	2041	2044	MCI	UMLS:C1270972	Mild cognitive disorder
+T72	Disease	2171	2174	MCI	UMLS:C1270972	Mild cognitive disorder
+T5	Disease	2445	2476	progressive cognitive disorders	null	null
+T24	Disease	2628	2636	dementia	UMLS:C0497327	Dementia
+T6	Disease	2710	2744	non-progressive cognitive disorder	null	null
+T25	Disease	2871	2879	dementia	UMLS:C0497327	Dementia
+T146	Phenotype	2818	2837	hippocampal atrophy	UMLS:C3280737	Hippocampal atrophy (1 patient)
+T147	Phenotype	2898	2917	hippocampal atrophy	UMLS:C3280737	Hippocampal atrophy (1 patient)
+T48	Disease	3181	3183	AD	UMLS:C0002395	Alzheimer's Disease
+T73	Disease	3124	3127	MCI	UMLS:C1270972	Mild cognitive disorder
+T49	Disease	3399	3401	AD	UMLS:C0002395	Alzheimer's Disease
+T74	Disease	3344	3347	MCI	UMLS:C1270972	Mild cognitive disorder
+T50	Disease	3637	3639	AD	UMLS:C0002395	Alzheimer's Disease
+T75	Disease	3628	3631	MCI	UMLS:C1270972	Mild cognitive disorder
+T148	Phenotype	3469	3490	blood flow reductions	UMLS:C0232342	Decreased vascular flow
+T14	Phenotype	3887	3927	deteriorate in their cognitive functions	HPO:HP:0001268	Mental deterioration
+T26	Disease	3845	3853	dementia	UMLS:C0497327	Dementia
+T76	Disease	3789	3792	MCI	UMLS:C1270972	Mild cognitive disorder
+T149	Phenotype	3731	3760	cerebral blood flow reduction	null	null
+T101	Disease	4019	4034	cerebral stroke	UMLS:C0038454	Cerebrovascular accident
+T77	Disease	4530	4533	MCI	UMLS:C1270972	Mild cognitive disorder
+T27	Disease	4633	4646	mild dementia	UMLS:C3494623	Mild dementia
+T78	Disease	4625	4628	MCI	UMLS:C1270972	Mild cognitive disorder
+T102	Demographic	4716	4722	Sweden	UMLS:C0038995	Sweden
+T82	Disease	4989	4992	MCI	UMLS:C1270972	Mild cognitive disorder
+T103	Measure	5027	5059	Global Deterioration Scale (GDS)	null	null
+T104	ScaleMax	5018	5019	3	null	null
+T105	Disease	5101	5107	stroke	UMLS:C0038454	Cerebrovascular accident
+T33	Disease	5163	5185	(unspecified) dementia	UMLS:C0497327	Dementia
+T40	Measure	5733	5763	Clinical Dementia Rating (CDR)	UMLS:C0451074	Clinical dementia rating scale
+T43	Measure	5682	5718	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T79	Disease	5155	5158	MCI	UMLS:C1270972	Mild cognitive disorder
+T106	Phenotype	5327	5345	memory disturbance	HPO:HP:0002354	Memory impairment
+T107	Phenotype	5347	5361	disorientation	HPO:HP:0001289	Confusion
+T108	Phenotype	5363	5388	reduced abstract thinking	UMLS:C0679467	impaired abstract thinking
+T109	Phenotype	5390	5414	visuospatial disturbance	UMLS:C2676705	Impaired visuospatial skills
+T110	Phenotype	5416	5435	poverty of language	HPO:HP:0002463	Language impairment
+T111	Phenotype	5437	5452	sensory aphasia	UMLS:C0454578	Receptive aphasia (finding)
+T112	Phenotype	5454	5468	visual agnosia	HPO:HP:0030222	Visual agnosia
+T113	Phenotype	5474	5481	apraxia	HPO:HP:0002186	Apraxia
+T150	Measure	5774	5777	CDR	UMLS:C0451074	Clinical dementia rating scale
+T85	Measure	6041	6045	MMSE	UMLS:C0451306	Mini-mental state examination
+T86	Measure	6049	6052	CDR	UMLS:C0451074	Clinical dementia rating scale
+T29	Disease	6177	6185	dementia	UMLS:C0497327	Dementia
+T84	Measure	6132	6136	MMSE	UMLS:C0451306	Mini-mental state examination
+T80	Disease	6409	6412	MCI	UMLS:C1270972	Mild cognitive disorder
+T114	Measure	6390	6393	GDS	null	null
+T31	Disease	6483	6491	dementia	UMLS:C0497327	Dementia
+T83	Disease	6508	6528	progressive MCI, PMC	null	null
+T87	Disease	6613	6629	stable MCI, SMCI	null	null
+T32	Disease	6652	6669	dementia syndrome	UMLS:C0497327	Dementia
+T28	Disease	6756	6764	dementia	UMLS:C0497327	Dementia
+T34	Disease	7162	7179	dementia disorder	UMLS:C0497327	Dementia
+T38	Disease	6869	6903	subcortical vascular dementia, SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T39	Disease	7021	7051	progressive non-fluent aphasia	UMLS:C0751706	Primary Progressive Nonfluent Aphasia
+T51	Disease	6813	6815	AD	UMLS:C0002395	Alzheimer's Disease
+T117	Disease	7330	7334	SMCI	null	null
+T136	Measure	7397	7401	MMSE	UMLS:C0451306	Mini-mental state examination
+T151	Phenotype	9076	9094	reduced blood flow	UMLS:C0232342	Decreased vascular flow
+T139	Disease	9398	9402	SMCI	null	null
+T140	Disease	10842	10846	SMCI	null	null
+T35	Disease	10989	10997	dementia	UMLS:C0497327	Dementia
+T52	Disease	10961	10963	AD	UMLS:C0002395	Alzheimer's Disease
+T159	Disease	11020	11043	cerebrovascular disease	UMLS:C0007820	Cerebrovascular Disorders
+T160	Disease	11045	11048	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T161	Disease	11051	11053	MD	UMLS:C3532942	Mixed dementia
+T152	Phenotype	11132	11150	reduced blood flow	UMLS:C0232342	Decreased vascular flow
+T153	Phenotype	11241	11259	reduced blood flow	UMLS:C0232342	Decreased vascular flow
+T154	Measure	11162	11166	MMSE	UMLS:C0451306	Mini-mental state examination
+T155	Measure	11194	11198	MMSE	UMLS:C0451306	Mini-mental state examination
+T156	Phenotype	11352	11370	reduced blood flow	UMLS:C0232342	Decreased vascular flow
+T141	Disease	11482	11486	SMCI	null	null
+T53	Disease	11576	11578	AD	UMLS:C0002395	Alzheimer's Disease
+T162	Disease	11604	11607	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T163	Disease	11610	11612	MD	UMLS:C3532942	Mixed dementia
+T142	Disease	11827	11831	SMCI	null	null
+T124	Disease	12172	12176	SMCI	null	null
+T54	Disease	12352	12354	AD	UMLS:C0002395	Alzheimer's Disease
+T126	Disease	12346	12348	MD	UMLS:C3532942	Mixed dementia
+T127	Disease	12358	12361	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T128	Disease	12369	12399	progressive non-fluent aphasia	UMLS:C0751706	Primary Progressive Nonfluent Aphasia
+T129	Disease	12407	12411	SMCI	null	null
+T164	Phenotype	12441	12470	cerebral blood flow was lower	null	null
+T36	Disease	12588	12596	dementia	UMLS:C0497327	Dementia
+T88	Disease	12547	12550	MCI	UMLS:C1270972	Mild cognitive disorder
+T143	Disease	12717	12721	SMCI	null	null
+T165	Phenotype	12653	12681	abnormal cerebral blood flow	null	null
+T144	Disease	12878	12882	SMCI	null	null
+T158	Phenotype	12755	12775	blood flow reduction	UMLS:C0232342	Decreased vascular flow
+T132	Disease	13064	13068	SMCI	null	null
+T134	Disease	13281	13285	SMCI	null	null
+T166	Phenotype	13488	13510	decrease in blood flow	UMLS:C0232342	Decreased vascular flow
+T10	Phenotype	13692	13709	cognitive decline	HPO:HP:0001268	Mental deterioration
+T55	Disease	13767	13769	AD	UMLS:C0002395	Alzheimer's Disease
+T89	Disease	13773	13776	MCI	UMLS:C1270972	Mild cognitive disorder
+T167	Phenotype	13570	13590	blood flow reduction	UMLS:C0232342	Decreased vascular flow
+T11	Phenotype	13875	13898	cognitive deterioration	HPO:HP:0001268	Mental deterioration
+T90	Disease	13916	13919	MCI	UMLS:C1270972	Mild cognitive disorder
+T168	Phenotype	13825	13841	cortical atrophy	HPO:HP:0002120	Cerebral cortical atrophy
+T169	Phenotype	13968	13991	asymmetrical blood flow	UMLS:C0232340	Abnormal vascular flow
+T92	Disease	14217	14229	amnestic MCI	null	null
+T157	Phenotype	14172	14190	reduced blood flow	UMLS:C0232342	Decreased vascular flow
+T170	Phenotype	14313	14334	blood flow reductions	UMLS:C0232342	Decreased vascular flow
+T56	Disease	14544	14546	AD	UMLS:C0002395	Alzheimer's Disease
+T94	Disease	14445	14448	MCI	UMLS:C1270972	Mild cognitive disorder
+T171	Phenotype	14397	14417	increased blood flow	UMLS:C0232341	Increased vascular flow
+T95	Disease	14743	14746	MCI	UMLS:C1270972	Mild cognitive disorder
+T172	Phenotype	14707	14739	asymmetrical cerebral blood flow	null	null
+T137	Disease	14828	14832	SMCI	null	null
+T145	Disease	15036	15040	SMCI	null	null
+T96	Disease	15102	15114	amnestic MCI	null	null
+T37	Disease	15590	15598	dementia	UMLS:C0497327	Dementia
+T97	Disease	15546	15549	MCI	UMLS:C1270972	Mild cognitive disorder
+T12	Phenotype	15764	15781	cognitive decline	HPO:HP:0001268	Mental deterioration
+T98	Disease	15785	15788	MCI	UMLS:C1270972	Mild cognitive disorder
+T173	Phenotype	15670	15691	blood flow reductions	UMLS:C0232342	Decreased vascular flow
+T99	Disease	15851	15854	MCI	UMLS:C1270972	Mild cognitive disorder
+T13	Phenotype	16342	16359	cognitive decline	HPO:HP:0001268	Mental deterioration
+T100	Disease	16457	16460	MCI	UMLS:C1270972	Mild cognitive disorder
+T57	Disease	16606	16608	AD	UMLS:C0002395	Alzheimer's Disease
+T115	Measure	16795	16798	GDS	null	null
+R1	hasScale	5027	5059	Measure	5018	5019	ScaleMax

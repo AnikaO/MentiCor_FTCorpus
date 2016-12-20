@@ -1,0 +1,187 @@
+T1	Drug	12	26	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T50	Disease	39	45	stroke	UMLS:C0038454	Cerebrovascular accident
+T51	Disease	196	202	stroke	UMLS:C0038454	Cerebrovascular accident
+T105	Drug	138	178	typical and atypical antipsychotic drugs	UMLS:C2092061	1st Generation/Typical
+T106	Drug	138	178	typical and atypical antipsychotic drugs	UMLS:C1276996	Atypical antipsychotic
+T137	Disease	232	240	dementia	UMLS:C0497327	Dementia
+T129	Demographic	286	288	UK	UMLS:C0041700	United Kingdom
+T52	Disease	455	461	stroke	UMLS:C0038454	Cerebrovascular accident
+T110	Drug	500	518	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T2	Drug	696	710	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T53	Disease	659	665	stroke	UMLS:C0038454	Cerebrovascular accident
+T5	Drug	763	781	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T3	Drug	898	920	typical antipsychotics	UMLS:C2092061	1st Generation/Typical
+T6	Drug	949	972	atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T54	Disease	819	825	stroke	UMLS:C0038454	Cerebrovascular accident
+T111	Drug	1000	1018	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T138	Disease	1076	1084	dementia	UMLS:C0497327	Dementia
+T139	Disease	1127	1135	dementia	UMLS:C0497327	Dementia
+T4	Drug	1153	1167	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T7	Drug	1268	1291	atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T8	Drug	1313	1335	typical antipsychotics	UMLS:C2092061	1st Generation/Typical
+T55	Disease	1209	1215	stroke	UMLS:C0038454	Cerebrovascular accident
+T9	Drug	1450	1464	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T56	Disease	1403	1409	stroke	UMLS:C0038454	Cerebrovascular accident
+T140	Disease	1349	1357	dementia	UMLS:C0497327	Dementia
+T141	Disease	1430	1438	dementia	UMLS:C0497327	Dementia
+T12	Drug	1577	1605	atypical antipsychotic drugs	UMLS:C1276996	Atypical antipsychotic
+T57	Disease	1554	1560	stroke	UMLS:C0038454	Cerebrovascular accident
+T165	Drug	1735	1746	risperidone	DrugBank:DB00734	Risperidone
+T142	Disease	1953	1961	dementia	UMLS:C0497327	Dementia
+T169	Demographic	1818	1832	United Kingdom	UMLS:C0041700	United Kingdom
+T170	Drug	1906	1934	atypical antipsychotic drugs	UMLS:C1276996	Atypical antipsychotic
+T58	Disease	2065	2071	stroke	UMLS:C0038454	Cerebrovascular accident
+T112	Drug	2088	2106	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T143	Disease	2149	2157	dementia	UMLS:C0497327	Dementia
+T59	Disease	2404	2410	stroke	UMLS:C0038454	Cerebrovascular accident
+T172	Drug	2363	2382	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T197	Drug	2465	2513	atypical versus conventional antipsychotic drugs	UMLS:C1276996	Atypical antipsychotic
+T60	Disease	2847	2853	stroke	UMLS:C0038454	Cerebrovascular accident
+T179	Drug	2870	2889	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T61	Disease	2942	2948	stroke	UMLS:C0038454	Cerebrovascular accident
+T62	Disease	3273	3279	stroke	UMLS:C0038454	Cerebrovascular accident
+T63	Disease	3169	3175	stroke	UMLS:C0038454	Cerebrovascular accident
+T64	Disease	3373	3379	stroke	UMLS:C0038454	Cerebrovascular accident
+T113	Drug	3192	3210	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T115	Drug	3396	3414	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T144	Disease	3447	3455	dementia	UMLS:C0497327	Dementia
+T174	Drug	3296	3335	typical and atypical antipsychotic drug	UMLS:C2092061	1st Generation/Typical
+T114	Drug	3296	3335	typical and atypical antipsychotic drug	UMLS:C1276996	Atypical antipsychotic
+T130	Demographic	3709	3711	UK	UMLS:C0041700	United Kingdom
+T132	Demographic	4030	4035	Wales	UMLS:C0043015	Country of Wales
+T133	Ethnicity	4116	4118	UK	UMLS:C0596227	british
+T131	Demographic	4018	4025	England	UMLS:C0014282	England
+T65	Disease	4532	4538	stroke	UMLS:C0038454	Cerebrovascular accident
+T66	Disease	4670	4676	stroke	UMLS:C0038454	Cerebrovascular accident
+T180	Drug	4753	4775	antipsychotic medicine	UMLS:C0040615	Antipsychotic Agents
+T181	Drug	4853	4872	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T182	AgeGroup	4876	4883	elderly	null	null
+T67	Disease	5198	5204	stroke	UMLS:C0038454	Cerebrovascular accident
+T186	Disease	5736	5752	vascular disease	UMLS:C0042373	Vascular Diseases
+T201	Phenotype	5707	5714	frailty	UMLS:C0424594	Frailty
+T187	Drug	5827	5846	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T68	Disease	6995	7001	stroke	UMLS:C0038454	Cerebrovascular accident
+T145	Disease	6979	6987	dementia	UMLS:C0497327	Dementia
+T69	Disease	7209	7215	stroke	UMLS:C0038454	Cerebrovascular accident
+T10	Drug	7434	7469	typical and atypical antipsychotics	UMLS:C2092061	1st Generation/Typical
+T11	Drug	7434	7469	typical and atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T116	Drug	7332	7350	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T146	Disease	7383	7391	dementia	UMLS:C0497327	Dementia
+T147	Disease	7507	7515	dementia	UMLS:C0497327	Dementia
+T188	Drug	7278	7302	antipsychotic medication	UMLS:C0040615	Antipsychotic Agents
+T70	Disease	7658	7664	stroke	UMLS:C0038454	Cerebrovascular accident
+T117	Drug	7615	7633	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T118	Drug	7759	7786	atypical antipsychotic drug	UMLS:C1276996	Atypical antipsychotic
+T119	Drug	7825	7851	typical antipsychotic drug	UMLS:C2092061	1st Generation/Typical
+T13	Drug	7968	7982	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T14	Drug	8026	8048	typical antipsychotics	UMLS:C2092061	1st Generation/Typical
+T15	Drug	8106	8133	atypical antipsychotic drug	UMLS:C1276996	Atypical antipsychotic
+T166	Drug	8138	8149	risperidone	DrugBank:DB00734	Risperidone
+T189	Drug	8054	8068	phenothiazines	UMLS:C0031436	Phenothiazines
+T139	Gender	8414	8419	women	Gender:C0015780	female
+T17	Drug	8461	8479	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T71	Disease	8535	8541	stroke	UMLS:C0038454	Cerebrovascular accident
+T16	Drug	8771	8789	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T72	Disease	8675	8681	stroke	UMLS:C0038454	Cerebrovascular accident
+T148	Disease	8646	8654	dementia	UMLS:C0497327	Dementia
+T149	Disease	8740	8748	dementia	UMLS:C0497327	Dementia
+T19	Drug	8981	9004	atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T199	Drug	8860	8906	typical but not an atypical antipsychotic drug	UMLS:C1276996	Atypical antipsychotic
+T120	Drug	8860	8906	typical but not an atypical antipsychotic drug	UMLS:C2092061	1st Generation/Typical
+T20	Drug	9032	9050	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T21	Drug	9101	9135	typical or atypical antipsychotics	UMLS:C2092061	1st Generation/Typical
+T22	Drug	9101	9135	typical or atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T23	Drug	9196	9231	typical and atypical antipsychotics	UMLS:C2092061	1st Generation/Typical
+T24	Drug	9196	9231	typical and atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T25	Drug	9282	9304	typical antipsychotics	UMLS:C2092061	1st Generation/Typical
+T26	Drug	9326	9349	atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T150	Disease	9253	9261	dementia	UMLS:C0497327	Dementia
+T73	Disease	9486	9492	stroke	UMLS:C0038454	Cerebrovascular accident
+T121	Drug	9527	9545	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T18	Drug	9892	9915	atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T27	Drug	9817	9839	typical antipsychotics	UMLS:C2092061	1st Generation/Typical
+T28	Drug	9954	9972	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T74	Disease	10054	10060	stroke	UMLS:C0038454	Cerebrovascular accident
+T75	Disease	10131	10137	stroke	UMLS:C0038454	Cerebrovascular accident
+T151	Disease	10038	10046	dementia	UMLS:C0497327	Dementia
+T152	Disease	10115	10123	dementia	UMLS:C0497327	Dementia
+T29	Drug	10174	10200	typical antipsychotic drug	UMLS:C2092061	1st Generation/Typical
+T76	Disease	10235	10241	stroke	UMLS:C0038454	Cerebrovascular accident
+T153	Disease	10156	10164	dementia	UMLS:C0497327	Dementia
+T30	Drug	10367	10390	atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T154	Disease	10336	10344	dementia	UMLS:C0497327	Dementia
+T31	Drug	10451	10473	typical antipsychotics	UMLS:C2092061	1st Generation/Typical
+T32	Drug	10608	10631	atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T77	Disease	10425	10431	stroke	UMLS:C0038454	Cerebrovascular accident
+T155	Disease	10409	10417	dementia	UMLS:C0497327	Dementia
+T156	Disease	10580	10588	dementia	UMLS:C0497327	Dementia
+T78	Disease	10679	10685	stroke	UMLS:C0038454	Cerebrovascular accident
+T79	Disease	10794	10800	stroke	UMLS:C0038454	Cerebrovascular accident
+T191	Drug	10824	10843	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T80	Disease	10981	10987	stroke	UMLS:C0038454	Cerebrovascular accident
+T200	Drug	11019	11067	atypical rather than typical antipsychotic drugs	UMLS:C1276996	Atypical antipsychotic
+T175	Drug	11019	11067	atypical rather than typical antipsychotic drugs	UMLS:C2092061	1st Generation/Typical
+T81	Disease	11108	11114	stroke	UMLS:C0038454	Cerebrovascular accident
+T122	Drug	11131	11149	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T157	Disease	11200	11208	dementia	UMLS:C0497327	Dementia
+T158	Disease	11833	11841	dementia	UMLS:C0497327	Dementia
+T178	Drug	11796	11815	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T134	Demographic	12102	12104	UK	UMLS:C0041700	United Kingdom
+T135	Ethnicity	12198	12200	UK	UMLS:C0596227	british
+T82	Disease	12539	12545	stroke	UMLS:C0038454	Cerebrovascular accident
+T33	Drug	12645	12659	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T123	Drug	12764	12782	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T83	Disease	12941	12947	stroke	UMLS:C0038454	Cerebrovascular accident
+T84	Disease	13126	13132	stroke	UMLS:C0038454	Cerebrovascular accident
+T124	Drug	13209	13227	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T85	Disease	13351	13357	stroke	UMLS:C0038454	Cerebrovascular accident
+T86	Disease	13498	13504	stroke	UMLS:C0038454	Cerebrovascular accident
+T87	Disease	13738	13744	stroke	UMLS:C0038454	Cerebrovascular accident
+T192	Disease	13754	13780	transient ischaemic attack	UMLS:C0007787	Transient Ischemic Attack
+T88	Disease	13985	13991	stroke	UMLS:C0038454	Cerebrovascular accident
+T89	Disease	14078	14097	haemorrhagic stroke	UMLS:C0553692	Brain hemorrhage
+T90	Disease	14261	14284	non-haemorrhagic stroke	UMLS:C3805136	Nonhaemorrhagic stroke
+T125	Drug	14169	14187	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T34	Drug	14345	14359	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T35	Drug	14420	14443	atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T91	Disease	14372	14378	stroke	UMLS:C0038454	Cerebrovascular accident
+T92	Disease	14522	14528	stroke	UMLS:C0038454	Cerebrovascular accident
+T193	Phenotype	14599	14610	weight gain	HPO:HP:0004324	Increased body weight
+T93	Disease	14872	14878	stroke	UMLS:C0038454	Cerebrovascular accident
+T126	Drug	14790	14808	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T194	Phenotype	14635	14646	weight gain	HPO:HP:0004324	Increased body weight
+T195	Phenotype	14813	14824	weight gain	HPO:HP:0004324	Increased body weight
+T127	Drug	15034	15052	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T94	Disease	15436	15442	stroke	UMLS:C0038454	Cerebrovascular accident
+T128	Drug	15316	15334	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T36	Drug	15721	15744	atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T95	Disease	15749	15755	stroke	UMLS:C0038454	Cerebrovascular accident
+T37	Drug	15989	16012	atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T38	Drug	16095	16118	atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T159	Disease	15971	15979	dementia	UMLS:C0497327	Dementia
+T167	Drug	16174	16185	risperidone	DrugBank:DB00734	Risperidone
+T39	Drug	16514	16537	atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T40	Drug	16669	16691	typical antipsychotics	UMLS:C2092061	1st Generation/Typical
+T96	Disease	16646	16652	stroke	UMLS:C0038454	Cerebrovascular accident
+T97	Disease	16870	16876	stroke	UMLS:C0038454	Cerebrovascular accident
+T104	Drug	16888	16902	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T136	Demographic	16760	16762	UK	UMLS:C0041700	United Kingdom
+T168	Drug	16855	16866	risperidone	DrugBank:DB00734	Risperidone
+T196	Drug	16939	16975	typical with atypical antipsychotics	UMLS:C2092061	1st Generation/Typical
+T41	Drug	16939	16975	typical with atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T42	Drug	17015	17029	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T198	Drug	17107	17121	atypical drugs	UMLS:C1276996	Atypical antipsychotic
+T98	Disease	17149	17155	stroke	UMLS:C0038454	Cerebrovascular accident
+T108	Drug	17241	17259	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T109	Drug	17344	17363	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T160	Disease	17281	17289	dementia	UMLS:C0497327	Dementia
+T183	AgeGroup	17159	17166	elderly	null	null
+T43	Drug	17502	17524	typical antipsychotics	UMLS:C2092061	1st Generation/Typical
+T44	Drug	17543	17566	atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T107	Drug	17435	17454	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T45	Drug	17689	17703	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T99	Disease	17708	17714	stroke	UMLS:C0038454	Cerebrovascular accident
+T161	Disease	17735	17743	dementia	UMLS:C0497327	Dementia
+T46	Drug	17814	17828	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T162	Disease	17877	17885	dementia	UMLS:C0497327	Dementia
+T184	AgeGroup	17852	17859	elderly	null	null

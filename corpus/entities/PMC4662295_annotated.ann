@@ -1,0 +1,206 @@
+T1	Disease	61	81	Alzheimer's Dementia	UMLS:C0002395	Alzheimer's Disease
+T2	AgeGroup	85	91	Adults	null	null
+T3	Disease	97	110	Down Syndrome	UMLS:C0013080	Down Syndrome
+T4	Disease	125	133	dementia	UMLS:C0497327	Dementia
+T5	Disease	262	270	dementia	UMLS:C0497327	Dementia
+T6	Phenotype	154	177	intellectual disability	HPO:HP:0001249	Intellectual disability
+T9	Disease	429	437	dementia	UMLS:C0497327	Dementia
+T7	Disease	526	534	dementia	HPO:C0497327	Dementia
+T8	Disease	552	570	Down syndrome (DS)	UMLS:C0013080	Down Syndrome
+T10	Disease	608	610	DS	UMLS:C0013080	Down Syndrome
+T11	Disease	615	640	mild-to-moderate dementia	UMLS:C3494623	Mild dementia
+T12	Disease	615	640	mild-to-moderate dementia	UMLS:C3494871	Moderate dementia
+T13	Disease	648	667	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T14	Disease	669	674	DS-AD	null	null
+T15	AgeGroup	695	701	adults	null	null
+T16	Disease	707	709	DS	UMLS:C0013080	Down Syndrome
+T14	Phenotype	718	741	cognitive deterioration	UMLS:C0854193	Cognitive deterioration
+T18	Measure	774	842	Dementia Screening Questionnaire in Intellectual Disability (DSQIID)	null	null
+T19	Measure	1281	1287	DSQIID	null	null
+T20	Disease	1399	1404	DS-AD	null	null
+T21	AgeGroup	1432	1438	adults	null	null
+T22	Disease	1444	1446	DS	UMLS:C0013080	Down Syndrome
+T20	Phenotype	1454	1477	cognitive deterioration	UMLS:C0854193	Cognitive deterioration
+T24	AgeGroup	1521	1528	elderly	null	null
+T5	Disease	1541	1559	Down syndrome (DS)	UMLS:C0013080	Down Syndrome
+T26	Disease	1614	1634	age-related diseases	UMLS:C0679383	geriatric disorder
+T27	Disease	1645	1653	dementia	UMLS:C0497327	Dementia
+T28	Disease	1661	1663	DS	UMLS:C0013080	Down Syndrome
+T24	Phenotype	1713	1731	mental retardation	HPO:HP:0001249	Intellectual disability
+T31	Disease	1874	1927	physical, psychiatric, and neurological complications	UMLS:C0683323	physical illness
+T32	Disease	1874	1927	physical, psychiatric, and neurological complications	UMLS:C0004936	Mental disorders
+T33	Disease	1874	1927	physical, psychiatric, and neurological complications	UMLS:C0027765	nervous system disorder
+T35	Phenotype	1960	1983	neurofibrillary tangles	HPO:HP:0002185	Neurofibrillary tangles
+T36	Disease	2031	2055	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T37	AgeGroup	2107	2113	adults	null	null
+T38	Disease	2119	2121	DS	UMLS:C0013080	Down Syndrome
+T39	AgeGroup	2156	2164	children	null	null
+T40	Disease	2170	2172	DS	UMLS:C0013080	Down Syndrome
+T41	Disease	2285	2287	AD	UMLS:C0002395	Alzheimer's Disease
+T42	Disease	2291	2293	DS	UMLS:C0013080	Down Syndrome
+T43	Disease	2419	2427	dementia	UMLS:C0497327	Dementia
+T44	Disease	2478	2486	dementia	UMLS:C0497327	Dementia
+T45	AgeGroup	2523	2529	adults	null	null
+T46	Disease	2535	2537	DS	UMLS:C0013080	Down Syndrome
+T47	Disease	2670	2672	DS	UMLS:C0013080	Down Syndrome
+T48	Disease	2701	2719	dementia due to AD	UMLS:C0002395	Alzheimer's Disease
+T49	Disease	2721	2726	DS-AD	null	null
+T50	Disease	2810	2812	DS	UMLS:C0013080	Down Syndrome
+T51	Disease	2817	2825	dementia	UMLS:C0497327	Dementia
+T55	AgeGroup	2673	2695	aged 45 years and more	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T56	AgeGroup	2673	2695	aged 45 years and more	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T57	AgeGroup	2673	2695	aged 45 years and more	AgeGroups:C0683973	middle aged adult (45-64 years)
+T52	Disease	2873	2881	dementia	UMLS:C0497327	Dementia
+T53	Disease	2934	2942	dementia	UMLS:C0497327	Dementia
+T54	Disease	2958	2960	DS	UMLS:C0013080	Down Syndrome
+T58	Disease	3046	3054	dementia	UMLS:C0497327	Dementia
+T59	Phenotype	3075	3098	intellectual disability	HPO:HP:0001249	Intellectual disability
+T60	Disease	3192	3200	dementia	UMLS:C0497327	Dementia
+T61	Disease	3247	3255	dementia	UMLS:C0497327	Dementia
+T62	Phenotype	3428	3451	intellectual disability	HPO:HP:0001249	Intellectual disability
+T63	Disease	3595	3606	comorbidity	UMLS:C0009488	Comorbidity
+T64	Phenotype	3546	3590	cognitive abilities often are underdeveloped	HPO:HP:0100543	Cognitive impairment
+T65	Disease	3610	3624	hypothyroidism	UMLS:C0020676	Hypothyroidism
+T66	Disease	3629	3639	depression	UMLS:C0011581	Depressive disorder
+T67	Measure	3720	3746	neuropsychological testing	UMLS:C0027902	Neuropsychological Tests
+T68	Disease	4159	4161	AD	UMLS:C0002395	Alzheimer's Disease
+T69	AgeGroup	4311	4317	adults	null	null
+T70	Disease	4323	4325	DS	UMLS:C0013080	Down Syndrome
+T71	Disease	4334	4342	dementia	UMLS:C0497327	Dementia
+T73	AgeGroup	4469	4475	adults	null	null
+T74	Disease	4595	4597	DS	UMLS:C0013080	Down Syndrome
+T75	Disease	4615	4617	AD	UMLS:C0002395	Alzheimer's Disease
+T76	Disease	4714	4716	AD	UMLS:C0002395	Alzheimer's Disease
+T77	Disease	4720	4722	DS	UMLS:C0013080	Down Syndrome
+T78	Disease	4818	4826	dementia	UMLS:C0497327	Dementia
+T79	Disease	4844	4846	DS	UMLS:C0013080	Down Syndrome
+T80	Disease	4949	4951	DS	UMLS:C0013080	Down Syndrome
+T81	Disease	4956	4958	AD	UMLS:C0002395	Alzheimer's Disease
+T82	Disease	4995	4997	DS	UMLS:C0013080	Down Syndrome
+T83	Disease	5006	5008	AD	UMLS:C0002395	Alzheimer's Disease
+T84	Disease	5117	5119	DS	UMLS:C0013080	Down Syndrome
+T85	Disease	5133	5141	dementia	UMLS:C0497327	Dementia
+T86	Disease	5149	5151	AD	UMLS:C0002395	Alzheimer's Disease
+T87	Disease	5167	5169	DS	UMLS:C0013080	Down Syndrome
+T88	Phenotype	5174	5191	cognitive decline	HPO:HP:0001268	Mental deterioration
+T89	AgeGroup	5476	5482	adults	null	null
+T90	Disease	5488	5490	DS	UMLS:C0013080	Down Syndrome
+T91	AgeGroup	5529	5535	adults	null	null
+T92	Phenotype	5541	5566	intellectual disabilities	HPO:HP:0001249	Intellectual disability
+T93	Phenotype	6014	6044	severe intellectual disability	HPO:HP:0001249	Intellectual disability
+T94	Disease	6116	6118	AD	UMLS:C0002395	Alzheimer's Disease
+T95	AgeGroup	6051	6063	age above 35	AgeGroups:C0001675	adult (19-44 years)
+T96	AgeGroup	6051	6063	age above 35	AgeGroups:C0683973	middle aged adult (45-64 years)
+T97	AgeGroup	6051	6063	age above 35	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T98	AgeGroup	6051	6063	age above 35	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T99	Disease	6367	6381	hypothyroidism	UMLS:C0020676	Hypothyroidism
+T100	Disease	6386	6396	depression	UMLS:C0011581	Depressive disorder
+T101	Disease	6429	6431	DS	UMLS:C0013080	Down Syndrome
+T102	Disease	6436	6438	AD	UMLS:C0002395	Alzheimer's Disease
+T103	Disease	6480	6482	DS	UMLS:C0013080	Down Syndrome
+T104	Phenotype	6490	6507	cognitive decline	HPO:HP:0001268	Mental deterioration
+T105	Phenotype	6509	6526	Cognitive decline	HPO:HP:0001268	Mental deterioration
+T106	Measure	6566	6634	Dementia Screening Questionnaire in Intellectual Disability (DSQIID)	null	null
+T107	Disease	7292	7331	physical and/or mental health disorders	UMLS:C0683323	physical illness
+T108	Disease	7292	7331	physical and/or mental health disorders	UMLS:C0004936	Mental disorders
+T109	Disease	7357	7365	dementia	UMLS:C0497327	Dementia
+T111	Measure	7492	7498	DSQIID	null	null
+T112	ScaleMax	7553	7556	>20	null	null
+T113	Detail	7570	7601	high level of cognitive decline	null	null
+T110	Disease	7464	7472	dementia	UMLS:C0497327	Dementia
+T114	Disease	7719	7727	dementia	UMLS:C0497327	Dementia
+T115	AgeGroup	7734	7740	adults	null	null
+T116	Disease	7746	7748	DS	UMLS:C0013080	Down Syndrome
+T119	Phenotype	7828	7857	visual and hearing impairment	HPO:HP:0000365	Hearing impairment
+T120	Phenotype	7828	7857	visual and hearing impairment	HPO:HP:0000505	Visual impairment
+T117	Measure	7858	7880	Psychiatric assessment	UMLS:C0846574	Psychiatric evaluation
+T121	Disease	7999	8007	dementia	UMLS:C0497327	Dementia
+T122	Disease	8286	8294	dementia	UMLS:C0497327	Dementia
+T123	Disease	8386	8388	AD	UMLS:C0002395	Alzheimer's Disease
+T124	Disease	8602	8604	AD	UMLS:C0002395	Alzheimer's Disease
+T126	Disease	8916	8924	dementia	UMLS:C0497327	Dementia
+T127	Disease	9050	9055	DS-AD	null	null
+T128	Disease	9105	9154	mild-to-moderate phase of their dementia disorder	UMLS:C3494623	Mild dementia
+T129	Disease	9105	9154	mild-to-moderate phase of their dementia disorder	UMLS:C3494871	Moderate dementia
+T130	Disease	9182	9184	DS	UMLS:C0013080	Down Syndrome
+T131	Phenotype	10196	10202	stress	UMLS:C0038435	Stress
+T132	Phenotype	10207	10214	anxiety	HPO:HP:0000739	Anxiety
+T133	Phenotype	10648	10667	unable to lie still	null	null
+T134	Demographic	13020	13023	USA	UMLS:C0041703	United States
+T135	Demographic	13005	13012	Chicago	UMLS:C0008044	Chicago
+T136	Measure	13099	13105	DSQIID	null	null
+T137	Disease	13244	13249	DS-AD	null	null
+T138	Disease	13694	13699	DS-AD	null	null
+T139	Measure	14185	14191	DSQIID	null	null
+T140	Measure	14810	14816	DSQIID	null	null
+T141	Measure	14898	14904	DSQIID	null	null
+T142	Disease	15294	15302	dementia	UMLS:C0497327	Dementia
+T143	Phenotype	15427	15447	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T144	Disease	15649	15654	DS-AD	null	null
+T145	AgeGroup	15670	15676	adults	null	null
+T146	Disease	15682	15684	DS	UMLS:C0013080	Down Syndrome
+T147	Phenotype	15692	15709	cognitive decline	HPO:HP:0001268	Mental deterioration
+T148	Disease	15810	15815	DS-AD	null	null
+T149	Measure	15945	15951	DSQIID	null	null
+T150	Disease	16223	16228	DS-AD	null	null
+T152	AgeGroup	16762	16768	adults	null	null
+T153	Disease	16774	16779	DS-AD	null	null
+T154	AgeGroup	16803	16809	adults	null	null
+T155	Disease	16913	16915	AD	UMLS:C0002395	Alzheimer's Disease
+T156	AgeGroup	16919	16925	adults	null	null
+T157	Disease	16931	16933	DS	UMLS:C0013080	Down Syndrome
+T145	Phenotype	17063	17086	cognitive deterioration	UMLS:C0854193	Cognitive deterioration
+T159	Disease	17211	17216	DS-AD	null	null
+T160	Disease	17265	17267	DS	UMLS:C0013080	Down Syndrome
+T161	AgeGroup	17287	17293	adults	null	null
+T162	Phenotype	17302	17327	intellectual disabilities	HPO:HP:0001249	Intellectual disability
+T163	Disease	17432	17434	DS	UMLS:C0013080	Down Syndrome
+T164	Disease	17436	17438	AD	UMLS:C0002395	Alzheimer's Disease
+T165	Disease	17499	17501	DS	UMLS:C0013080	Down Syndrome
+T166	Disease	17536	17538	AD	UMLS:C0002395	Alzheimer's Disease
+T167	AgeGroup	17562	17568	Adults	null	null
+T168	Disease	17574	17576	DS	UMLS:C0013080	Down Syndrome
+T152	Phenotype	17585	17608	cognitive deterioration	UMLS:C0854193	Cognitive deterioration
+T72	Disease	17793	17798	DS-AD	null	null
+T170	AgeGroup	17804	17810	adults	null	null
+T171	Disease	17816	17818	DS	UMLS:C0013080	Down Syndrome
+T172	Phenotype	17824	17844	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T173	Disease	17971	17976	DS-AD	null	null
+T174	AgeGroup	17995	18001	adults	null	null
+T175	Disease	18007	18009	DS	UMLS:C0013080	Down Syndrome
+T158	Phenotype	18018	18041	cognitive deterioration	UMLS:C0854193	Cognitive deterioration
+T177	Phenotype	18058	18083	intellectual disabilities	HPO:HP:0001249	Intellectual disability
+T179	AgeGroup	18046	18052	adults	null	null
+T180	Measure	18305	18322	cognitive testing	UMLS:C0870300	Assessment: Cognition
+T181	Disease	18460	18468	dementia	UMLS:C0497327	Dementia
+T182	Measure	18524	18530	DSQIID	null	null
+T183	Measure	18622	18628	DSQIID	null	null
+T184	Phenotype	18818	18833	amyloid plaques	UMLS:C2936349	Plaque, Amyloid
+T185	Phenotype	18838	18861	neurofibrillary tangles	HPO:HP:0002185	Neurofibrillary tangles
+T186	Phenotype	18926	18951	neuropathological changes	null	null
+T187	AgeGroup	18955	18969	elderly adults	null	null
+T188	Disease	18975	18977	DS	UMLS:C0013080	Down Syndrome
+T189	AgeGroup	19044	19050	adults	null	null
+T190	Disease	19056	19058	DS	UMLS:C0013080	Down Syndrome
+T191	AgeGroup	19059	19081	beyond 40 years of age	AgeGroups:C0001675	adult (19-44 years)
+T192	AgeGroup	19059	19081	beyond 40 years of age	AgeGroups:C0683973	middle aged adult (45-64 years)
+T193	AgeGroup	19059	19081	beyond 40 years of age	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T194	AgeGroup	19059	19081	beyond 40 years of age	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T195	AgeGroup	19249	19255	adults	null	null
+T196	Disease	19261	19263	DS	UMLS:C0013080	Down Syndrome
+T197	Disease	19269	19277	dementia	UMLS:C0497327	Dementia
+T198	Disease	19296	19304	dementia	UMLS:C0497327	Dementia
+T200	Phenotype	19738	19745	Aphasia	HPO:HP:0002381	Aphasia
+T201	Disease	19766	19774	dementia	UMLS:C0497327	Dementia
+T125	Phenotype	19955	19978	intellectual disability	HPO:HP:0001249	Intellectual disability
+T202	Disease	19931	19939	dementia	UMLS:C0497327	Dementia
+T203	AgeGroup	19943	19949	adults	null	null
+T181	Phenotype	20049	20072	cognitive deterioration	UMLS:C0854193	Cognitive deterioration
+T178	Phenotype	20244	20269	intellectual disabilities	HPO:HP:0001249	Intellectual disability
+T205	Disease	20214	20216	AD	UMLS:C0002395	Alzheimer's Disease
+T206	Disease	20570	20575	DS-AD	null	null
+T207	AgeGroup	20603	20609	adults	null	null
+T208	Disease	20615	20617	DS	UMLS:C0013080	Down Syndrome
+T184	Phenotype	20625	20648	cognitive deterioration	UMLS:C0854193	Cognitive deterioration
+R1	hasScale	7492	7498	Measure	7553	7556	ScaleMax
+R2	hasDetail	7553	7556	ScaleMax	7570	7601	Detail

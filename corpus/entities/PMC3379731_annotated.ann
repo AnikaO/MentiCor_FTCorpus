@@ -1,0 +1,202 @@
+T1	Disease	70	89	Alzheimer's Disease	UMLS:C0002395	Alzheimer's Disease
+T6	Phenotype	0	38	Cognitive and Neuropsychiatric Symptom	UMLS:C0525041	Neurobehavioral Manifestations
+T7	Phenotype	0	38	Cognitive and Neuropsychiatric Symptom	UMLS:C3534763	One or more neuropsychiatric symptoms
+T2	Disease	111	135	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T4	Phenotype	143	193	impairment in memory and other cognitive functions	HPO:HP:0002354	Memory impairment
+T8	Phenotype	143	193	impairment in memory and other cognitive functions	HPO:HP:0100543	Cognitive impairment
+T9	Phenotype	205	230	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T10	Phenotype	383	408	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T31	Disease	356	364	dementia	UMLS:C0497327	Dementia
+T50	Disease	442	462	very mild or mild AD	UMLS:C0002395	Alzheimer's Disease
+T51	Disease	515	535	very mild or mild AD	UMLS:C0002395	Alzheimer's Disease
+T80	Disease	567	569	AD	UMLS:C0002395	Alzheimer's Disease
+T82	Measure	600	685	Consortium to Establish a Registry for Alzheimer's Disease neuropsychological battery	null	null
+T11	Phenotype	831	856	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T32	Disease	792	800	dementia	UMLS:C0497327	Dementia
+T12	Phenotype	924	949	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T13	Phenotype	1003	1028	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T53	Disease	975	990	mild or mild AD	UMLS:C0002395	Alzheimer's Disease
+T190	Phenotype	1044	1063	cognitive impairmen	HPO:HP:0100543	Cognitive impairment
+T54	Disease	1202	1204	AD	UMLS:C0002395	Alzheimer's Disease
+T3	Disease	1258	1282	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T14	Phenotype	1415	1440	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T191	Phenotype	1352	1400	impairment in cognitive and functional abilities	HPO:HP:0100543	Cognitive impairment
+T192	Phenotype	1352	1400	impairment in cognitive and functional abilities	UMLS:C0872173	functional disability
+T202	Disease	1288	1325	progressive neurodegenerative disease	UMLS:C0027746	Nerve Degeneration
+T194	Phenotype	1442	1462	Cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T195	Phenotype	1475	1553	impairment in memory, visuospatial functions, language and executive functions	HPO:HP:0002354	Memory impairment
+T51	Phenotype	1475	1553	impairment in memory, visuospatial functions, language and executive functions	HPO:HP:0002354	Memory impairment
+T53	Phenotype	1475	1553	impairment in memory, visuospatial functions, language and executive functions	HPO:HP:0002463	Language impairment
+T197	Phenotype	1475	1553	impairment in memory, visuospatial functions, language and executive functions	HPO:HP:0002463	Language impairment
+T198	Phenotype	1475	1553	impairment in memory, visuospatial functions, language and executive functions	UMLS:C1843023	Loss of executive functions
+T15	Phenotype	1568	1593	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T55	Disease	1682	1684	AD	UMLS:C0002395	Alzheimer's Disease
+T184	Phenotype	1603	1613	depression	HPO:HP:0000716	Depression
+T187	Phenotype	1615	1621	apathy	HPO:HP:0000741	Apathy
+T189	Phenotype	1626	1635	agitation	HPO:HP:0000713	Agitation
+T16	Phenotype	1889	1914	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T17	Phenotype	2027	2052	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T57	Disease	2189	2191	AD	UMLS:C0002395	Alzheimer's Disease
+T56	Disease	2388	2390	AD	UMLS:C0002395	Alzheimer's Disease
+T83	Measure	2214	2310	Consortium to Establish a Registry for Alzheimer's Disease neuropsychological battery (CERAD-NB)	null	null
+T199	Phenotype	2364	2384	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T34	Disease	2702	2713	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T48	Disease	2639	2647	dementia	UMLS:C0497327	Dementia
+T84	Measure	2459	2467	CERAD-NB	null	null
+T136	Measure	2570	2575	CERAD	null	null
+T58	Disease	3001	3003	AD	UMLS:C0002395	Alzheimer's Disease
+T96	Measure	2825	2861	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T18	Phenotype	3198	3223	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T35	Disease	3142	3150	dementia	UMLS:C0497327	Dementia
+T59	Disease	3241	3261	very mild or mild AD	UMLS:C0002395	Alzheimer's Disease
+T137	Measure	3105	3110	CERAD	null	null
+T60	Disease	3311	3331	very mild or mild AD	UMLS:C0002395	Alzheimer's Disease
+T81	Disease	3362	3364	AD	UMLS:C0002395	Alzheimer's Disease
+T203	Ethnicity	3791	3806	Central-Finland	UMLS:C0337803	Finns
+T52	Disease	3942	3944	AD	UMLS:C0002395	Alzheimer's Disease
+T36	Disease	4176	4202	very mild or mild dementia	null	null
+T47	Disease	4176	4202	very mild or mild dementia	UMLS:C3494623	Mild dementia
+T61	Disease	4505	4516	moderate AD	UMLS:C0002395	Alzheimer's Disease
+T183	Disease	4549	4568	Parkinson's disease	UMLS:C0030567	Parkinson Disease
+T80	Phenotype	4599	4608	blindness	HPO:HP:0000618	Blindness
+T185	Phenotype	4869	4879	depression	HPO:HP:0000716	Depression
+T85	Measure	4986	4994	CERAD-NB	null	null
+T86	Measure	5004	5008	MMSE	UMLS:C0451306	Mini-mental state examination
+T87	Measure	5042	5050	CERAD-NB	null	null
+T88	Measure	5222	5230	CERAD-NB	null	null
+T206	ScaleMax	5572	5575	100	null	null
+T5	Disease	5712	5727	memory disorder	UMLS:C0025261	Memory Disorders
+T148	Measure	5622	5658	Clinical Dementia Rating (CDR) scale	UMLS:C0451074	Clinical dementia rating scale
+T62	Disease	6080	6082	AD	UMLS:C0002395	Alzheimer's Disease
+T37	Disease	6215	6223	dementia	UMLS:C0497327	Dementia
+T160	Measure	6092	6124	Neuropsychiatric Inventory (NPI)	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T161	Measure	6249	6252	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T139	Measure	6651	6656	CERAD	null	null
+T63	Disease	7219	7221	AD	UMLS:C0002395	Alzheimer's Disease
+T64	Disease	7321	7323	AD	UMLS:C0002395	Alzheimer's Disease
+T19	Phenotype	7618	7643	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T38	Disease	7563	7571	dementia	UMLS:C0497327	Dementia
+T92	Measure	7678	7681	CDR	UMLS:C0451074	Clinical dementia rating scale
+T173	Gender	7652	7655	men	Gender:C0086582	male
+T177	Gender	7660	7665	women	Gender:C0015780	female
+T89	Measure	7764	7772	CERAD-NB	null	null
+T90	Measure	7774	7778	MMSE	UMLS:C0451306	Mini-mental state examination
+T101	Measure	7867	7870	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T174	Gender	7997	8000	men	Gender:C0086582	male
+T40	Disease	8035	8048	mild dementia	UMLS:C3494623	Mild dementia
+T39	Disease	8073	8091	very mild dementia	null	null
+T149	Measure	8050	8053	CDR	UMLS:C0451074	Clinical dementia rating scale
+T150	Measure	8093	8096	CDR	UMLS:C0451074	Clinical dementia rating scale
+T66	Drug	8420	8453	acetylcholine esterase inhibitors	UMLS:C0001046	Acetylcholinesterase Inhibitors
+T67	Drug	8469	8478	memantine	DrugBank:DB01043	Memantine
+T97	Measure	8562	8566	MMSE	UMLS:C0451306	Mini-mental state examination
+T99	Measure	8543	8548	CERAD	null	null
+T100	Measure	8593	8596	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T20	Phenotype	8648	8673	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T162	Measure	8765	8768	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T21	Phenotype	8794	8819	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T186	Phenotype	8841	8851	depression	HPO:HP:0000716	Depression
+T188	Phenotype	8825	8831	apathy	HPO:HP:0000741	Apathy
+T207	Phenotype	8864	8876	irritability	HPO:HP:0000737	Irritability
+T102	Measure	8929	8934	CERAD	null	null
+T103	Measure	8948	8952	MMSE	UMLS:C0451306	Mini-mental state examination
+T163	Measure	8977	8980	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T175	Gender	8995	8998	men	Gender:C0086582	male
+T178	Gender	9003	9008	women	Gender:C0015780	female
+T176	Gender	9054	9057	men	Gender:C0086582	male
+T179	Gender	9010	9015	Women	Gender:C0015780	female
+T42	Disease	9174	9187	mild dementia	UMLS:C3494623	Mild dementia
+T41	Disease	9119	9137	very mild dementia	null	null
+T104	Measure	9257	9261	MMSE	UMLS:C0451306	Mini-mental state examination
+T140	Measure	9205	9210	CERAD	null	null
+T152	Measure	9139	9142	CDR	UMLS:C0451074	Clinical dementia rating scale
+T153	Measure	9189	9192	CDR	UMLS:C0451074	Clinical dementia rating scale
+T164	Measure	9316	9319	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T105	Measure	9516	9520	MMSE	UMLS:C0451306	Mini-mental state examination
+T106	Measure	9503	9508	CERAD	null	null
+T108	Measure	9610	9615	CERAD	null	null
+T109	Measure	9636	9640	MMSE	UMLS:C0451306	Mini-mental state examination
+T110	Measure	9709	9714	CERAD	null	null
+T111	Measure	9742	9746	MMSE	UMLS:C0451306	Mini-mental state examination
+T165	Measure	9895	9898	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T112	Measure	10013	10018	CERAD	null	null
+T113	Measure	10026	10030	MMSE	UMLS:C0451306	Mini-mental state examination
+T115	Measure	10054	10057	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T116	Measure	10125	10130	CERAD	null	null
+T123	Measure	10141	10145	MMSE	UMLS:C0451306	Mini-mental state examination
+T124	Measure	10216	10221	CERAD	null	null
+T125	Measure	10232	10236	MMSE	UMLS:C0451306	Mini-mental state examination
+T117	Measure	10290	10295	CERAD	null	null
+T118	Measure	10692	10697	CERAD	null	null
+T122	Measure	10717	10721	MMSE	UMLS:C0451306	Mini-mental state examination
+T166	Measure	10648	10651	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T119	Measure	10774	10779	CERAD	null	null
+T167	Measure	10790	10793	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T120	Measure	10919	10924	CERAD	null	null
+T121	Measure	10953	10958	CERAD	null	null
+T168	Measure	10881	10884	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T169	Measure	10992	10995	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T170	Measure	11013	11016	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T43	Disease	11283	11309	very mild or mild dementia	UMLS:C3494623	Mild dementia
+T68	Disease	11266	11268	AD	UMLS:C0002395	Alzheimer's Disease
+T49	Disease	11283	11309	very mild or mild dementia	null	null
+T141	Measure	11167	11172	CERAD	null	null
+T208	Measure	11194	11219	neuropsychiatric measures	null	null
+T127	Measure	11525	11530	CERAD	null	null
+T209	Disease	11579	11581	AD	UMLS:C0002395	Alzheimer's Disease
+T126	Measure	11644	11648	MMSE	UMLS:C0451306	Mini-mental state examination
+T128	Measure	11606	11611	CERAD	null	null
+T44	Disease	11701	11719	very mild dementia	null	null
+T45	Disease	11756	11769	mild dementia	UMLS:C3494623	Mild dementia
+T158	Measure	11721	11724	CDR	UMLS:C0451074	Clinical dementia rating scale
+T159	Measure	11771	11774	CDR	UMLS:C0451074	Clinical dementia rating scale
+T93	Measure	11909	11917	CERAD-NB	null	null
+T70	Disease	12145	12147	AD	UMLS:C0002395	Alzheimer's Disease
+T95	Measure	12190	12195	CERAD	null	null
+T142	Measure	12075	12080	CERAD	null	null
+T144	Measure	12242	12247	CERAD	null	null
+T181	AgeGroup	12106	12113	elderly	null	null
+T182	Ethnicity	12114	12119	Finns	UMLS:C0337803	Finns
+T143	Measure	12300	12305	CERAD	null	null
+T71	Disease	12464	12466	AD	UMLS:C0002395	Alzheimer's Disease
+T94	Measure	12538	12546	CERAD-NB	null	null
+T171	Measure	12566	12569	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T73	Disease	12744	12746	AD	UMLS:C0002395	Alzheimer's Disease
+T172	Measure	12727	12730	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T72	Disease	12967	12969	AD	UMLS:C0002395	Alzheimer's Disease
+T22	Phenotype	13039	13064	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T74	Disease	13101	13103	AD	UMLS:C0002395	Alzheimer's Disease
+T23	Phenotype	13398	13423	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T145	Measure	13248	13253	CERAD	null	null
+T146	Measure	13569	13574	CERAD	null	null
+T180	Gender	13637	13642	Women	Gender:C0015780	female
+T24	Phenotype	13893	13918	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T25	Phenotype	13969	13994	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T193	Phenotype	14015	14037	functional limitations	UMLS:C0872173	functional disability
+T210	Phenotype	14160	14179	behavioral symptoms	UMLS:C0004941	Behavioral Symptoms
+T211	Phenotype	14303	14322	behavioral symptoms	UMLS:C0004941	Behavioral Symptoms
+T129	Measure	14495	14499	MMSE	UMLS:C0451306	Mini-mental state examination
+T212	Phenotype	14449	14490	psychological and behavioral disturbances	HPO:HP:0000708	Behavioral abnormality
+T213	Phenotype	14449	14490	psychological and behavioral disturbances	UMLS:C0849888	psychological disturbance
+T26	Phenotype	14578	14603	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T130	Measure	14551	14555	MMSE	UMLS:C0451306	Mini-mental state examination
+T131	Measure	14529	14534	CERAD	null	null
+T75	Disease	14798	14800	AD	UMLS:C0002395	Alzheimer's Disease
+T214	Phenotype	14728	14765	cognitive and behavioral disturbances	HPO:HP:0000708	Behavioral abnormality
+T215	Phenotype	14728	14765	cognitive and behavioral disturbances	HPO:HP:0100543	Cognitive impairment
+T27	Phenotype	15081	15106	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T132	Measure	14911	14916	CERAD	null	null
+T133	Measure	14934	14937	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T216	Treatment	15410	15435	psychosocial intervention	UMLS:C0841585	Psychosocial therapies
+T76	Disease	15620	15640	very mild or mild AD	UMLS:C0002395	Alzheimer's Disease
+T77	Disease	15895	15915	very mild or mild AD	UMLS:C0002395	Alzheimer's Disease
+T46	Disease	15975	15997	more advanced dementia	UMLS:C3494652	Severe dementia
+T217	AgeGroup	16024	16029	older	null	null
+T218	Demographic	16041	16048	Finland	UMLS:C0016132	Finland
+T135	Measure	16349	16353	MMSE	UMLS:C0451306	Mini-mental state examination
+T28	Phenotype	16451	16476	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T147	Measure	16561	16566	CERAD	null	null
+T78	Disease	16704	16706	AD	UMLS:C0002395	Alzheimer's Disease
+T29	Phenotype	16786	16811	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T30	Phenotype	16918	16943	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T79	Phenotype	17208	17219	AD symptoms	null	null

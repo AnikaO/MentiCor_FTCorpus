@@ -1,0 +1,595 @@
+T1	Disease	100	122	Alzheimer disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T2	Phenotype	137	164	vascular brain injury (VBI)	UMLS:C0751814	Cerebrovascular Trauma
+T3	AgeGroup	204	217	oldest of old	null	null
+T4	Disease	265	267	AD	UMLS:C0002395	Alzheimer's Disease
+T5	Phenotype	269	272	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T6	Disease	278	298	mixed AD/VBI lesions	UMLS:C0002395	Alzheimer's Disease
+T7	Phenotype	278	298	mixed AD/VBI lesions	UMLS:C0751814	Cerebrovascular Trauma
+T8	Disease	330	351	hippocampal sclerosis	UMLS:C1504404	Hippocampal sclerosis
+T264	Phenotype	314	325	Lewy bodies	HPO:HP:0100315	Lewy bodies
+T9	Phenotype	516	532	mixed AD and VBI	UMLS:C0751814	Cerebrovascular Trauma
+T10	Disease	516	532	mixed AD and VBI	UMLS:C0002395	Alzheimer's Disease
+T11	Phenotype	589	609	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T14	Disease	694	706	mixed AD/VCI	UMLS:C0002395	Alzheimer's Disease
+T15	Disease	694	706	mixed AD/VCI	UMLS:C3805043	Vascular cognitive impairment
+T12	Disease	611	613	AD	UMLS:C0002395	Alzheimer's Disease
+T13	Disease	618	653	vascular cognitive impairment (VCI)	UMLS:C3805043	Vascular cognitive impairment
+T16	Disease	777	793	arteriosclerosis	UMLS:C0003850	Arteriosclerosis
+T17	Disease	824	826	AD	UMLS:C0002395	Alzheimer's Disease
+T18	Disease	879	881	AD	UMLS:C0002395	Alzheimer's Disease
+T19	Phenotype	886	889	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T20	Disease	947	955	dementia	UMLS:C0497327	Dementia
+T21	Disease	999	1001	AD	UMLS:C0002395	Alzheimer's Disease
+T22	Phenotype	1040	1053	microinfarcts	UMLS:C0021308	Infarction
+T23	Disease	1107	1119	mixed AD/VCI	UMLS:C0002395	Alzheimer's Disease
+T24	Disease	1107	1119	mixed AD/VCI	UMLS:C3805043	Vascular cognitive impairment
+T25	Disease	1137	1139	AD	UMLS:C0002395	Alzheimer's Disease
+T26	Phenotype	1299	1302	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T27	Phenotype	1372	1386	Severe amnesia	UMLS:C0002622	Amnesia
+T28	Phenotype	1391	1417	atrophy of the hippocampus	UMLS:C3280737	Hippocampal atrophy (1 patient)
+T29	Disease	1440	1448	early AD	UMLS:C0002395	Alzheimer's Disease
+T30	Disease	1484	1487	VCI	UMLS:C3805043	Vascular cognitive impairment
+T31	Phenotype	1545	1548	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T32	Disease	1581	1587	AD/VBI	UMLS:C0002395	Alzheimer's Disease
+T33	Phenotype	1581	1587	AD/VBI	UMLS:C0751814	Cerebrovascular Trauma
+T34	Disease	1604	1606	AD	UMLS:C0002395	Alzheimer's Disease
+T41	Phenotype	1638	1651	microinfarcts	UMLS:C0021308	Infarction
+T42	Phenotype	1685	1693	infarcts	UMLS:C0021308	Infarction
+T43	Phenotype	1695	1706	hemorrhages	UMLS:C0019080	Hemorrhage
+T44	Phenotype	1712	1741	white matter hyperintensities	UMLS:C2938912	White matter hyperintensities
+T45	Phenotype	1814	1817	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T46	Disease	1969	1992	cerebrovascular disease	UMLS:C0007820	Cerebrovascular Disorders
+T47	Disease	2007	2023	arteriosclerosis	UMLS:C0003850	Arteriosclerosis
+T48	Disease	2027	2054	cerebral amyloid angiopathy	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T49	Disease	2135	2151	arteriosclerosis	UMLS:C0003850	Arteriosclerosis
+T50	Disease	2203	2217	mixed dementia	UMLS:C3532942	Mixed dementia
+T35	Disease	2234	2256	Alzheimer disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T51	Disease	2261	2278	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T52	Disease	2329	2337	dementia	UMLS:C0497327	Dementia
+T36	Disease	2369	2371	AD	UMLS:C0002395	Alzheimer's Disease
+T53	Disease	2408	2422	mixed dementia	UMLS:C3532942	Mixed dementia
+T54	AgeGroup	2535	2548	oldest of old	null	null
+T55	Phenotype	2956	3001	impairment across principle cognitive domains	HPO:HP:0100543	Cognitive impairment
+T56	Measure	3092	3121	neuropsychological assessment	UMLS:C0027902	Neuropsychological Tests
+T57	Measure	3198	3236	National Institutes of Health tool box	null	null
+T58	Measure	3242	3273	rethinking cognitive impairment	null	null
+T59	Disease	3453	3455	AD	UMLS:C0002395	Alzheimer's Disease
+T60	Disease	3524	3526	AD	UMLS:C0002395	Alzheimer's Disease
+T61	Disease	3646	3654	dementia	UMLS:C0497327	Dementia
+T62	Disease	3658	3683	mild cognitive impairment	UMLS:C1270972	Mild cognitive disorder
+T37	Disease	3800	3802	AD	UMLS:C0002395	Alzheimer's Disease
+T38	Disease	3937	3939	AD	UMLS:C0002395	Alzheimer's Disease
+T64	Disease	3987	4022	vascular cognitive impairment (VCI)	UMLS:C3805043	Vascular cognitive impairment
+T65	Disease	4085	4114	cerebrovascular disease (CVD)	UMLS:C0007820	Cerebrovascular Disorders
+T66	Phenotype	4131	4158	vascular brain injury (VBI)	UMLS:C0751814	Cerebrovascular Trauma
+T67	Disease	4175	4178	VCI	UMLS:C3805043	Vascular cognitive impairment
+T68	Disease	4240	4243	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T69	Phenotype	4285	4288	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T70	Disease	4293	4296	VCI	UMLS:C3805043	Vascular cognitive impairment
+T39	Disease	4417	4419	AD	UMLS:C0002395	Alzheimer's Disease
+T71	Disease	4343	4376	cerebral amyloid angiopathy (CAA)	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T72	Disease	4492	4507	atherosclerosis	UMLS:C0004153	Atherosclerosis
+T73	Disease	4586	4604	vascular dementias	UMLS:C0011269	Dementia, Vascular
+T74	Disease	4626	4629	VCI	UMLS:C3805043	Vascular cognitive impairment
+T75	Disease	4638	4683	Mixed Alzheimer disease/vascular brain injury	UMLS:C0002395	Alzheimer's Disease
+T76	Phenotype	4638	4683	Mixed Alzheimer disease/vascular brain injury	UMLS:C0751814	Cerebrovascular Trauma
+T40	Disease	4728	4749	AD, Alzheimer disease	UMLS:C0002395	Alzheimer's Disease
+T77	Disease	4775	4807	CAA, cerebral amyloid angiopathy	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T78	Disease	4835	4863	CVD, cerebrovascular disease	UMLS:C0007820	Cerebrovascular Disorders
+T79	Phenotype	4933	4959	VBI, vascular brain injury	UMLS:C0751814	Cerebrovascular Trauma
+T80	Disease	4961	4995	VCI, vascular cognitive impairment	UMLS:C3805043	Vascular cognitive impairment
+T81	Phenotype	5024	5056	WMH, white matter hyperintensity	UMLS:C2938912	White matter hyperintensities
+T82	Disease	5109	5121	mixed AD/VCI	UMLS:C0002395	Alzheimer's Disease
+T83	Disease	5109	5121	mixed AD/VCI	UMLS:C3805043	Vascular cognitive impairment
+T84	Disease	5216	5228	mixed AD/CVD	UMLS:C0002395	Alzheimer's Disease
+T85	Disease	5216	5228	mixed AD/CVD	UMLS:C0007820	Cerebrovascular Disorders
+T86	Disease	5201	5214	mixed AD/VRFs	null	null
+T87	Disease	5230	5242	mixed AD/VBI	UMLS:C0002395	Alzheimer's Disease
+T88	Phenotype	5230	5242	mixed AD/VBI	UMLS:C0751814	Cerebrovascular Trauma
+T89	Disease	5248	5260	mixed AD/VCI	UMLS:C0002395	Alzheimer's Disease
+T90	Disease	5248	5260	mixed AD/VCI	UMLS:C3805043	Vascular cognitive impairment
+T94	Disease	5201	5214	mixed AD/VRFs	UMLS:C0002395	Alzheimer's Disease
+T91	Disease	5278	5281	VCI	UMLS:C3805043	Vascular cognitive impairment
+T92	Phenotype	5332	5335	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T93	Phenotype	5369	5377	infarcts	UMLS:C0021308	Infarction
+T95	Phenotype	5378	5389	hemorrhages	UMLS:C0019080	Hemorrhage
+T96	Disease	5422	5425	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T97	Disease	5447	5473	disorders of blood vessels	UMLS:C0042373	Vascular Diseases
+T98	Disease	5488	5503	atherosclerosis	UMLS:C0004153	Atherosclerosis
+T99	Disease	5507	5525	amyloid angiopathy	UMLS:C2931784	Amyloid angiopathy
+T100	Disease	5553	5557	VRFs	null	null
+T101	Disease	5599	5614	atherosclerosis	UMLS:C0004153	Atherosclerosis
+T102	Disease	5629	5641	hypertension	UMLS:C0020538	Hypertensive disease
+T103	Disease	5643	5660	diabetes mellitus	UMLS:C0011849	Diabetes Mellitus
+T104	Disease	5666	5680	hyperlipidemia	UMLS:C0020473	Hyperlipidemia
+T105	Disease	5694	5712	amyloid angiopathy	UMLS:C2931784	Amyloid angiopathy
+T106	Disease	5811	5814	VRF	null	null
+T107	Disease	5849	5852	VCI	UMLS:C3805043	Vascular cognitive impairment
+T108	Phenotype	5933	5941	infarcts	UMLS:C0021308	Infarction
+T109	Phenotype	5943	5979	white matter hyperintensities (WMHs)	UMLS:C2938912	White matter hyperintensities
+T110	Phenotype	5984	6001	microbleeds (MBs)	UMLS:C2750293	Microbleeds
+T111	Phenotype	6094	6107	microinfarcts	UMLS:C0021308	Infarction
+T112	Phenotype	6121	6124	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T113	Disease	6153	6156	VCI	UMLS:C3805043	Vascular cognitive impairment
+T115	Phenotype	6167	6180	microinfarcts	UMLS:C0021308	Infarction
+T114	Disease	6331	6333	AD	UMLS:C0002395	Alzheimer's Disease
+T116	Disease	6419	6444	mild cognitive impairment	UMLS:C1270972	Mild cognitive disorder
+T117	Disease	6449	6457	dementia	UMLS:C0497327	Dementia
+T118	Disease	6465	6467	AD	UMLS:C0002395	Alzheimer's Disease
+T119	Phenotype	6532	6550	amyloid deposition	HPO:HP:0003216	Generalized amyloid deposition
+T120	Phenotype	6563	6595	low cerebrospinal fluid (CSF) Aβ	null	null
+T121	Phenotype	6659	6676	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T122	Phenotype	6689	6702	high CSF ptau	null	null
+T123	Disease	6708	6710	AD	UMLS:C0002395	Alzheimer's Disease
+T124	Phenotype	6722	6729	atrophy	UMLS:C0333641	Atrophic
+T125	Disease	6845	6847	AD	UMLS:C0002395	Alzheimer's Disease
+T126	Disease	7169	7181	mixed AD/VBI	UMLS:C0002395	Alzheimer's Disease
+T127	Phenotype	7169	7181	mixed AD/VBI	UMLS:C0751814	Cerebrovascular Trauma
+T128	Disease	7187	7199	mixed AD/VCI	UMLS:C0002395	Alzheimer's Disease
+T129	Disease	7187	7199	mixed AD/VCI	UMLS:C3805043	Vascular cognitive impairment
+T130	Disease	7225	7228	VCI	UMLS:C3805043	Vascular cognitive impairment
+T131	Disease	7330	7332	AD	UMLS:C0002395	Alzheimer's Disease
+T132	Disease	7334	7337	VCI	UMLS:C3805043	Vascular cognitive impairment
+T133	Disease	7342	7354	mixed AD/VCI	UMLS:C0002395	Alzheimer's Disease
+T134	Disease	7342	7354	mixed AD/VCI	UMLS:C3805043	Vascular cognitive impairment
+T135	Disease	7599	7601	AD	UMLS:C0002395	Alzheimer's Disease
+T136	Phenotype	7606	7609	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T137	Phenotype	7936	7978	injury to corresponding cognitive networks	null	null
+T138	Disease	8104	8106	AD	UMLS:C0002395	Alzheimer's Disease
+T139	Phenotype	8121	8124	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T140	Disease	8253	8255	AD	UMLS:C0002395	Alzheimer's Disease
+T141	AgeGroup	8282	8287	older	null	null
+T142	Disease	8393	8395	AD	UMLS:C0002395	Alzheimer's Disease
+T144	Disease	8471	8487	arteriosclerosis	UMLS:C0003850	Arteriosclerosis
+T145	Disease	8535	8554	late onset dementia	UMLS:C1848565	Dementia (later-onset)
+T146	Disease	8576	8584	dementia	UMLS:C0497327	Dementia
+T147	Phenotype	8625	8632	plaques	UMLS:C0332461	Plaque (lesion)
+T149	Phenotype	8688	8708	pathological lesions	UMLS:C0221198	Lesion
+T150	Phenotype	8655	8665	AD changes	null	null
+T148	Phenotype	8723	8741	cerebral softening	HPO:HP:0040197	Encephalomalacia
+T151	Phenotype	8752	8772	territorial infarcts	null	null
+T152	Disease	8781	8796	atherosclerosis	UMLS:C0004153	Atherosclerosis
+T153	Disease	8826	8842	mixed AD and VBI	UMLS:C0002395	Alzheimer's Disease
+T154	Phenotype	8826	8842	mixed AD and VBI	UMLS:C0751814	Cerebrovascular Trauma
+T226	Phenotype	8637	8644	tangles	null	null
+T155	Disease	8974	8999	arteriosclerotic dementia	UMLS:C0600359	Arteriosclerotic Dementia
+T156	Disease	9003	9005	AD	UMLS:C0002395	Alzheimer's Disease
+T157	Disease	9074	9088	mixed dementia	UMLS:C3532942	Mixed dementia
+T158	Disease	9121	9123	AD	UMLS:C0002395	Alzheimer's Disease
+T159	Phenotype	9128	9131	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T160	Disease	9143	9151	dementia	UMLS:C0497327	Dementia
+T161	Disease	9332	9340	dementia	UMLS:C0497327	Dementia
+T162	Demographic	9400	9413	United States	UMLS:C0041703	United States
+T163	Demographic	9415	9429	United Kingdom	UMLS:C0041700	United Kingdom
+T164	Demographic	9435	9440	Japan	UMLS:C0022341	Japan
+T165	Disease	9460	9472	mixed AD/VBI	UMLS:C0002395	Alzheimer's Disease
+T166	Disease	9460	9472	mixed AD/VBI	UMLS:C0751814	Cerebrovascular Trauma
+T167	Disease	9490	9498	dementia	UMLS:C0497327	Dementia
+T356	Disease	16428	16430	AD	UMLS:C0002395	Alzheimer's Disease
+T357	Disease	16463	16465	AD	UMLS:C0002395	Alzheimer's Disease
+T358	Phenotype	16501	16504	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T359	Disease	16568	16588	mixed AD/VBI lesions	UMLS:C0002395	Alzheimer's Disease
+T360	Phenotype	16568	16588	mixed AD/VBI lesions	UMLS:C0751814	Cerebrovascular Trauma
+T361	AgeGroup	16616	16638	between ages 65 and 89	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T362	AgeGroup	16616	16638	between ages 65 and 89	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T363	AgeGroup	16662	16674	after age 90	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T364	Disease	16704	16712	dementia	UMLS:C0497327	Dementia
+T365	Disease	16732	16744	mixed AD/VCI	UMLS:C0002395	Alzheimer's Disease
+T366	Disease	16732	16744	mixed AD/VCI	UMLS:C3805043	Vascular cognitive impairment
+T367	Disease	16873	16885	mixed AD/VBI	UMLS:C0002395	Alzheimer's Disease
+T368	Phenotype	16873	16885	mixed AD/VBI	UMLS:C0751814	Cerebrovascular Trauma
+T369	Disease	16890	16896	AD/VCI	UMLS:C3805043	Vascular cognitive impairment
+T370	Disease	16890	16896	AD/VCI	UMLS:C0002395	Alzheimer's Disease
+T371	AgeGroup	16916	16929	oldest of old	null	null
+T372	Disease	17063	17065	AD	UMLS:C0002395	Alzheimer's Disease
+T373	Disease	17107	17115	dementia	UMLS:C0497327	Dementia
+T374	Phenotype	17137	17157	hemispheral infarcts	null	null
+T375	Phenotype	17165	17168	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T376	Disease	17193	17195	AD	UMLS:C0002395	Alzheimer's Disease
+T377	Disease	17207	17213	AD/VBI	UMLS:C0002395	Alzheimer's Disease
+T378	Phenotype	17207	17213	AD/VBI	UMLS:C0751814	Cerebrovascular Trauma
+T379	Disease	17264	17266	AD	UMLS:C0002395	Alzheimer's Disease
+T380	Phenotype	17294	17325	macroscopic hemispheral infarct	null	null
+T381	Disease	17350	17358	dementia	UMLS:C0497327	Dementia
+T382	Disease	17365	17380	Atherosclerosis	UMLS:C0004153	Atherosclerosis
+T383	Phenotype	17382	17395	brain infarct	UMLS:C0751955	Brain Infarction
+T384	Disease	17402	17404	AD	UMLS:C0002395	Alzheimer's Disease
+T385	Disease	17456	17464	dementia	UMLS:C0497327	Dementia
+T386	Disease	17471	17486	Atherosclerosis	UMLS:C0004153	Atherosclerosis
+T387	Disease	17519	17521	AD	UMLS:C0002395	Alzheimer's Disease
+T228	Phenotype	17694	17701	tangles	null	null
+T388	Disease	17659	17661	AD	UMLS:C0002395	Alzheimer's Disease
+T389	Phenotype	17673	17689	neuritic plaques	HPO:HP:0100256	Senile plaques
+T390	Phenotype	17774	17781	atrophy	UMLS:C0333641	Atrophic
+T392	Phenotype	17855	17863	infarcts	UMLS:C0021308	Infarction
+T393	Disease	17873	17875	AD	UMLS:C0002395	Alzheimer's Disease
+T394	Disease	17906	17918	hypertension	UMLS:C0020538	Hypertensive disease
+T395	Disease	17923	17935	heart attack	UMLS:C0027051	Myocardial Infarction
+T396	Phenotype	17957	17970	microinfarcts	UMLS:C0021308	Infarction
+T397	Disease	17979	17987	dementia	UMLS:C0497327	Dementia
+T398	Demographic	18019	18028	Cambridge	null	null
+T399	Disease	18063	18071	dementia	UMLS:C0497327	Dementia
+T400	Disease	18097	18109	mixed AD/VBI	UMLS:C0002395	Alzheimer's Disease
+T401	Phenotype	18097	18109	mixed AD/VBI	UMLS:C0751814	Cerebrovascular Trauma
+T402	Disease	18184	18192	dementia	UMLS:C0497327	Dementia
+T403	Disease	18237	18239	AD	UMLS:C0002395	Alzheimer's Disease
+T404	Disease	18248	18251	VCI	UMLS:C3805043	Vascular cognitive impairment
+T405	Disease	18259	18271	mixed AD/VCI	UMLS:C0002395	Alzheimer's Disease
+T406	Disease	18259	18271	mixed AD/VCI	UMLS:C3805043	Vascular cognitive impairment
+T407	Disease	18282	18307	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T408	Disease	18332	18334	AD	UMLS:C0002395	Alzheimer's Disease
+T410	Disease	18373	18381	dementia	UMLS:C0497327	Dementia
+T411	AgeGroup	18421	18440	after the age of 85	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T412	Disease	18483	18486	VCI	UMLS:C3805043	Vascular cognitive impairment
+T413	Disease	18490	18515	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T229	Phenotype	18644	18667	neurofibrillary tangles	HPO:HP:0002185	Neurofibrillary tangles
+T391	Phenotype	18618	18634	neuritic plaques	HPO:HP:0100256	Senile plaques
+T414	Disease	18556	18573	diabetes mellitus	UMLS:C0011849	Diabetes Mellitus
+T415	Phenotype	18578	18596	insulin resistance	HPO:HP:0000855	Insulin resistance
+T261	Phenotype	18766	18787	microvascular lesions	UMLS:C1402315	Vascular lesions
+T416	AgeGroup	18717	18722	older	null	null
+T417	Ethnicity	18723	18740	Japanese American	UMLS:C0022343	Japanese Americans
+T418	Gender	18741	18744	men	Gender:C0086582	male
+T419	Phenotype	18809	18815	lesion	UMLS:C0221198	Lesion
+T420	Disease	18826	18834	dementia	UMLS:C0497327	Dementia
+T421	Disease	18842	18844	AD	UMLS:C0002395	Alzheimer's Disease
+T422	Phenotype	18861	18867	lesion	UMLS:C0221198	Lesion
+T423	Phenotype	18881	18894	mixed lesions	null	null
+T424	Disease	18907	18909	AD	UMLS:C0002395	Alzheimer's Disease
+T425	Phenotype	18914	18917	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T262	Phenotype	19086	19107	microvascular lesions	UMLS:C1402315	Vascular lesions
+T426	Disease	18951	18953	AD	UMLS:C0002395	Alzheimer's Disease
+T557	Phenotype	18968	18981	brain atrophy	UMLS:C0235946	Cerebral atrophy
+T428	AgeGroup	19001	19013	after age 72	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T429	AgeGroup	19001	19013	after age 72	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T430	AgeGroup	19158	19167	older age	null	null
+T309	Disease	19194	19215	hippocampal sclerosis	UMLS:C1504404	Hippocampal sclerosis
+T431	AgeGroup	19269	19281	after age 80	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T475	Phenotype	19178	19189	Lewy bodies	HPO:HP:0100315	Lewy bodies
+T432	Phenotype	19302	19305	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T433	Disease	19309	19311	AD	UMLS:C0002395	Alzheimer's Disease
+T310	Disease	19685	19706	hippocampal sclerosis	UMLS:C1504404	Hippocampal sclerosis
+T434	Disease	19559	19571	mixed AD/VBI	UMLS:C0002395	Alzheimer's Disease
+T435	Phenotype	19559	19571	mixed AD/VBI	UMLS:C0751814	Cerebrovascular Trauma
+T436	Disease	19628	19630	AD	UMLS:C0002395	Alzheimer's Disease
+T437	Disease	19635	19638	VCI	UMLS:C3805043	Vascular cognitive impairment
+T438	Disease	19655	19680	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T439	Disease	19758	19760	AD	UMLS:C0002395	Alzheimer's Disease
+T440	Phenotype	19775	19782	atrophy	UMLS:C0333641	Atrophic
+T441	Phenotype	19844	19852	infarcts	UMLS:C0021308	Infarction
+T442	AgeGroup	19886	19893	younger	null	null
+T443	AgeGroup	19895	19901	middle	null	null
+T444	AgeGroup	19906	19919	oldest of old	null	null
+T445	Phenotype	19939	19942	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T446	Disease	19957	19959	AD	UMLS:C0002395	Alzheimer's Disease
+T447	Ethnicity	19984	19992	Japanese	UMLS:C1556094	Japanese race
+T448	Ethnicity	20052	20062	Caucasians	UMLS:C0043157	Caucasians
+T449	Demographic	20070	20083	United States	UMLS:C0041703	United States
+T450	Demographic	20088	20102	United Kingdom	UMLS:C0041700	United Kingdom
+T451	Phenotype	20175	20183	infarcts	UMLS:C0021308	Infarction
+T452	Phenotype	20227	20240	microinfarcts	UMLS:C0021308	Infarction
+T453	Phenotype	20277	20297	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T454	Phenotype	20376	20379	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T455	Disease	20384	20386	AD	UMLS:C0002395	Alzheimer's Disease
+T456	Disease	20441	20449	dementia	UMLS:C0497327	Dementia
+T457	Phenotype	20493	20513	pathological lesions	UMLS:C0221198	Lesion
+T458	Phenotype	20562	20582	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T230	Phenotype	20921	20928	tangles	null	null
+T235	Phenotype	20910	20917	plaques	UMLS:C0332461	Plaque (lesion)
+T459	Phenotype	20957	20964	infarct	UMLS:C0021308	Infarction
+T460	Phenotype	20987	20999	microinfarct	UMLS:C0021308	Infarction
+T231	Phenotype	21238	21245	tangles	null	null
+T461	Phenotype	21070	21090	pathological lesions	UMLS:C0221198	Lesion
+T462	Phenotype	21107	21124	cognitive decline	HPO:HP:0001268	Mental deterioration
+T463	Disease	21194	21196	AD	UMLS:C0002395	Alzheimer's Disease
+T464	Phenotype	21214	21229	amyloid plaques	UMLS:C2936349	Plaque, Amyloid
+T465	Phenotype	21253	21273	macroscopic infarcts	UMLS:C0021308	Infarction
+T469	Phenotype	21490	21508	pathologic lesions	UMLS:C0221198	Lesion
+T470	Phenotype	21513	21530	cognitive decline	HPO:HP:0001268	Mental deterioration
+T851	Phenotype	21560	21575	amyloid plaques	UMLS:C2936349	Plaque, Amyloid
+T852	Phenotype	21578	21598	macroscopic infarcts	UMLS:C0021308	Infarction
+T232	Phenotype	21629	21642	microinfarcts	UMLS:C0021308	Infarction
+T233	Phenotype	21693	21706	Microinfarcts	UMLS:C0021308	Infarction
+T468	Disease	21745	21753	dementia	UMLS:C0497327	Dementia
+T471	Disease	21783	21791	dementia	UMLS:C0497327	Dementia
+T472	Disease	21889	21897	dementia	UMLS:C0497327	Dementia
+T479	Phenotype	22052	22065	Microinfarcts	UMLS:C0021308	Infarction
+T480	Phenotype	22113	22255	lower perceptual speed (estimate, -0.400; SE, 0.117; P < 0.001), semantic memory (estimate, -0.391; SE, 0.130; P = 0.003), and episodic memory	null	null
+T481	Phenotype	22113	22255	lower perceptual speed (estimate, -0.400; SE, 0.117; P < 0.001), semantic memory (estimate, -0.391; SE, 0.130; P = 0.003), and episodic memory	UMLS:C0751293	Memory Disorder, Semantic
+T482	Phenotype	22113	22255	lower perceptual speed (estimate, -0.400; SE, 0.117; P < 0.001), semantic memory (estimate, -0.391; SE, 0.130; P = 0.003), and episodic memory	HPO:HP:0002354	Memory impairment
+T483	Phenotype	22354	22374	macroscopic infarcts	UMLS:C0021308	Infarction
+T484	Disease	22378	22380	AD	UMLS:C0002395	Alzheimer's Disease
+T485	Phenotype	22423	22436	microinfarcts	UMLS:C0021308	Infarction
+T486	Phenotype	22497	22510	microinfarcts	UMLS:C0021308	Infarction
+T487	Phenotype	22524	22544	macroscopic infarcts	UMLS:C0021308	Infarction
+T488	Phenotype	22597	22600	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T489	Phenotype	22647	22680	microscopic brain infarcts (MBIs)	UMLS:C0751955	Brain Infarction
+T604	Phenotype	22735	22748	brain atrophy	UMLS:C0235946	Cerebral atrophy
+T492	Phenotype	22753	22773	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T493	Disease	22795	22803	dementia	UMLS:C0497327	Dementia
+T311	Disease	22929	22950	hippocampal sclerosis	UMLS:C1504404	Hippocampal sclerosis
+T476	Phenotype	22952	22963	Lewy bodies	HPO:HP:0100315	Lewy bodies
+T477	Phenotype	22969	22976	atrophy	UMLS:C0333641	Atrophic
+T494	Phenotype	22900	22918	pathologic lesions	UMLS:C0221198	Lesion
+T495	Disease	22920	22922	AD	UMLS:C0002395	Alzheimer's Disease
+T606	Phenotype	22924	22927	MBI	UMLS:C0751955	Brain Infarction
+T312	Disease	23187	23208	hippocampal sclerosis	UMLS:C1504404	Hippocampal sclerosis
+T497	Measure	23045	23085	Cognitive Abilities Screening Instrument	UMLS:C2828256	Cognitive Abilities Screening Instrument
+T498	Phenotype	23142	23149	atrophy	UMLS:C0333641	Atrophic
+T499	Phenotype	23163	23173	AD lesions	null	null
+T500	Measure	23343	23383	Cognitive Abilities Screening Instrument	UMLS:C2828256	Cognitive Abilities Screening Instrument
+T501	Disease	23403	23441	Subcortical Ischemic Vascular Dementia	null	null
+T502	Phenotype	23543	23550	lacunes	UMLS:C0241970	lacune
+T503	Phenotype	23555	23559	WMHs	UMLS:C2938912	White matter hyperintensities
+T313	Disease	23671	23692	hippocampal sclerosis	UMLS:C1504404	Hippocampal sclerosis
+T504	Phenotype	23611	23631	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T505	Disease	23654	23656	AD	UMLS:C0002395	Alzheimer's Disease
+T506	Phenotype	23698	23701	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T507	Phenotype	23723	23743	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T508	Disease	23776	23820	mixed AD/subcortical vascular dementia (SVD)	UMLS:C0002395	Alzheimer's Disease
+T509	Disease	23776	23820	mixed AD/subcortical vascular dementia (SVD)	UMLS:C0393561	Subcortical Vascular Dementia
+T510	Disease	23844	23846	AD	UMLS:C0002395	Alzheimer's Disease
+T511	Measure	23854	23867	memory scores	null	null
+T512	Measure	23884	23900	executive scores	null	null
+T513	Disease	23947	23950	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T514	Phenotype	23962	23993	cognitive domains were impaired	HPO:HP:0100543	Cognitive impairment
+T515	Disease	24067	24070	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T516	Disease	24088	24090	AD	UMLS:C0002395	Alzheimer's Disease
+T517	Disease	24107	24109	AD	UMLS:C0002395	Alzheimer's Disease
+T518	Phenotype	24137	24157	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T519	Disease	24189	24192	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T520	Disease	24414	24416	AD	UMLS:C0002395	Alzheimer's Disease
+T521	Phenotype	24459	24472	microinfarcts	UMLS:C0021308	Infarction
+T522	Phenotype	24488	24491	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T523	Phenotype	24735	24752	cognitive decline	HPO:HP:0001268	Mental deterioration
+T524	Phenotype	24903	24919	regional atrophy	null	null
+T525	Phenotype	24924	24948	large and small infarcts	UMLS:C0021308	Infarction
+T526	Phenotype	24924	24948	large and small infarcts	UMLS:C0021308	Infarction
+T527	Phenotype	24960	24964	WMHs	UMLS:C2938912	White matter hyperintensities
+T528	Phenotype	24969	24972	MBs	UMLS:C2750293	Microbleeds
+T529	Phenotype	25071	25078	atrophy	UMLS:C0333641	Atrophic
+T530	Phenotype	25080	25084	WMHs	UMLS:C2938912	White matter hyperintensities
+T531	Phenotype	25102	25125	neuropathologic lesions	UMLS:C1337100	Neural Lesions
+T532	Phenotype	25130	25150	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T533	Phenotype	25283	25303	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T534	Phenotype	25223	25236	microinfarcts	UMLS:C0021308	Infarction
+T537	Phenotype	25248	25251	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T535	Phenotype	25350	25370	larger microinfarcts	UMLS:C0021308	Infarction
+T536	Phenotype	25411	25432	average microinfarcts	UMLS:C0021308	Infarction
+T538	Phenotype	25595	25599	WMHs	UMLS:C2938912	White matter hyperintensities
+T539	Phenotype	25633	25683	Smooth, periventricular rims and punctuate lesions	UMLS:C2197011	smooth lesion
+T540	Phenotype	25633	25683	Smooth, periventricular rims and punctuate lesions	null	null
+T541	Phenotype	25633	25683	Smooth, periventricular rims and punctuate lesions	null	null
+T542	Phenotype	25726	25754	Irregular and confluent WMHs	null	null
+T543	Phenotype	25726	25754	Irregular and confluent WMHs	null	null
+T544	Phenotype	25819	25852	variable loss of myelin and axons	HPO:HP:0011096	Peripheral demyelination
+T545	Phenotype	25819	25852	variable loss of myelin and axons	HPO:HP:0003447	Axonal loss
+T546	Phenotype	25858	25893	microglial and inflammatory changes	HPO:HP:0100708	Abnormality of the microglia
+T547	Phenotype	25858	25893	microglial and inflammatory changes	HPO:HP:0012647	Abnormal inflammatory response
+T548	Phenotype	25785	25804	parenchymal changes	null	null
+T549	Disease	25955	25973	arteriolosclerosis	UMLS:C0878486	Arteriolosclerosis
+T550	Disease	25975	25993	amyloid angiopathy	UMLS:C2931784	Amyloid angiopathy
+T551	Phenotype	25995	26022	dilated perivascular spaces	UMLS:C1843516	Dilated perivascular spaces
+T552	Phenotype	26030	26046	Deep WMH lesions	UMLS:C2752009	White matter lesion
+T553	Phenotype	26074	26095	chronic hypoperfusion	UMLS:C0442856	Hypoperfusion
+T554	Phenotype	26100	26107	hypoxia	UMLS:C0242184	Hypoxia
+T555	Disease	26310	26328	arteriolosclerosis	UMLS:C0878486	Arteriolosclerosis
+T556	Disease	26344	26359	atherosclerosis	UMLS:C0004153	Atherosclerosis
+T557	Phenotype	26404	26408	WMHs	UMLS:C2938912	White matter hyperintensities
+T558	Disease	26432	26434	AD	UMLS:C0002395	Alzheimer's Disease
+T559	Phenotype	26675	26679	WMHs	UMLS:C2938912	White matter hyperintensities
+T560	Phenotype	26705	26739	secondary (Wallerian) degeneration	UMLS:C0043020	Wallerian Degeneration
+T561	Phenotype	26745	26775	loss of cortical neurons/axons	HPO:HP:0003447	Axonal loss
+T562	Phenotype	26745	26775	loss of cortical neurons/axons	HPO:HP:0006964	Cerebral cortical neurodegeneration
+T563	Phenotype	26825	26858	primary white matter degeneration	HPO:HP:0200017	Cerebral white matter agenesis
+T564	Phenotype	26886	26890	WMHs	UMLS:C2938912	White matter hyperintensities
+T565	Disease	26894	26896	AD	UMLS:C0002395	Alzheimer's Disease
+T566	Disease	26955	26973	arteriolosclerosis	UMLS:C0878486	Arteriolosclerosis
+T688	Disease	26947	26950	CAA	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T567	Phenotype	27008	27012	WMHs	UMLS:C2938912	White matter hyperintensities
+T568	Phenotype	27056	27075	white matter change	UMLS:C1833300	White matter changes
+T569	Disease	27087	27099	vasculopathy	UMLS:C0042373	Vascular Diseases
+T571	Phenotype	27293	27297	WMHs	UMLS:C2938912	White matter hyperintensities
+T572	Phenotype	27360	27388	vascular white matter injury	null	null
+T573	Phenotype	27399	27406	lesions	UMLS:C0221198	Lesion
+T574	Phenotype	27456	27472	lacunar infarcts	UMLS:C0333559	Infarction, Lacunar
+T314	Disease	27588	27609	Hippocampal sclerosis	UMLS:C1504404	Hippocampal sclerosis
+T575	Disease	27614	27616	AD	UMLS:C0002395	Alzheimer's Disease
+T576	Disease	27697	27699	AD	UMLS:C0002395	Alzheimer's Disease
+T577	Disease	27711	27727	arteriosclerosis	UMLS:C0003850	Arteriosclerosis
+T578	Phenotype	27733	27748	subcortical VBI	null	null
+T579	Phenotype	27846	27858	mixed AD/VBI	UMLS:C0751814	Cerebrovascular Trauma
+T580	Disease	27846	27858	mixed AD/VBI	UMLS:C0002395	Alzheimer's Disease
+T581	Phenotype	28022	28026	WMHs	UMLS:C2938912	White matter hyperintensities
+T582	Phenotype	28028	28036	infarcts	UMLS:C0021308	Infarction
+T583	Phenotype	28042	28053	hemorrhages	UMLS:C0019080	Hemorrhage
+T584	Phenotype	28098	28101	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T585	Phenotype	28109	28122	microinfarcts	UMLS:C0021308	Infarction
+T315	Disease	28193	28214	hippocampal sclerosis	UMLS:C1504404	Hippocampal sclerosis
+T586	Disease	28169	28171	AD	UMLS:C0002395	Alzheimer's Disease
+T587	Phenotype	28221	28228	atrophy	UMLS:C0333641	Atrophic
+T588	Disease	28509	28511	AD	UMLS:C0002395	Alzheimer's Disease
+T236	Phenotype	28697	28704	tangles	null	null
+T237	Phenotype	28685	28692	plaques	UMLS:C0332461	Plaque (lesion)
+T589	Disease	28674	28676	AD	UMLS:C0002395	Alzheimer's Disease
+T590	Disease	28747	28759	mixed AD/VCI	UMLS:C0002395	Alzheimer's Disease
+T591	Disease	28747	28759	mixed AD/VCI	UMLS:C3805043	Vascular cognitive impairment
+T592	Disease	28793	28795	AD	UMLS:C0002395	Alzheimer's Disease
+T593	Phenotype	28867	28883	early AD changes	null	null
+T594	Demographic	29107	29112	Seoul	UMLS:C3850150	Seoul
+T595	Demographic	29114	29119	Korea	UMLS:C0022771	Korea
+T596	Phenotype	29145	29156	severe WMHs	UMLS:C2938912	White matter hyperintensities
+T597	Disease	29170	29173	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T598	Disease	29270	29282	Mixed AD/SVD	UMLS:C0002395	Alzheimer's Disease
+T599	Disease	29270	29282	Mixed AD/SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T600	Measure	29323	29337	delayed recall	null	null
+T601	Phenotype	29349	29365	lacunar infarcts	UMLS:C0333559	Infarction, Lacunar
+T602	Phenotype	29382	29401	hippocampal atrophy	UMLS:C3280737	Hippocampal atrophy (1 patient)
+T603	Disease	29412	29415	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T604	Disease	29498	29510	mixed AD/SVD	UMLS:C0002395	Alzheimer's Disease
+T605	Disease	29498	29510	mixed AD/SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T606	Disease	29521	29524	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T607	Disease	29554	29557	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T608	Phenotype	29569	29580	severe WMHs	UMLS:C2938912	White matter hyperintensities
+T609	Disease	29618	29630	mixed AD/SVD	UMLS:C0002395	Alzheimer's Disease
+T610	Disease	29618	29630	mixed AD/SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T611	Disease	29708	29717	mixed SVD	null	null
+T612	Disease	29751	29754	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T659	Disease	32415	32431	vascular disease	UMLS:C0042373	Vascular Diseases
+T660	Phenotype	32480	32483	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T661	Phenotype	32553	32561	infarcts	UMLS:C0021308	Infarction
+T662	Phenotype	32569	32596	lower executive functioning	UMLS:C1843023	Loss of executive functions
+T663	Phenotype	32610	32630	Subcortical infarcts	UMLS:C0751014	Subcortical Infarction
+T664	Phenotype	32662	32703	declines in executive and memory function	HPO:HP:0002354	Memory impairment
+T665	Phenotype	32662	32703	declines in executive and memory function	UMLS:C1843023	Loss of executive functions
+T666	Phenotype	32713	32730	cortical infarcts	null	null
+T667	Phenotype	32759	32788	decline in executive function	UMLS:C1843023	Loss of executive functions
+T668	Phenotype	32831	32859	diminished non-verbal memory	null	null
+T669	Disease	32901	32914	mild dementia	UMLS:C3494623	Mild dementia
+T670	Phenotype	32916	32919	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T671	Phenotype	32924	32938	Aβ aggregation	null	null
+T672	Phenotype	32981	32984	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T673	Disease	33137	33149	mixed AD/VCI	UMLS:C0002395	Alzheimer's Disease
+T674	Disease	33137	33149	mixed AD/VCI	UMLS:C3805043	Vascular cognitive impairment
+T675	Disease	33159	33167	dementia	UMLS:C0497327	Dementia
+T676	Disease	33237	33239	AD	UMLS:C0002395	Alzheimer's Disease
+T677	Phenotype	33346	33349	MBs	UMLS:C2750293	Microbleeds
+T678	Phenotype	33354	33358	WMHs	UMLS:C2938912	White matter hyperintensities
+T679	Phenotype	33379	33403	lower CSF levels of Aβ42	null	null
+T680	Phenotype	33411	33427	lacunar infarcts	UMLS:C0333559	Infarction, Lacunar
+T681	Phenotype	33449	33460	higher Aβ42	null	null
+T682	Phenotype	33465	33474	lower tau	null	null
+T683	Disease	33573	33576	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T684	Disease	33581	33583	AD	UMLS:C0002395	Alzheimer's Disease
+T685	Disease	33615	33618	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T686	Disease	33643	33658	atherosclerosis	UMLS:C0004153	Atherosclerosis
+T687	Disease	33666	33669	CAA	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T689	Disease	33760	33763	CAA	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T702	Phenotype	33704	33707	MBs	UMLS:C2750293	Microbleeds
+T707	Phenotype	33712	33716	WMHs	UMLS:C2938912	White matter hyperintensities
+T708	Disease	33721	33723	AD	UMLS:C0002395	Alzheimer's Disease
+T709	Disease	33768	33770	AD	UMLS:C0002395	Alzheimer's Disease
+T746	Disease	35549	35551	AD	UMLS:C0002395	Alzheimer's Disease
+T747	Phenotype	35635	35654	hippocampal atrophy	UMLS:C3280737	Hippocampal atrophy (1 patient)
+T853	Phenotype	35573	35584	CSF amyloid	null	null
+T748	Phenotype	35677	35705	progressive increases in WMH	UMLS:C2938912	White matter hyperintensities
+T749	Phenotype	35745	35774	decline in executive function	UMLS:C1843023	Loss of executive functions
+T750	Phenotype	35779	35799	lower FDG PET uptake	null	null
+T751	Disease	35905	35907	AD	UMLS:C0002395	Alzheimer's Disease
+T752	Disease	35912	35915	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T753	Disease	36040	36065	mild cognitive impairment	UMLS:C1270972	Mild cognitive disorder
+T754	Disease	36070	36072	AD	UMLS:C0002395	Alzheimer's Disease
+T765	Disease	36138	36140	AD	UMLS:C0002395	Alzheimer's Disease
+T766	Phenotype	36267	36270	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T767	Disease	36275	36277	AD	UMLS:C0002395	Alzheimer's Disease
+T755	Disease	36353	36356	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T770	Disease	36427	36429	AD	UMLS:C0002395	Alzheimer's Disease
+T771	Disease	36512	36514	AD	UMLS:C0002395	Alzheimer's Disease
+T783	Phenotype	36434	36456	silent/symptomatic VBI	null	null
+T784	Phenotype	36434	36456	silent/symptomatic VBI	null	null
+T785	Disease	36499	36507	dementia	UMLS:C0497327	Dementia
+T756	Disease	36560	36563	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T787	Phenotype	36642	36651	tauopathy	UMLS:C0949664	Tauopathies
+T788	Phenotype	37104	37122	accumulation of Aβ	null	null
+T789	Phenotype	37167	37192	aortic arterial stiffness	null	null
+T790	Phenotype	37310	37346	cerebral arteriolar/venous stiffness	null	null
+T791	Phenotype	37310	37346	cerebral arteriolar/venous stiffness	null	null
+T757	Disease	37449	37452	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T772	Disease	37457	37459	AD	UMLS:C0002395	Alzheimer's Disease
+T792	Disease	37510	37513	VCI	UMLS:C3805043	Vascular cognitive impairment
+T793	Phenotype	37518	37521	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T758	Disease	37673	37676	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T692	Disease	37789	37792	CAA	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T759	Disease	37717	37720	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T794	Disease	37748	37763	atherosclerosis	UMLS:C0004153	Atherosclerosis
+T795	Disease	37765	37783	arteriolosclerosis	UMLS:C0878486	Arteriolosclerosis
+T796	Disease	37811	37826	atherosclerosis	UMLS:C0004153	Atherosclerosis
+T797	Disease	37831	37849	arteriolosclerosis	UMLS:C0878486	Arteriolosclerosis
+T798	Disease	37883	37895	hypertension	UMLS:C0020538	Hypertensive disease
+T799	Disease	37897	37914	diabetes mellitus	UMLS:C0011849	Diabetes Mellitus
+T800	Disease	37920	37934	hyperlipidemia	UMLS:C0020473	Hyperlipidemia
+T693	Disease	38154	38157	CAA	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T801	Disease	38130	38148	arteriolosclerosis	UMLS:C0878486	Arteriolosclerosis
+T694	Disease	38287	38290	CAA	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T695	Disease	38230	38233	CAA	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T802	Phenotype	38159	38163	WMHs	UMLS:C2938912	White matter hyperintensities
+T803	Disease	38189	38218	hypertensive arteriosclerosis	null	null
+T696	Disease	38384	38387	CAA	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T804	Phenotype	38300	38316	Lacunar infarcts	UMLS:C0333559	Infarction, Lacunar
+T805	Disease	38355	38373	arteriolosclerosis	UMLS:C0878486	Arteriolosclerosis
+T697	Disease	38569	38572	CAA	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T699	Disease	38461	38464	CAA	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T704	Phenotype	38423	38426	MBs	UMLS:C2750293	Microbleeds
+T806	Disease	38453	38456	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T807	Disease	38517	38520	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T705	Phenotype	38484	38507	MBs in deep gray nuclei	null	null
+T706	Phenotype	38528	38560	MBs in lobar or cortical regions	null	null
+T808	Phenotype	38528	38560	MBs in lobar or cortical regions	UMLS:C0265085	Cortical hemorrhage
+T698	Disease	38752	38755	CAA	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T700	Disease	38666	38669	CAA	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T809	Disease	38688	38713	hypertensive vasculopathy	UMLS:C0020538	Hypertensive disease
+T810	Disease	38760	38785	hypertensive vasculopathy	UMLS:C0020538	Hypertensive disease
+T811	Disease	38862	38865	VCI	UMLS:C3805043	Vascular cognitive impairment
+T768	Disease	39148	39150	AD	UMLS:C0002395	Alzheimer's Disease
+T812	Disease	39151	39159	dementia	UMLS:C0497327	Dementia
+T769	Disease	39250	39252	AD	UMLS:C0002395	Alzheimer's Disease
+T813	Disease	39253	39261	dementia	UMLS:C0497327	Dementia
+T814	Demographic	39314	39317	USA	UMLS:C0041703	United States
+T855	Disease	39396	39408	hypertension	UMLS:C0020538	Hypertensive disease
+T856	Disease	39410	39427	diabetes mellitus	UMLS:C0011849	Diabetes Mellitus
+T857	Disease	39438	39452	hyperlipidemia	UMLS:C0020473	Hyperlipidemia
+T858	Phenotype	39454	39461	smoking	UMLS:C0037369	Smoking
+T859	Phenotype	39463	39483	sedentary life style	UMLS:C1532253	Sedentary lifestyle
+T860	Disease	39497	39507	depression	UMLS:C0011581	Depressive disorder
+T773	Disease	39582	39584	AD	UMLS:C0002395	Alzheimer's Disease
+T774	Disease	39632	39644	mixed AD/VBI	UMLS:C0002395	Alzheimer's Disease
+T775	Phenotype	39632	39644	mixed AD/VBI	UMLS:C0751814	Cerebrovascular Trauma
+T815	Phenotype	39625	39628	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T816	Disease	39765	39773	dementia	UMLS:C0497327	Dementia
+T817	Disease	39927	39935	dementia	UMLS:C0497327	Dementia
+T701	Disease	39963	39966	CAA	UMLS:C0085220	Cerebral Amyloid Angiopathy
+T776	Disease	40223	40225	AD	UMLS:C0002395	Alzheimer's Disease
+T818	Drug	40232	40242	Bexaratone	null	null
+T819	Phenotype	40251	40266	amyloid plaques	UMLS:C2936349	Plaque, Amyloid
+T777	Disease	40354	40356	AD	UMLS:C0002395	Alzheimer's Disease
+T820	Phenotype	40361	40364	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T821	AgeGroup	40368	40375	elderly	null	null
+T778	Disease	40451	40453	AD	UMLS:C0002395	Alzheimer's Disease
+T822	Phenotype	40458	40461	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T823	Phenotype	40509	40530	cognitive dysfunction	HPO:HP:0100543	Cognitive impairment
+T779	Disease	40535	40537	AD	UMLS:C0002395	Alzheimer's Disease
+T824	Phenotype	40589	40622	neurofibrillary neurodegeneration	HPO:HP:0002185	Neurofibrillary tangles
+T825	Phenotype	40733	40744	memory loss	HPO:HP:0002354	Memory impairment
+T826	Phenotype	40876	40879	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T827	Disease	40888	40891	SVD	UMLS:C0393561	Subcortical Vascular Dementia
+T828	Disease	40903	40906	VCI	UMLS:C3805043	Vascular cognitive impairment
+T771	Phenotype	40908	40929	executive dysfunction	UMLS:C2748208	Executive dysfunction
+T830	Phenotype	40957	40974	memory impairment	HPO:HP:0002354	Memory impairment
+T831	Phenotype	41019	41039	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T832	Phenotype	41051	41055	WMHs	UMLS:C2938912	White matter hyperintensities
+T833	Phenotype	41057	41081	small and large infarcts	UMLS:C0021308	Infarction
+T834	Phenotype	41057	41081	small and large infarcts	UMLS:C0021308	Infarction
+T835	Phenotype	41086	41097	hemorrhages	UMLS:C0019080	Hemorrhage
+T836	Phenotype	41195	41198	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T837	Phenotype	41209	41222	microinfarcts	UMLS:C0021308	Infarction
+T838	Phenotype	41265	41285	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T780	Disease	41440	41442	AD	UMLS:C0002395	Alzheimer's Disease
+T839	Phenotype	41471	41497	atrophy of the hippocampus	UMLS:C3280737	Hippocampal atrophy (1 patient)
+T840	Phenotype	41571	41578	atrophy	UMLS:C0333641	Atrophic
+T841	Phenotype	41619	41631	brain injury	UMLS:C0270611	Brain Injuries
+T842	Measure	41717	41743	neuropsychological testing	UMLS:C0027902	Neuropsychological Tests
+T843	Disease	41830	41838	dementia	UMLS:C0497327	Dementia
+T844	Phenotype	41848	41865	cognitive decline	HPO:HP:0001268	Mental deterioration
+T781	Disease	41895	41897	AD	UMLS:C0002395	Alzheimer's Disease
+T845	Phenotype	41902	41905	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T760	Disease	42251	42254	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T761	Disease	42319	42322	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T762	Phenotype	42327	42330	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T763	Phenotype	42266	42269	VBI	UMLS:C0751814	Cerebrovascular Trauma
+T764	Disease	42274	42277	VCI	UMLS:C3805043	Vascular cognitive impairment
+T782	Disease	42398	42400	AD	UMLS:C0002395	Alzheimer's Disease
+T846	Phenotype	42360	42380	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T847	Phenotype	42676	42711	high blood pressure and blood sugar	HPO:HP:0000822	Hypertension
+T848	Phenotype	42676	42711	high blood pressure and blood sugar	HPO:HP:0003074	Hyperglycemia
+T849	Disease	42835	42843	dementia	UMLS:C0497327	Dementia
+T854	Phenotype	42781	42796	tobacco smoking	UMLS:C0453996	Tobacco smoking behavior

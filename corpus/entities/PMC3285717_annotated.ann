@@ -1,0 +1,215 @@
+T1	Drug	83	102	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T24	AgeGroup	30	35	older	null	null
+T2	Drug	207	226	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T34	AgeGroup	230	237	elderly	null	null
+T42	Demographic	473	486	United States	UMLS:C0041703	United States
+T3	Drug	521	540	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T72	Drug	542	553	haloperidol	DrugBank:DB00502	Haloperidol
+T73	Drug	555	567	aripiprazole	DrugBank:DB01238	Aripiprazole
+T74	Drug	569	579	olanzapine	DrugBank:DB00334	Olanzapine
+T75	Drug	581	591	quetiapine	DrugBank:DB01224	Quetiapine
+T76	Drug	593	604	risperidone	DrugBank:DB00734	Risperidone
+T77	Drug	606	617	ziprasidone	DrugBank:DB00246	Ziprasidone
+T78	AgeGroup	642	650	aged ≥65	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T79	AgeGroup	642	650	aged ≥65	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T80	Drug	963	974	risperidone	DrugBank:DB00734	Risperidone
+T81	Drug	985	996	haloperidol	DrugBank:DB00502	Haloperidol
+T82	Drug	1103	1113	quetiapine	DrugBank:DB01224	Quetiapine
+T83	Disease	1447	1455	dementia	UMLS:C0497327	Dementia
+T85	Phenotype	1459	1483	behavioural disturbances	HPO:HP:0000708	Behavioral abnormality
+T84	Drug	1541	1551	quetiapine	DrugBank:DB01224	Quetiapine
+T25	AgeGroup	1738	1743	older	null	null
+T86	Drug	1967	1978	haloperidol	DrugBank:DB00502	Haloperidol
+T87	Drug	1993	2003	quetiapine	DrugBank:DB01224	Quetiapine
+T4	Drug	2077	2096	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T35	AgeGroup	2026	2033	elderly	null	null
+T62	Drug	2146	2160	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T26	AgeGroup	2839	2844	older	null	null
+T63	Drug	2701	2723	atypical antipsychotic	UMLS:C1276996	Atypical antipsychotic
+T101	Drug	2612	2624	aripiprazole	DrugBank:DB01238	Aripiprazole
+T105	Drug	2596	2606	olanzapine	DrugBank:DB00334	Olanzapine
+T126	Drug	2583	2594	risperidone	DrugBank:DB00734	Risperidone
+T143	Disease	2859	2867	dementia	UMLS:C0497327	Dementia
+T5	Drug	3173	3192	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T144	Disease	3388	3396	dementia	UMLS:C0497327	Dementia
+T6	Drug	3629	3648	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T11	Drug	4369	4388	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T27	AgeGroup	4486	4491	older	null	null
+T43	Ethnicity	4741	4754	United States	UMLS:C0596070	American
+T44	Demographic	4767	4774	Arizona	UMLS:C0003787	Arizona
+T45	Demographic	4776	4784	Delaware	UMLS:C0011198	Delaware
+T46	Demographic	4786	4792	Nevada	UMLS:C0027951	Nevada <Geographic Area>
+T47	Demographic	4794	4800	Oregon	UMLS:C0029195	Oregon (geographic location)
+T48	Demographic	4806	4818	Rhode Island	UMLS:C0035487	Rhode Island
+T8	Drug	5757	5775	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T9	Drug	5895	5913	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T49	AgeGroup	5666	5674	aged ≥65	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T50	AgeGroup	5666	5674	aged ≥65	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T10	Drug	5993	6006	antipsychotic	UMLS:C0040615	Antipsychotic Agents
+T51	Drug	6369	6409	conventional and atypical antipsychotics	UMLS:C2092061	1st Generation/Typical
+T52	Drug	6369	6409	conventional and atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T56	Disease	6473	6479	cancer	UMLS:C1882062	Neoplastic disease
+T57	Disease	6481	6494	schizophrenia	UMLS:C0036341	Schizophrenia
+T58	Disease	6499	6515	bipolar disorder	UMLS:C0005586	Bipolar Disorder
+T59	Drug	6553	6567	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T60	Phenotype	6591	6611	behavioural problems	HPO:HP:0000708	Behavioral abnormality
+T61	Disease	6623	6631	dementia	UMLS:C0497327	Dementia
+T11	Drug	6641	6660	Antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T88	Drug	6680	6691	haloperidol	DrugBank:DB00502	Haloperidol
+T102	Drug	6693	6705	aripiprazole	DrugBank:DB01238	Aripiprazole
+T106	Drug	6707	6717	olanzapine	DrugBank:DB00334	Olanzapine
+T112	Drug	6719	6729	quetiapine	DrugBank:DB01224	Quetiapine
+T127	Drug	6731	6742	risperidone	DrugBank:DB00734	Risperidone
+T140	Drug	6748	6759	ziprasidone	DrugBank:DB00246	Ziprasidone
+T174	Drug	6774	6786	thioridazine	DrugBank:DB00679	Thioridazine
+T175	Drug	6788	6802	chlorpromazine	DrugBank:DB00477	Chlorpromazine
+T176	Drug	6804	6816	perphenazine	DrugBank:DB00850	Perphenazine
+T177	Drug	6818	6830	fluphenazine	DrugBank:DB00623	Fluphenazine
+T178	Drug	6832	6846	acetophenazine	DrugBank:DB01063	Acetophenazine
+T179	Drug	6848	6860	mesoridazine	DrugBank:DB00933	Mesoridazine
+T180	Drug	6862	6871	promazine	DrugBank:DB00420	Promazine
+T181	Drug	6873	6888	trifluoperazine	DrugBank:DB00831	Trifluoperazine
+T182	Drug	6890	6905	triflupromazine	DrugBank:DB00508	Triflupromazine
+T183	Drug	6907	6922	chlorprothixene	DrugBank:DB01239	Chlorprothixene
+T184	Drug	6924	6932	loxapine	DrugBank:DB00408	Loxapine
+T185	Drug	6934	6943	molindone	DrugBank:DB01618	Molindone
+T186	Drug	6945	6953	pimozide	DrugBank:DB01100	Pimozide
+T187	Drug	6959	6970	thiothixene	DrugBank:DB01623	Thiothixene
+T128	Drug	7379	7390	risperidone	DrugBank:DB00734	Risperidone
+T194	Drug	7481	7495	chlorpromazine	DrugBank:DB00477	Chlorpromazine
+T163	Disease	8088	8094	cancer	UMLS:C1882062	Neoplastic disease
+T195	Disease	8108	8115	cancers	UMLS:C1882062	Neoplastic disease
+T196	Phenotype	8221	8227	nausea	HPO:HP:0002018	Nausea
+T197	Phenotype	8255	8259	pain	HPO:HP:0012531	Pain
+T28	AgeGroup	8342	8347	older	null	null
+T198	Drug	8452	8466	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T199	Disease	8526	8560	diseases of the circulatory system	UMLS:C0728936	Disorder of circulatory system
+T200	Disease	8643	8667	cerebrovascular diseases	UMLS:C0007820	Cerebrovascular Disorders
+T201	Disease	8692	8726	diseases of the respiratory system	UMLS:C0035204	Respiration Disorders
+T64	Drug	9580	9594	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T188	Disease	9306	9325	Parkinson’s disease	UMLS:C0030567	Parkinson Disease
+T189	Disease	9281	9304	cerebrovascular disease	UMLS:C0007820	Cerebrovascular Disorders
+T190	Disease	9327	9335	epilepsy	UMLS:C0014544	Epilepsy
+T191	Disease	9337	9345	diabetes	UMLS:C0011847	Diabetes
+T155	Disease	9347	9354	obesity	UMLS:C0028754	Obesity
+T145	Disease	9970	9978	dementia	UMLS:C0497327	Dementia
+T170	Disease	9980	9990	depression	UMLS:C0011581	Depressive disorder
+T65	Drug	10180	10194	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T129	Drug	10700	10711	risperidone	DrugBank:DB00734	Risperidone
+T12	Drug	11266	11279	antipsychotic	UMLS:C0040615	Antipsychotic Agents
+T146	Disease	11615	11623	dementia	UMLS:C0497327	Dementia
+T156	Phenotype	11628	11652	behavioural disturbances	HPO:HP:0000708	Behavioral abnormality
+T202	Drug	11721	11735	chlorpromazine	DrugBank:DB00477	Chlorpromazine
+T66	Drug	11911	11925	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T164	Disease	11847	11853	cancer	UMLS:C1882062	Neoplastic disease
+T165	Disease	12145	12151	cancer	UMLS:C1882062	Neoplastic disease
+T13	Drug	12278	12297	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T29	AgeGroup	12222	12227	older	null	null
+T89	Drug	12374	12385	haloperidol	DrugBank:DB00502	Haloperidol
+T130	Drug	12333	12344	risperidone	DrugBank:DB00734	Risperidone
+T203	Disease	12423	12445	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T204	Disease	12467	12492	psychiatric comorbidities	null	null
+T205	Disease	12539	12550	comorbidity	UMLS:C0009488	Comorbidity
+T67	Drug	12752	12775	atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T131	Drug	12580	12591	risperidone	DrugBank:DB00734	Risperidone
+T171	Disease	12633	12643	depression	UMLS:C0011581	Depressive disorder
+T172	Drug	12660	12675	antidepressants	UMLS:C0003289	Antidepressive Agents
+T173	Drug	12686	12704	psychoactive drugs	UMLS:C0033978	Psychotropic Drugs
+T206	Drug	12817	12842	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T107	Drug	12961	12971	olanzapine	DrugBank:DB00334	Olanzapine
+T113	Drug	12866	12876	quetiapine	DrugBank:DB01224	Quetiapine
+T207	Disease	12899	12911	parkinsonism	UMLS:C0242422	Parkinsonian Disorders
+T208	Disease	12995	13003	diabetes	UMLS:C0011847	Diabetes
+T90	Drug	13839	13850	haloperidol	DrugBank:DB00502	Haloperidol
+T114	Drug	13998	14008	quetiapine	DrugBank:DB01224	Quetiapine
+T132	Drug	13804	13815	risperidone	DrugBank:DB00734	Risperidone
+T103	Drug	14102	14114	aripiprazole	DrugBank:DB01238	Aripiprazole
+T108	Drug	14116	14126	olanzapine	DrugBank:DB00334	Olanzapine
+T141	Drug	14132	14143	ziprasidone	DrugBank:DB00246	Ziprasidone
+T91	Drug	14241	14252	haloperidol	DrugBank:DB00502	Haloperidol
+T115	Drug	14518	14528	quetiapine	DrugBank:DB01224	Quetiapine
+T147	Disease	14785	14793	dementia	UMLS:C0497327	Dementia
+T157	Phenotype	14797	14821	behavioural disturbances	HPO:HP:0000708	Behavioral abnormality
+T92	Drug	15063	15074	haloperidol	DrugBank:DB00502	Haloperidol
+T148	Disease	14955	14963	dementia	UMLS:C0497327	Dementia
+T177	Phenotype	14934	14941	frailty	UMLS:C0424594	Frailty
+T116	Drug	15334	15344	quetiapine	DrugBank:DB01224	Quetiapine
+T210	Disease	15597	15618	circulatory disorders	UMLS:C0728936	Disorder of circulatory system
+T211	Disease	15635	15659	cerebrovascular diseases	UMLS:C0007820	Cerebrovascular Disorders
+T212	Disease	15680	15701	respiratory disorders	UMLS:C0035204	Respiration Disorders
+T93	Drug	15801	15812	haloperidol	DrugBank:DB00502	Haloperidol
+T117	Drug	15841	15851	quetiapine	DrugBank:DB01224	Quetiapine
+T109	Drug	15952	15962	olanzapine	DrugBank:DB00334	Olanzapine
+T213	Disease	16017	16041	cerebrovascular diseases	UMLS:C0007820	Cerebrovascular Disorders
+T104	Drug	16246	16258	aripiprazole	DrugBank:DB01238	Aripiprazole
+T142	Drug	16263	16274	ziprasidone	DrugBank:DB00246	Ziprasidone
+T14	Drug	16569	16588	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T118	Drug	16596	16606	quetiapine	DrugBank:DB01224	Quetiapine
+T167	Disease	16422	16428	cancer	UMLS:C1882062	Neoplastic disease
+T94	Drug	16658	16669	haloperidol	DrugBank:DB00502	Haloperidol
+T133	Drug	16791	16802	risperidone	DrugBank:DB00734	Risperidone
+T15	Drug	16876	16895	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T36	AgeGroup	16848	16855	elderly	null	null
+T95	Drug	17023	17034	haloperidol	DrugBank:DB00502	Haloperidol
+T119	Drug	17067	17077	quetiapine	DrugBank:DB01224	Quetiapine
+T134	Drug	17004	17015	risperidone	DrugBank:DB00734	Risperidone
+T149	Disease	17397	17405	dementia	UMLS:C0497327	Dementia
+T158	Phenotype	17409	17433	behavioural disturbances	HPO:HP:0000708	Behavioral abnormality
+T120	Drug	17495	17505	quetiapine	DrugBank:DB01224	Quetiapine
+T214	Ethnicity	17590	17592	US	UMLS:C0596070	American
+T16	Drug	17649	17668	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T215	AgeGroup	17616	17624	aged ≥65	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T216	AgeGroup	17616	17624	aged ≥65	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T30	AgeGroup	17898	17910	older adults	null	null
+T31	Drug	17851	17894	conventional versus atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T96	Drug	17740	17751	haloperidol	DrugBank:DB00502	Haloperidol
+T97	Drug	17988	17999	haloperidol	DrugBank:DB00502	Haloperidol
+T135	Drug	18014	18025	risperidone	DrugBank:DB00734	Risperidone
+T150	Disease	18043	18051	dementia	UMLS:C0497327	Dementia
+T217	Demographic	18077	18079	US	UMLS:C0041703	United States
+T121	Drug	18173	18183	quetiapine	DrugBank:DB01224	Quetiapine
+T151	Disease	18291	18299	dementia	UMLS:C0497327	Dementia
+T168	Disease	18161	18167	cancer	UMLS:C1882062	Neoplastic disease
+T218	Gender	18272	18276	male	Gender:C0086582	male
+T37	AgeGroup	18520	18527	elderly	null	null
+T54	Drug	18629	18677	conventional rather than atypical antipsychotics	UMLS:C2092061	1st Generation/Typical
+T55	Drug	18629	18677	conventional rather than atypical antipsychotics	UMLS:C1276996	Atypical antipsychotic
+T68	Drug	18537	18551	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T219	Disease	18722	18742	respiratory diseases	UMLS:C0035204	Respiration Disorders
+T220	Disease	18790	18811	circulatory disorders	UMLS:C0728936	Disorder of circulatory system
+T98	Drug	18853	18864	haloperidol	DrugBank:DB00502	Haloperidol
+T136	Drug	18879	18890	risperidone	DrugBank:DB00734	Risperidone
+T221	Demographic	18924	18926	US	UMLS:C0041703	United States
+T17	Drug	18994	19022	atypical antipsychotic drugs	UMLS:C1276996	Atypical antipsychotic
+T38	AgeGroup	19260	19267	elderly	null	null
+T110	Drug	19326	19336	olanzapine	DrugBank:DB00334	Olanzapine
+T122	Drug	19350	19360	quetiapine	DrugBank:DB01224	Quetiapine
+T137	Drug	19310	19321	risperidone	DrugBank:DB00734	Risperidone
+T152	Disease	19282	19290	dementia	UMLS:C0497327	Dementia
+T111	Drug	19393	19403	olanzapine	DrugBank:DB00334	Olanzapine
+T123	Drug	19407	19417	quetiapine	DrugBank:DB01224	Quetiapine
+T138	Drug	19372	19383	risperidone	DrugBank:DB00734	Risperidone
+T222	Disease	19472	19478	stroke	UMLS:C0038454	Cerebrovascular accident
+T223	Ethnicity	19552	19554	US	UMLS:C0596070	American
+T18	Drug	19960	19983	antipsychotic treatment	UMLS:C0040615	Antipsychotic Agents
+T19	Drug	20342	20360	antipsychotic drug	UMLS:C0040615	Antipsychotic Agents
+T20	Drug	20582	20601	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T224	Phenotype	20495	20500	frail	UMLS:C0871754	Frail
+T169	Disease	21236	21242	cancer	UMLS:C1882062	Neoplastic disease
+T39	AgeGroup	22357	22364	elderly	null	null
+T21	Drug	22917	22936	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T159	Phenotype	23133	23157	behavioural disturbances	HPO:HP:0000708	Behavioral abnormality
+T227	Treatment	23041	23099	environmental, psychosocial, and behavioural interventions	UMLS:C2065413	psychotherapy using environmental intervention
+T228	Treatment	23041	23099	environmental, psychosocial, and behavioural interventions	UMLS:C0004933	Behavior Therapy
+T229	Treatment	23041	23099	environmental, psychosocial, and behavioural interventions	UMLS:C0841585	Psychosocial therapies
+T226	Treatment	23328	23361	non-pharmacological interventions	null	null
+T225	Drug	23559	23576	psychotropic drug	UMLS:C0033978	Psychotropic Drugs
+T22	Drug	23727	23746	antipsychotic drugs	UMLS:C0040615	Antipsychotic Agents
+T33	AgeGroup	24156	24161	older	null	null
+T154	Disease	24176	24184	dementia	UMLS:C0497327	Dementia
+T160	Phenotype	24132	24152	behavioural problems	HPO:HP:0000708	Behavioral abnormality
+T69	Drug	24470	24484	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T161	Phenotype	24331	24351	behavioural problems	HPO:HP:0000708	Behavioral abnormality
+T162	Phenotype	24503	24523	behavioural problems	HPO:HP:0000708	Behavioral abnormality
+T99	Drug	24883	24894	haloperidol	DrugBank:DB00502	Haloperidol
+T124	Drug	24973	24983	Quetiapine	DrugBank:DB01224	Quetiapine

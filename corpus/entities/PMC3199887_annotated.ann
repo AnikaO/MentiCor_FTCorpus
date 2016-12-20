@@ -1,0 +1,197 @@
+T1	Disease	39	64	Dementia with Lewy Bodies	UMLS:C0752347	Lewy Body Disease
+T2	Disease	227	258	dementia with Lewy bodies (DLB)	UMLS:C0752347	Lewy Body Disease
+T3	Disease	341	344	DLB	UMLS:C0752347	Lewy Body Disease
+T6	Disease	1556	1559	DLB	UMLS:C0752347	Lewy Body Disease
+T4	Disease	1588	1619	dementia with Lewy bodies (DLB)	UMLS:C0752347	Lewy Body Disease
+T7	Disease	1802	1805	DLB	UMLS:C0752347	Lewy Body Disease
+T8	Disease	1931	1934	DLB	UMLS:C0752347	Lewy Body Disease
+T55	Disease	1854	1863	dementias	UMLS:C0497327	Dementia
+T9	Disease	2077	2080	DLB	UMLS:C0752347	Lewy Body Disease
+T10	Disease	2260	2263	DLB	UMLS:C0752347	Lewy Body Disease
+T60	Phenotype	2358	2368	disability	UMLS:C0231170	Disability
+T11	Disease	2399	2402	DLB	UMLS:C0752347	Lewy Body Disease
+T12	Disease	2538	2541	DLB	UMLS:C0752347	Lewy Body Disease
+T56	Phenotype	2627	2682	cognitive, psychiatric, motoric or autonomic impairment	HPO:HP:0100543	Cognitive impairment
+T55	Phenotype	2627	2682	cognitive, psychiatric, motoric or autonomic impairment	HPO:HP:0100543	Cognitive impairment
+T56	Phenotype	2627	2682	cognitive, psychiatric, motoric or autonomic impairment	UMLS:C1854569	Neuropsychologic impairment
+T57	Phenotype	2627	2682	cognitive, psychiatric, motoric or autonomic impairment	null	null
+T58	Phenotype	2627	2682	cognitive, psychiatric, motoric or autonomic impairment	null	null
+T55	Phenotype	2627	2682	cognitive, psychiatric, motoric or autonomic impairment	HPO:HP:0100543	Cognitive impairment
+T56	Phenotype	2627	2682	cognitive, psychiatric, motoric or autonomic impairment	UMLS:C1854569	Neuropsychologic impairment
+T57	Phenotype	2627	2682	cognitive, psychiatric, motoric or autonomic impairment	null	null
+T58	Phenotype	2627	2682	cognitive, psychiatric, motoric or autonomic impairment	null	null
+T59	Phenotype	2627	2682	cognitive, psychiatric, motoric or autonomic impairment	null	null
+T13	Disease	2786	2789	DLB	UMLS:C0752347	Lewy Body Disease
+T14	Disease	2863	2866	DLB	UMLS:C0752347	Lewy Body Disease
+T61	Phenotype	2730	2737	amnesia	UMLS:C0002622	Amnesia
+T62	Phenotype	2739	2752	appetite loss	UMLS:C1971624	Loss of appetite (finding)
+T15	Disease	2924	2927	DLB	UMLS:C0752347	Lewy Body Disease
+T16	Disease	3151	3154	DLB	UMLS:C0752347	Lewy Body Disease
+T18	Disease	3394	3397	DLB	UMLS:C0752347	Lewy Body Disease
+T19	Disease	3509	3512	DLB	UMLS:C0752347	Lewy Body Disease
+T64	Disease	3403	3427	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T17	Disease	3555	3558	DLB	UMLS:C0752347	Lewy Body Disease
+T20	Disease	3751	3754	DLB	UMLS:C0752347	Lewy Body Disease
+T21	Disease	3994	3997	DLB	UMLS:C0752347	Lewy Body Disease
+T22	Disease	4045	4048	DLB	UMLS:C0752347	Lewy Body Disease
+T23	Disease	3842	3845	DLB	UMLS:C0752347	Lewy Body Disease
+T65	Disease	3889	3891	AD	UMLS:C0002395	Alzheimer's Disease
+T66	Disease	4054	4056	AD	UMLS:C0002395	Alzheimer's Disease
+T70	Disease	3896	3920	Parkinson's disease (PD)	UMLS:C0030567	Parkinson Disease
+T71	Disease	4083	4085	PD	UMLS:C0030567	Parkinson Disease
+T24	Disease	4234	4237	DLB	UMLS:C0752347	Lewy Body Disease
+T76	Phenotype	4278	4298	visual hallucination	HPO:HP:0002367	Visual hallucinations
+T77	Phenotype	4307	4324	cognitive decline	HPO:HP:0001268	Mental deterioration
+T5	Disease	4502	4524	PD with dementia (PDD)	UMLS:C0349081	Dementia in Parkinson's disease
+T78	Phenotype	4478	4498	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T164	Phenotype	4388	4401	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T25	Disease	4805	4808	DLB	UMLS:C0752347	Lewy Body Disease
+T79	Measure	4608	4644	Mini Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T82	Disease	4813	4816	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T165	Phenotype	4662	4675	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T166	Phenotype	4554	4567	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T26	Disease	4954	4957	DLB	UMLS:C0752347	Lewy Body Disease
+T27	Disease	5185	5188	DLB	UMLS:C0752347	Lewy Body Disease
+T28	Disease	5458	5461	DLB	UMLS:C0752347	Lewy Body Disease
+T29	Disease	5631	5634	DLB	UMLS:C0752347	Lewy Body Disease
+T30	Disease	5706	5709	DLB	UMLS:C0752347	Lewy Body Disease
+T31	Disease	6121	6124	DLB	UMLS:C0752347	Lewy Body Disease
+T88	Phenotype	6372	6388	vascular lesions	UMLS:C1402315	Vascular lesions
+T89	Disease	6398	6438	idiopathic normal pressure hydrocephalus	UMLS:C2047886	idiopathic normal pressure hydrocephalus
+T90	Phenotype	6440	6457	subdural hematoma	HPO:HP:0100309	Subdural hemorrhage
+T91	Phenotype	6461	6472	brain tumor	UMLS:C0006118	Brain Neoplasms
+T92	Phenotype	6538	6550	brain trauma	UMLS:C0876926	Traumatic Brain Injury
+T93	Disease	6554	6575	debilitating diseases	null	null
+T197	Disease	6514	6524	alcoholism	UMLS:C0001973	Alcoholic Intoxication, Chronic
+T198	Phenotype	6526	6536	drug abuse	UMLS:C0013146	Drug abuse
+T32	Disease	6733	6736	DLB	UMLS:C0752347	Lewy Body Disease
+T94	Phenotype	7137	7171	neurological or cognitive deficits	HPO:HP:0100543	Cognitive impairment
+T95	Phenotype	7137	7171	neurological or cognitive deficits	HPO:HP:0000707	Abnormality of the nervous system
+T96	Phenotype	7193	7201	disabled	UMLS:C0231170	Disability
+T33	Disease	7454	7457	DLB	UMLS:C0752347	Lewy Body Disease
+T97	Phenotype	7485	7514	progressive cognitive decline	HPO:HP:0001268	Mental deterioration
+T72	Disease	7707	7709	PD	UMLS:C0030567	Parkinson Disease
+T84	Phenotype	7738	7758	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T34	Disease	8853	8856	DLB	UMLS:C0752347	Lewy Body Disease
+T98	Phenotype	8314	8360	memory, visuospatial and executive impairments	HPO:HP:0002354	Memory impairment
+T109	Phenotype	8314	8360	memory, visuospatial and executive impairments	HPO:HP:0002354	Memory impairment
+T100	Phenotype	8314	8360	memory, visuospatial and executive impairments	UMLS:C1843023	Loss of executive functions
+T101	Phenotype	8366	8376	somnolence	HPO:HP:0001262	Somnolence
+T103	Phenotype	8434	8448	hallucinations	HPO:HP:0000738	Hallucinations
+T104	Phenotype	8450	8459	delusions	HPO:HP:0000746	Delusions
+T105	Disease	8461	8487	misidentification syndrome	UMLS:C0006895	Capgras Syndrome
+T106	Phenotype	8489	8505	phantom boarders	null	null
+T107	Phenotype	8507	8533	mood and character changes	HPO:HP:0001575	Mood changes
+T108	Phenotype	8507	8533	mood and character changes	UMLS:C0235181	Character change in
+T110	Phenotype	8621	8637	gait disturbance	HPO:HP:0001288	Gait disturbance
+T111	Phenotype	8639	8651	easy falling	HPO:HP:0002359	Frequent falls
+T112	Phenotype	8653	8665	bradykinesia	HPO:HP:0002067	Bradykinesia
+T113	Phenotype	8667	8675	rigidity	HPO:HP:0002063	Rigidity
+T114	Phenotype	8680	8686	tremor	HPO:HP:0001337	Tremor
+T119	Phenotype	8721	8744	orthostatic hypotension	HPO:HP:0001278	Orthostatic hypotension
+T129	Phenotype	8746	8754	fainting	HPO:HP:0001279	Syncope
+T121	Disease	8759	8780	restless leg syndrome	UMLS:C0035258	Restless Legs Syndrome
+T167	Phenotype	10417	10430	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T123	Phenotype	10815	10822	illness	UMLS:C0221423	Illness (finding)
+T86	Measure	12024	12028	MMSE	UMLS:C0451306	Mini-mental state examination
+T122	Phenotype	11892	11899	illness	UMLS:C0221423	Illness (finding)
+T124	Measure	11930	11960	Hasegawa Dementia Scale (HDSR)	null	null
+T127	ScaleMax	12051	12053	30	null	null
+T125	Measure	12083	12087	HDSR	null	null
+T126	Measure	12156	12160	HDSR	null	null
+T128	Phenotype	12777	12791	hallucinations	HPO:HP:0000738	Hallucinations
+T129	Phenotype	13016	13030	hallucinations	HPO:HP:0000738	Hallucinations
+T132	Phenotype	12799	12819	executive impairment	UMLS:C1843023	Loss of executive functions
+T133	Phenotype	12827	12837	somnolence	HPO:HP:0001262	Somnolence
+T135	Phenotype	12845	12852	amnesia	UMLS:C0002622	Amnesia
+T136	Phenotype	12968	12975	amnesia	UMLS:C0002622	Amnesia
+T141	Phenotype	13041	13050	delusions	HPO:HP:0000746	Delusions
+T116	Phenotype	13149	13162	appetite loss	UMLS:C1971624	Loss of appetite (finding)
+T143	Phenotype	13132	13144	parkinsonism	HPO:HP:0001300	Parkinsonism
+T144	Phenotype	13221	13236	eating problems	UMLS:C0424421	Eating problem
+T145	Phenotype	13307	13328	organic abnormalities	null	null
+T117	Phenotype	13330	13343	Appetite loss	UMLS:C1971624	Loss of appetite (finding)
+T147	Phenotype	13425	13446	autonomic dysfunction	HPO:HP:0002459	Dysautonomia
+T146	Phenotype	13485	13497	parkinsonism	HPO:HP:0001300	Parkinsonism
+T148	Phenotype	13628	13640	parkinsonism	HPO:HP:0001300	Parkinsonism
+T118	Phenotype	13739	13752	appetite loss	UMLS:C1971624	Loss of appetite (finding)
+T150	Phenotype	13702	13724	Autonomic disturbances	HPO:HP:0002459	Dysautonomia
+T151	Phenotype	13923	13943	autonomic impairment	HPO:HP:0002459	Dysautonomia
+T152	Phenotype	13754	13777	orthostatic hypotension	HPO:HP:0001278	Orthostatic hypotension
+T153	Phenotype	13778	13785	syncope	HPO:HP:0001279	Syncope
+T154	Disease	13790	13811	restless leg syndrome	UMLS:C0035258	Restless Legs Syndrome
+T155	Phenotype	13878	13901	orthostatic hypotension	HPO:HP:0001278	Orthostatic hypotension
+T156	Phenotype	13902	13909	syncope	HPO:HP:0001279	Syncope
+T130	Phenotype	13984	13998	hallucinations	HPO:HP:0000738	Hallucinations
+T137	Phenotype	13966	13973	amnesia	UMLS:C0002622	Amnesia
+T157	Phenotype	14121	14135	disorientation	HPO:HP:0001289	Confusion
+T158	Phenotype	14137	14158	cognitive fluctuation	HPO:HP:0100543	Cognitive impairment
+T159	Disease	14160	14186	misidentification syndrome	UMLS:C0006895	Capgras Syndrome
+T160	Phenotype	14191	14197	apathy	HPO:HP:0000741	Apathy
+T142	Phenotype	14353	14362	delusions	HPO:HP:0000746	Delusions
+T161	Phenotype	14324	14344	psychiatric problems	HPO:HP:0000708	Behavioral abnormality
+T162	Phenotype	14364	14370	apathy	HPO:HP:0000741	Apathy
+T163	Phenotype	14375	14385	depression	HPO:HP:0000716	Depression
+T35	Disease	14539	14542	DLB	UMLS:C0752347	Lewy Body Disease
+T36	Disease	14613	14616	DLB	UMLS:C0752347	Lewy Body Disease
+T37	Disease	14674	14677	DLB	UMLS:C0752347	Lewy Body Disease
+T168	Phenotype	15717	15730	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T169	Phenotype	16434	16447	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T38	Disease	16672	16675	DLB	UMLS:C0752347	Lewy Body Disease
+T39	Disease	16872	16875	DLB	UMLS:C0752347	Lewy Body Disease
+T170	Phenotype	17130	17143	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T171	Phenotype	17200	17213	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T40	Disease	17310	17313	DLB	UMLS:C0752347	Lewy Body Disease
+T41	Disease	17659	17662	DLB	UMLS:C0752347	Lewy Body Disease
+T42	Disease	17990	17993	DLB	UMLS:C0752347	Lewy Body Disease
+T67	Disease	18043	18045	AD	UMLS:C0002395	Alzheimer's Disease
+T73	Disease	18036	18038	PD	UMLS:C0030567	Parkinson Disease
+T43	Disease	18123	18126	DLB	UMLS:C0752347	Lewy Body Disease
+T44	Disease	18267	18270	DLB	UMLS:C0752347	Lewy Body Disease
+T179	Disease	18292	18361	infectious, toxic, traumatic, vascular or acute psychiatric disorders	UMLS:C0009450	Communicable Diseases
+T180	Disease	18292	18361	infectious, toxic, traumatic, vascular or acute psychiatric disorders	UMLS:C0871533	Toxic Disorders
+T181	Disease	18292	18361	infectious, toxic, traumatic, vascular or acute psychiatric disorders	UMLS:C3714660	Trauma
+T182	Disease	18292	18361	infectious, toxic, traumatic, vascular or acute psychiatric disorders	UMLS:C0042373	Vascular Diseases
+T178	Disease	18292	18361	infectious, toxic, traumatic, vascular or acute psychiatric disorders	UMLS:C0009450	Communicable Diseases
+T179	Disease	18292	18361	infectious, toxic, traumatic, vascular or acute psychiatric disorders	UMLS:C0871533	Toxic Disorders
+T180	Disease	18292	18361	infectious, toxic, traumatic, vascular or acute psychiatric disorders	UMLS:C3714660	Trauma
+T181	Disease	18292	18361	infectious, toxic, traumatic, vascular or acute psychiatric disorders	UMLS:C0042373	Vascular Diseases
+T184	Disease	18371	18396	Creutzfeldt-Jakob disease	UMLS:C0022336	Creutzfeldt-Jakob disease
+T172	Phenotype	18638	18651	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T45	Disease	19216	19219	DLB	UMLS:C0752347	Lewy Body Disease
+T46	Disease	19439	19442	DLB	UMLS:C0752347	Lewy Body Disease
+T47	Disease	19750	19753	DLB	UMLS:C0752347	Lewy Body Disease
+T48	Disease	19952	19955	DLB	UMLS:C0752347	Lewy Body Disease
+T185	Phenotype	19928	19948	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T49	Disease	20049	20052	DLB	UMLS:C0752347	Lewy Body Disease
+T188	Phenotype	20125	20146	functional impairment	UMLS:C0872173	functional disability
+T50	Disease	20242	20245	DLB	UMLS:C0752347	Lewy Body Disease
+T51	Disease	20354	20357	DLB	UMLS:C0752347	Lewy Body Disease
+T68	Disease	20335	20337	AD	UMLS:C0002395	Alzheimer's Disease
+T131	Phenotype	20830	20851	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T134	Phenotype	20706	20727	executive dysfunction	UMLS:C2748208	Executive dysfunction
+T189	Phenotype	20729	20740	incoherence	UMLS:C0233643	Incoherent thinking
+T190	Phenotype	20742	20752	depression	HPO:HP:0000716	Depression
+T191	Phenotype	20754	20760	apathy	HPO:HP:0000741	Apathy
+T192	Phenotype	20762	20774	irritability	HPO:HP:0000737	Irritability
+T193	Phenotype	20779	20792	disinhibition	HPO:HP:0000734	Disinhibition
+T194	AgeGroup	21099	21106	elderly	null	null
+T173	Phenotype	21285	21298	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T174	Phenotype	21376	21389	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T74	Disease	21754	21756	PD	UMLS:C0030567	Parkinson Disease
+T85	Disease	21787	21790	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T87	Measure	21772	21776	MMSE	UMLS:C0451306	Mini-mental state examination
+T176	Phenotype	21668	21681	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T186	Phenotype	21723	21750	global cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T175	Phenotype	21810	21823	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T187	Phenotype	21860	21887	visual cognitive impairment	null	null
+T177	Phenotype	21974	21987	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T149	Phenotype	22281	22293	parkinsonism	HPO:HP:0001300	Parkinsonism
+T178	Phenotype	22314	22327	hypoperfusion	UMLS:C0442856	Hypoperfusion
+T52	Disease	22462	22465	DLB	UMLS:C0752347	Lewy Body Disease
+T53	Disease	22860	22863	DLB	UMLS:C0752347	Lewy Body Disease
+T69	Disease	22756	22758	AD	UMLS:C0002395	Alzheimer's Disease
+T195	Disease	22760	22790	progressive supranuclear palsy	UMLS:C0038868	Progressive supranuclear palsy
+T196	Disease	22794	22813	multisystem atrophy	UMLS:C0393571	Multiple System Atrophy
+T54	Disease	24083	24086	DLB	UMLS:C0752347	Lewy Body Disease
+R1	hasScale	11930	11960	Measure	12051	12053	ScaleMax

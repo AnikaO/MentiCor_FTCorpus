@@ -1,0 +1,323 @@
+T1	Drug	0	11	Pinocembrin	UMLS:C0071095	pinocembrin
+T109	Disease	301	325	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T134	Phenotype	433	454	neuronal degeneration	HPO:HP:0002180	Neurodegeneration
+T2	Drug	485	496	Pinocembrin	UMLS:C0071095	pinocembrin
+T3	Drug	658	669	pinocembrin	UMLS:C0071095	pinocembrin
+T135	Disease	701	731	ischemic and vascular dementia	null	null
+T136	Disease	701	731	ischemic and vascular dementia	UMLS:C0011269	Dementia, Vascular
+T137	Demographic	816	821	China	UMLS:C0008115	China
+T138	Disease	842	848	stroke	UMLS:C0038454	Cerebrovascular accident
+T4	Drug	915	926	pinocembrin	UMLS:C0071095	pinocembrin
+T5	Drug	1099	1110	Pinocembrin	UMLS:C0071095	pinocembrin
+T139	Phenotype	1246	1267	neuronal degeneration	HPO:HP:0002180	Neurodegeneration
+T6	Drug	1412	1423	pinocembrin	UMLS:C0071095	pinocembrin
+T112	Disease	1352	1354	AD	UMLS:C0002395	Alzheimer's Disease
+T7	Drug	1467	1478	pinocembrin	UMLS:C0071095	pinocembrin
+T8	Drug	1707	1718	pinocembrin	UMLS:C0071095	pinocembrin
+T9	Drug	1867	1878	Pinocembrin	UMLS:C0071095	pinocembrin
+T10	Drug	2014	2025	pinocembrin	UMLS:C0071095	pinocembrin
+T11	Drug	2481	2492	pinocembrin	UMLS:C0071095	pinocembrin
+T12	Drug	2795	2806	Pinocembrin	UMLS:C0071095	pinocembrin
+T113	Disease	2875	2877	AD	UMLS:C0002395	Alzheimer's Disease
+T114	Disease	3089	3091	AD	UMLS:C0002395	Alzheimer's Disease
+T110	Disease	3093	3117	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T142	Disease	3123	3160	progressive neurodegenerative disease	UMLS:C0027746	Nerve Degeneration
+T143	Phenotype	3194	3208	senile plaques	HPO:HP:0100256	Senile plaques
+T144	Phenotype	3224	3247	neurofibrillary tangles	HPO:HP:0002185	Neurofibrillary tangles
+T115	Disease	3409	3411	AD	UMLS:C0002395	Alzheimer's Disease
+T146	Phenotype	3320	3339	senile plaque cores	HPO:HP:0100256	Senile plaques
+T147	Phenotype	3456	3467	cell damage	UMLS:C0599732	cell injury
+T148	Phenotype	3641	3682	chronic progressive inflammatory response	null	null
+T332	Phenotype	3603	3618	amyloid plaques	UMLS:C2936349	Plaque, Amyloid
+T149	Phenotype	3728	3764	mitochondrial calcium dyshomeostasis	null	null
+T150	Phenotype	3812	3826	nuclear damage	null	null
+T151	Phenotype	4770	4791	inflammatory response	UMLS:C1155266	inflammatory response
+T153	Phenotype	4709	4739	perturbation of neuronal cells	null	null
+T116	Disease	4871	4873	AD	UMLS:C0002395	Alzheimer's Disease
+T152	Phenotype	4987	5008	neuronal perturbation	null	null
+T118	Disease	5466	5477	sporadic AD	null	null
+T154	Phenotype	5446	5462	synaptic failure	null	null
+T117	Disease	5563	5565	AD	UMLS:C0002395	Alzheimer's Disease
+T155	Phenotype	5544	5559	neuronal damage	UMLS:C0751792	Trauma, Nervous System
+T156	Disease	5595	5601	stroke	UMLS:C0038454	Cerebrovascular accident
+T13	Drug	5684	5695	Pinocembrin	UMLS:C0071095	pinocembrin
+T14	Drug	5869	5880	pinocembrin	UMLS:C0071095	pinocembrin
+T157	Demographic	5962	5967	China	UMLS:C0008115	China
+T158	Disease	5972	5978	stroke	UMLS:C0038454	Cerebrovascular accident
+T15	Drug	6282	6293	pinocembrin	UMLS:C0071095	pinocembrin
+T159	Phenotype	6328	6339	cell injury	UMLS:C0599732	cell injury
+T161	Disease	6465	6481	cerebral infarct	UMLS:C0007785	Cerebral Infarction
+T16	Drug	6504	6515	pinocembrin	UMLS:C0071095	pinocembrin
+T160	Phenotype	6685	6707	inflammatory responses	UMLS:C1155266	inflammatory response
+T162	Disease	6716	6748	middle cerebral artery occlusion	UMLS:C0740391	Middle Cerebral Artery Occlusion
+T17	Drug	6785	6796	pinocembrin	UMLS:C0071095	pinocembrin
+T19	Drug	6929	6940	pinocembrin	UMLS:C0071095	pinocembrin
+T163	Phenotype	6808	6836	learning and memory deficits	UMLS:C0751265	Learning Disabilities
+T164	Phenotype	6808	6836	learning and memory deficits	HPO:HP:0002354	Memory impairment
+T165	Disease	6842	6859	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T166	Phenotype	6979	6999	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T18	Drug	7049	7060	pinocembrin	UMLS:C0071095	pinocembrin
+T20	Drug	7322	7333	pinocembrin	UMLS:C0071095	pinocembrin
+T167	Phenotype	7347	7367	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T21	Drug	7709	7720	Pinocembrin	UMLS:C0071095	pinocembrin
+T168	Demographic	7889	7894	China	UMLS:C0008115	China
+T178	Demographic	7876	7883	Beijing	UMLS:C4042832	Beijing
+T169	Demographic	7954	7966	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T170	Demographic	7968	7971	USA	UMLS:C0041703	United States
+T171	Ethnicity	8163	8170	Chinese	UMLS:C0152035	Chinese People
+T172	Ethnicity	8538	8545	Chinese	UMLS:C0152035	Chinese People
+T208	Demographic	8689	8692	USA	UMLS:C0041703	United States
+T22	Drug	9242	9253	pinocembrin	UMLS:C0071095	pinocembrin
+T23	Drug	9274	9285	pinocembrin	UMLS:C0071095	pinocembrin
+T24	Drug	9326	9337	Pinocembrin	UMLS:C0071095	pinocembrin
+T174	Demographic	9423	9435	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T175	Demographic	9437	9440	USA	UMLS:C0041703	United States
+T25	Drug	9701	9712	pinocembrin	UMLS:C0071095	pinocembrin
+T176	Demographic	10056	10063	Beijing	UMLS:C4042832	Beijing
+T177	Demographic	10135	10142	Beijing	UMLS:C4042832	Beijing
+T205	Demographic	10065	10070	China	UMLS:C0008115	China
+T206	Demographic	10144	10149	China	UMLS:C0008115	China
+T26	Drug	10444	10455	pinocembrin	UMLS:C0071095	pinocembrin
+T27	Drug	10637	10648	pinocembrin	UMLS:C0071095	pinocembrin
+T209	Demographic	11007	11010	USA	UMLS:C0041703	United States
+T179	Demographic	11161	11168	Beijing	UMLS:C4042832	Beijing
+T192	Demographic	11170	11175	China	UMLS:C0008115	China
+T180	Demographic	11410	11417	Beijing	UMLS:C4042832	Beijing
+T193	Demographic	11419	11424	China	UMLS:C0008115	China
+T267	Demographic	11350	11357	Germany	UMLS:C0017480	Germany
+T268	Demographic	11473	11480	Germany	UMLS:C0017480	Germany
+T181	Demographic	11685	11692	Beijing	UMLS:C4042832	Beijing
+T182	Demographic	11738	11745	Beijing	UMLS:C4042832	Beijing
+T183	Demographic	11818	11825	Beijing	UMLS:C4042832	Beijing
+T194	Demographic	11694	11699	China	UMLS:C0008115	China
+T195	Demographic	11747	11752	China	UMLS:C0008115	China
+T196	Demographic	11827	11832	China	UMLS:C0008115	China
+T210	Demographic	11632	11635	USA	UMLS:C0041703	United States
+T211	Demographic	11574	11577	USA	UMLS:C0041703	United States
+T184	Demographic	12013	12020	Beijing	UMLS:C4042832	Beijing
+T197	Demographic	12022	12027	China	UMLS:C0008115	China
+T212	Demographic	12111	12114	USA	UMLS:C0041703	United States
+T269	Demographic	12198	12205	Germany	UMLS:C0017480	Germany
+T213	Demographic	12272	12275	USA	UMLS:C0041703	United States
+T185	Demographic	12475	12482	Beijing	UMLS:C4042832	Beijing
+T198	Demographic	12484	12489	China	UMLS:C0008115	China
+T214	Demographic	12630	12633	USA	UMLS:C0041703	United States
+T270	Demographic	12616	12628	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T186	Demographic	12766	12773	Beijing	UMLS:C4042832	Beijing
+T199	Demographic	12775	12780	China	UMLS:C0008115	China
+T290	Demographic	12938	12943	Japan	UMLS:C0022341	Japan
+T215	Demographic	13584	13587	USA	UMLS:C0041703	United States
+T216	Demographic	13718	13721	USA	UMLS:C0041703	United States
+T217	Demographic	13851	13854	USA	UMLS:C0041703	United States
+T218	Demographic	13931	13934	USA	UMLS:C0041703	United States
+T187	Demographic	14609	14616	Beijing	UMLS:C4042832	Beijing
+T189	Demographic	14494	14501	Beijing	UMLS:C4042832	Beijing
+T200	Demographic	14503	14508	China	UMLS:C0008115	China
+T201	Demographic	14618	14623	China	UMLS:C0008115	China
+T219	Demographic	14418	14421	USA	UMLS:C0041703	United States
+T220	Demographic	14566	14569	USA	UMLS:C0041703	United States
+T221	Demographic	14657	14660	USA	UMLS:C0041703	United States
+T222	Demographic	14710	14713	USA	UMLS:C0041703	United States
+T223	Demographic	14760	14763	USA	UMLS:C0041703	United States
+T224	Demographic	14814	14817	USA	UMLS:C0041703	United States
+T225	Demographic	14883	14886	USA	UMLS:C0041703	United States
+T226	Demographic	14937	14940	USA	UMLS:C0041703	United States
+T227	Demographic	14985	14988	USA	UMLS:C0041703	United States
+T228	Demographic	15033	15036	USA	UMLS:C0041703	United States
+T229	Demographic	15139	15142	USA	UMLS:C0041703	United States
+T271	Demographic	14404	14416	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T272	Demographic	14552	14564	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T273	Demographic	14643	14655	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T274	Demographic	14696	14708	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T275	Demographic	14746	14758	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T276	Demographic	14800	14812	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T277	Demographic	14869	14881	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T278	Demographic	14923	14935	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T279	Demographic	14971	14983	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T280	Demographic	15019	15031	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T230	Demographic	15386	15389	USA	UMLS:C0041703	United States
+T231	Demographic	15575	15578	USA	UMLS:C0041703	United States
+T232	Demographic	15436	15439	USA	UMLS:C0041703	United States
+T233	Demographic	15487	15490	USA	UMLS:C0041703	United States
+T281	Demographic	15372	15384	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T282	Demographic	15422	15434	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T283	Demographic	15473	15485	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T188	Demographic	15749	15756	Beijing	UMLS:C4042832	Beijing
+T207	Demographic	15758	15763	China	UMLS:C0008115	China
+T234	Demographic	15924	15927	USA	UMLS:C0041703	United States
+T235	Demographic	16119	16122	USA	UMLS:C0041703	United States
+T28	Drug	16432	16443	pinocembrin	UMLS:C0071095	pinocembrin
+T236	Demographic	16679	16682	USA	UMLS:C0041703	United States
+T237	Demographic	16593	16596	USA	UMLS:C0041703	United States
+T238	Demographic	16931	16934	USA	UMLS:C0041703	United States
+T29	Drug	17167	17178	pinocembrin	UMLS:C0071095	pinocembrin
+T30	Drug	17373	17384	pinocembrin	UMLS:C0071095	pinocembrin
+T239	Demographic	17635	17638	USA	UMLS:C0041703	United States
+T119	Disease	18383	18385	AD	UMLS:C0002395	Alzheimer's Disease
+T31	Drug	18959	18970	pinocembrin	UMLS:C0071095	pinocembrin
+T240	Demographic	18870	18873	USA	UMLS:C0041703	United States
+T284	Demographic	18856	18868	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T32	Drug	19156	19167	pinocembrin	UMLS:C0071095	pinocembrin
+T33	Drug	19293	19304	pinocembrin	UMLS:C0071095	pinocembrin
+T34	Drug	19531	19542	pinocembrin	UMLS:C0071095	pinocembrin
+T241	Demographic	19664	19667	USA	UMLS:C0041703	United States
+T242	Demographic	19853	19856	USA	UMLS:C0041703	United States
+T243	Demographic	19992	19995	USA	UMLS:C0041703	United States
+T285	Demographic	19978	19990	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T244	Demographic	20184	20187	USA	UMLS:C0041703	United States
+T35	Drug	21246	21257	pinocembrin	UMLS:C0071095	pinocembrin
+T245	Demographic	21088	21091	USA	UMLS:C0041703	United States
+T289	Demographic	21038	21043	Japan	UMLS:C0022341	Japan
+T288	Demographic	21356	21361	Japan	UMLS:C0022341	Japan
+T246	Demographic	21660	21663	USA	UMLS:C0041703	United States
+T36	Drug	22159	22170	pinocembrin	UMLS:C0071095	pinocembrin
+T247	Demographic	22562	22565	USA	UMLS:C0041703	United States
+T286	Demographic	22548	22560	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T287	Demographic	22627	22639	St Louis, MO	UMLS:C3827924	St. Louis City, MO
+T248	Demographic	22812	22815	USA	UMLS:C0041703	United States
+T249	Demographic	22973	22976	USA	UMLS:C0041703	United States
+T250	Demographic	23690	23693	USA	UMLS:C0041703	United States
+T37	Drug	23733	23744	pinocembrin	UMLS:C0071095	pinocembrin
+T190	Demographic	23832	23839	Beijing	UMLS:C4042832	Beijing
+T202	Demographic	23841	23846	China	UMLS:C0008115	China
+T251	Demographic	23909	23912	USA	UMLS:C0041703	United States
+T252	Demographic	23967	23970	USA	UMLS:C0041703	United States
+T253	Demographic	24071	24074	USA	UMLS:C0041703	United States
+T254	Demographic	24152	24155	USA	UMLS:C0041703	United States
+T255	Demographic	24241	24244	USA	UMLS:C0041703	United States
+T256	Demographic	24310	24313	USA	UMLS:C0041703	United States
+T257	Demographic	24586	24589	USA	UMLS:C0041703	United States
+T258	Demographic	24376	24379	USA	UMLS:C0041703	United States
+T259	Demographic	24448	24451	USA	UMLS:C0041703	United States
+T260	Demographic	24509	24512	USA	UMLS:C0041703	United States
+T261	Demographic	24656	24659	USA	UMLS:C0041703	United States
+T262	Demographic	25108	25111	USA	UMLS:C0041703	United States
+T263	Demographic	26253	26256	USA	UMLS:C0041703	United States
+T264	Demographic	26412	26415	USA	UMLS:C0041703	United States
+T291	Demographic	26397	26410	St. Louis, MO	UMLS:C3827924	St. Louis City, MO
+T191	Demographic	27107	27114	Beijing	UMLS:C4042832	Beijing
+T203	Demographic	27116	27121	China	UMLS:C0008115	China
+T265	Demographic	27483	27490	Chicago	UMLS:C0008044	Chicago
+T266	Demographic	27496	27499	USA	UMLS:C0041703	United States
+T38	Drug	28028	28039	pinocembrin	UMLS:C0071095	pinocembrin
+T39	Drug	28637	28648	pinocembrin	UMLS:C0071095	pinocembrin
+T40	Drug	28836	28847	pinocembrin	UMLS:C0071095	pinocembrin
+T41	Drug	28750	28761	pinocembrin	UMLS:C0071095	pinocembrin
+T292	Phenotype	28877	28902	spatial learning deficits	null	null
+T42	Drug	29070	29081	pinocembrin	UMLS:C0071095	pinocembrin
+T293	Phenotype	29085	29108	spatial memory deficits	UMLS:C0751294	Memory Disorder, Spatial
+T43	Drug	29158	29169	pinocembrin	UMLS:C0071095	pinocembrin
+T44	Drug	29777	29788	Pinocembrin	UMLS:C0071095	pinocembrin
+T45	Drug	29926	29937	pinocembrin	UMLS:C0071095	pinocembrin
+T295	Phenotype	30397	30415	perivascular edema	UMLS:C3670573	Perivascular edema
+T296	Phenotype	30504	30525	neuronal degeneration	HPO:HP:0002180	Neurodegeneration
+T297	Phenotype	30797	30846	Intracellular vacuolation and edema of astrocytes	null	null
+T298	Phenotype	30797	30846	Intracellular vacuolation and edema of astrocytes	null	null
+T299	Phenotype	30882	30910	degeneration of the neuropil	null	null
+T46	Drug	30948	30959	Pinocembrin	UMLS:C0071095	pinocembrin
+T300	Phenotype	31015	31030	neuropil damage	null	null
+T301	Phenotype	31046	31063	Neuronal pycnosis	null	null
+T304	Phenotype	31099	31113	swelling of As	null	null
+T305	Phenotype	31118	31160	disintegration of the astrocytic cytoplasm	null	null
+T302	Phenotype	31207	31238	membrane damage and vacuolation	UMLS:C0010840	Vacuolation
+T303	Phenotype	31207	31238	membrane damage and vacuolation	null	null
+T306	Phenotype	31290	31311	neuronal degeneration	HPO:HP:0002180	Neurodegeneration
+T47	Drug	31549	31560	Pinocembrin	UMLS:C0071095	pinocembrin
+T48	Drug	31791	31802	pinocembrin	UMLS:C0071095	pinocembrin
+T307	Phenotype	31852	31872	euronal degeneration	HPO:HP:0002180	Neurodegeneration
+T49	Drug	32509	32520	pinocembrin	UMLS:C0071095	pinocembrin
+T50	Drug	32315	32326	Pinocembrin	UMLS:C0071095	pinocembrin
+T51	Drug	32905	32916	Pinocembrin	UMLS:C0071095	pinocembrin
+T52	Drug	33036	33047	Pinocembrin	UMLS:C0071095	pinocembrin
+T53	Drug	33528	33539	pinocembrin	UMLS:C0071095	pinocembrin
+T54	Drug	33690	33701	pinocembrin	UMLS:C0071095	pinocembrin
+T55	Drug	33942	33953	pinocembrin	UMLS:C0071095	pinocembrin
+T120	Disease	34155	34157	AD	UMLS:C0002395	Alzheimer's Disease
+T56	Drug	34376	34387	Pinocembrin	UMLS:C0071095	pinocembrin
+T57	Drug	34463	34474	pinocembrin	UMLS:C0071095	pinocembrin
+T58	Drug	34794	34805	pinocembrin	UMLS:C0071095	pinocembrin
+T59	Drug	34940	34951	pinocembrin	UMLS:C0071095	pinocembrin
+T60	Drug	35306	35317	Pinocembrin	UMLS:C0071095	pinocembrin
+T61	Drug	35571	35582	pinocembrin	UMLS:C0071095	pinocembrin
+T62	Drug	36625	36647	Pinocembrin treatments	UMLS:C0071095	pinocembrin
+T63	Drug	37621	37643	Pinocembrin treatments	UMLS:C0071095	pinocembrin
+T64	Drug	37961	37972	pinocembrin	UMLS:C0071095	pinocembrin
+T65	Drug	38593	38604	pinocembrin	UMLS:C0071095	pinocembrin
+T66	Drug	38997	39008	pinocembrin	UMLS:C0071095	pinocembrin
+T67	Drug	39652	39663	Pinocembrin	UMLS:C0071095	pinocembrin
+T68	Drug	39889	39900	pinocembrin	UMLS:C0071095	pinocembrin
+T69	Drug	40099	40110	pinocembrin	UMLS:C0071095	pinocembrin
+T121	Disease	40342	40344	AD	UMLS:C0002395	Alzheimer's Disease
+T70	Drug	40804	40815	Pinocembrin	UMLS:C0071095	pinocembrin
+T72	Drug	41058	41069	pinocembrin	UMLS:C0071095	pinocembrin
+T71	Drug	41299	41310	pinocembrin	UMLS:C0071095	pinocembrin
+T122	Disease	41395	41397	AD	UMLS:C0002395	Alzheimer's Disease
+T309	Phenotype	41528	41560	neuronal damage and degeneration	HPO:HP:0002180	Neurodegeneration
+T310	Phenotype	41528	41560	neuronal damage and degeneration	UMLS:C0751792	Trauma, Nervous System
+T317	Phenotype	41430	41448	cognitive deficits	HPO:HP:0100543	Cognitive impairment
+T73	Drug	41687	41698	pinocembrin	UMLS:C0071095	pinocembrin
+T74	Drug	41994	42005	pinocembrin	UMLS:C0071095	pinocembrin
+T123	Disease	42368	42370	AD	UMLS:C0002395	Alzheimer's Disease
+T318	Phenotype	42350	42364	senile plaques	HPO:HP:0100256	Senile plaques
+T75	Drug	42534	42545	pinocembrin	UMLS:C0071095	pinocembrin
+T124	Disease	42634	42636	AD	UMLS:C0002395	Alzheimer's Disease
+T311	Phenotype	42549	42569	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T319	Phenotype	42613	42630	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T320	Phenotype	42663	42691	learning and memory deficits	UMLS:C0751265	Learning Disabilities
+T321	Phenotype	42663	42691	learning and memory deficits	HPO:HP:0002354	Memory impairment
+T322	Phenotype	42696	42711	neuronal injury	UMLS:C0751792	Trauma, Nervous System
+T125	Disease	43101	43103	AD	UMLS:C0002395	Alzheimer's Disease
+T294	Phenotype	43059	43097	spatial learning and memory impairment	HPO:HP:0002354	Memory impairment
+T323	Phenotype	43059	43097	spatial learning and memory impairment	null	null
+T324	Phenotype	43217	43224	amnesia	UMLS:C0002622	Amnesia
+T325	Phenotype	43301	43321	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T76	Drug	43451	43462	pinocembrin	UMLS:C0071095	pinocembrin
+T77	Drug	43639	43650	pinocembrin	UMLS:C0071095	pinocembrin
+T78	Drug	43822	43833	pinocembrin	UMLS:C0071095	pinocembrin
+T126	Disease	44140	44142	AD	UMLS:C0002395	Alzheimer's Disease
+T326	Phenotype	44084	44101	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T327	Phenotype	44118	44136	cognitive disorder	UMLS:C0009241	Cognition Disorders
+T79	Drug	44191	44202	pinocembrin	UMLS:C0071095	pinocembrin
+T80	Drug	44338	44349	pinocembrin	UMLS:C0071095	pinocembrin
+T82	Drug	44783	44794	pinocembrin	UMLS:C0071095	pinocembrin
+T81	Drug	44744	44755	pinocembrin	UMLS:C0071095	pinocembrin
+T328	Phenotype	44828	44845	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T83	Drug	45038	45049	pinocembrin	UMLS:C0071095	pinocembrin
+T127	Disease	45115	45117	AD	UMLS:C0002395	Alzheimer's Disease
+T312	Phenotype	45005	45026	neuronal degeneration	HPO:HP:0002180	Neurodegeneration
+T128	Disease	45274	45276	AD	UMLS:C0002395	Alzheimer's Disease
+T84	Drug	45811	45822	pinocembrin	UMLS:C0071095	pinocembrin
+T85	Drug	45916	45927	Pinocembrin	UMLS:C0071095	pinocembrin
+T87	Drug	46183	46194	pinocembrin	UMLS:C0071095	pinocembrin
+T314	Phenotype	46158	46173	ischemic injury	null	null
+T86	Drug	46361	46372	pinocembrin	UMLS:C0071095	pinocembrin
+T129	Disease	46440	46442	AD	UMLS:C0002395	Alzheimer's Disease
+T313	Phenotype	46839	46859	neuronal dysfunction	UMLS:C0751377	Neurologic Dysfunction
+T88	Drug	47128	47139	pinocembrin	UMLS:C0071095	pinocembrin
+T130	Disease	47240	47242	AD	UMLS:C0002395	Alzheimer's Disease
+T131	Disease	47300	47302	AD	UMLS:C0002395	Alzheimer's Disease
+T329	Phenotype	47720	47740	synaptic dysfunction	null	null
+T132	Disease	47861	47863	AD	UMLS:C0002395	Alzheimer's Disease
+T89	Drug	47971	47982	pinocembrin	UMLS:C0071095	pinocembrin
+T133	Disease	48201	48203	AD	UMLS:C0002395	Alzheimer's Disease
+T90	Drug	48427	48438	Pinocembrin	UMLS:C0071095	pinocembrin
+T91	Drug	48815	48826	pinocembrin	UMLS:C0071095	pinocembrin
+T92	Drug	48907	48918	pinocembrin	UMLS:C0071095	pinocembrin
+T93	Drug	49023	49034	pinocembrin	UMLS:C0071095	pinocembrin
+T94	Drug	49280	49291	pinocembrin	UMLS:C0071095	pinocembrin
+T95	Drug	49493	49504	pinocembrin	UMLS:C0071095	pinocembrin
+T330	Phenotype	49740	49752	inflammation	UMLS:C0021368	Inflammation
+T97	Drug	49824	49835	pinocembrin	UMLS:C0071095	pinocembrin
+T96	Drug	50024	50035	pinocembrin	UMLS:C0071095	pinocembrin
+T98	Drug	50326	50337	pinocembrin	UMLS:C0071095	pinocembrin
+T99	Drug	50210	50221	pinocembrin	UMLS:C0071095	pinocembrin
+T100	Drug	51301	51312	pinocembrin	UMLS:C0071095	pinocembrin
+T101	Drug	51398	51409	pinocembrin	UMLS:C0071095	pinocembrin
+T102	Drug	52129	52140	Pinocembrin	UMLS:C0071095	pinocembrin
+T103	Drug	52230	52241	pinocembrin	UMLS:C0071095	pinocembrin
+T104	Drug	52722	52733	pinocembrin	UMLS:C0071095	pinocembrin
+T105	Drug	52954	52965	pinocembrin	UMLS:C0071095	pinocembrin
+T106	Drug	53110	53121	pinocembrin	UMLS:C0071095	pinocembrin
+T107	Drug	53169	53180	pinocembrin	UMLS:C0071095	pinocembrin
+T108	Drug	53294	53305	pinocembrin	UMLS:C0071095	pinocembrin
+T111	Disease	53376	53395	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease

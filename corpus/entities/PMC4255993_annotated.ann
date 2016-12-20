@@ -1,0 +1,131 @@
+T1	Drug	13	25	Rivastigmine	DrugBank:DB00989	Rivastigmine
+T26	Disease	73	92	Alzheimer's Disease	UMLS:C0002395	Alzheimer's Disease
+T47	Disease	98	121	Cerebrovascular Disease	UMLS:C0007820	Cerebrovascular Disorders
+T66	Disease	125	133	dementia	UMLS:C0497327	Dementia
+T69	Phenotype	144	189	a deficit in activities of daily living (ADL)	UMLS:C0740765	Activities of daily living impaired
+T2	Drug	391	403	rivastigmine	DrugBank:DB00989	Rivastigmine
+T27	Disease	316	340	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T48	Disease	346	375	cerebrovascular disease (CVD)	UMLS:C0007820	Cerebrovascular Disorders
+T70	Measure	707	745	Mini-Mental State Examination (K-MMSE)	UMLS:C0451306	Mini-mental state examination
+T71	ScaleMin	672	674	10	null	null
+T72	ScaleMax	675	677	26	null	null
+T3	Drug	757	769	rivastigmine	DrugBank:DB00989	Rivastigmine
+T73	Measure	942	948	K-MMSE	UMLS:C0451306	Mini-mental state examination
+T74	Measure	1165	1171	K-MMSE	UMLS:C0451306	Mini-mental state examination
+T75	Phenotype	1235	1248	skin problems	UMLS:C0281822	Skin problem
+T76	Phenotype	1258	1275	itching sensation	HPO:HP:0000989	Pruritus
+T4	Drug	1341	1353	rivastigmine	DrugBank:DB00989	Rivastigmine
+T29	Disease	1417	1419	AD	UMLS:C0002395	Alzheimer's Disease
+T49	Disease	1425	1428	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T28	Disease	1430	1454	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T77	Phenotype	1482	1502	decline in cognition	HPO:HP:0001268	Mental deterioration
+T78	Phenotype	1506	1578	deterioration in the ability to perform activities of daily living (ADL)	UMLS:C0740765	Activities of daily living impaired
+T79	Phenotype	1591	1610	behavioral problems	HPO:HP:0000708	Behavioral abnormality
+T30	Disease	1654	1656	AD	UMLS:C0002395	Alzheimer's Disease
+T50	Disease	1694	1723	cerebrovascular disease (CVD)	UMLS:C0007820	Cerebrovascular Disorders
+T31	Disease	1751	1753	AD	UMLS:C0002395	Alzheimer's Disease
+T51	Disease	1759	1762	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T67	Disease	1780	1788	dementia	UMLS:C0497327	Dementia
+T32	Disease	1817	1819	AD	UMLS:C0002395	Alzheimer's Disease
+T52	Disease	1825	1828	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T80	Phenotype	1889	1906	cognitive decline	HPO:HP:0001268	Mental deterioration
+T33	Disease	2147	2166	mild-to-moderate AD	UMLS:C0002395	Alzheimer's Disease
+T53	Disease	2172	2175	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T81	Drug	2179	2204	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T5	Drug	2212	2224	Rivastigmine	DrugBank:DB00989	Rivastigmine
+T82	Drug	2245	2270	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T6	Drug	2316	2328	rivastigmine	DrugBank:DB00989	Rivastigmine
+T34	Disease	2388	2407	mild-to-moderate AD	UMLS:C0002395	Alzheimer's Disease
+T83	Demographic	2353	2366	United States	UMLS:C0041703	United States
+T7	Drug	2784	2796	rivastigmine	DrugBank:DB00989	Rivastigmine
+T35	Disease	2757	2759	AD	UMLS:C0002395	Alzheimer's Disease
+T54	Disease	2765	2768	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T8	Drug	2878	2890	rivastigmine	DrugBank:DB00989	Rivastigmine
+T36	Disease	2921	2923	AD	UMLS:C0002395	Alzheimer's Disease
+T55	Disease	2929	2932	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T37	Disease	3081	3083	AD	UMLS:C0002395	Alzheimer's Disease
+T56	Disease	3089	3092	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T84	Gender	3033	3039	female	Gender:C0015780	female
+T85	Gender	3025	3029	male	Gender:C0086582	male
+T68	Disease	3316	3324	dementia	UMLS:C0497327	Dementia
+T89	Measure	3401	3439	Mini-Mental State Examination (K-MMSE)	UMLS:C0451306	Mini-mental state examination
+T90	ScaleMin	3366	3368	10	null	null
+T91	ScaleMax	3369	3371	26	null	null
+T92	Disease	3497	3532	neurologic or psychiatric disorders	UMLS:C0027765	nervous system disorder
+T93	Disease	3497	3532	neurologic or psychiatric disorders	UMLS:C0004936	Mental disorders
+T94	Disease	3534	3547	schizophrenia	UMLS:C0036341	Schizophrenia
+T95	Disease	3549	3572	severe major depression	UMLS:C3472470	Severe major depression
+T96	Disease	3683	3737	hepatic, renal, pulmonary, or cardiovascular disorders	UMLS:C0023895	Liver diseases
+T97	Disease	3683	3737	hepatic, renal, pulmonary, or cardiovascular disorders	UMLS:C0022658	Kidney Diseases
+T98	Disease	3683	3737	hepatic, renal, pulmonary, or cardiovascular disorders	UMLS:C0024115	Lung diseases
+T99	Disease	3683	3737	hepatic, renal, pulmonary, or cardiovascular disorders	UMLS:C0007222	Cardiovascular Diseases
+T100	Disease	3747	3758	bradycardia	UMLS:C0428977	Bradycardia
+T101	Disease	3777	3796	sick sinus syndrome	UMLS:C0037052	Sick Sinus Syndrome
+T102	Measure	4359	4365	K-MMSE	UMLS:C0451306	Mini-mental state examination
+T9	Drug	4478	4490	rivastigmine	DrugBank:DB00989	Rivastigmine
+T10	Drug	4612	4624	rivastigmine	DrugBank:DB00989	Rivastigmine
+T11	Drug	4799	4811	rivastigmine	DrugBank:DB00989	Rivastigmine
+T12	Drug	4951	4963	rivastigmine	DrugBank:DB00989	Rivastigmine
+T103	AgeGroup	6158	6165	elderly	null	null
+T104	Measure	6415	6421	K-MMSE	UMLS:C0451306	Mini-mental state examination
+T106	Measure	6598	6638	Neuropsychiatric Inventory Questionnaire	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T107	Phenotype	6643	6660	abnormal behavior	HPO:HP:0000708	Behavioral abnormality
+T108	Measure	6670	6707	Controlled Oral Word Association Test	UMLS:C3827022	Controlled Oral Word Association Test
+T13	Drug	6805	6817	rivastigmine	DrugBank:DB00989	Rivastigmine
+T38	Disease	7140	7142	AD	UMLS:C0002395	Alzheimer's Disease
+T57	Disease	7148	7151	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T109	Phenotype	7353	7370	itching sensation	HPO:HP:0000989	Pruritus
+T110	Measure	7521	7527	K-MMSE	UMLS:C0451306	Mini-mental state examination
+T111	Gender	7745	7750	women	Gender:C0015780	female
+T112	Measure	7833	7837	MMSE	UMLS:C0451306	Mini-mental state examination
+T39	Disease	7992	7994	AD	UMLS:C0002395	Alzheimer's Disease
+T58	Disease	8000	8003	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T14	Drug	8029	8041	rivastigmine	DrugBank:DB00989	Rivastigmine
+T113	Measure	8383	8389	K-MMSE	UMLS:C0451306	Mini-mental state examination
+T114	Measure	8425	8467	Seoul Neuropsychological Screening Battery	null	null
+T115	Measure	8478	8484	K-MMSE	UMLS:C0451306	Mini-mental state examination
+T15	Drug	8717	8729	rivastigmine	DrugBank:DB00989	Rivastigmine
+T116	Phenotype	8664	8677	skin problems	UMLS:C0281822	Skin problem
+T117	Phenotype	8687	8694	itching	HPO:HP:0000989	Pruritus
+T40	Disease	8827	8829	AD	UMLS:C0002395	Alzheimer's Disease
+T59	Disease	8835	8838	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T16	Drug	8941	8953	rivastigmine	DrugBank:DB00989	Rivastigmine
+T41	Disease	9051	9053	AD	UMLS:C0002395	Alzheimer's Disease
+T60	Disease	9059	9062	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T17	Drug	9156	9168	rivastigmine	DrugBank:DB00989	Rivastigmine
+T42	Disease	9244	9246	AD	UMLS:C0002395	Alzheimer's Disease
+T61	Disease	9252	9255	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T118	Phenotype	9600	9614	ADL impairment	UMLS:C0740765	Activities of daily living impaired
+T43	Disease	9957	9959	AD	UMLS:C0002395	Alzheimer's Disease
+T62	Disease	9965	9968	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T18	Drug	10052	10064	rivastigmine	DrugBank:DB00989	Rivastigmine
+T119	Measure	10093	10099	K-MMSE	UMLS:C0451306	Mini-mental state examination
+T120	Measure	10201	10207	K-MMSE	UMLS:C0451306	Mini-mental state examination
+T20	Drug	10451	10463	rivastigmine	DrugBank:DB00989	Rivastigmine
+T121	Measure	10390	10432	Seoul Neuropsychological Screening Battery	null	null
+T19	Drug	10500	10512	rivastigmine	DrugBank:DB00989	Rivastigmine
+T44	Disease	10585	10587	AD	UMLS:C0002395	Alzheimer's Disease
+T63	Disease	10602	10605	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T21	Drug	10881	10903	rivastigmine treatment	DrugBank:DB00989	Rivastigmine
+T22	Drug	11093	11115	rivastigmine treatment	DrugBank:DB00989	Rivastigmine
+T123	Measure	11261	11265	MMSE	UMLS:C0451306	Mini-mental state examination
+T124	Measure	11386	11390	MMSE	UMLS:C0451306	Mini-mental state examination
+T23	Drug	11556	11568	rivastigmine	DrugBank:DB00989	Rivastigmine
+T127	Measure	11601	11607	K-MMSE	UMLS:C0451306	Mini-mental state examination
+T128	Disease	11800	11806	stroke	UMLS:C0038454	Cerebrovascular accident
+T129	Phenotype	11954	11970	tching sensation	HPO:HP:0000989	Pruritus
+T130	Phenotype	11974	11981	redness	UMLS:C0332575	Redness
+T131	Phenotype	12078	12103	gastrointestinal symptoms	UMLS:C0426576	Gastrointestinal symptom
+T132	Phenotype	12112	12118	nausea	HPO:HP:0002018	Nausea
+T133	Phenotype	12120	12128	vomiting	HPO:HP:0002013	Vomiting
+T134	Phenotype	12134	12142	diarrhea	HPO:HP:0002014	Diarrhea
+T24	Drug	12554	12566	rivastigmine	DrugBank:DB00989	Rivastigmine
+T45	Disease	12641	12643	AD	UMLS:C0002395	Alzheimer's Disease
+T64	Disease	12649	12652	CVD	UMLS:C0007820	Cerebrovascular Disorders
+T25	Drug	12743	12755	rivastigmine	DrugBank:DB00989	Rivastigmine
+T46	Disease	12819	12821	AD	UMLS:C0002395	Alzheimer's Disease
+T65	Disease	12827	12830	CVD	UMLS:C0007820	Cerebrovascular Disorders
+R1	hasScale	707	745	Measure	672	674	ScaleMin
+R2	hasScale	707	745	Measure	675	677	ScaleMax
+R3	hasScale	3401	3439	Measure	3366	3368	ScaleMin
+R4	hasScale	3401	3439	Measure	3369	3371	ScaleMax

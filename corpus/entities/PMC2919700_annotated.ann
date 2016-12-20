@@ -1,0 +1,162 @@
+T1	AgeGroup	56	63	elderly	null	null
+T29	Disease	87	116	prodromal Alzheimer's disease	UMLS:C3805054	Prodromal Alzheimer's disease
+T30	Disease	212	236	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T2	AgeGroup	428	435	elderly	null	null
+T31	Disease	523	542	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T34	Disease	392	403	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T3	AgeGroup	626	633	elderly	null	null
+T35	Disease	587	598	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T39	Disease	875	877	AD	UMLS:C0002395	Alzheimer's Disease
+T40	Disease	990	992	AD	UMLS:C0002395	Alzheimer's Disease
+T98	Phenotype	1065	1082	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T42	Disease	1593	1595	AD	UMLS:C0002395	Alzheimer's Disease
+T99	Phenotype	1635	1656	neuronal degeneration	HPO:HP:0002180	Neurodegeneration
+T100	Phenotype	1674	1697	neurofibrillary tangles	HPO:HP:0002185	Neurofibrillary tangles
+T101	Phenotype	1733	1754	cognitive dysfunction	HPO:HP:0100543	Cognitive impairment
+T32	Disease	1793	1817	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T102	Disease	1770	1778	dementia	UMLS:C0497327	Dementia
+T109	Phenotype	1873	1887	senile plaques	HPO:HP:0100256	Senile plaques
+T110	Phenotype	1920	1943	neurofibrillary tangles	HPO:HP:0002185	Neurofibrillary tangles
+T43	Disease	2065	2067	AD	UMLS:C0002395	Alzheimer's Disease
+T44	Disease	2125	2127	AD	UMLS:C0002395	Alzheimer's Disease
+T112	Disease	2343	2370	neurodegenerative disorders	UMLS:C0524851	Neurodegenerative Disorders
+T45	Disease	3569	3571	AD	UMLS:C0002395	Alzheimer's Disease
+T114	Phenotype	3657	3680	neurofibrillary tangles	HPO:HP:0002185	Neurofibrillary tangles
+T115	Phenotype	3685	3700	amyloid plaques	UMLS:C2936349	Plaque, Amyloid
+T46	Disease	4164	4166	AD	UMLS:C0002395	Alzheimer's Disease
+T47	Disease	4388	4390	AD	UMLS:C0002395	Alzheimer's Disease
+T36	Disease	4546	4557	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T111	Disease	4603	4634	mild cognitive impairment (MCI)	UMLS:C1270972	Mild cognitive disorder
+T37	Disease	4850	4861	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T4	AgeGroup	4977	4984	elderly	null	null
+T48	Disease	4953	4955	AD	UMLS:C0002395	Alzheimer's Disease
+T5	AgeGroup	5168	5175	elderly	null	null
+T49	Disease	5153	5155	AD	UMLS:C0002395	Alzheimer's Disease
+T129	Ethnicity	5286	5292	Sweden	UMLS:C1710263	Swedish
+T50	Disease	5315	5317	AD	UMLS:C0002395	Alzheimer's Disease
+T127	Phenotype	5375	5392	cognitive decline	HPO:HP:0001268	Mental deterioration
+T51	Disease	5599	5601	AD	UMLS:C0002395	Alzheimer's Disease
+T52	Disease	5460	5462	AD	UMLS:C0002395	Alzheimer's Disease
+T104	Disease	5555	5563	dementia	UMLS:C0497327	Dementia
+T6	AgeGroup	5814	5821	elderly	null	null
+T7	AgeGroup	6103	6110	elderly	null	null
+T103	Disease	6221	6229	dementia	UMLS:C0497327	Dementia
+T117	Disease	6238	6263	mild cognitive impairment	UMLS:C1270972	Mild cognitive disorder
+T118	Phenotype	6392	6412	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T130	Measure	6429	6465	mini mental state examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T131	ScaleMax	6475	6492	27 points or more	null	null
+T132	Measure	6614	6618	MMSE	UMLS:C0451306	Mini-mental state examination
+T133	ScaleMin	6629	6631	25	null	null
+T134	ScaleMax	6635	6637	28	null	null
+T135	AgeGroup	6654	6684	between 60 and 85 years of age	UMLS:C0683973	Middle Aged Adult [Disease/Finding]
+T136	AgeGroup	6654	6684	between 60 and 85 years of age	UMLS:C0001792	Elderly (population group)
+T137	AgeGroup	6654	6684	between 60 and 85 years of age	UMLS:C0001795	Aged, 80 and over
+T138	Measure	6839	6843	MMSE	UMLS:C0451306	Mini-mental state examination
+T139	Measure	7025	7082	Alzheimer's Disease Assessment Scale (ADAS-cog 85 points)	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T140	Measure	7084	7094	clock test	null	null
+T141	Measure	7096	7113	cube copying test	null	null
+T142	Measure	7118	7155	A Quick Test of cognitive speed (AQT)	null	null
+T158	Disease	7225	7233	dementia	UMLS:C0497327	Dementia
+T160	Disease	7237	7240	MCI	UMLS:C1270972	Mild cognitive disorder
+T53	Disease	8180	8182	AD	UMLS:C0002395	Alzheimer's Disease
+T8	AgeGroup	8787	8794	elderly	null	null
+T143	Demographic	9335	9346	Minneapolis	null	null
+T144	Demographic	9352	9355	USA	UMLS:C0041703	United States
+T145	Demographic	9294	9306	Gaithersburg	null	null
+T146	Demographic	9312	9315	USA	UMLS:C0041703	United States
+T9	AgeGroup	9833	9840	elderly	null	null
+T105	Disease	10003	10011	dementia	UMLS:C0497327	Dementia
+T54	Disease	10259	10261	AD	UMLS:C0002395	Alzheimer's Disease
+T128	Disease	10324	10327	MCI	UMLS:C1270972	Mild cognitive disorder
+T147	Demographic	10485	10488	USA	UMLS:C0041703	United States
+T148	Demographic	10472	10479	Chicago	UMLS:C0008044	Chicago
+T10	AgeGroup	11153	11160	elderly	null	null
+T55	Disease	11119	11121	AD	UMLS:C0002395	Alzheimer's Disease
+T11	AgeGroup	11387	11394	elderly	null	null
+T56	Disease	11206	11208	AD	UMLS:C0002395	Alzheimer's Disease
+T149	Measure	11304	11308	MMSE	UMLS:C0451306	Mini-mental state examination
+T12	AgeGroup	11622	11629	elderly	null	null
+T57	Disease	11584	11586	AD	UMLS:C0002395	Alzheimer's Disease
+T58	Disease	11822	11824	AD	UMLS:C0002395	Alzheimer's Disease
+T13	AgeGroup	11995	12002	elderly	null	null
+T16	AgeGroup	12371	12378	elderly	null	null
+T59	Disease	12246	12248	AD	UMLS:C0002395	Alzheimer's Disease
+T14	AgeGroup	12488	12495	elderly	null	null
+T15	AgeGroup	12731	12738	elderly	null	null
+T17	AgeGroup	13077	13084	elderly	null	null
+T60	Disease	12966	12968	AD	UMLS:C0002395	Alzheimer's Disease
+T61	Disease	13132	13134	AD	UMLS:C0002395	Alzheimer's Disease
+T151	Phenotype	13183	13204	neuronal degeneration	HPO:HP:0002180	Neurodegeneration
+T18	AgeGroup	13230	13237	elderly	null	null
+T62	Disease	13321	13323	AD	UMLS:C0002395	Alzheimer's Disease
+T19	AgeGroup	13636	13643	elderly	null	null
+T63	Disease	13815	13817	AD	UMLS:C0002395	Alzheimer's Disease
+T152	Phenotype	13919	13933	senile plaques	HPO:HP:0100256	Senile plaques
+T153	Phenotype	13938	13961	neurofibrillary tangles	HPO:HP:0002185	Neurofibrillary tangles
+T64	Disease	14200	14202	AD	UMLS:C0002395	Alzheimer's Disease
+T65	Disease	14262	14264	AD	UMLS:C0002395	Alzheimer's Disease
+T66	Disease	14347	14349	AD	UMLS:C0002395	Alzheimer's Disease
+T67	Disease	14402	14404	AD	UMLS:C0002395	Alzheimer's Disease
+T68	Disease	14514	14516	AD	UMLS:C0002395	Alzheimer's Disease
+T69	Disease	14619	14621	AD	UMLS:C0002395	Alzheimer's Disease
+T70	Disease	14724	14726	AD	UMLS:C0002395	Alzheimer's Disease
+T71	Disease	14980	14982	AD	UMLS:C0002395	Alzheimer's Disease
+T72	Disease	15062	15064	AD	UMLS:C0002395	Alzheimer's Disease
+T73	Disease	15322	15324	AD	UMLS:C0002395	Alzheimer's Disease
+T74	Disease	15596	15598	AD	UMLS:C0002395	Alzheimer's Disease
+T75	Disease	15724	15726	AD	UMLS:C0002395	Alzheimer's Disease
+T76	Disease	15912	15914	AD	UMLS:C0002395	Alzheimer's Disease
+T77	Disease	16027	16029	AD	UMLS:C0002395	Alzheimer's Disease
+T78	Disease	16204	16206	AD	UMLS:C0002395	Alzheimer's Disease
+T79	Disease	16302	16304	AD	UMLS:C0002395	Alzheimer's Disease
+T80	Disease	16689	16691	AD	UMLS:C0002395	Alzheimer's Disease
+T119	Phenotype	16934	16954	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T120	Phenotype	17169	17190	cognitive dysfunction	HPO:HP:0100543	Cognitive impairment
+T157	Drug	17009	17023	MMP inhibitors	UMLS:C1513016	Matrix Metalloproteinase Inhibitors
+T159	Drug	17288	17295	kainate	UMLS:C0205812	Kainate
+T161	Phenotype	17569	17589	neuronal dysfunction	UMLS:C0751377	Neurologic Dysfunction
+T162	Phenotype	17604	17626	excitotoxic cell death	null	null
+T81	Disease	17684	17686	AD	UMLS:C0002395	Alzheimer's Disease
+T106	Disease	17734	17742	dementia	UMLS:C0497327	Dementia
+T107	Phenotype	17700	17729	decline in cognitive function	HPO:HP:0001268	Mental deterioration
+T108	Phenotype	17651	17680	progressive neurodegeneration	HPO:HP:0002344	Progressive neurologic deterioration
+T38	Disease	17893	17904	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T82	Disease	17836	17838	AD	UMLS:C0002395	Alzheimer's Disease
+T121	Disease	17925	17950	mild cognitive impairment	UMLS:C1270972	Mild cognitive disorder
+T20	AgeGroup	18127	18134	elderly	null	null
+T83	Disease	18040	18042	AD	UMLS:C0002395	Alzheimer's Disease
+T122	Phenotype	18071	18091	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T21	AgeGroup	18308	18315	elderly	null	null
+T84	Disease	18406	18408	AD	UMLS:C0002395	Alzheimer's Disease
+T22	AgeGroup	18471	18478	elderly	null	null
+T85	Disease	18802	18804	AD	UMLS:C0002395	Alzheimer's Disease
+T86	Disease	19233	19235	AD	UMLS:C0002395	Alzheimer's Disease
+T163	Phenotype	19278	19299	neuronal degeneration	HPO:HP:0002180	Neurodegeneration
+T164	Phenotype	19317	19340	neurofibrillary tangles	HPO:HP:0002185	Neurofibrillary tangles
+T23	AgeGroup	19396	19403	elderly	null	null
+T87	Disease	19499	19501	AD	UMLS:C0002395	Alzheimer's Disease
+T165	Phenotype	19555	19594	progressive neurodegenerative processes	HPO:HP:0002344	Progressive neurologic deterioration
+T24	AgeGroup	19671	19678	elderly	null	null
+T88	Disease	19828	19830	AD	UMLS:C0002395	Alzheimer's Disease
+T26	AgeGroup	20070	20077	elderly	null	null
+T89	Disease	20041	20043	AD	UMLS:C0002395	Alzheimer's Disease
+T25	AgeGroup	20298	20305	elderly	null	null
+T90	Disease	20260	20262	AD	UMLS:C0002395	Alzheimer's Disease
+T91	Disease	20590	20592	AD	UMLS:C0002395	Alzheimer's Disease
+T92	Disease	21068	21070	AD	UMLS:C0002395	Alzheimer's Disease
+T93	Disease	21180	21182	AD	UMLS:C0002395	Alzheimer's Disease
+T94	Disease	21156	21174	dementia disorders	UMLS:C0497327	Dementia
+T123	Phenotype	21552	21572	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T124	Phenotype	21649	21669	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T95	Disease	21769	21771	AD	UMLS:C0002395	Alzheimer's Disease
+T166	Phenotype	21806	21827	neuronal degeneration	HPO:HP:0002180	Neurodegeneration
+T27	AgeGroup	21878	21885	elderly	null	null
+T96	Disease	21933	21935	AD	UMLS:C0002395	Alzheimer's Disease
+T97	Disease	22107	22109	AD	UMLS:C0002395	Alzheimer's Disease
+T28	AgeGroup	22195	22202	elderly	null	null
+T125	Phenotype	22398	22419	cognitive dysfunction	HPO:HP:0100543	Cognitive impairment
+T167	Phenotype	22259	22280	neuronal degeneration	HPO:HP:0002180	Neurodegeneration
+T168	Phenotype	22322	22345	neurofibrillary tangles	HPO:HP:0002185	Neurofibrillary tangles
+R1	hasScale	6429	6465	Measure	6475	6492	ScaleMax
+R2	hasScale	6614	6618	Measure	6629	6631	ScaleMin
+R3	hasScale	6614	6618	Measure	6635	6637	ScaleMax

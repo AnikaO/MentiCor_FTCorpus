@@ -1,0 +1,386 @@
+T1	Drug	94	119	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T46	Disease	123	142	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T75	Phenotype	0	19	Hippocampal atrophy	UMLS:C3280737	Hippocampal atrophy (1 patient)
+T76	Phenotype	28	48	white-matter changes	UMLS:C1833300	White matter changes
+T2	Drug	230	262	cholinesterase inhibitors (ChEI)	UMLS:C0008425	Cholinesterase Inhibitors
+T47	Disease	311	330	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T77	Phenotype	342	376	medial temporal lobe atrophy (MTA)	null	null
+T78	Phenotype	381	413	white matter hyperintensity (WMH	UMLS:C2938912	White matter hyperintensities
+T48	Disease	446	487	very mild to moderate Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T79	Drug	497	522	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T80	Measure	628	658	Clinical Dementia Rating (CDR)	UMLS:C0451074	Clinical dementia rating scale
+T81	Measure	660	701	Taiwanese Mental State Examination (TMSE)	null	null
+T82	Phenotype	726	729	MTA	null	null
+T83	Phenotype	734	737	WMH	UMLS:C2938912	White matter hyperintensities
+T84	Measure	816	820	TMSE	null	null
+T85	Measure	917	921	TMSE	null	null
+T86	Phenotype	968	971	MTA	null	null
+T87	Phenotype	1144	1147	WMH	UMLS:C2938912	White matter hyperintensities
+T11	Drug	1277	1281	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T12	Drug	1375	1387	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T88	AgeGroup	1241	1252	younger age	null	null
+T89	Phenotype	1312	1315	MTA	null	null
+T90	Measure	1356	1360	TMSE	null	null
+T13	Drug	1425	1429	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T49	Disease	1489	1500	Alzheimer’s	UMLS:C0002395	Alzheimer's Disease
+T91	AgeGroup	1389	1400	Younger age	null	null
+T92	Phenotype	1459	1462	MTA	null	null
+T14	Drug	1576	1580	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T93	Phenotype	1512	1515	WMH	UMLS:C2938912	White matter hyperintensities
+T50	Disease	1730	1771	mild to moderate Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T94	Drug	1582	1615	Cholinesterase inhibitors (ChEIs)	UMLS:C0008425	Cholinesterase Inhibitors
+T95	Phenotype	1692	1712	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T96	Drug	1913	1918	ChEIs	UMLS:C0008425	Cholinesterase Inhibitors
+T54	Disease	1941	1949	early AD	UMLS:C0750901	Alzheimer Disease, Early Onset
+T15	Drug	2089	2101	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T55	Disease	2293	2295	AD	UMLS:C0002395	Alzheimer's Disease
+T56	Disease	2462	2464	AD	UMLS:C0002395	Alzheimer's Disease
+T58	Disease	2427	2458	mild cognitive impairment (MCI)	UMLS:C1270972	Mild cognitive disorder
+T97	Phenotype	2348	2377	medial temporal atrophy (MTA)	null	null
+T16	Drug	2619	2623	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T98	Phenotype	2573	2576	MTA	null	null
+T99	Phenotype	2692	2725	white matter hyperintensity (WMH)	UMLS:C2938912	White matter hyperintensities
+T100	Phenotype	2833	2854	cognitive dysfunction	HPO:HP:0100543	Cognitive impairment
+T17	Drug	2912	2916	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T57	Disease	2888	2890	AD	UMLS:C0002395	Alzheimer's Disease
+T101	Demographic	2868	2874	Taiwan	UMLS:C0039260	Taiwan
+T18	Drug	3057	3061	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T51	Disease	3192	3203	Alzheimer’s	UMLS:C0002395	Alzheimer's Disease
+T102	Phenotype	2990	2993	WMH	UMLS:C2938912	White matter hyperintensities
+T59	Disease	3304	3306	AD	UMLS:C0002395	Alzheimer's Disease
+T103	Phenotype	3269	3272	WMH	UMLS:C2938912	White matter hyperintensities
+T19	Drug	3403	3415	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T104	Phenotype	3357	3360	WMH	UMLS:C2938912	White matter hyperintensities
+T20	Drug	3555	3567	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T60	Disease	3530	3532	AD	UMLS:C0002395	Alzheimer's Disease
+T10	Drug	3687	3719	cholinesterase inhibitor therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T61	Disease	3596	3620	very mild to moderate AD	UMLS:C0002395	Alzheimer's Disease
+T105	Measure	3622	3652	Clinical Dementia Rating (CDR)	UMLS:C0451074	Clinical dementia rating scale
+T106	ScaleMin	3660	3663	0.5	null	null
+T107	ScaleMax	3666	3667	2	null	null
+T62	Disease	3851	3853	AD	UMLS:C0002395	Alzheimer's Disease
+T63	Disease	4031	4042	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T8	Drug	4255	4279	cholinesterase inhibitor	UMLS:C0008425	Cholinesterase Inhibitors
+T108	Measure	4385	4431	TMSE (Taiwanese Mini-Mental State Examination)	null	null
+T109	Measure	4452	4455	CDR	UMLS:C0451074	Clinical dementia rating scale
+T9	Drug	4590	4614	cholinesterase inhibitor	UMLS:C0008425	Cholinesterase Inhibitors
+T110	Measure	4493	4497	TMSE	null	null
+T111	Measure	4502	4505	CDR	UMLS:C0451074	Clinical dementia rating scale
+T21	Drug	4846	4850	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T112	Drug	4856	4861	ChEIs	UMLS:C0008425	Cholinesterase Inhibitors
+T113	Drug	4891	4900	donepezil	DrugBank:DB00843	Donepezil
+T114	Drug	4918	4930	rivastigmine	DrugBank:DB00989	Rivastigmine
+T115	Drug	4951	4962	galantamine	DrugBank:DB00674	Galantamine
+T22	Drug	5158	5162	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T116	Drug	4994	4999	ChEIs	UMLS:C0008425	Cholinesterase Inhibitors
+T117	Drug	5062	5071	donepezil	DrugBank:DB00843	Donepezil
+T118	Drug	5084	5096	rivastigmine	DrugBank:DB00989	Rivastigmine
+T119	Drug	5112	5123	galantamine	DrugBank:DB00674	Galantamine
+T120	Demographic	5380	5383	USA	UMLS:C0041703	United States
+T121	Demographic	5461	5468	Germany	UMLS:C0017480	Germany
+T122	Phenotype	6184	6187	MTA	null	null
+T123	Phenotype	6395	6398	MTA	null	null
+T124	Phenotype	6434	6462	medial temporal lobe atrophy	null	null
+T125	Phenotype	6496	6499	MTA	null	null
+T126	Phenotype	6548	6551	MTA	null	null
+T127	Phenotype	6613	6616	MTA	null	null
+T128	Phenotype	6634	6637	MTA	null	null
+T129	AgeGroup	6684	6706	75-years-old and under	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T130	AgeGroup	6684	6706	75-years-old and under	AgeGroups:C0683973	middle aged adult (45-64 years)
+T131	AgeGroup	6684	6706	75-years-old and under	AgeGroups:C0001675	adult (19-44 years)
+T132	AgeGroup	6684	6706	75-years-old and under	AgeGroups:C0238598	young adult (19-24 years)
+T133	AgeGroup	6684	6706	75-years-old and under	AgeGroups:C0205653	adolescent (13-18 years)
+T134	AgeGroup	6684	6706	75-years-old and under	AgeGroups:C0008059	children (6-12 years)
+T135	AgeGroup	6684	6706	75-years-old and under	AgeGroups:C0008100	preschool children (2-5 years)
+T137	AgeGroup	6684	6706	75-years-old and under	AgeGroups:C0021289	newborn
+T136	AgeGroup	6684	6706	75-years-old and under	AgeGroups:C0021270	infant
+T139	AgeGroup	6721	6735	older than 75 	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T140	AgeGroup	6721	6735	older than 75 	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T138	Phenotype	6744	6747	MTA	null	null
+T141	Phenotype	6801	6804	MTA	null	null
+T142	Phenotype	6833	6836	WMH	UMLS:C2938912	White matter hyperintensities
+T143	Phenotype	7088	7091	WMH	UMLS:C2938912	White matter hyperintensities
+T145	Phenotype	7159	7186	white matter hyperintensity	UMLS:C2938912	White matter hyperintensities
+T144	Phenotype	7192	7195	WMH	UMLS:C2938912	White matter hyperintensities
+T146	Phenotype	7301	7304	WMH	UMLS:C2938912	White matter hyperintensities
+T147	Phenotype	7327	7330	WMH	UMLS:C2938912	White matter hyperintensities
+T148	Phenotype	7414	7417	WMH	UMLS:C2938912	White matter hyperintensities
+T149	Phenotype	7469	7472	WMH	UMLS:C2938912	White matter hyperintensities
+T150	Phenotype	7552	7555	WMH	UMLS:C2938912	White matter hyperintensities
+T151	Phenotype	7586	7589	WMH	UMLS:C2938912	White matter hyperintensities
+T152	Phenotype	7716	7719	MTA	null	null
+T153	Phenotype	7724	7727	WMH	UMLS:C2938912	White matter hyperintensities
+T154	Phenotype	7914	7917	MTA	null	null
+T155	Phenotype	7968	7971	WMH	UMLS:C2938912	White matter hyperintensities
+T156	Phenotype	8608	8611	MTA	null	null
+T33	Phenotype	8616	8619	WMH	UMLS:C2938912	White matter hyperintensities
+T158	Phenotype	8671	8674	WMH	UMLS:C2938912	White matter hyperintensities
+T159	Phenotype	8679	8682	MTA	null	null
+T160	Drug	8774	8799	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T161	Measure	8919	8923	TMSE	null	null
+T162	Measure	9184	9188	TMSE	null	null
+T64	Disease	9348	9372	very mild to moderate AD	UMLS:C0002395	Alzheimer's Disease
+T163	Gender	9324	9329	women	Gender:C0015780	female
+T164	Gender	9338	9341	men	Gender:C0086582	male
+T165	Measure	9588	9592	TMSE	null	null
+T166	Measure	9630	9633	CDR	UMLS:C0451074	Clinical dementia rating scale
+T182	Measure	10663	10667	TMSE	null	null
+T183	Measure	10754	10758	TMSE	null	null
+T184	Measure	10810	10814	TMSE	null	null
+T185	Measure	10902	10906	TMSE	null	null
+T186	Phenotype	10991	10994	WMH	UMLS:C2938912	White matter hyperintensities
+T187	Phenotype	11023	11026	WMH	UMLS:C2938912	White matter hyperintensities
+T188	Phenotype	11206	11209	WMH	UMLS:C2938912	White matter hyperintensities
+T363	Phenotype	11547	11550	WMH	UMLS:C2938912	White matter hyperintensities
+T23	Drug	11725	11729	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T189	Phenotype	11657	11660	MTA	null	null
+T190	Measure	11675	11679	TMSE	null	null
+T191	Measure	11814	11818	TMSE	null	null
+T192	Phenotype	11880	11883	MTA	null	null
+T193	Phenotype	11970	11973	MTA	null	null
+T6	Drug	12820	12849	ChEI cholinesterase inhibitor	UMLS:C0008425	Cholinesterase Inhibitors
+T24	Drug	12278	12290	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T25	Drug	12760	12772	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T194	Measure	12147	12151	TMSE	null	null
+T195	Phenotype	12202	12205	MTA	null	null
+T196	Measure	12245	12249	TMSE	null	null
+T197	Measure	12379	12383	TMSE	null	null
+T198	ScaleMax	12414	12425	more than 2	null	null
+T199	AgeGroup	12506	12527	60-years old or older	AgeGroups:C0683973	middle aged adult (45-64 years)
+T200	AgeGroup	12506	12527	60-years old or older	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T201	AgeGroup	12506	12527	60-years old or older	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T202	AgeGroup	12585	12610	younger than 60-years old	AgeGroups:C0683973	middle aged adult (45-64 years)
+T203	AgeGroup	12585	12610	younger than 60-years old	AgeGroups:C0001675	adult (19-44 years)
+T204	AgeGroup	12585	12610	younger than 60-years old	AgeGroups:C0238598	young adult (19-24 years)
+T205	AgeGroup	12585	12610	younger than 60-years old	AgeGroups:C0205653	adolescent (13-18 years)
+T206	AgeGroup	12585	12610	younger than 60-years old	AgeGroups:C0008059	children (6-12 years)
+T207	AgeGroup	12585	12610	younger than 60-years old	AgeGroups:C0008100	preschool children (2-5 years)
+T208	AgeGroup	12585	12610	younger than 60-years old	AgeGroups:C0021270	infant
+T209	AgeGroup	12585	12610	younger than 60-years old	AgeGroups:C0021289	newborn
+T210	Phenotype	12662	12665	MTA	null	null
+T211	AgeGroup	12724	12745	60-years old or older	AgeGroups:C0683973	middle aged adult (45-64 years)
+T212	AgeGroup	12724	12745	60-years old or older	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T213	AgeGroup	12724	12745	60-years old or older	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T214	Measure	12774	12818	TMSE Taiwanese Mini-Mental State Examination	null	null
+T26	Drug	13102	13106	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T215	Measure	12954	12958	TMSE	null	null
+T216	Measure	13154	13158	TMSE	null	null
+T217	Measure	13160	13163	CDR	UMLS:C0451074	Clinical dementia rating scale
+T218	Phenotype	13171	13174	MTA	null	null
+T219	Phenotype	13192	13195	WMH	UMLS:C2938912	White matter hyperintensities
+T27	Drug	13239	13243	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T28	Drug	13351	13363	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T220	AgeGroup	13203	13214	Younger age	null	null
+T221	Phenotype	13274	13277	MTA	null	null
+T222	Measure	13330	13334	TMSE	null	null
+T223	Phenotype	13385	13388	WMH	UMLS:C2938912	White matter hyperintensities
+T224	Measure	13429	13433	TMSE	null	null
+T240	Measure	14288	14292	TMSE	null	null
+T241	AgeGroup	14459	14479	60-years old or less	AgeGroups:C0683973	middle aged adult (45-64 years)
+T242	AgeGroup	14459	14479	60-years old or less	AgeGroups:C0001675	adult (19-44 years)
+T243	AgeGroup	14459	14479	60-years old or less	AgeGroups:C0238598	young adult (19-24 years)
+T244	AgeGroup	14459	14479	60-years old or less	AgeGroups:C0205653	adolescent (13-18 years)
+T245	AgeGroup	14459	14479	60-years old or less	AgeGroups:C0008059	children (6-12 years)
+T246	AgeGroup	14459	14479	60-years old or less	AgeGroups:C0008100	preschool children (2-5 years)
+T247	AgeGroup	14459	14479	60-years old or less	AgeGroups:C0021270	infant
+T248	AgeGroup	14459	14479	60-years old or less	AgeGroups:C0021289	newborn
+T249	AgeGroup	14491	14510	older than 60 years	AgeGroups:C0683973	middle aged adult (45-64 years)
+T250	AgeGroup	14491	14510	older than 60 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T251	AgeGroup	14491	14510	older than 60 years	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T252	Phenotype	14643	14646	WMH	UMLS:C2938912	White matter hyperintensities
+T253	Phenotype	14651	14654	MTA	null	null
+T254	Phenotype	14718	14721	WMH	UMLS:C2938912	White matter hyperintensities
+T255	AgeGroup	14791	14825	younger or older than 60-years old	AgeGroups:C0021289	newborn
+T256	AgeGroup	14791	14825	younger or older than 60-years old	AgeGroups:C0021270	infant
+T257	AgeGroup	14791	14825	younger or older than 60-years old	AgeGroups:C0008100	preschool children (2-5 years)
+T258	AgeGroup	14791	14825	younger or older than 60-years old	AgeGroups:C0008059	children (6-12 years)
+T259	AgeGroup	14791	14825	younger or older than 60-years old	AgeGroups:C0205653	adolescent (13-18 years)
+T260	AgeGroup	14791	14825	younger or older than 60-years old	AgeGroups:C0238598	young adult (19-24 years)
+T261	AgeGroup	14791	14825	younger or older than 60-years old	AgeGroups:C0001675	adult (19-44 years)
+T262	AgeGroup	14791	14825	younger or older than 60-years old	AgeGroups:C0683973	middle aged adult (45-64 years)
+T263	AgeGroup	14791	14825	younger or older than 60-years old	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T264	AgeGroup	14791	14825	younger or older than 60-years old	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T265	Phenotype	14858	14861	MTA	null	null
+T266	AgeGroup	14974	14995	60-years old or older	AgeGroups:C0683973	middle aged adult (45-64 years)
+T267	AgeGroup	14974	14995	60-years old or older	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T268	AgeGroup	14974	14995	60-years old or older	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T269	Phenotype	15085	15088	MTA	null	null
+T270	Phenotype	15175	15178	MTA	null	null
+T271	AgeGroup	15209	15216	younger	null	null
+T4	Drug	15740	15769	ChEI cholinesterase inhibitor	UMLS:C0008425	Cholinesterase Inhibitors
+T29	Drug	15585	15597	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T272	AgeGroup	15318	15341	60-years old or younger	AgeGroups:C0683973	middle aged adult (45-64 years)
+T273	AgeGroup	15318	15341	60-years old or younger	AgeGroups:C0001675	adult (19-44 years)
+T274	AgeGroup	15318	15341	60-years old or younger	AgeGroups:C0238598	young adult (19-24 years)
+T275	AgeGroup	15318	15341	60-years old or younger	AgeGroups:C0205653	adolescent (13-18 years)
+T276	AgeGroup	15318	15341	60-years old or younger	AgeGroups:C0008059	children (6-12 years)
+T277	AgeGroup	15318	15341	60-years old or younger	AgeGroups:C0008100	preschool children (2-5 years)
+T278	AgeGroup	15318	15341	60-years old or younger	AgeGroups:C0021270	infant
+T279	AgeGroup	15318	15341	60-years old or younger	AgeGroups:C0021289	newborn
+T280	Phenotype	15410	15413	MTA	null	null
+T281	Phenotype	15474	15477	MTA	null	null
+T282	Measure	15484	15488	TMSE	null	null
+T283	Measure	15649	15653	TMSE	null	null
+T284	Measure	15694	15738	TMSE Taiwanese Mini-Mental State Examination	null	null
+T285	AgeGroup	15612	15631	60 years or younger	AgeGroups:C0021289	newborn
+T286	AgeGroup	15612	15631	60 years or younger	AgeGroups:C0021270	infant
+T287	AgeGroup	15612	15631	60 years or younger	AgeGroups:C0008100	preschool children (2-5 years)
+T288	AgeGroup	15612	15631	60 years or younger	AgeGroups:C0008059	children (6-12 years)
+T289	AgeGroup	15612	15631	60 years or younger	AgeGroups:C0205653	adolescent (13-18 years)
+T290	AgeGroup	15612	15631	60 years or younger	AgeGroups:C0238598	young adult (19-24 years)
+T291	AgeGroup	15612	15631	60 years or younger	AgeGroups:C0001675	adult (19-44 years)
+T292	AgeGroup	15612	15631	60 years or younger	AgeGroups:C0683973	middle aged adult (45-64 years)
+T293	Phenotype	15849	15852	MTA	null	null
+T294	Phenotype	15868	15871	WMH	UMLS:C2938912	White matter hyperintensities
+T295	Measure	16052	16055	CDR	UMLS:C0451074	Clinical dementia rating scale
+T296	Measure	16066	16070	TMSE	null	null
+T297	Phenotype	16082	16085	WMH	UMLS:C2938912	White matter hyperintensities
+T298	Phenotype	16101	16104	MTA	null	null
+T299	Phenotype	16141	16144	WMH	UMLS:C2938912	White matter hyperintensities
+T300	Measure	16188	16192	TMSE	null	null
+T301	Phenotype	16228	16231	MTA	null	null
+T302	AgeGroup	16271	16280	older age	null	null
+T303	Phenotype	16310	16313	MTA	null	null
+T304	Measure	16356	16359	CDR	UMLS:C0451074	Clinical dementia rating scale
+T305	Phenotype	16413	16416	WMH	UMLS:C2938912	White matter hyperintensities
+T306	Phenotype	16510	16513	WMH	UMLS:C2938912	White matter hyperintensities
+T307	Phenotype	16518	16521	MTA	null	null
+T386	Disease	16560	16572	hypertension	UMLS:C0020538	Hypertensive disease
+T387	Disease	16584	16601	diabetes mellitus	UMLS:C0011849	Diabetes Mellitus
+T388	Disease	16613	16627	hyperlipidemia	UMLS:C0020473	Hyperlipidemia
+T389	Disease	16643	16666	obstructive sleep apnea	UMLS:C0520679	Sleep Apnea, Obstructive
+T308	Phenotype	16915	16918	WMH	UMLS:C2938912	White matter hyperintensities
+T390	AgeGroup	16790	16799	older age	null	null
+T391	Disease	16844	16861	diabetes mellitus	UMLS:C0011849	Diabetes Mellitus
+T335	Phenotype	17009	17012	MTA	null	null
+T31	Drug	18316	18328	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T65	Disease	18203	18222	mild to moderate AD	UMLS:C0002395	Alzheimer's Disease
+T316	Phenotype	18398	18401	WMH	UMLS:C2938912	White matter hyperintensities
+T317	Phenotype	18522	18525	WMH	UMLS:C2938912	White matter hyperintensities
+T318	Phenotype	18609	18612	WMH	UMLS:C2938912	White matter hyperintensities
+T338	Phenotype	18238	18241	MTA	null	null
+T339	Phenotype	18483	18486	MTA	null	null
+T340	Phenotype	18663	18666	MTA	null	null
+T368	Measure	18350	18354	TMSE	null	null
+T369	Measure	18580	18584	TMSE	null	null
+T370	Measure	18436	18440	TMSE	null	null
+T383	Measure	18694	18697	CDR	UMLS:C0451074	Clinical dementia rating scale
+T396	AgeGroup	18255	18264	older age	null	null
+T397	AgeGroup	18639	18648	older age	null	null
+T32	Drug	18965	18979	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T319	Phenotype	18785	18788	WMH	UMLS:C2938912	White matter hyperintensities
+T341	Phenotype	18777	18780	MTA	null	null
+T371	Measure	18906	18910	TMSE	null	null
+T372	Measure	19131	19135	TMSE	null	null
+T33	Drug	19574	19586	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T398	Phenotype	19437	19465	medial temporal lobe atrophy	null	null
+T399	Phenotype	19467	19486	hippocampal atrophy	UMLS:C3280737	Hippocampal atrophy (1 patient)
+T400	Phenotype	19492	19518	entorhinal cortex thinning	null	null
+T66	AgeGroup	20083	20088	older	null	null
+T67	Disease	20119	20121	AD	UMLS:C0002395	Alzheimer's Disease
+T342	Phenotype	20057	20060	MTA	null	null
+T68	Disease	20266	20268	AD	UMLS:C0002395	Alzheimer's Disease
+T69	Disease	20508	20510	AD	UMLS:C0002395	Alzheimer's Disease
+T343	Phenotype	20429	20432	MTA	null	null
+T344	Phenotype	20582	20595	prominent MTA	null	null
+T345	Phenotype	20602	20605	MTA	null	null
+T346	Phenotype	20668	20671	MTA	null	null
+T347	AgeGroup	20642	20656	older than 75 	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T348	AgeGroup	20642	20656	older than 75 	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T401	AgeGroup	20706	20729	75 years old or younger	AgeGroups:C0021289	newborn
+T402	AgeGroup	20706	20729	75 years old or younger	AgeGroups:C0021270	infant
+T403	AgeGroup	20706	20729	75 years old or younger	AgeGroups:C0008100	preschool children (2-5 years)
+T404	AgeGroup	20706	20729	75 years old or younger	AgeGroups:C0008059	children (6-12 years)
+T405	AgeGroup	20706	20729	75 years old or younger	AgeGroups:C0205653	adolescent (13-18 years)
+T406	AgeGroup	20706	20729	75 years old or younger	AgeGroups:C0238598	young adult (19-24 years)
+T407	AgeGroup	20706	20729	75 years old or younger	AgeGroups:C0001675	adult (19-44 years)
+T408	AgeGroup	20706	20729	75 years old or younger	AgeGroups:C0683973	middle aged adult (45-64 years)
+T409	AgeGroup	20706	20729	75 years old or younger	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T410	AgeGroup	20706	20729	75 years old or younger	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T34	Drug	20879	20893	ChEI treatment	UMLS:C0008425	Cholinesterase Inhibitors
+T349	Phenotype	20777	20790	prominent MTA	null	null
+T373	Measure	20840	20844	TMSE	null	null
+T350	Phenotype	21013	21016	MTA	null	null
+T374	Measure	21057	21061	TMSE	null	null
+T35	Drug	21154	21166	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T70	Disease	21171	21173	AD	UMLS:C0002395	Alzheimer's Disease
+T351	Phenotype	21078	21081	MTA	null	null
+T411	Phenotype	21095	21114	white matter change	UMLS:C1833300	White matter changes
+T36	Drug	21363	21375	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T412	Disease	21263	21275	hypertension	UMLS:C0020538	Hypertensive disease
+T413	Phenotype	21280	21300	white matter lesions	UMLS:C2752009	White matter lesion
+T37	Drug	21521	21533	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T320	Phenotype	21475	21478	WMH	UMLS:C2938912	White matter hyperintensities
+T38	Drug	21898	21910	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T414	Phenotype	21639	21667	subcortical hyperintensities	null	null
+T39	Drug	22084	22088	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T321	Phenotype	22076	22079	WMH	UMLS:C2938912	White matter hyperintensities
+T375	Measure	22128	22132	TMSE	null	null
+T322	Phenotype	22209	22212	WMH	UMLS:C2938912	White matter hyperintensities
+T415	Phenotype	22170	22196	global white matter lesion	UMLS:C2752009	White matter lesion
+T71	Disease	22321	22323	AD	UMLS:C0002395	Alzheimer's Disease
+T416	Phenotype	22329	22349	white matter changes	UMLS:C1833300	White matter changes
+T417	Phenotype	22369	22388	subcortical changes	null	null
+T429	Phenotype	22417	22442	neurodegenerative process	HPO:HP:0002180	Neurodegeneration
+T323	Phenotype	22637	22640	WMH	UMLS:C2938912	White matter hyperintensities
+T324	Phenotype	22932	22935	WMH	UMLS:C2938912	White matter hyperintensities
+T352	Phenotype	22645	22648	MTA	null	null
+T419	AgeGroup	22855	22862	old age	null	null
+T420	Disease	22665	22677	hypertension	UMLS:C0020538	Hypertensive disease
+T421	Disease	22679	22693	hyperlipidemia	UMLS:C0020473	Hyperlipidemia
+T422	Disease	22695	22712	diabetes mellitus	UMLS:C0011849	Diabetes Mellitus
+T423	Disease	22723	22746	obstructive sleep apnea	UMLS:C0520679	Sleep Apnea, Obstructive
+T424	Disease	22864	22881	diabetes mellitus	UMLS:C0011849	Diabetes Mellitus
+T325	Phenotype	23051	23054	WMH	UMLS:C2938912	White matter hyperintensities
+T425	Phenotype	22989	23015	global white matter change	UMLS:C1833300	White matter changes
+T326	Phenotype	23377	23380	WMH	UMLS:C2938912	White matter hyperintensities
+T353	Phenotype	23326	23329	MTA	null	null
+T376	Measure	23447	23451	TMSE	null	null
+T327	Phenotype	23472	23475	WMH	UMLS:C2938912	White matter hyperintensities
+T354	Phenotype	23481	23484	MTA	null	null
+T377	Measure	23509	23513	TMSE	null	null
+T384	Measure	23518	23521	CDR	UMLS:C0451074	Clinical dementia rating scale
+T328	Phenotype	23611	23614	WMH	UMLS:C2938912	White matter hyperintensities
+T355	Phenotype	23603	23606	MTA	null	null
+T426	Phenotype	23557	23582	neurodegenerative process	HPO:HP:0002180	Neurodegeneration
+T356	Phenotype	23688	23691	MTA	null	null
+T72	Disease	23801	23803	AD	UMLS:C0002395	Alzheimer's Disease
+T427	Disease	23793	23796	MCI	UMLS:C1270972	Mild cognitive disorder
+T73	Disease	24044	24046	AD	UMLS:C0002395	Alzheimer's Disease
+T357	Phenotype	24189	24192	MTA	null	null
+T428	Phenotype	24281	24298	neurodegenerative	HPO:HP:0002180	Neurodegeneration
+T378	Measure	24730	24734	TMSE	null	null
+T379	Measure	24767	24771	TMSE	null	null
+T40	Drug	24969	24981	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T41	Drug	24867	24879	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T380	Measure	25001	25005	TMSE	null	null
+T430	Demographic	24927	24933	Taiwan	UMLS:C0039260	Taiwan
+T431	Phenotype	25144	25161	cognitive decline	HPO:HP:0001268	Mental deterioration
+T74	Disease	25246	25264	early stages of AD	UMLS:C0002395	Alzheimer's Disease
+T42	Drug	25396	25400	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T43	Drug	25350	25354	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T432	Drug	25553	25558	ChEIs	UMLS:C0008425	Cholinesterase Inhibitors
+T433	Drug	25601	25606	ChEIs	UMLS:C0008425	Cholinesterase Inhibitors
+T44	Drug	25666	25670	ChEI	UMLS:C0008425	Cholinesterase Inhibitors
+T329	Phenotype	25797	25800	WMH	UMLS:C2938912	White matter hyperintensities
+T358	Phenotype	25789	25792	MTA	null	null
+T330	Phenotype	25938	25941	WMH	UMLS:C2938912	White matter hyperintensities
+T359	Phenotype	26072	26075	MTA	null	null
+T360	Phenotype	26065	26068	WHM	UMLS:C2938912	White matter hyperintensities
+T361	Phenotype	26131	26134	MTA	null	null
+T381	Measure	26215	26219	TMSE	null	null
+T385	Measure	26221	26224	CDR	UMLS:C0451074	Clinical dementia rating scale
+T331	Phenotype	26331	26334	WMH	UMLS:C2938912	White matter hyperintensities
+T332	Phenotype	26603	26606	WMH	UMLS:C2938912	White matter hyperintensities
+T45	Drug	26735	26747	ChEI therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T333	Phenotype	26661	26664	WMH	UMLS:C2938912	White matter hyperintensities
+T52	Disease	26914	26951	mild to moderate Alzheimer’s dementia	UMLS:C0002395	Alzheimer's Disease
+T362	Phenotype	26806	26809	MTA	null	null
+T434	Drug	26873	26895	cholinesterase therapy	UMLS:C0008425	Cholinesterase Inhibitors
+T435	Phenotype	27001	27021	white matter disease	UMLS:C2830584	White matter disease, unspecified
+T334	Phenotype	27251	27254	WMH	UMLS:C2938912	White matter hyperintensities
+T53	Disease	27480	27500	Alzheimer’s dementia	UMLS:C0002395	Alzheimer's Disease
+T436	Phenotype	27373	27393	white matter disease	UMLS:C2830584	White matter disease, unspecified
+R1	hasScale	3622	3652	Measure	3660	3663	ScaleMin
+R2	hasScale	3622	3652	Measure	3666	3667	ScaleMax
+R3	hasScale	12379	12383	Measure	12414	12425	ScaleMax

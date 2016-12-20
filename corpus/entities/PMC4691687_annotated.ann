@@ -1,0 +1,157 @@
+T1	Disease	36	59	frontotemporal dementia	UMLS:C0338451	Frontotemporal dementia
+T2	Ethnicity	65	72	Belgian	UMLS:C0337797	Belgians
+T37	Phenotype	0	12	Loss of TBK1	null	null
+T3	Disease	145	180	amyotrophic lateral sclerosis (ALS)	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T4	Disease	182	210	frontotemporal dementia (FTD	UMLS:C0338451	Frontotemporal dementia
+T5	Disease	217	224	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T6	Ethnicity	229	236	Belgian	UMLS:C0337797	Belgians
+T7	Disease	237	240	FTD	UMLS:C0338451	Frontotemporal dementia
+T8	Disease	245	248	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T9	Disease	407	410	FTD	UMLS:C0338451	Frontotemporal dementia
+T10	Disease	415	422	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T11	Disease	445	448	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T12	Ethnicity	465	472	Belgian	UMLS:C0337797	Belgians
+T13	Disease	473	480	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T14	Disease	774	777	FTD	UMLS:C0338451	Frontotemporal dementia
+T15	Disease	809	812	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T16	Disease	848	855	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T17	Disease	1230	1242	clinical FTD	UMLS:C0338451	Frontotemporal dementia
+T18	Ethnicity	1250	1257	Belgian	UMLS:C0337797	Belgians
+T19	Disease	1350	1362	clinical ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T20	Disease	1408	1411	FTD	UMLS:C0338451	Frontotemporal dementia
+T21	Disease	1416	1419	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T22	Disease	1458	1498	Frontotemporal lobar degeneration (FTLD)	UMLS:C0751072	Frontotemporal Lobar Degeneration
+T23	Disease	1504	1544	heterogeneous neurodegenerative disorder	UMLS:C0270715	Degenerative Diseases, Central Nervous System
+T24	Disease	1561	1596	amyotrophic lateral sclerosis (ALS)	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T25	Disease	1639	1668	frontotemporal dementia (FTD)	UMLS:C0338451	Frontotemporal dementia
+T26	Disease	1726	1729	FTD	UMLS:C0338451	Frontotemporal dementia
+T27	Disease	1734	1737	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T28	Disease	1831	1838	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T29	Disease	1907	1910	FTD	UMLS:C0338451	Frontotemporal dementia
+T30	Disease	1928	1931	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T31	Disease	2139	2142	FTD	UMLS:C0338451	Frontotemporal dementia
+T32	Disease	2144	2147	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T33	Disease	2153	2160	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T34	Phenotype	2176	2213	TBK1 loss-of-function (LOF) mutations	null	null
+T35	Disease	2247	2250	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T36	Disease	2258	2266	FTLD-TDP	UMLS:C1843792	FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, GRN-RELATED
+T38	Ethnicity	2276	2283	Belgian	UMLS:C0337797	Belgians
+T39	Disease	2284	2287	FTD	UMLS:C0338451	Frontotemporal dementia
+T40	Disease	2342	2354	familial FTD	UMLS:C0338451	Frontotemporal dementia
+T41	Disease	2366	2382	familial FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T42	Ethnicity	2532	2539	Belgian	UMLS:C0337797	Belgians
+T43	Disease	2568	2571	FTD	UMLS:C0338451	Frontotemporal dementia
+T44	Disease	2573	2580	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T45	Disease	2586	2589	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T46	Disease	2643	2646	FTD	UMLS:C0338451	Frontotemporal dementia
+T47	Disease	2663	2688	concomitant ALS (FTD-ALS)	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T49	Disease	2712	2715	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T48	Ethnicity	2731	2738	Belgium	UMLS:C0337797	Belgians
+T50	Disease	3182	3185	FTD	UMLS:C0338451	Frontotemporal dementia
+T51	Disease	3203	3210	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T52	Disease	3232	3235	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T53	Disease	3314	3338	FTD-ALS spectrum disease	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T54	Disease	3374	3377	FTD	UMLS:C0338451	Frontotemporal dementia
+T55	Disease	3403	3410	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T56	Disease	3441	3444	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T57	Disease	3500	3503	FTD	UMLS:C0338451	Frontotemporal dementia
+T58	Disease	3523	3530	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T59	Disease	3554	3557	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T60	Disease	3611	3615	FTLD	UMLS:C0751072	Frontotemporal Lobar Degeneration
+T61	Disease	3620	3623	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T62	Disease	3691	3693	AD	UMLS:C0002395	Alzheimer's Disease
+T63	Disease	3779	3786	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T64	Ethnicity	4004	4011	Belgian	UMLS:C0337797	Belgians
+T65	Disease	4085	4126	neurodegenerative or psychiatric diseases	UMLS:C0524851	Neurodegenerative Disorders
+T66	Disease	4085	4126	neurodegenerative or psychiatric diseases	UMLS:C0004936	Mental disorders
+T67	Measure	4138	4167	Mini-Mental State Examination	UMLS:C0451306	Mini-mental state examination
+T68	ScaleMax	4174	4177	>26	null	null
+T76	Disease	8534	8551	dementia syndrome	UMLS:C0497327	Dementia
+T77	Disease	8559	8562	FTD	UMLS:C0338451	Frontotemporal dementia
+T78	Disease	8574	8594	unspecified dementia	UMLS:C0497327	Dementia
+T79	Disease	8640	8643	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T80	Disease	8755	8758	FTD	UMLS:C0338451	Frontotemporal dementia
+T81	Disease	8762	8769	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T84	Disease	8785	8790	bvFTD	UMLS:C4011788	Frontotemporal dementia, behavioral variant
+T85	Phenotype	8998	9023	early behavioral problems	HPO:HP:0000708	Behavioral abnormality
+T82	Disease	9042	9045	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T59	Disease	9073	9080	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T88	Disease	9104	9125	ALS with spinal onset	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T89	Disease	9161	9181	motor neuron disease	UMLS:C0085084	Motor Neuron Disease
+T91	AgeGroup	9392	9399	age ≥70	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T92	AgeGroup	9392	9399	age ≥70	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T90	AgeGroup	9445	9453	children	null	null
+T93	Age	9507	9534	79, 81, and 82 years of age	null	null
+T94	Age	9507	9534	79, 81, and 82 years of age	null	null
+T95	Age	9507	9534	79, 81, and 82 years of age	null	null
+T96	Disease	9594	9613	psychiatric disease	UMLS:C0004936	Mental disorders
+T97	Disease	9670	9673	FTD	UMLS:C0338451	Frontotemporal dementia
+T98	AgeGroup	9735	9743	children	null	null
+T99	Age	9759	9768	age of 81	null	null
+T100	Phenotype	9788	9798	depression	HPO:HP:0000716	Depression
+T101	Age	9821	9827	age 68	null	null
+T102	Disease	9857	9870	schizophrenia	UMLS:C0036341	Schizophrenia
+T103	AgeGroup	9896	9904	children	null	null
+T104	Phenotype	9925	9938	alcohol abuse	UMLS:C0085762	Alcohol abuse
+T105	Age	9957	9966	age of 70	null	null
+T106	Disease	10171	10174	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T107	Age	10321	10327	age 63	null	null
+T108	Disease	11083	11086	FTD	UMLS:C0338451	Frontotemporal dementia
+T109	Disease	11126	11133	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T110	Disease	11138	11168	behavioral variant FTD (bvFTD)	UMLS:C4011788	Frontotemporal dementia, behavioral variant
+T114	Disease	11364	11369	bvFTD	UMLS:C4011788	Frontotemporal dementia, behavioral variant
+T115	Phenotype	11380	11403	muscular fasciculations	UMLS:C0015644	Muscular fasciculation
+T116	Disease	11477	11493	spinal onset ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T117	Disease	11535	11538	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T118	Disease	11639	11642	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T119	Disease	11646	11653	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T120	Disease	11737	11740	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T121	Disease	11874	11877	FTD	UMLS:C0338451	Frontotemporal dementia
+T122	Disease	11897	11900	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T123	Disease	11920	11923	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T124	Phenotype	11939	11954	memory deficits	HPO:HP:0002354	Memory impairment
+T125	Phenotype	11977	12001	behavioral disinhibition	UMLS:C0474398	Disinhibited behavior
+T126	Disease	12114	12118	FTLD	UMLS:C0751072	Frontotemporal Lobar Degeneration
+T129	Phenotype	12350	12375	short dystrophic neurites	UMLS:C2674684	Dystrophic neurites
+T132	Phenotype	12293	12345	TDP-43 and p62 neuronal cytoplasmic inclusions (NCI)	null	null
+T133	Phenotype	12614	12633	TDP-43 positive NCI	null	null
+T134	Disease	13092	13095	FTD	UMLS:C0338451	Frontotemporal dementia
+T135	Disease	13112	13119	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T136	Disease	13141	13144	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T139	Phenotype	13025	13042	TBK1 LOF mutation	null	null
+T137	Disease	13163	13166	FTD	UMLS:C0338451	Frontotemporal dementia
+T138	Disease	13221	13233	familial FTD	UMLS:C0338451	Frontotemporal dementia
+T140	Phenotype	13168	13186	TBK1 LOF mutations	null	null
+T141	Disease	13365	13373	FTLD-TDP	UMLS:C1843792	FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, GRN-RELATED
+T142	Disease	13391	13394	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T146	Disease	15756	15763	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T147	Disease	15935	15938	FTD	UMLS:C0338451	Frontotemporal dementia
+T148	Disease	15942	15949	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T149	Disease	16001	16006	bvFTD	UMLS:C4011788	Frontotemporal dementia, behavioral variant
+T150	Phenotype	16165	16182	amnestic deficits	null	null
+T147	Phenotype	16187	16207	orientation problems	null	null
+T148	Disease	16329	16331	AD	UMLS:C0002395	Alzheimer's Disease
+T153	Disease	16382	16390	FTLD-TDP	UMLS:C1843792	FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, GRN-RELATED
+T154	Disease	16436	16438	AD	UMLS:C0002395	Alzheimer's Disease
+T160	Age	16963	16972	age of 63	null	null
+T161	AgeGroup	17079	17088	later age	null	null
+T166	Disease	17731	17738	FTD-ALS	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T167	Disease	17769	17777	FTLD-TDP	UMLS:C1843792	FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, GRN-RELATED
+T168	Disease	17948	17974	neurodegenerative diseases	UMLS:C0524851	Neurodegenerative Disorders
+T169	Phenotype	17986	18004	reduced penetrance	HPO:HP:0003829	Incomplete penetrance
+T170	Disease	18759	18762	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T171	Disease	18844	18848	FTLD	UMLS:C0751072	Frontotemporal Lobar Degeneration
+T172	Disease	18853	18856	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T173	Phenotype	19154	19171	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T174	Phenotype	19254	19271	autophagy defects	null	null
+T175	Phenotype	19485	19502	neurodegeneration	HPO:HP:0002180	Neurodegeneration
+T181	Disease	19285	19288	FTD	UMLS:C0338451	Frontotemporal dementia
+T182	Disease	19289	19292	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+T183	Disease	19407	19415	glaucoma	UMLS:C0017601	Glaucoma
+T184	Phenotype	19463	19481	autophagic defects	null	null
+T176	Phenotype	19658	19679	LOF mutations in TBK1	null	null
+T177	Disease	19700	19726	FTD-ALS spectrum disorders	UMLS:C3888102	Frontotemporal Dementia With Motor Neuron Disease
+T178	Ethnicity	19732	19739	Belgian	UMLS:C0337797	Belgians
+T179	Disease	19949	19952	FTD	UMLS:C0338451	Frontotemporal dementia
+T180	Disease	19957	19960	ALS	UMLS:C0002736	Amyotrophic Lateral Sclerosis
+R1	hasScale	4138	4167	Measure	4174	4177	ScaleMax

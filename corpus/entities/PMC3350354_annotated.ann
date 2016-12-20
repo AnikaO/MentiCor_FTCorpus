@@ -1,0 +1,293 @@
+T1	Phenotype	45	62	Cognitive Decline	HPO:HP:0001268	Mental deterioration
+T2	Phenotype	70	90	Cognitively Disabled	HPO:HP:0100543	Cognitive impairment
+T3	AgeGroup	91	95	Aged	null	null
+T4	Drug	0	15	CNS Medications	UMLS:C0007680	Central Nervous System Agents
+T36	Phenotype	223	240	cognitive decline	HPO:HP:0001268	Mental deterioration
+T37	Phenotype	292	309	cognitive decline	HPO:HP:0001268	Mental deterioration
+T80	AgeGroup	213	217	aged	null	null
+T98	Drug	135	148	Psychotropics	UMLS:C0033978	Psychotropic Drugs
+T103	Drug	153	172	antiepileptics (AE)	UMLS:C0003299	Antiepileptic Agents
+T105	Disease	244	252	dementia	UMLS:C0497327	Dementia
+T38	Phenotype	602	619	cognitive decline	HPO:HP:0001268	Mental deterioration
+T71	Phenotype	644	664	cognitively disabled	HPO:HP:0100543	Cognitive impairment
+T92	AgeGroup	626	643	older (≥65 years)	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T93	AgeGroup	626	643	older (≥65 years)	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T99	Drug	375	388	psychotropics	UMLS:C0033978	Psychotropic Drugs
+T136	Drug	434	452	antipsychotics, AP	UMLS:C0040615	Antipsychotic Agents
+T147	Drug	457	476	antidepressants, AD	UMLS:C0003289	Antidepressive Agents
+T148	Drug	479	491	opioids (Op)	UMLS:C0242402	Opioids
+T149	Drug	493	515	anticholinergics (ACh)	UMLS:C0242896	Anticholinergic Agents
+T150	Drug	519	522	AEs	UMLS:C0003299	Antiepileptic Agents
+T81	AgeGroup	726	730	aged	null	null
+T172	Demographic	822	829	Finland	UMLS:C0016132	Finland
+T174	Demographic	815	820	Lieto	null	null
+T72	Phenotype	853	873	cognitively disabled	HPO:HP:0100543	Cognitive impairment
+T173	Measure	875	879	MMSE	UMLS:C0451306	Mini-mental state examination
+T175	ScaleMin	886	887	0	null	null
+T176	ScaleMax	888	890	23	null	null
+T177	Measure	1001	1037	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T178	Measure	1195	1199	MMSE	UMLS:C0451306	Mini-mental state examination
+T39	Phenotype	1308	1325	cognitive decline	HPO:HP:0001268	Mental deterioration
+T94	AgeGroup	1329	1344	elders aged ≥75	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T95	AgeGroup	1329	1344	elders aged ≥75	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T119	Drug	1252	1255	BZD	UMLS:C0005064	Benzodiazepines
+T179	Measure	1384	1388	MMSE	UMLS:C0451306	Mini-mental state examination
+T196	Drug	1263	1275	psychotropic	UMLS:C0033978	Psychotropic Drugs
+T6	Drug	1604	1625	drug with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T120	Drug	1551	1554	BZD	UMLS:C0005064	Benzodiazepines
+T121	Drug	1592	1595	BZD	UMLS:C0005064	Benzodiazepines
+T138	Drug	1559	1561	AP	UMLS:C0040615	Antipsychotic Agents
+T7	Drug	1783	1804	drug with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T8	Drug	1923	1944	drug with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T40	Phenotype	1854	1871	cognitive decline	HPO:HP:0001268	Mental deterioration
+T122	Drug	1700	1703	BZD	UMLS:C0005064	Benzodiazepines
+T151	Drug	1708	1710	AD	UMLS:C0003289	Antidepressive Agents
+T159	Drug	1743	1746	ACh	UMLS:C0242896	Anticholinergic Agents
+T204	AgeGroup	1884	1893	≥75 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T205	AgeGroup	1884	1893	≥75 years	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T41	Phenotype	2032	2049	cognitive decline	HPO:HP:0001268	Mental deterioration
+T42	Phenotype	2148	2165	cognitive decline	HPO:HP:0001268	Mental deterioration
+T73	Phenotype	2057	2077	cognitively disabled	HPO:HP:0100543	Cognitive impairment
+T82	AgeGroup	2078	2082	aged	null	null
+T123	Drug	1959	1962	BZD	UMLS:C0005064	Benzodiazepines
+T197	Drug	1970	1993	psychotropic medication	UMLS:C0033978	Psychotropic Drugs
+T198	Drug	2111	2135	psychotropic medications	UMLS:C0033978	Psychotropic Drugs
+T100	Drug	2264	2277	Psychotropics	UMLS:C0033978	Psychotropic Drugs
+T106	Disease	2398	2406	dementia	UMLS:C0497327	Dementia
+T206	Drug	2292	2317	antiepileptic medications	UMLS:C0003299	Antiepileptic Agents
+T210	Phenotype	2357	2394	behavioral and psychological symptoms	UMLS:C0004941	Behavioral Symptoms
+T211	Phenotype	2357	2394	behavioral and psychological symptoms	UMLS:C0233397	Psychological symptom
+T43	Phenotype	2558	2575	cognitive decline	HPO:HP:0001268	Mental deterioration
+T214	Disease	2579	2597	dementing diseases	UMLS:C0497327	Dementia
+T83	AgeGroup	2700	2704	aged	null	null
+T137	Drug	2599	2631	Conventional antipsychotics (AP)	UMLS:C2092061	1st Generation/Typical
+T215	Disease	2845	2864	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T216	Drug	2809	2812	APs	UMLS:C0040615	Antipsychotic Agents
+T217	AgeGroup	2833	2839	elders	null	null
+T139	Drug	2976	2978	AP	UMLS:C0040615	Antipsychotic Agents
+T218	Disease	3049	3067	dementing diseases	UMLS:C0497327	Dementia
+T45	Phenotype	3328	3345	cognitive decline	HPO:HP:0001268	Mental deterioration
+T220	Drug	3297	3300	APs	UMLS:C0040615	Antipsychotic Agents
+T117	Drug	3347	3385	Benzodiazepines or related drugs (BZD)	UMLS:C0005064	Benzodiazepines
+T221	Drug	3475	3478	APs	UMLS:C0040615	Antipsychotic Agents
+T233	Disease	3424	3443	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T84	AgeGroup	3590	3594	aged	null	null
+T152	Drug	3485	3505	Antidepressants (AD)	UMLS:C0003289	Antidepressive Agents
+T238	Drug	3550	3563	tricyclic ADs	UMLS:C0003290	Tricyclic Antidepressive Agents
+T246	Drug	3652	3700	selective serotonin re-uptake inhibitors (SSRIs)	UMLS:C0360105	Selective Serotonin Reuptake Inhibitors
+T247	Drug	3730	3764	anticholinergic medications (AChs)	UMLS:C0242896	Anticholinergic Agents
+T107	Disease	4024	4032	dementia	UMLS:C0497327	Dementia
+T249	Drug	3890	3894	AChs	UMLS:C0242896	Anticholinergic Agents
+T250	Phenotype	3942	3962	cognitively impaired	HPO:HP:0100543	Cognitive impairment
+T104	Drug	4169	4188	antiepileptics (AE)	UMLS:C0003299	Antiepileptic Agents
+T108	Disease	4246	4254	dementia	UMLS:C0497327	Dementia
+T272	Phenotype	4205	4242	behavioral and psychological symptoms	UMLS:C0004941	Behavioral Symptoms
+T273	Phenotype	4205	4242	behavioral and psychological symptoms	UMLS:C0233397	Psychological symptom
+T74	Phenotype	4386	4406	cognitively disabled	HPO:HP:0100543	Cognitive impairment
+T109	Disease	4476	4484	dementia	UMLS:C0497327	Dementia
+T158	Drug	4325	4337	opioids (Op)	UMLS:C0242402	Opioids
+T107	Phenotype	4359	4382	cognitive deterioration	UMLS:C0854193	Cognitive deterioration
+T281	Drug	4426	4438	Op therapies	UMLS:C0242402	Opioids
+T282	Phenotype	4443	4455	chronic pain	HPO:HP:0012532	Chronic pain
+T9	Drug	4678	4700	drugs with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T46	Phenotype	4731	4748	cognitive decline	HPO:HP:0001268	Mental deterioration
+T10	Drug	4818	4840	drugs with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T110	Disease	4923	4931	dementia	UMLS:C0497327	Dementia
+T284	AgeGroup	4874	4879	older	null	null
+T5	Drug	5059	5073	CNS medication	UMLS:C0007680	Central Nervous System Agents
+T47	Phenotype	5098	5115	cognitive decline	HPO:HP:0001268	Mental deterioration
+T85	AgeGroup	4994	4998	aged	null	null
+T165	Drug	5023	5026	Ops	UMLS:C0242402	Opioids
+T166	Drug	5039	5042	Ops	UMLS:C0242402	Opioids
+T167	Drug	5031	5035	BZDs	UMLS:C0005064	Benzodiazepines
+T11	Drug	5239	5261	drugs with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T101	Drug	5216	5229	psychotropics	UMLS:C0033978	Psychotropic Drugs
+T286	Demographic	5815	5820	Lieto	null	null
+T287	Demographic	5822	5843	South-Western Finland	null	null
+T258	Gender	6147	6150	men	Gender:C0086582	male
+T263	Gender	6159	6164	women	Gender:C0015780	female
+T180	Measure	6345	6381	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T288	ScaleMin	6487	6488	0	null	null
+T289	ScaleMax	6492	6494	30	null	null
+T181	Measure	6705	6709	MMSE	UMLS:C0451306	Mini-mental state examination
+T259	Gender	6899	6902	men	Gender:C0086582	male
+T264	Gender	6910	6915	women	Gender:C0015780	female
+T182	Measure	7609	7613	MMSE	UMLS:C0451306	Mini-mental state examination
+T168	Drug	8218	8221	Ops	UMLS:C0242402	Opioids
+T222	Drug	8742	8745	APs	UMLS:C0040615	Antipsychotic Agents
+T245	Drug	8777	8780	ADs	UMLS:C0003289	Antidepressive Agents
+T251	Drug	8270	8274	AChs	UMLS:C0242896	Anticholinergic Agents
+T271	Drug	8631	8634	AEs	UMLS:C0003299	Antiepileptic Agents
+T291	Drug	8136	8172	drugs defined as having a CNS effect	UMLS:C0007680	Central Nervous System Agents
+T292	AgeGroup	9172	9196	younger age group: 65–74	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T293	AgeGroup	9204	9224	older age group: ≥75	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T294	AgeGroup	9204	9224	older age group: ≥75	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T12	Drug	9254	9268	CNS medication	UMLS:C0007680	Central Nervous System Agents
+T13	Drug	9510	9525	CNS medications	UMLS:C0007680	Central Nervous System Agents
+T14	Drug	9587	9602	CNS medications	UMLS:C0007680	Central Nervous System Agents
+T183	Measure	10023	10027	MMSE	UMLS:C0451306	Mini-mental state examination
+T184	Measure	10179	10183	MMSE	UMLS:C0451306	Mini-mental state examination
+T185	Measure	10221	10225	MMSE	UMLS:C0451306	Mini-mental state examination
+T15	Drug	10352	10367	CNS medications	UMLS:C0007680	Central Nervous System Agents
+T16	Drug	10399	10414	CNS medications	UMLS:C0007680	Central Nervous System Agents
+T49	Phenotype	10431	10448	cognitive decline	HPO:HP:0001268	Mental deterioration
+T17	Drug	10613	10628	CNS medications	UMLS:C0007680	Central Nervous System Agents
+T18	Drug	10662	10677	CNS medications	UMLS:C0007680	Central Nervous System Agents
+T328	Phenotype	10522	10551	cognitive functioning changes	UMLS:C1392786	Cognitive changes
+T19	Drug	11014	11028	CNS medication	UMLS:C0007680	Central Nervous System Agents
+T20	Drug	11063	11078	CNS medications	UMLS:C0007680	Central Nervous System Agents
+T50	Phenotype	11096	11113	cognitive decline	HPO:HP:0001268	Mental deterioration
+T186	Measure	11432	11436	MMSE	UMLS:C0451306	Mini-mental state examination
+T295	Disease	11298	11310	hypertension	UMLS:C0020538	Hypertensive disease
+T296	Disease	11344	11361	diabetes mellitus	UMLS:C0011849	Diabetes Mellitus
+T298	Disease	11312	11342	atrial fibrillation or flutter	UMLS:C0004239	Atrial Flutter
+T299	Disease	11363	11387	congestive heart disease	UMLS:C0018802	Congestive heart failure
+T187	Measure	11594	11598	MMSE	UMLS:C0451306	Mini-mental state examination
+T188	Measure	11784	11788	MMSE	UMLS:C0451306	Mini-mental state examination
+T260	Gender	11902	11905	men	Gender:C0086582	male
+T265	Gender	11919	11924	women	Gender:C0015780	female
+T300	AgeGroup	11958	11967	≥75 years	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T301	AgeGroup	11958	11967	≥75 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T303	AgeGroup	12021	12036	65–74 years old	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T252	Drug	12507	12511	AChs	UMLS:C0242896	Anticholinergic Agents
+T253	Drug	12498	12502	BZDs	UMLS:C0005064	Benzodiazepines
+T169	Drug	12587	12590	Ops	UMLS:C0242402	Opioids
+T170	Drug	12574	12577	APs	UMLS:C0040615	Antipsychotic Agents
+T171	Drug	12579	12582	ADs	UMLS:C0003289	Antidepressive Agents
+T21	Drug	12672	12700	drug with effects on the CNS	UMLS:C0007680	Central Nervous System Agents
+T257	Gender	12762	12765	men	Gender:C0086582	male
+T266	Gender	12770	12775	women	Gender:C0015780	female
+T254	AgeGroup	12814	12823	older age	null	null
+T255	AgeGroup	12851	12858	younger	null	null
+T256	Drug	12777	12783	Opioid	UMLS:C0242402	Opioids
+T22	Drug	12917	12945	drug with effects on the CNS	UMLS:C0007680	Central Nervous System Agents
+T304	AgeGroup	12972	12981	older age	null	null
+T305	AgeGroup	13009	13016	younger	null	null
+T154	Drug	13052	13054	AD	UMLS:C0003289	Antidepressive Agents
+T306	AgeGroup	13090	13099	older age	null	null
+T307	AgeGroup	13121	13128	younger	null	null
+T23	Drug	13363	13392	drugs with effects on the CNS	UMLS:C0007680	Central Nervous System Agents
+T308	Phenotype	13404	13443	Cognitive functioning tended to decline	HPO:HP:0001268	Mental deterioration
+T309	AgeGroup	13575	13584	older age	null	null
+T310	Drug	13611	13626	CNS medications	UMLS:C0007680	Central Nervous System Agents
+T51	Phenotype	13872	13889	cognitive decline	HPO:HP:0001268	Mental deterioration
+T125	Drug	13805	13808	BZD	UMLS:C0005064	Benzodiazepines
+T200	Drug	13816	13833	psychotropic drug	UMLS:C0033978	Psychotropic Drugs
+T311	AgeGroup	13893	13910	older (≥75 years)	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T312	AgeGroup	13893	13910	older (≥75 years)	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T24	Drug	14021	14042	drug with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T52	Phenotype	14069	14086	cognitive decline	HPO:HP:0001268	Mental deterioration
+T126	Drug	14002	14005	BZD	UMLS:C0005064	Benzodiazepines
+T141	Drug	14011	14013	AP	UMLS:C0040615	Antipsychotic Agents
+T25	Drug	14156	14177	drug with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T53	Phenotype	14198	14215	cognitive decline	HPO:HP:0001268	Mental deterioration
+T127	Drug	14131	14134	BZD	UMLS:C0005064	Benzodiazepines
+T155	Drug	14139	14141	AD	UMLS:C0003289	Antidepressive Agents
+T160	Drug	14145	14148	ACh	UMLS:C0242896	Anticholinergic Agents
+T313	AgeGroup	14223	14228	older	null	null
+T26	Drug	14485	14514	drugs with effects on the CNS	UMLS:C0007680	Central Nervous System Agents
+T54	Phenotype	14541	14558	cognitive decline	HPO:HP:0001268	Mental deterioration
+T75	Phenotype	14565	14585	cognitively disabled	HPO:HP:0100543	Cognitive impairment
+T86	AgeGroup	14586	14590	aged	null	null
+T55	Phenotype	14694	14711	cognitive decline	HPO:HP:0001268	Mental deterioration
+T56	Phenotype	14754	14771	cognitive decline	HPO:HP:0001268	Mental deterioration
+T201	Drug	14660	14677	psychotropic drug	UMLS:C0033978	Psychotropic Drugs
+T128	Drug	14814	14817	BZD	UMLS:C0005064	Benzodiazepines
+T317	Phenotype	14895	14915	cognitive decrements	HPO:HP:0001268	Mental deterioration
+T58	Phenotype	15088	15105	cognitive decline	HPO:HP:0001268	Mental deterioration
+T87	AgeGroup	15124	15128	aged	null	null
+T129	Drug	15011	15014	BZD	UMLS:C0005064	Benzodiazepines
+T130	Drug	15032	15035	BZD	UMLS:C0005064	Benzodiazepines
+T164	Drug	15060	15063	Ops	UMLS:C0242402	Opioids
+T202	Drug	14970	14987	psychotropic drug	UMLS:C0033978	Psychotropic Drugs
+T27	Drug	15213	15234	drug with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T59	Phenotype	15245	15262	cognitive decline	HPO:HP:0001268	Mental deterioration
+T131	Drug	15176	15179	BZD	UMLS:C0005064	Benzodiazepines
+T142	Drug	15203	15205	AP	UMLS:C0040615	Antipsychotic Agents
+T156	Drug	15188	15190	AD	UMLS:C0003289	Antidepressive Agents
+T161	Drug	15195	15198	ACh	UMLS:C0242896	Anticholinergic Agents
+T60	Phenotype	15382	15399	cognitive decline	HPO:HP:0001268	Mental deterioration
+T132	Drug	15337	15340	BZD	UMLS:C0005064	Benzodiazepines
+T143	Drug	15348	15350	AP	UMLS:C0040615	Antipsychotic Agents
+T28	Drug	15467	15497	medications having CNS effects	UMLS:C0007680	Central Nervous System Agents
+T76	Phenotype	15525	15545	cognitively disabled	HPO:HP:0100543	Cognitive impairment
+T61	Phenotype	15713	15730	cognitive decline	HPO:HP:0001268	Mental deterioration
+T234	Disease	15662	15681	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T223	Drug	15808	15811	APs	UMLS:C0040615	Antipsychotic Agents
+T235	Disease	15849	15868	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T270	Drug	15813	15817	BZDs	UMLS:C0005064	Benzodiazepines
+T236	Drug	15822	15845	cholinergic medications	UMLS:C0242896	Anticholinergic Agents
+T274	Phenotype	15949	15986	behavioral and psychological symptoms	UMLS:C0004941	Behavioral Symptoms
+T275	Phenotype	15949	15986	behavioral and psychological symptoms	UMLS:C0233397	Psychological symptom
+T320	Phenotype	16000	16018	declined cognition	HPO:HP:0001268	Mental deterioration
+T29	Drug	16151	16179	medications with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T111	Disease	16337	16345	dementia	UMLS:C0497327	Dementia
+T219	Disease	16257	16275	dementing disorder	UMLS:C0497327	Dementia
+T276	Phenotype	16296	16333	behavioral and psychological symptoms	UMLS:C0004941	Behavioral Symptoms
+T277	Phenotype	16296	16333	behavioral and psychological symptoms	UMLS:C0233397	Psychological symptom
+T112	Disease	16439	16447	dementia	UMLS:C0497327	Dementia
+T189	Measure	16568	16572	MMSE	UMLS:C0451306	Mini-mental state examination
+T63	Phenotype	16818	16835	cognitive decline	HPO:HP:0001268	Mental deterioration
+T144	Drug	16700	16702	AP	UMLS:C0040615	Antipsychotic Agents
+T145	Drug	16737	16748	atypical AP	UMLS:C1276996	Atypical antipsychotic
+T232	Drug	16722	16732	quetiapine	DrugBank:DB01224	Quetiapine
+T236	Disease	16856	16875	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T64	Phenotype	17013	17030	cognitive decline	HPO:HP:0001268	Mental deterioration
+T113	Disease	17101	17109	dementia	UMLS:C0497327	Dementia
+T225	Drug	17128	17140	atypical APs	UMLS:C1276996	Atypical antipsychotic
+T229	Drug	17142	17153	risperidone	DrugBank:DB00734	Risperidone
+T230	Drug	17155	17165	quetiapine	DrugBank:DB01224	Quetiapine
+T231	Drug	17167	17177	olanzapine	DrugBank:DB00334	Olanzapine
+T278	Phenotype	17060	17097	behavioral and psychological symptoms	UMLS:C0004941	Behavioral Symptoms
+T279	Phenotype	17060	17097	behavioral and psychological symptoms	UMLS:C0233397	Psychological symptom
+T280	Disease	17036	17045	Alzheimer	UMLS:C0002395	Alzheimer's Disease
+T65	Phenotype	17247	17264	cognitive decline	HPO:HP:0001268	Mental deterioration
+T66	Phenotype	17418	17435	cognitive decline	HPO:HP:0001268	Mental deterioration
+T88	AgeGroup	17339	17343	aged	null	null
+T162	Drug	17239	17242	ACh	UMLS:C0242896	Anticholinergic Agents
+T239	Drug	17454	17467	tricyclic ADs	UMLS:C0003290	Tricyclic Antidepressive Agents
+T321	Drug	17669	17673	BZDs	UMLS:C0005064	Benzodiazepines
+T67	Phenotype	18214	18231	cognitive decline	HPO:HP:0001268	Mental deterioration
+T314	AgeGroup	18184	18189	older	null	null
+T190	Measure	18412	18416	MMSE	UMLS:C0451306	Mini-mental state examination
+T68	Phenotype	18614	18631	cognitive decline	HPO:HP:0001268	Mental deterioration
+T191	Measure	18577	18581	MMSE	UMLS:C0451306	Mini-mental state examination
+T114	Disease	18772	18780	dementia	UMLS:C0497327	Dementia
+T53	Measure	18685	18689	MMSE	UMLS:C0451306	Mini-mental state examination
+T329	Phenotype	18795	18811	cognitive change	UMLS:C1392786	Cognitive changes
+T69	Phenotype	19148	19165	cognitive decline	HPO:HP:0001268	Mental deterioration
+T70	Phenotype	19273	19290	cognitive decline	HPO:HP:0001268	Mental deterioration
+T194	Ethnicity	19526	19531	Finns	UMLS:C0337803	Finns
+T315	AgeGroup	19617	19622	older	null	null
+T261	Gender	19774	19777	men	Gender:C0086582	male
+T267	Gender	19791	19796	women	Gender:C0015780	female
+T262	Gender	19856	19859	men	Gender:C0086582	male
+T268	Gender	19874	19879	women	Gender:C0015780	female
+T30	Drug	20043	20071	medications with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T89	AgeGroup	20021	20025	aged	null	null
+T195	Ethnicity	20026	20031	Finns	UMLS:C0337803	Finns
+T31	Drug	20104	20126	drugs with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T237	Disease	20735	20754	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T278	Drug	20708	20730	cholinergic medication	UMLS:C0242896	Anticholinergic Agents
+T282	Drug	20953	20982	conventional and atypical APs	UMLS:C1276996	Atypical antipsychotic
+T228	Drug	20953	20982	conventional and atypical APs	UMLS:C1276996	Atypical antipsychotic
+T32	Drug	21192	21220	medications with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T33	Drug	21440	21468	medications with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T193	Measure	21569	21573	MMSE	UMLS:C0451306	Mini-mental state examination
+T34	Drug	21698	21726	medications with CNS effects	UMLS:C0007680	Central Nervous System Agents
+T77	Phenotype	21730	21750	cognitively disabled	HPO:HP:0100543	Cognitive impairment
+T316	AgeGroup	21751	21756	older	null	null
+T78	Phenotype	21831	21851	cognitively disabled	HPO:HP:0100543	Cognitive impairment
+T102	Drug	21886	21899	psychotropics	UMLS:C0033978	Psychotropic Drugs
+T79	Phenotype	22160	22180	cognitively disabled	HPO:HP:0100543	Cognitive impairment
+T91	AgeGroup	22181	22185	aged	null	null
+T134	Drug	22054	22057	BZD	UMLS:C0005064	Benzodiazepines
+T203	Drug	22065	22088	psychotropic medication	UMLS:C0033978	Psychotropic Drugs
+T324	Phenotype	22135	22152	cognitive decline	HPO:HP:0001268	Mental deterioration
+T35	Drug	22248	22272	CNS-affecting medication	UMLS:C0007680	Central Nervous System Agents
+T135	Drug	22212	22215	BZD	UMLS:C0005064	Benzodiazepines
+T146	Drug	22223	22225	AP	UMLS:C0040615	Antipsychotic Agents
+T157	Drug	22230	22232	AD	UMLS:C0003289	Antidepressive Agents
+T163	Drug	22237	22240	ACh	UMLS:C0242896	Anticholinergic Agents
+R1	hasScale	875	879	Measure	886	887	ScaleMin
+R2	hasScale	875	879	Measure	888	890	ScaleMax

@@ -1,0 +1,231 @@
+T1	Drug	0	12	Rivastigmine	DrugBank:DB00989	Rivastigmine
+T67	Disease	16	63	moderately severe-to-severe Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T68	Measure	65	106	Severe Impairment Battery factor analysis	null	null
+T69	Measure	111	142	Severe Impairment Battery (SIB)	null	null
+T70	Disease	197	212	severe dementia	UMLS:C3494652	Severe dementia
+T2	Drug	290	302	rivastigmine	DrugBank:DB00989	Rivastigmine
+T71	Measure	328	338	SIB factor	null	null
+T72	Disease	364	416	moderately severe-to-severe Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T3	Drug	538	550	rivastigmine	DrugBank:DB00989	Rivastigmine
+T73	Demographic	564	569	Spain	UMLS:C0037747	Spain
+T74	Measure	626	629	SIB	null	null
+T75	Measure	750	753	SIB	null	null
+T76	Measure	804	807	SIB	null	null
+T77	Measure	986	989	SIB	null	null
+T78	Measure	953	956	SIB	null	null
+T79	Measure	1034	1037	SIB	null	null
+T4	Drug	1479	1491	rivastigmine	DrugBank:DB00989	Rivastigmine
+T80	Measure	1554	1557	SIB	null	null
+T81	Measure	1604	1607	SIB	null	null
+T5	Drug	1751	1763	rivastigmine	DrugBank:DB00989	Rivastigmine
+T82	Disease	1767	1797	moderately severe-to-severe AD	UMLS:C0002395	Alzheimer's Disease
+T6	Drug	1853	1865	Rivastigmine	DrugBank:DB00989	Rivastigmine
+T7	Drug	1936	1960	cholinesterase inhibitor	UMLS:C0008425	Cholinesterase Inhibitors
+T8	Drug	1961	1973	rivastigmine	DrugBank:DB00989	Rivastigmine
+T83	Disease	2096	2146	mild-to-moderately severe Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T9	Drug	2203	2215	rivastigmine	DrugBank:DB00989	Rivastigmine
+T84	Disease	2317	2336	mild-to-moderate AD	UMLS:C0002395	Alzheimer's Disease
+T87	Demographic	2280	2283	USA	UMLS:C0041703	United States
+T88	Drug	2292	2313	symptomatic treatment	UMLS:C1274136	Symptom control (regime/therapy)
+T10	Drug	2441	2453	rivastigmine	DrugBank:DB00989	Rivastigmine
+T11	Drug	2515	2527	rivastigmine	DrugBank:DB00989	Rivastigmine
+T89	Disease	2471	2499	mild-to-moderately severe AD	UMLS:C0002395	Alzheimer's Disease
+T12	Drug	2610	2622	rivastigmine	DrugBank:DB00989	Rivastigmine
+T85	Demographic	2675	2678	USA	UMLS:C0041703	United States
+T86	Drug	2687	2708	symptomatic treatment	UMLS:C1274136	Symptom control (regime/therapy)
+T90	Disease	2712	2721	severe AD	UMLS:C0002395	Alzheimer's Disease
+T13	Drug	2979	2991	rivastigmine	DrugBank:DB00989	Rivastigmine
+T91	Disease	3027	3036	severe AD	UMLS:C0002395	Alzheimer's Disease
+T157	Measure	2774	2823	ACTivities of daily living and cognitION (ACTION)	null	null
+T14	Drug	3074	3086	rivastigmine	DrugBank:DB00989	Rivastigmine
+T92	Disease	3112	3142	moderately severe-to-severe AD	UMLS:C0002395	Alzheimer's Disease
+T93	Measure	3144	3180	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T94	ScaleMin	3190	3191	5	null	null
+T95	ScaleMax	3195	3197	12	null	null
+T16	Drug	3326	3348	rivastigmine treatment	DrugBank:DB00989	Rivastigmine
+T96	Measure	3403	3434	Severe Impairment Battery (SIB)	null	null
+T97	Measure	3471	3475	MMSE	UMLS:C0451306	Mini-mental state examination
+T160	Measure	3799	3831	Global Deterioration Scale (GDS)	null	null
+T158	Measure	3726	3769	10-item Neuropsychiatric Inventory (NPI-10)	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T159	Measure	3775	3793	4-item NPI (NPI-4)	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T161	Measure	3976	3979	SIB	null	null
+T162	Disease	4045	4060	severe dementia	UMLS:C3494652	Severe dementia
+T163	Measure	4182	4248	Alzheimer’s Disease Assessment Scale-cognitive subscale (ADAS-cog)	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T164	Measure	4130	4160	neuropsychological assessments	UMLS:C0027902	Neuropsychological Tests
+T165	Measure	4254	4257	SIB	null	null
+T166	Measure	4590	4593	SIB	null	null
+T167	ScaleMin	4671	4672	0	null	null
+T168	ScaleMax	4676	4679	100	null	null
+T169	Measure	4802	4805	SIB	null	null
+T17	Drug	5481	5493	rivastigmine	DrugBank:DB00989	Rivastigmine
+T98	Disease	5549	5558	severe AD	UMLS:C0002395	Alzheimer's Disease
+T170	Measure	5264	5267	SIB	null	null
+T171	Measure	5317	5320	SIB	null	null
+T172	Measure	5352	5355	SIB	null	null
+T18	Drug	5649	5661	rivastigmine	DrugBank:DB00989	Rivastigmine
+T19	Drug	5761	5773	rivastigmine	DrugBank:DB00989	Rivastigmine
+T99	Disease	5678	5687	severe AD	UMLS:C0002395	Alzheimer's Disease
+T100	Measure	5695	5698	SIB	null	null
+T101	Disease	5777	5807	moderately severe-to-severe AD	UMLS:C0002395	Alzheimer's Disease
+T102	Measure	5853	5856	SIB	null	null
+T20	Drug	6040	6052	rivastigmine	DrugBank:DB00989	Rivastigmine
+T103	Measure	6158	6161	SIB	null	null
+T104	Measure	6233	6236	SIB	null	null
+T21	Drug	6406	6418	rivastigmine	DrugBank:DB00989	Rivastigmine
+T105	Disease	6446	6476	moderately severe-to-severe AD	UMLS:C0002395	Alzheimer's Disease
+T209	Demographic	6380	6385	Spain	UMLS:C0037747	Spain
+T106	Disease	6652	6654	AD	UMLS:C0002395	Alzheimer's Disease
+T108	AgeGroup	6614	6636	aged 55 years or older	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T109	AgeGroup	6614	6636	aged 55 years or older	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T107	AgeGroup	6614	6636	aged 55 years or older	AgeGroups:C0683973	middle aged adult (45-64 years)
+T110	Gender	6598	6602	male	Gender:C0086582	male
+T111	Gender	6606	6612	female	Gender:C0015780	female
+T112	Measure	6911	6915	MMSE	UMLS:C0451306	Mini-mental state examination
+T113	ScaleMin	6922	6923	5	null	null
+T114	ScaleMax	6927	6929	12	null	null
+T210	Measure	6931	6934	GDS	null	null
+T211	ScaleMin	6941	6942	5	null	null
+T212	ScaleMax	6946	6947	6	null	null
+T22	Drug	6977	6989	rivastigmine	DrugBank:DB00989	Rivastigmine
+T23	Drug	7034	7046	rivastigmine	DrugBank:DB00989	Rivastigmine
+T173	Measure	7311	7314	SIB	null	null
+T174	Measure	7486	7489	SIB	null	null
+T175	Measure	7610	7613	SIB	null	null
+T176	Measure	8135	8138	SIB	null	null
+T24	Drug	9065	9077	rivastigmine	DrugBank:DB00989	Rivastigmine
+T177	Measure	8935	8938	SIB	null	null
+T178	Measure	8973	8976	SIB	null	null
+T179	Measure	9027	9030	SIB	null	null
+T25	Drug	9265	9277	rivastigmine	DrugBank:DB00989	Rivastigmine
+T180	Measure	9402	9416	SIB assessment	null	null
+T26	Drug	9524	9536	rivastigmine	DrugBank:DB00989	Rivastigmine
+T27	Drug	9646	9658	rivastigmine	DrugBank:DB00989	Rivastigmine
+T28	Drug	9779	9791	rivastigmine	DrugBank:DB00989	Rivastigmine
+T29	Drug	9750	9762	rivastigmine	DrugBank:DB00989	Rivastigmine
+T213	Gender	10176	10182	female	Gender:C0015780	female
+T30	Drug	10242	10254	rivastigmine	DrugBank:DB00989	Rivastigmine
+T214	Measure	10198	10202	MMSE	UMLS:C0451306	Mini-mental state examination
+T181	Measure	10393	10396	SIB	null	null
+T182	Measure	10664	10667	SIB	null	null
+T31	Drug	11190	11202	rivastigmine	DrugBank:DB00989	Rivastigmine
+T32	Drug	11114	11126	rivastigmine	DrugBank:DB00989	Rivastigmine
+T183	Measure	11282	11285	SIB	null	null
+T33	Drug	11472	11484	rivastigmine	DrugBank:DB00989	Rivastigmine
+T184	Measure	11412	11415	SIB	null	null
+T34	Drug	11621	11633	rivastigmine	DrugBank:DB00989	Rivastigmine
+T185	Measure	11734	11737	SIB	null	null
+T35	Drug	12361	12373	rivastigmine	DrugBank:DB00989	Rivastigmine
+T186	Measure	12422	12425	SIB	null	null
+T36	Drug	12651	12663	rivastigmine	DrugBank:DB00989	Rivastigmine
+T37	Drug	12826	12838	rivastigmine	DrugBank:DB00989	Rivastigmine
+T187	Measure	12859	12862	SIB	null	null
+T188	Measure	12903	12906	SIB	null	null
+T38	Drug	13884	13896	rivastigmine	DrugBank:DB00989	Rivastigmine
+T115	Disease	14063	14065	AD	UMLS:C0002395	Alzheimer's Disease
+T215	Phenotype	14085	14125	gradual loss of cholinergic transmission	null	null
+T216	Phenotype	14159	14206	progressive deterioration of cognitive function	HPO:HP:0001268	Mental deterioration
+T217	Phenotype	14216	14236	cholinergic deficits	null	null
+T39	Drug	14517	14529	rivastigmine	DrugBank:DB00989	Rivastigmine
+T116	Disease	14547	14567	moderately severe AD	UMLS:C0002395	Alzheimer's Disease
+T40	Drug	14605	14617	rivastigmine	DrugBank:DB00989	Rivastigmine
+T41	Drug	14657	14669	rivastigmine	DrugBank:DB00989	Rivastigmine
+T117	Disease	14687	14689	AD	UMLS:C0002395	Alzheimer's Disease
+T205	Disease	14713	14721	dementia	UMLS:C0497327	Dementia
+T206	Measure	14753	14756	GDS	null	null
+T42	Drug	14862	14874	rivastigmine	DrugBank:DB00989	Rivastigmine
+T207	Measure	14945	14953	ADAS-cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T218	Measure	14779	14782	GDS	null	null
+T235	ScaleMax	14789	14791	≥5	null	null
+T236	Detail	14793	14818	moderately severe disease	null	null
+T43	Drug	15101	15113	rivastigmine	DrugBank:DB00989	Rivastigmine
+T219	Measure	15115	15123	ADAS-cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T44	Drug	15249	15261	rivastigmine	DrugBank:DB00989	Rivastigmine
+T118	Disease	15317	15337	moderately severe AD	UMLS:C0002395	Alzheimer's Disease
+T45	Drug	15573	15595	rivastigmine treatment	DrugBank:DB00989	Rivastigmine
+T119	Disease	15500	15502	AD	UMLS:C0002395	Alzheimer's Disease
+T121	Measure	15504	15508	MMSE	UMLS:C0451306	Mini-mental state examination
+T120	Disease	15627	15641	more severe AD	UMLS:C0002395	Alzheimer's Disease
+T220	Measure	15643	15647	MMSE	UMLS:C0451306	Mini-mental state examination
+T230	ScaleMin	15518	15520	10	null	null
+T231	ScaleMax	15524	15526	26	null	null
+T232	ScaleMin	15657	15659	10	null	null
+T233	ScaleMax	15663	15665	12	null	null
+T46	Drug	15902	15914	rivastigmine	DrugBank:DB00989	Rivastigmine
+T47	Drug	15799	15811	rivastigmine	DrugBank:DB00989	Rivastigmine
+T122	Measure	15937	15945	ADAS-cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T124	Disease	15983	16003	moderately severe AD	UMLS:C0002395	Alzheimer's Disease
+T208	Disease	15850	15858	dementia	UMLS:C0497327	Dementia
+T223	Measure	16005	16009	MMSE	UMLS:C0451306	Mini-mental state examination
+T234	ScaleMax	16019	16023	≤ 15	null	null
+T48	Drug	16085	16097	rivastigmine	DrugBank:DB00989	Rivastigmine
+T123	Disease	16101	16121	moderately severe AD	UMLS:C0002395	Alzheimer's Disease
+T125	Disease	16213	16241	mild-to-moderately severe AD	UMLS:C0002395	Alzheimer's Disease
+T126	Measure	16260	16268	ADAS-cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T127	Phenotype	16312	16329	cognitive changes	UMLS:C1392786	Cognitive changes
+T128	Disease	16347	16356	severe AD	UMLS:C0002395	Alzheimer's Disease
+T50	Drug	16606	16618	rivastigmine	DrugBank:DB00989	Rivastigmine
+T129	Disease	16516	16538	more advanced stage AD	UMLS:C0002395	Alzheimer's Disease
+T130	Measure	16552	16555	SIB	null	null
+T49	Drug	16752	16764	rivastigmine	DrugBank:DB00989	Rivastigmine
+T51	Drug	16981	16993	rivastigmine	DrugBank:DB00989	Rivastigmine
+T131	Measure	16778	16781	SIB	null	null
+T132	Disease	16799	16829	moderately severe-to-severe AD	UMLS:C0002395	Alzheimer's Disease
+T133	Measure	16835	16838	SIB	null	null
+T134	Disease	17011	17020	severe AD	UMLS:C0002395	Alzheimer's Disease
+T52	Drug	17022	17044	Rivastigmine treatment	DrugBank:DB00989	Rivastigmine
+T189	Measure	17143	17146	SIB	null	null
+T190	Measure	17194	17197	SIB	null	null
+T191	Measure	17320	17323	SIB	null	null
+T192	Measure	17371	17374	SIB	null	null
+T222	Phenotype	17427	17448	cognitive impairments	HPO:HP:0100543	Cognitive impairment
+T193	Measure	17649	17652	SIB	null	null
+T194	Measure	17704	17707	SIB	null	null
+T53	Drug	17862	17874	Rivastigmine	DrugBank:DB00989	Rivastigmine
+T195	Measure	18006	18009	SIB	null	null
+T196	Measure	18405	18408	SIB	null	null
+T135	Disease	18568	18577	severe AD	UMLS:C0002395	Alzheimer's Disease
+T136	Disease	18449	18451	AD	UMLS:C0002395	Alzheimer's Disease
+T197	Measure	18976	18979	SIB	null	null
+T54	Drug	19447	19459	rivastigmine	DrugBank:DB00989	Rivastigmine
+T198	Measure	19606	19609	SIB	null	null
+T55	Drug	19674	19686	rivastigmine	DrugBank:DB00989	Rivastigmine
+T199	Measure	19694	19697	SIB	null	null
+T56	Drug	19921	19933	rivastigmine	DrugBank:DB00989	Rivastigmine
+T137	Disease	19971	19980	severe AD	UMLS:C0002395	Alzheimer's Disease
+T200	Measure	20190	20193	SIB	null	null
+T201	Measure	20289	20292	SIB	null	null
+T57	Drug	20476	20488	rivastigmine	DrugBank:DB00989	Rivastigmine
+T138	Disease	20506	20515	severe AD	UMLS:C0002395	Alzheimer's Disease
+T58	Drug	20579	20591	rivastigmine	DrugBank:DB00989	Rivastigmine
+T139	Disease	20609	20618	severe AD	UMLS:C0002395	Alzheimer's Disease
+T223	Measure	20638	20644	ACTION	null	null
+T202	Measure	20704	20707	SIB	null	null
+T59	Drug	20872	20884	rivastigmine	DrugBank:DB00989	Rivastigmine
+T203	Measure	20969	20972	SIB	null	null
+T224	Measure	20780	20786	ACTION	null	null
+T60	Drug	21095	21107	rivastigmine	DrugBank:DB00989	Rivastigmine
+T61	Drug	21302	21314	rivastigmine	DrugBank:DB00989	Rivastigmine
+T140	Disease	21131	21140	severe AD	UMLS:C0002395	Alzheimer's Disease
+T141	Drug	21408	21429	symptomatic treatment	UMLS:C1274136	Symptom control (regime/therapy)
+T142	Disease	21433	21442	severe AD	UMLS:C0002395	Alzheimer's Disease
+T143	Demographic	21450	21453	USA	UMLS:C0041703	United States
+T62	Drug	21660	21672	rivastigmine	DrugBank:DB00989	Rivastigmine
+T144	Measure	21835	21838	SIB	null	null
+T145	Disease	21856	21886	moderately severe-to-severe AD	UMLS:C0002395	Alzheimer's Disease
+T63	Drug	22001	22013	rivastigmine	DrugBank:DB00989	Rivastigmine
+T146	Disease	22062	22071	severe AD	UMLS:C0002395	Alzheimer's Disease
+R1	hasScale	3144	3180	Measure	3190	3191	ScaleMin
+R2	hasScale	3144	3180	Measure	3195	3197	ScaleMax
+R5	hasScale	4590	4593	Measure	4671	4672	ScaleMin
+R6	hasScale	4590	4593	Measure	4676	4679	ScaleMax
+R3	hasScale	6911	6915	Measure	6922	6923	ScaleMin
+R4	hasScale	6911	6915	Measure	6927	6929	ScaleMax
+R7	hasScale	6931	6934	Measure	6941	6942	ScaleMin
+R8	hasScale	6931	6934	Measure	6946	6947	ScaleMax
+R14	hasScale	14779	14782	Measure	14789	14791	ScaleMax
+R15	hasDetail	14789	14791	ScaleMax	14793	14818	Detail
+R9	hasScale	15504	15508	Measure	15518	15520	ScaleMin
+R10	hasScale	15504	15508	Measure	15524	15526	ScaleMax
+R11	hasScale	15643	15647	Measure	15657	15659	ScaleMin
+R12	hasScale	15643	15647	Measure	15663	15665	ScaleMax
+R13	hasScale	16005	16009	Measure	16019	16023	ScaleMax

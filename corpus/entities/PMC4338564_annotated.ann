@@ -1,0 +1,254 @@
+T1	Drug	10	19	donepezil	DrugBank:DB00843	Donepezil
+T29	Disease	28	53	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T2	Drug	148	157	donepezil	DrugBank:DB00843	Donepezil
+T30	Disease	181	212	dementia with Lewy bodies (DLB)	UMLS:C0752347	Lewy Body Disease
+T31	Disease	383	386	DLB	UMLS:C0752347	Lewy Body Disease
+T63	Measure	776	812	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T64	Measure	840	872	Neuropsychiatric Inventory (NPI)	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T65	Phenotype	877	896	behavioral symptoms	UMLS:C0004941	Behavioral Symptoms
+T66	Measure	1098	1102	MMSE	UMLS:C0451306	Mini-mental state examination
+T67	Measure	1297	1300	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T3	Drug	1686	1695	donepezil	DrugBank:DB00843	Donepezil
+T32	Disease	1773	1776	DLB	UMLS:C0752347	Lewy Body Disease
+T33	Disease	2042	2073	Dementia with Lewy bodies (DLB)	UMLS:C0752347	Lewy Body Disease
+T53	Disease	2094	2102	dementia	UMLS:C0497327	Dementia
+T54	Disease	2177	2185	dementia	UMLS:C0497327	Dementia
+T62	Disease	2197	2219	Alzheimer disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T68	AgeGroup	2110	2117	elderly	null	null
+T34	Disease	2255	2258	DLB	UMLS:C0752347	Lewy Body Disease
+T69	Phenotype	2267	2292	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T70	Phenotype	2297	2309	parkinsonism	HPO:HP:0001300	Parkinsonism
+T71	Phenotype	2322	2342	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T125	Phenotype	2360	2424	deficits of attention, executive function, and visual perception	UMLS:C1271073	Visual perceptual weakness
+T73	Phenotype	2360	2424	deficits of attention, executive function, and visual perception	UMLS:C1843023	Loss of executive functions
+T125	Phenotype	2360	2424	deficits of attention, executive function, and visual perception	UMLS:C1271073	Visual perceptual weakness
+T77	Phenotype	2449	2469	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T78	Disease	2507	2509	AD	UMLS:C0002395	Alzheimer's Disease
+T35	Disease	2531	2534	DLB	UMLS:C0752347	Lewy Body Disease
+T75	Phenotype	2558	2563	falls	HPO:HP:0002527	Falls
+T79	Disease	2723	2725	AD	UMLS:C0002395	Alzheimer's Disease
+T37	Disease	2792	2795	DLB	UMLS:C0752347	Lewy Body Disease
+T80	Phenotype	2727	2774	Cholinergic neurotransmission is more defective	null	null
+T81	Disease	2815	2817	AD	UMLS:C0002395	Alzheimer's Disease
+T36	Disease	2855	2858	DLB	UMLS:C0752347	Lewy Body Disease
+T82	Phenotype	2833	2851	cholinergic losses	UMLS:C0393947	Cholinergic crisis
+T4	Drug	3200	3209	donepezil	DrugBank:DB00843	Donepezil
+T38	Disease	3081	3084	DLB	UMLS:C0752347	Lewy Body Disease
+T39	Disease	3214	3217	DLB	UMLS:C0752347	Lewy Body Disease
+T5	Drug	3389	3398	donepezil	DrugBank:DB00843	Donepezil
+T6	Drug	3335	3344	donepezil	DrugBank:DB00843	Donepezil
+T7	Drug	3631	3640	donepezil	DrugBank:DB00843	Donepezil
+T8	Drug	3742	3751	donepezil	DrugBank:DB00843	Donepezil
+T40	Disease	3362	3365	DLB	UMLS:C0752347	Lewy Body Disease
+T83	Phenotype	3456	3476	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T84	Phenotype	3478	3513	behavioral and psychiatric symptoms	UMLS:C0004941	Behavioral Symptoms
+T85	Phenotype	3478	3513	behavioral and psychiatric symptoms	UMLS:C0233401	Psychiatric symptom
+T86	Phenotype	3515	3539	global clinical symptoms	null	null
+T87	Phenotype	3763	3775	parkinsonism	HPO:HP:0001300	Parkinsonism
+T88	Phenotype	3850	3870	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T89	Phenotype	3875	3895	psychiatric symptoms	UMLS:C0233401	Psychiatric symptom
+T9	Drug	4182	4191	donepezil	DrugBank:DB00843	Donepezil
+T41	Disease	4148	4151	DLB	UMLS:C0752347	Lewy Body Disease
+T10	Drug	4928	4937	donepezil	DrugBank:DB00843	Donepezil
+T11	Drug	4357	4366	donepezil	DrugBank:DB00843	Donepezil
+T90	Phenotype	4370	4390	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T91	Measure	4423	4427	MMSE	UMLS:C0451306	Mini-mental state examination
+T92	Measure	4727	4762	Neuropsychiatric Inventory-2 (NPI-2	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T12	Drug	5157	5166	donepezil	DrugBank:DB00843	Donepezil
+T42	Disease	5170	5173	DLB	UMLS:C0752347	Lewy Body Disease
+T43	Disease	5206	5209	DLB	UMLS:C0752347	Lewy Body Disease
+T93	Ethnicity	5341	5346	Japan	UMLS:C1556094	Japanese race
+T55	Disease	5436	5470	mild to moderately severe dementia	UMLS:C3494623	Mild dementia
+T94	AgeGroup	5416	5424	aged ≥50	AgeGroups:C0683973	middle aged adult (45-64 years)
+T95	AgeGroup	5416	5424	aged ≥50	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T96	AgeGroup	5416	5424	aged ≥50	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T97	Measure	5488	5492	MMSE	UMLS:C0451306	Mini-mental state examination
+T98	ScaleMin	5472	5474	10	null	null
+T99	ScaleMax	5478	5480	26	null	null
+T100	Measure	5497	5521	Clinical Dementia Rating	UMLS:C0451074	Clinical dementia rating scale
+T101	ScaleMax	5522	5526	≥0.5	null	null
+T102	Phenotype	5532	5567	behavioral and psychiatric symptoms	UMLS:C0004941	Behavioral Symptoms
+T103	Phenotype	5532	5567	behavioral and psychiatric symptoms	UMLS:C0233401	Psychiatric symptom
+T90	Measure	5584	5589	NPI-2	null	null
+T106	ScaleMax	5577	5579	≥8	null	null
+T107	ScaleMax	5590	5593	≥ 1	null	null
+T108	Measure	5596	5604	NPI-plus	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T110	Measure	5711	5742	Cognitive Fluctuation Inventory	null	null
+T111	Phenotype	5655	5687	sleep, and cognitive fluctuation	HPO:HP:0002360	Sleep disturbance
+T153	Phenotype	5655	5687	sleep, and cognitive fluctuation	HPO:HP:0002360	Sleep disturbance
+T93	Measure	5749	5754	NPI-2	null	null
+T113	Phenotype	5768	5782	hallucinations	HPO:HP:0000738	Hallucinations
+T44	Disease	6136	6139	DLB	UMLS:C0752347	Lewy Body Disease
+T56	Disease	6358	6366	dementia	UMLS:C0497327	Dementia
+T60	Disease	6292	6309	Parkinson disease	UMLS:C0030567	Parkinson Disease
+T116	Phenotype	6421	6441	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T117	Phenotype	6456	6536	infarcts/hemorrhages affecting the thalamus, caudate nucleus, or globus pallidus	null	null
+T118	Phenotype	6456	6536	infarcts/hemorrhages affecting the thalamus, caudate nucleus, or globus pallidus	null	null
+T119	Phenotype	6456	6536	infarcts/hemorrhages affecting the thalamus, caudate nucleus, or globus pallidus	UMLS:C1611171	Thalamic infarction
+T120	Phenotype	6456	6536	infarcts/hemorrhages affecting the thalamus, caudate nucleus, or globus pallidus	UMLS:C0472376	Thalamic hemorrhage
+T121	Phenotype	6456	6536	infarcts/hemorrhages affecting the thalamus, caudate nucleus, or globus pallidus	UMLS:C3472665	Hemorrhage in caudate nucleus
+T122	Phenotype	6456	6536	infarcts/hemorrhages affecting the thalamus, caudate nucleus, or globus pallidus	UMLS:C3472664	Hemorrhage in globus pallidus
+T123	Phenotype	6538	6552	single infarct	UMLS:C0021308	Infarction
+T125	Phenotype	6620	6659	moderate or severe white matter changes	UMLS:C1833300	White matter changes
+T126	Disease	6668	6702	neurologic or psychiatric diseases	UMLS:C0027765	nervous system disorder
+T127	Disease	6668	6702	neurologic or psychiatric diseases	UMLS:C0004936	Mental disorders
+T131	Disease	6821	6850	obstructive pulmonary disease	UMLS:C0600260	Lung Diseases, Obstructive
+T133	Phenotype	6886	6897	bradycardia	HPO:HP:0001662	Bradycardia
+T134	Disease	6909	6928	sick sinus syndrome	UMLS:C0037052	Sick Sinus Syndrome
+T135	Disease	6930	6973	atrial or atrioventricular conduction block	UMLS:C0004245	Atrioventricular Block
+T13	Phenotype	7011	7066	hypersensitivity to donepezil or piperidine derivatives	null	null
+T137	Phenotype	7011	7066	hypersensitivity to donepezil or piperidine derivatives	null	null
+T138	Phenotype	7068	7087	severe parkinsonism	HPO:HP:0001300	Parkinsonism
+T139	Drug	7141	7146	ChEIs	UMLS:C0008425	Cholinesterase Inhibitors
+T140	Drug	7154	7174	investigational drug	UMLS:C0013230	Investigational New Drugs
+T61	Drug	7236	7256	anti-Parkinson drugs	UMLS:C0003405	Antiparkinson Agents
+T141	Drug	7209	7214	ChEIs	UMLS:C0008425	Cholinesterase Inhibitors
+T142	Drug	7216	7230	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T143	Drug	7268	7274	L-dopa	DrugBank:DB01235	Levodopa
+T144	Drug	7278	7295	dopamine agonists	UMLS:C0178601	Dopamine Agonists
+T14	Drug	7782	7791	donepezil	DrugBank:DB00843	Donepezil
+T145	Measure	9132	9136	MMSE	UMLS:C0451306	Mini-mental state examination
+T146	Phenotype	9143	9178	Behavioral and psychiatric symptoms	UMLS:C0004941	Behavioral Symptoms
+T147	Phenotype	9143	9178	Behavioral and psychiatric symptoms	UMLS:C0233401	Psychiatric symptom
+T94	Measure	9206	9211	NPI-2	null	null
+T95	Measure	9221	9227	NPI-10	null	null
+T45	Disease	9375	9378	DLB	UMLS:C0752347	Lewy Body Disease
+T96	Measure	9237	9242	NPI-2	null	null
+T151	Phenotype	9287	9301	hallucinations	HPO:HP:0000738	Hallucinations
+T153	Phenotype	10054	10079	Gastrointestinal symptoms	UMLS:C0426576	Gastrointestinal symptom
+T155	Phenotype	10104	10124	psychiatric symptoms	UMLS:C0233401	Psychiatric symptom
+T156	Phenotype	10130	10140	arrhythmia	HPO:HP:0011675	Arrhythmia
+T15	Drug	10439	10448	donepezil	DrugBank:DB00843	Donepezil
+T157	Demographic	12177	12180	USA	UMLS:C0041703	United States
+T158	Gender	13106	13113	Females	Gender:C0015780	female
+T159	AgeGroup	13206	13223	65 years or older	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T160	AgeGroup	13206	13223	65 years or older	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T161	Measure	13322	13326	MMSE	UMLS:C0451306	Mini-mental state examination
+T173	Measure	14728	14732	MMSE	UMLS:C0451306	Mini-mental state examination
+T174	Measure	15201	15205	MMSE	UMLS:C0451306	Mini-mental state examination
+T175	Measure	15227	15262	MMSE, Mini-Mental State Examination	UMLS:C0451306	Mini-mental state examination
+T222	Measure	15574	15578	MMSE	UMLS:C0451306	Mini-mental state examination
+T176	Measure	15791	15795	MMSE	UMLS:C0451306	Mini-mental state examination
+T177	Measure	15830	15834	MMSE	UMLS:C0451306	Mini-mental state examination
+T178	Measure	16200	16204	MMSE	UMLS:C0451306	Mini-mental state examination
+T179	Measure	16461	16465	MMSE	UMLS:C0451306	Mini-mental state examination
+T180	Measure	16549	16584	MMSE, Mini-Mental State Examination	UMLS:C0451306	Mini-mental state examination
+T181	Measure	16751	16755	MMSE	UMLS:C0451306	Mini-mental state examination
+T223	Measure	17438	17442	MMSE	UMLS:C0451306	Mini-mental state examination
+T100	Measure	17766	17771	NPI-2	null	null
+T102	Measure	18363	18368	NPI-2	null	null
+T184	Measure	18390	18421	NPI, Neuropsychiatric Inventory	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T103	Measure	18717	18722	NPI-2	null	null
+T104	Measure	18896	18901	NPI-2	null	null
+T106	Measure	18936	18941	NPI-2	null	null
+T186	Measure	19404	19409	NPI-2	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T107	Measure	19641	19646	NPI-2	null	null
+T188	Measure	19730	19761	NPI, Neuropsychiatric Inventory	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T108	Measure	19920	19925	NPI-2	null	null
+T110	Measure	20160	20166	NPI-10	null	null
+T191	Phenotype	21391	21399	asphyxia	UMLS:C0004044	Asphyxia
+T192	Disease	21415	21424	pneumonia	UMLS:C0032285	Pneumonia
+T193	Phenotype	21683	21698	nasopharyngitis	UMLS:C0027441	Nasopharyngitis
+T194	Phenotype	21722	21734	parkinsonism	HPO:HP:0001300	Parkinsonism
+T195	Phenotype	21810	21822	parkinsonism	HPO:HP:0001300	Parkinsonism
+T196	Phenotype	21917	21925	insomnia	HPO:HP:0100785	Insomnia
+T197	Phenotype	21927	21948	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T198	Phenotype	21950	21962	irritability	HPO:HP:0000737	Irritability
+T199	Phenotype	21964	21973	agitation	HPO:HP:0000713	Agitation
+T200	Phenotype	21979	21987	paranoia	HPO:HP:0011999	Paranoia
+T217	Phenotype	23806	23814	diarrhea	HPO:HP:0002014	Diarrhea
+T218	Phenotype	23816	23834	decreased appetite	HPO:HP:0004396	Poor appetite
+T219	Phenotype	23858	23870	constipation	HPO:HP:0002019	Constipation
+T220	Phenotype	23876	23882	nausea	HPO:HP:0002018	Nausea
+T221	Phenotype	23942	23947	ileus	HPO:HP:0002595	Ileus
+T235	Phenotype	24089	24101	Constipation	HPO:HP:0002019	Constipation
+T236	Phenotype	24103	24111	diarrhea	HPO:HP:0002014	Diarrhea
+T237	Phenotype	24135	24155	abdominal pain upper	UMLS:C0232492	Upper abdominal pain
+T238	Phenotype	24157	24166	dyspepsia	UMLS:C0013395	Dyspepsia
+T239	Phenotype	24168	24177	gastritis	HPO:HP:0005263	Gastritis
+T240	Phenotype	24179	24185	nausea	HPO:HP:0002018	Nausea
+T241	Phenotype	24191	24209	decreased appetite	HPO:HP:0004396	Poor appetite
+T273	Phenotype	25777	25798	Parkinsonian symptoms	HPO:HP:0001300	Parkinsonism
+T274	Phenotype	25857	25869	parkinsonism	HPO:HP:0001300	Parkinsonism
+T275	Phenotype	25893	25905	camptocormia	HPO:HP:0100595	Camptocormia
+T276	Phenotype	25990	26002	parkinsonism	HPO:HP:0001300	Parkinsonism
+T277	Phenotype	26021	26029	akinesia	HPO:HP:0002304	Akinesia
+T278	Phenotype	26035	26041	tremor	HPO:HP:0001337	Tremor
+T279	Phenotype	26100	26121	parkinsonian symptoms	HPO:HP:0001300	Parkinsonism
+T287	Phenotype	28264	28272	insomnia	HPO:HP:0100785	Insomnia
+T289	Phenotype	28361	28382	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T290	Phenotype	28387	28395	insomnia	HPO:HP:0100785	Insomnia
+T291	Phenotype	28400	28408	paranoia	HPO:HP:0011999	Paranoia
+T292	Phenotype	28413	28422	agitation	HPO:HP:0000713	Agitation
+T293	Phenotype	28424	28436	irritability	HPO:HP:0000737	Irritability
+T294	Phenotype	28442	28456	hallucinations	HPO:HP:0000738	Hallucinations
+T317	Phenotype	29763	29784	loss of consciousness	HPO:HP:0007185	Loss of consciousness
+T318	Phenotype	29923	29944	loss of consciousness	HPO:HP:0007185	Loss of consciousness
+T326	Phenotype	30697	30756	Excessive decrease of systolic and diastolic blood pressure	UMLS:C0277885	Decreased systolic arterial pressure
+T327	Phenotype	30697	30756	Excessive decrease of systolic and diastolic blood pressure	UMLS:C0277890	Decreased diastolic arterial pressure
+T329	Phenotype	30922	30951	Abnormal change in pulse rate	UMLS:C0277901	Abnormal pulse rate
+T330	Phenotype	31031	31051	Weight was decreased	HPO:HP:0001824	Weight loss
+T224	Measure	31273	31277	MMSE	UMLS:C0451306	Mini-mental state examination
+T16	Drug	31389	31398	donepezil	DrugBank:DB00843	Donepezil
+T17	Drug	31485	31494	donepezil	DrugBank:DB00843	Donepezil
+T46	Disease	31565	31568	DLB	UMLS:C0752347	Lewy Body Disease
+T331	Phenotype	31461	31481	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T18	Drug	31606	31615	donepezil	DrugBank:DB00843	Donepezil
+T225	Measure	31673	31677	MMSE	UMLS:C0451306	Mini-mental state examination
+T332	Disease	31633	31652	mild to moderate AD	UMLS:C0002395	Alzheimer's Disease
+T19	Drug	31975	31984	donepezil	DrugBank:DB00843	Donepezil
+T47	Disease	32011	32014	DLB	UMLS:C0752347	Lewy Body Disease
+T48	Disease	31890	31893	DLB	UMLS:C0752347	Lewy Body Disease
+T333	Phenotype	31866	31886	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T334	Disease	31902	31904	AD	UMLS:C0002395	Alzheimer's Disease
+T335	Disease	32038	32040	AD	UMLS:C0002395	Alzheimer's Disease
+T336	Phenotype	32181	32201	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T20	Drug	32272	32281	donepezil	DrugBank:DB00843	Donepezil
+T111	Measure	32334	32339	NPI-2	null	null
+T112	Measure	32344	32350	NPI-10	null	null
+T337	Phenotype	32235	32270	behavioral and psychiatric symptoms	UMLS:C0004941	Behavioral Symptoms
+T338	Phenotype	32235	32270	behavioral and psychiatric symptoms	UMLS:C0233401	Psychiatric symptom
+T339	Phenotype	32684	32719	behavioral and psychiatric symptoms	UMLS:C0004941	Behavioral Symptoms
+T340	Phenotype	32684	32719	behavioral and psychiatric symptoms	UMLS:C0233401	Psychiatric symptom
+T21	Drug	32840	32849	donepezil	DrugBank:DB00843	Donepezil
+T226	Measure	33106	33110	MMSE	UMLS:C0451306	Mini-mental state examination
+T227	Measure	33175	33179	MMSE	UMLS:C0451306	Mini-mental state examination
+T114	Measure	33123	33128	NPI-2	null	null
+T113	Measure	33210	33215	NPI-2	null	null
+T228	Measure	33699	33703	MMSE	UMLS:C0451306	Mini-mental state examination
+T341	Phenotype	34210	34222	parkinsonism	HPO:HP:0001300	Parkinsonism
+T342	Phenotype	34420	34476	gastrointestinal, psychiatric, and parkinsonian symptoms	UMLS:C0233401	Psychiatric symptom
+T343	Phenotype	34420	34476	gastrointestinal, psychiatric, and parkinsonian symptoms	UMLS:HP:0001300	Parkinsonism
+T344	Phenotype	34420	34476	gastrointestinal, psychiatric, and parkinsonian symptoms	UMLS:C0426576	Gastrointestinal symptom
+T345	Drug	34653	34658	ChEIs	UMLS:C0008425	Cholinesterase Inhibitors
+T22	Drug	34747	34756	donepezil	DrugBank:DB00843	Donepezil
+T49	Disease	34932	34935	DLB	UMLS:C0752347	Lewy Body Disease
+T346	Disease	34781	34783	AD	UMLS:C0002395	Alzheimer's Disease
+T347	Phenotype	34798	34806	diarrhea	HPO:HP:0002014	Diarrhea
+T348	Phenotype	34816	34822	nausea	HPO:HP:0002018	Nausea
+T349	Phenotype	34836	34844	vomiting	HPO:HP:0002013	Vomiting
+T350	Phenotype	35312	35337	gastrointestinal symptoms	HPO:C0426576	Gastrointestinal symptom
+T23	Drug	35387	35396	donepezil	DrugBank:DB00843	Donepezil
+T50	Disease	35473	35476	DLB	UMLS:C0752347	Lewy Body Disease
+T351	Phenotype	35373	35385	parkinsonism	HPO:HP:0001300	Parkinsonism
+T352	Phenotype	35422	35445	extrapyramidal symptoms	UMLS:C0234133	Extrapyramidal sign
+T353	Phenotype	35494	35506	parkinsonism	HPO:HP:0001300	Parkinsonism
+T354	Phenotype	35556	35577	parkinsonian symptoms	HPO:HP:0001300	Parkinsonism
+T355	Phenotype	36019	36040	loss of consciousness	HPO:HP:0007185	Loss of consciousness
+T24	Drug	36542	36551	donepezil	DrugBank:DB00843	Donepezil
+T25	Drug	36591	36600	donepezil	DrugBank:DB00843	Donepezil
+T356	Phenotype	36369	36390	loss of consciousness	HPO:HP:0007185	Loss of consciousness
+T26	Drug	36951	36960	donepezil	DrugBank:DB00843	Donepezil
+T358	Phenotype	37091	37103	parkinsonism	HPO:HP:0001300	Parkinsonism
+T359	Phenotype	37108	37147	gastrointestinal or arrhythmic symptoms	UMLS:C0426576	Gastrointestinal symptom
+T360	Phenotype	37108	37147	gastrointestinal or arrhythmic symptoms	null	null
+T51	Disease	37501	37504	DLB	UMLS:C0752347	Lewy Body Disease
+T27	Drug	37611	37620	donepezil	DrugBank:DB00843	Donepezil
+T28	Drug	37715	37724	donepezil	DrugBank:DB00843	Donepezil
+T52	Disease	37811	37814	DLB	UMLS:C0752347	Lewy Body Disease
+T361	Phenotype	37747	37774	impaired cognitive function	HPO:HP:0100543	Cognitive impairment
+R1	hasScale	5488	5492	Measure	5472	5474	ScaleMin
+R2	hasScale	5488	5492	Measure	5478	5480	ScaleMax
+R3	hasScale	5497	5521	Measure	5522	5526	ScaleMax
+R4	hasScale	5568	5576	Measure	5577	5579	ScaleMax
+R5	hasScale	5584	5589	Measure	5590	5593	ScaleMax

@@ -1,0 +1,350 @@
+T1	Drug	0	9	Hypnotics	UMLS:C0020591	Hypnotics
+T2	AgeGroup	30	37	elderly	null	null
+T3	Drug	86	95	Hypnotics	UMLS:C0020591	Hypnotics
+T48	AgeGroup	119	126	elderly	null	null
+T68	Phenotype	294	308	sleep symptoms	UMLS:C2232698	sleep symptoms
+T74	Drug	336	344	hypnotic	UMLS:C0020591	Hypnotics
+T75	Phenotype	363	380	insomnia symptoms	HPO:HP:0100785	Insomnia
+T76	Phenotype	385	413	excessive daytime sleepiness	HPO:HP:0002189	Excessive daytime sleepiness
+T71	Phenotype	415	425	depression	HPO:HP:0000716	Depression
+T72	Phenotype	430	437	anxiety	HPO:HP:0000739	Anxiety
+T4	Drug	503	512	hypnotics	UMLS:C0020591	Hypnotics
+T49	AgeGroup	572	579	elderly	null	null
+T79	Disease	702	719	chronic disorders	UMLS:C0008679	Chronic disease
+T80	Disease	742	763	psychiatric disorders	UMLS:C0004936	Mental disorders
+T75	Phenotype	768	784	sleep complaints	HPO:HP:0002360	Sleep disturbance
+T82	AgeGroup	834	856	aged 65 years or older	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T83	AgeGroup	834	856	aged 65 years or older	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T84	Ethnicity	887	893	French	UMLS:C1556084	french race
+T85	Disease	913	921	dementia	UMLS:C0497327	Dementia
+T86	Drug	1090	1098	hypnotic	UMLS:C0020591	Hypnotics
+T87	Drug	1192	1200	hypnotic	UMLS:C0020591	Hypnotics
+T155	Disease	1269	1291	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T369	Disease	1249	1255	cancer	UMLS:C1882062	Neoplastic disease
+T5	Drug	1435	1444	hypnotics	UMLS:C0020591	Hypnotics
+T6	Drug	1514	1523	hypnotics	UMLS:C0020591	Hypnotics
+T156	Drug	1459	1474	benzodiazepines	UMLS:C0005064	Benzodiazepines
+T157	Disease	1646	1663	chronic disorders	UMLS:C0008679	Chronic disease
+T86	Disease	1674	1700	cardiovascular pathologies	UMLS:C0741949	Cardiovascular Pathology
+T159	Disease	1702	1733	sleep and psychiatric disorders	UMLS:C0851578	Sleep Disorders
+T160	Disease	1702	1733	sleep and psychiatric disorders	UMLS:C0004936	Mental disorders
+T88	Drug	1784	1792	hypnotic	UMLS:C0020591	Hypnotics
+T89	Drug	2001	2009	hypnotic	UMLS:C0020591	Hypnotics
+T171	Disease	2062	2083	psychiatric disorders	UMLS:C0004936	Mental disorders
+T172	Phenotype	2218	2226	insomnia	HPO:HP:0100785	Insomnia
+T173	AgeGroup	2234	2245	older adult	null	null
+T7	Drug	2526	2535	hypnotics	UMLS:C0020591	Hypnotics
+T176	Phenotype	2404	2421	Insomnia symptoms	HPO:HP:0100785	Insomnia
+T177	AgeGroup	2425	2437	older adults	null	null
+T178	Phenotype	2477	2484	fatigue	HPO:HP:0012378	Fatigue
+T179	Phenotype	2486	2520	excessive daytime sleepiness (EDS)	HPO:HP:0002189	Excessive daytime sleepiness
+T117	Disease	2711	2721	depression	UMLS:C0011581	Depressive disorder
+T118	Disease	2699	2706	anxiety	UMLS:C0003469	Anxiety Disorders
+T161	Disease	2624	2653	cardiovascular diseases (CVD)	UMLS:C0007222	Cardiovascular Diseases
+T162	Phenotype	2559	2562	EDS	HPO:HP:0002189	Excessive daytime sleepiness
+T182	Phenotype	2546	2554	Insomnia	HPO:HP:0100785	Insomnia
+T8	Drug	2731	2740	Hypnotics	UMLS:C0020591	Hypnotics
+T120	Phenotype	2768	2785	insomnia symptoms	HPO:HP:0100785	Insomnia
+T121	Disease	2819	2826	anxiety	UMLS:C0003469	Anxiety Disorders
+T122	Disease	2831	2841	depression	UMLS:C0011581	Depressive disorder
+T123	Drug	2878	2902	antidepressant treatment	UMLS:C0003289	Antidepressive Agents
+T9	Drug	2923	2932	hypnotics	UMLS:C0020591	Hypnotics
+T50	AgeGroup	3017	3024	elderly	null	null
+T10	Drug	3045	3054	Hypnotics	UMLS:C0020591	Hypnotics
+T183	Phenotype	3076	3094	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T185	Phenotype	3099	3159	impairment of psychomotor, attention and memory performances	UMLS:C0679465	Psychomotor Impairment
+T186	Phenotype	3099	3159	impairment of psychomotor, attention and memory performances	HPO:HP:0002354	Memory impairment
+T11	Drug	3284	3293	hypnotics	UMLS:C0020591	Hypnotics
+T51	AgeGroup	3431	3438	elderly	null	null
+T187	Phenotype	3355	3360	falls	HPO:HP:0002527	Falls
+T188	Phenotype	3461	3488	pharmacodynamic alterations	null	null
+T12	Drug	3736	3745	hypnotics	UMLS:C0020591	Hypnotics
+T52	AgeGroup	3574	3581	elderly	null	null
+T69	Disease	3668	3683	sleep disorders	UMLS:C0851578	Sleep Disorders
+T189	Phenotype	3516	3524	insomnia	HPO:HP:0100785	Insomnia
+T190	Phenotype	3526	3540	EDS complaints	HPO:HP:0002189	Excessive daytime sleepiness
+T191	Disease	3546	3566	psychiatric disorder	UMLS:C0004936	Mental disorders
+T192	Disease	3598	3609	comorbidity	UMLS:C0009488	Comorbidity
+T193	Disease	3693	3714	psychiatric disorders	UMLS:C0004936	Mental disorders
+T13	Drug	3886	3895	hypnotics	UMLS:C0020591	Hypnotics
+T53	AgeGroup	3929	3936	elderly	null	null
+T14	Drug	4080	4089	hypnotics	UMLS:C0020591	Hypnotics
+T54	AgeGroup	4015	4022	elderly	null	null
+T195	AgeGroup	3990	4002	young adults	null	null
+T55	AgeGroup	4264	4275	young adult	null	null
+T56	AgeGroup	4279	4292	older elderly	null	null
+T57	AgeGroup	4372	4379	elderly	null	null
+T90	Drug	4573	4581	hypnotic	UMLS:C0020591	Hypnotics
+T124	Disease	4476	4493	chronic disorders	UMLS:C0008679	Chronic disease
+T125	Disease	4604	4614	depression	UMLS:C0011581	Depressive disorder
+T126	Drug	4616	4630	antidepressant	UMLS:C0003289	Antidepressive Agents
+T127	Disease	4636	4643	anxiety	UMLS:C0003469	Anxiety Disorders
+T128	Phenotype	4645	4653	insomnia	HPO:HP:0100785	Insomnia
+T129	Phenotype	4659	4662	EDS	HPO:HP:0002189	Excessive daytime sleepiness
+T15	Drug	4718	4727	hypnotics	UMLS:C0020591	Hypnotics
+T58	AgeGroup	4789	4796	elderly	null	null
+T71	Disease	5144	5175	psychiatric and sleep disorders	UMLS:C0851578	Sleep Disorders
+T91	Drug	5093	5101	hypnotic	UMLS:C0020591	Hypnotics
+T16	Drug	5289	5298	hypnotics	UMLS:C0020591	Hypnotics
+T59	AgeGroup	5395	5402	elderly	null	null
+T196	Disease	5572	5593	psychiatric disorders	UMLS:C0004936	Mental disorders
+T197	Phenotype	5595	5598	EDS	HPO:HP:0002189	Excessive daytime sleepiness
+T198	Phenotype	5604	5623	insomnia complaints	HPO:HP:0100785	Insomnia
+T204	Disease	5532	5549	chronic disorders	UMLS:C0008679	Chronic disease
+T211	Disease	5339	5345	cancer	UMLS:C1882062	Neoplastic disease
+T212	Disease	5350	5353	CVD	UMLS:C0007222	Cardiovascular Diseases
+T92	Drug	5660	5678	hypnotic treatment	UMLS:C0020591	Hypnotics
+T138	Ethnicity	5818	5824	French	UMLS:C1556084	french race
+T214	AgeGroup	5915	5936	aged 65 years or over	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T215	AgeGroup	5915	5936	aged 65 years or over	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T216	Disease	6866	6872	cancer	UMLS:C1882062	Neoplastic disease
+T217	Disease	6910	6932	coronary heart disease	UMLS:C0010068	Coronary heart disease
+T218	Disease	6937	6943	stroke	UMLS:C0038454	Cerebrovascular accident
+T219	Phenotype	7367	7386	depressive symptoms	HPO:HP:0000716	Depression
+T220	Measure	7445	7496	Center for Epidemiological Studies-Depression Scale	UMLS:C2699160	Center for Epidemiologic Studies Depression Scale
+T221	ScaleMax	7411	7429	above the 16-point	null	null
+T222	Phenotype	7503	7525	Anxiety trait symptoms	HPO:HP:0000739	Anxiety
+T223	Measure	7550	7593	Spielberger’s State-Trait Anxiety Inventory	UMLS:C0451497	Spielberger state-trait anxiety inventory
+T60	AgeGroup	7647	7654	elderly	null	null
+T224	Measure	7850	7879	Mini-Mental State Examination	UMLS:C0451306	Mini-mental state examination
+T225	ScaleMax	7910	7922	less than 26	null	null
+T226	Detail	7942	7962	cognitively impaired	null	null
+T227	Disease	8185	8197	hypertension	UMLS:C0020538	Hypertensive disease
+T228	Drug	8304	8330	antihypertensive treatment	UMLS:C0003364	Antihypertensive Agents
+T229	Disease	8332	8340	Diabetes	UMLS:C0011847	Diabetes
+T230	Drug	8393	8415	treatment for diabetes	UMLS:C0935929	Antidiabetics
+T231	Disease	8417	8437	Hypercholesterolemia	UMLS:C0020443	Hypercholesterolemia
+T232	Drug	8507	8528	lipid-lowering agents	UMLS:C0003367	Antilipemic agent
+T163	Disease	8587	8620	respiratory and thyroid disorders	UMLS:C0035204	Respiration Disorders
+T164	Disease	8587	8620	respiratory and thyroid disorders	UMLS:C0040128	Thyroid Diseases
+T165	Disease	8626	8656	cardio-cerebrovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T166	Disease	8658	8673	angina pectoris	UMLS:C0002962	Angina Pectoris
+T167	Disease	8675	8696	myocardial infarction	UMLS:C0027051	Myocardial Infarction
+T168	Disease	8722	8731	arteritis	UMLS:C0003860	Arteritis
+T169	Disease	8737	8743	stroke	UMLS:C0038454	Cerebrovascular accident
+T166	Phenotype	8794	8810	Sleep complaints	HPO:HP:0002360	Sleep disturbance
+T72	Phenotype	9160	9198	difficulties in maintaining sleep; DMS	UMLS:C0393761	Middle insomnia
+T234	Phenotype	9028	9067	excessively sleepy during the day (EDS)	HPO:HP:0002189	Excessive daytime sleepiness
+T236	Phenotype	9123	9158	several awakenings during the night	UMLS:C0860510	Nocturnal awakening
+T237	Phenotype	9208	9237	early morning awakening (EMA)	UMLS:C0541798	Early Awakening
+T238	Phenotype	9282	9296	snoring loudly	UMLS:C2219850	snoring loudly
+T239	Phenotype	9316	9319	EDS	HPO:HP:0002189	Excessive daytime sleepiness
+T251	Phenotype	9365	9389	being excessively sleepy	UMLS:C0917799	Hypersomnia
+T242	Phenotype	9391	9410	Insomnia complaints	HPO:HP:0100785	Insomnia
+T245	Phenotype	9434	9437	EMA	UMLS:C0541798	Early Awakening
+T246	Phenotype	9532	9551	insomnia complaints	HPO:HP:0100785	Insomnia
+T247	Disease	9585	9624	obstructive sleep apnea syndrome (OSAS)	UMLS:C0520679	Sleep Apnea, Obstructive
+T248	Phenotype	9657	9662	obese	HPO:HP:0001513	Obesity
+T249	Phenotype	9700	9703	EDS	HPO:HP:0002189	Excessive daytime sleepiness
+T250	Phenotype	9724	9736	loud snoring	HPO:C2219850	snoring loudly
+T17	Drug	10085	10094	hypnotics	UMLS:C0020591	Hypnotics
+T240	Drug	10065	10080	antidepressants	UMLS:C0003289	Antidepressive Agents
+T18	Drug	10204	10213	Hypnotics	UMLS:C0020591	Hypnotics
+T241	Drug	10234	10255	benzodiazepines (BZD)	UMLS:C0005064	Benzodiazepines
+T252	Drug	10277	10285	zolpidem	DrugBank:DB00425	Zolpidem
+T253	Drug	10287	10296	zopiclone	DrugBank:DB01198	Zopiclone
+T254	Drug	10340	10352	barbiturates	UMLS:C0004745	Barbiturates
+T255	Drug	10354	10368	antihistamines	UMLS:C0003360	Antihistamines
+T256	Drug	10415	10427	neuroleptics	UMLS:C0040615	Antipsychotic Agents
+T257	Drug	10380	10406	pharmacological categories	UMLS:C1254351	Pharmacologic Substance
+T19	Drug	10477	10486	hypnotics	UMLS:C0020591	Hypnotics
+T93	Drug	10533	10541	hypnotic	UMLS:C0020591	Hypnotics
+T20	Drug	10658	10667	hypnotics	UMLS:C0020591	Hypnotics
+T94	Drug	10768	10776	hypnotic	UMLS:C0020591	Hypnotics
+T61	AgeGroup	11070	11077	elderly	null	null
+T205	Disease	11224	11240	chronic diseases	UMLS:C0008679	Chronic disease
+T258	Disease	11513	11533	respiratory disorder	UMLS:C0035204	Respiration Disorders
+T259	Phenotype	11535	11555	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T260	Disease	11568	11571	CVD	UMLS:C0007222	Cardiovascular Diseases
+T261	Disease	11573	11585	hypertension	UMLS:C0020538	Hypertensive disease
+T262	Disease	11591	11599	diabetes	UMLS:C0011847	Diabetes
+T95	Drug	11661	11669	hypnotic	UMLS:C0020591	Hypnotics
+T263	Phenotype	11746	11765	insomnia complaints	HPO:HP:0100785	Insomnia
+T264	Phenotype	11789	11823	anxiety, depressive symptomatology	HPO:HP:0000739	Anxiety
+T266	Drug	11829	11843	antidepressant	UMLS:C0003289	Antidepressive Agents
+T370	Phenotype	11770	11773	EDS	HPO:HP:0002189	Excessive daytime sleepiness
+T267	Disease	12054	12057	CVD	UMLS:C0007222	Cardiovascular Diseases
+T268	Disease	12062	12068	cancer	UMLS:C1882062	Neoplastic disease
+T269	Disease	12115	12118	CVD	UMLS:C0007222	Cardiovascular Diseases
+T270	Disease	12123	12129	cancer	UMLS:C1882062	Neoplastic disease
+T271	Demographic	12356	12359	USA	UMLS:C0041703	United States
+T272	Disease	12458	12466	dementia	UMLS:C0497327	Dementia
+T273	Gender	12474	12479	women	Gender:C0015780	female
+T21	Drug	12930	12939	hypnotics	UMLS:C0020591	Hypnotics
+T180	AgeGroup	12643	12648	older	null	null
+T274	Disease	12573	12581	dementia	UMLS:C0497327	Dementia
+T275	Gender	12701	12707	female	Gender:C0015780	female
+T276	Disease	12744	12756	hypertension	UMLS:C0020538	Hypertensive disease
+T277	Disease	12758	12766	diabetes	UMLS:C0011847	Diabetes
+T278	Disease	12768	12787	respiratory disease	UMLS:C0035204	Respiration Disorders
+T279	Disease	12789	12809	hypercholesterolemia	UMLS:C0020443	Hypercholesterolemia
+T280	Phenotype	12811	12842	depressive and anxiety symptoms	HPO:HP:0000716	Depression
+T281	Phenotype	12811	12842	depressive and anxiety symptoms	HPO:HP:0000739	Anxiety
+T282	Phenotype	12844	12864	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T283	Disease	12882	12912	cardio-cerebrovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T284	Disease	12882	12912	cardio-cerebrovascular disease	UMLS:C0007820	Cerebrovascular Disorders
+T96	Drug	13128	13136	hypnotic	UMLS:C0020591	Hypnotics
+T371	Phenotype	13163	13182	insomnia complaints	HPO:HP:0100785	Insomnia
+T372	Phenotype	13210	13229	insomnia complaints	HPO:HP:0100785	Insomnia
+T22	Drug	13282	13291	hypnotics	UMLS:C0020591	Hypnotics
+T23	Drug	13323	13332	hypnotics	UMLS:C0020591	Hypnotics
+T285	Drug	13354	13357	BZD	UMLS:C0005064	Benzodiazepines
+T286	Drug	13459	13473	antihistamines	UMLS:C0003360	Antihistamines
+T288	Drug	13508	13520	barbiturates	UMLS:C0004745	Barbiturates
+T289	Drug	13531	13543	neuroleptics	UMLS:C0040615	Antipsychotic Agents
+T24	Drug	13602	13611	hypnotics	UMLS:C0020591	Hypnotics
+T97	Drug	13845	13853	hypnotic	UMLS:C0020591	Hypnotics
+T25	Drug	13972	13981	hypnotics	UMLS:C0020591	Hypnotics
+T130	Phenotype	14073	14083	depression	HPO:HP:0000716	Depression
+T131	Phenotype	14085	14092	anxiety	HPO:HP:0000739	Anxiety
+T132	Phenotype	14098	14118	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T133	Disease	14158	14173	chronic disease	UMLS:C0008679	Chronic disease
+T134	Disease	14175	14178	CVD	UMLS:C0007222	Cardiovascular Diseases
+T135	Disease	14180	14195	thyroid disease	UMLS:C0040128	Thyroid Diseases
+T136	Disease	14197	14205	diabetes	UMLS:C0011847	Diabetes
+T137	Disease	14207	14227	hypercholesterolemia	UMLS:C0020443	Hypercholesterolemia
+T138	Phenotype	14272	14291	insomnia complaints	HPO:HP:0100785	Insomnia
+T139	Phenotype	14296	14299	EDS	HPO:HP:0002189	Excessive daytime sleepiness
+T290	Disease	14511	14514	CVD	UMLS:C0007222	Cardiovascular Diseases
+T291	Disease	14524	14530	cancer	UMLS:C1882062	Neoplastic disease
+T292	Disease	14544	14568	co-morbid CVD and cancer	UMLS:C0007222	Cardiovascular Diseases
+T293	Disease	14544	14568	co-morbid CVD and cancer	UMLS:C1882062	Neoplastic disease
+T294	Phenotype	14701	14708	frailty	UMLS:C0424594	Frailty
+T295	Disease	14730	14750	respiratory diseases	UMLS:C0035204	Respiration Disorders
+T296	Phenotype	14956	14961	obese	HPO:HP:0001513	Obesity
+T297	Disease	15015	15027	hypertension	UMLS:C0020538	Hypertensive disease
+T298	Disease	15029	15046	diabetes mellitus	UMLS:C0011849	Diabetes Mellitus
+T299	Disease	15066	15069	CVD	UMLS:C0007222	Cardiovascular Diseases
+T300	Disease	15071	15090	respiratory disease	UMLS:C0035204	Respiration Disorders
+T302	Phenotype	15122	15125	EDS	HPO:HP:0002189	Excessive daytime sleepiness
+T303	Phenotype	15127	15146	depressive symptoms	HPO:HP:0000716	Depression
+T304	Drug	15163	15178	antidepressants	UMLS:C0003289	Antidepressive Agents
+T305	Phenotype	15262	15291	insomnia and anxiety symptoms	HPO:HP:0100785	Insomnia
+T306	Phenotype	15262	15291	insomnia and anxiety symptoms	HPO:HP:0000739	Anxiety
+T307	Disease	15425	15429	OSAS	UMLS:C0520679	Sleep Apnea, Obstructive
+T98	Drug	15525	15533	hypnotic	UMLS:C0020591	Hypnotics
+T26	Drug	15754	15763	hypnotics	UMLS:C0020591	Hypnotics
+T99	Drug	15730	15738	hypnotic	UMLS:C0020591	Hypnotics
+T314	Drug	15779	15782	BZD	UMLS:C0005064	Benzodiazepines
+T206	Disease	15852	15868	chronic disorder	UMLS:C0008679	Chronic disease
+T315	Drug	15980	15983	BZD	UMLS:C0005064	Benzodiazepines
+T316	Drug	16188	16191	BZD	UMLS:C0005064	Benzodiazepines
+T328	Phenotype	16092	16129	anxiety and depressive symptomatology	HPO:HP:0000716	Depression
+T329	Phenotype	16092	16129	anxiety and depressive symptomatology	HPO:HP:0000739	Anxiety
+T100	Drug	16517	16525	hypnotic	UMLS:C0020591	Hypnotics
+T207	Disease	16590	16606	chronic diseases	UMLS:C0008679	Chronic disease
+T208	Phenotype	16534	16537	EDS	HPO:HP:0002189	Excessive daytime sleepiness
+T209	Phenotype	16549	16568	insomnia complaints	HPO:HP:0100785	Insomnia
+T210	Drug	16570	16584	antidepressant	UMLS:C0003289	Antidepressive Agents
+T308	Disease	16629	16633	OSAS	UMLS:C0520679	Sleep Apnea, Obstructive
+T101	Drug	16660	16668	hypnotic	UMLS:C0020591	Hypnotics
+T27	Drug	16912	16921	hypnotics	UMLS:C0020591	Hypnotics
+T28	Drug	16951	16960	hypnotics	UMLS:C0020591	Hypnotics
+T317	Drug	16926	16929	BZD	UMLS:C0005064	Benzodiazepines
+T29	Drug	17185	17194	hypnotics	UMLS:C0020591	Hypnotics
+T30	Drug	17387	17396	hypnotics	UMLS:C0020591	Hypnotics
+T31	Drug	17679	17688	hypnotics	UMLS:C0020591	Hypnotics
+T102	Drug	17502	17510	hypnotic	UMLS:C0020591	Hypnotics
+T32	Drug	17840	17849	hypnotics	UMLS:C0020591	Hypnotics
+T318	Drug	18082	18085	BZD	UMLS:C0005064	Benzodiazepines
+T319	Drug	18124	18127	BZD	UMLS:C0005064	Benzodiazepines
+T320	Drug	18141	18144	BZD	UMLS:C0005064	Benzodiazepines
+T103	Drug	18188	18196	hypnotic	UMLS:C0020591	Hypnotics
+T330	Drug	18259	18275	sleep medication	UMLS:C0871377	Sleep Inducing Drugs
+T331	Drug	18333	18350	sleep medications	UMLS:C0871377	Sleep Inducing Drugs
+T104	Drug	18511	18519	hypnotic	UMLS:C0020591	Hypnotics
+T62	AgeGroup	18787	18794	elderly	null	null
+T105	Drug	18676	18684	hypnotic	UMLS:C0020591	Hypnotics
+T106	Drug	18946	18954	hypnotic	UMLS:C0020591	Hypnotics
+T199	Disease	19104	19124	psychiatric disorder	UMLS:C0004936	Mental disorders
+T332	Drug	18968	18972	BZDs	UMLS:C0005064	Benzodiazepines
+T107	Drug	19214	19222	hypnotic	UMLS:C0020591	Hypnotics
+T108	Drug	19372	19380	hypnotic	UMLS:C0020591	Hypnotics
+T33	Drug	19705	19714	hypnotics	UMLS:C0020591	Hypnotics
+T334	Phenotype	19589	19607	affective symptoms	UMLS:C0001726	Affective Symptoms
+T34	Drug	19797	19806	hypnotics	UMLS:C0020591	Hypnotics
+T336	Disease	19847	19879	EDS, anxiety, and mood disorders	UMLS:C0694563	Excessive daytime somnolence
+T337	Disease	19847	19879	EDS, anxiety, and mood disorders	UMLS:C0003469	Anxiety Disorders
+T338	Disease	19847	19879	EDS, anxiety, and mood disorders	UMLS:C0525045	Mood Disorders
+T335	Phenotype	19754	19771	Insomnia symptoms	HPO:HP:0100785	Insomnia
+T339	Disease	19881	19891	Depression	UMLS:C0011581	Depressive disorder
+T340	Disease	19896	19903	anxiety	UMLS:C0003469	Anxiety Disorders
+T35	Drug	20144	20153	hypnotics	UMLS:C0020591	Hypnotics
+T63	AgeGroup	20011	20018	elderly	null	null
+T140	Disease	20163	20173	depression	UMLS:C0011581	Depressive disorder
+T141	Phenotype	20192	20209	sleep disturbance	HPO:HP:0002360	Sleep disturbance
+T142	Phenotype	19979	19987	insomnia	HPO:HP:0100785	Insomnia
+T143	Phenotype	19949	19974	Depressive symptomatology	HPO:HP:0000716	Depression
+T144	Demographic	20026	20032	France	UMLS:C0016674	France
+T145	Drug	20085	20100	antidepressants	UMLS:C0003289	Antidepressive Agents
+T146	Disease	20125	20139	sleep disorder	UMLS:C0851578	Sleep Disorders
+T147	Phenotype	20249	20252	EDS	HPO:HP:0002189	Excessive daytime sleepiness
+T148	Disease	20316	20326	depression	UMLS:C0011581	Depressive disorder
+T149	Phenotype	20332	20349	cognitive decline	HPO:HP:0001268	Mental deterioration
+T150	Disease	20356	20372	physical illness	UMLS:C0683323	physical illness
+T151	Disease	20387	20390	CVD	UMLS:C0007222	Cardiovascular Diseases
+T152	AgeGroup	20410	20422	older adults	null	null
+T36	Drug	20549	20558	hypnotics	UMLS:C0020591	Hypnotics
+T64	AgeGroup	20498	20505	elderly	null	null
+T341	Phenotype	20666	20685	depressive symptoms	HPO:HP:0000716	Depression
+T342	Drug	20708	20722	antidepressant	UMLS:C0003289	Antidepressive Agents
+T343	Drug	20798	20812	antidepressant	UMLS:C0003289	Antidepressive Agents
+T344	Phenotype	20829	20854	depressive symptomatology	HPO:HP:0000716	Depression
+T345	Phenotype	20999	21054	anxiety or simultaneously for insomnia and EDS symptoms	HPO:HP:0000739	Anxiety
+T346	Phenotype	20999	21054	anxiety or simultaneously for insomnia and EDS symptoms	HPO:HP:0100785	Insomnia
+T347	Phenotype	20999	21054	anxiety or simultaneously for insomnia and EDS symptoms	HPO:HP:0002189	Excessive daytime sleepiness
+T109	Drug	21266	21274	hypnotic	UMLS:C0020591	Hypnotics
+T348	Phenotype	21288	21325	anxiety and depressive symptomatology	HPO:HP:0000739	Anxiety
+T349	Phenotype	21288	21325	anxiety and depressive symptomatology	HPO:HP:0000716	Depression
+T350	Drug	21330	21344	antidepressant	UMLS:C0003289	Antidepressive Agents
+T351	Phenotype	21361	21388	EDS and insomnia complaints	HPO:HP:0002189	Excessive daytime sleepiness
+T352	Phenotype	21361	21388	EDS and insomnia complaints	HPO:HP:0100785	Insomnia
+T37	Drug	21493	21502	hypnotics	UMLS:C0020591	Hypnotics
+T110	Drug	21572	21586	hypnotic drugs	UMLS:C0020591	Hypnotics
+T309	Disease	21737	21741	OSAS	UMLS:C0520679	Sleep Apnea, Obstructive
+T321	Drug	21601	21604	BZD	UMLS:C0005064	Benzodiazepines
+T353	Phenotype	21690	21712	psychomotor impairment	UMLS:C0679465	Psychomotor Impairment
+T355	Phenotype	21743	21746	EDS	HPO:HP:0002189	Excessive daytime sleepiness
+T39	Drug	21868	21877	hypnotics	UMLS:C0020591	Hypnotics
+T38	Drug	22012	22021	hypnotics	UMLS:C0020591	Hypnotics
+T40	Drug	21960	21969	hypnotics	UMLS:C0020591	Hypnotics
+T310	Disease	21954	21958	OSAS	UMLS:C0520679	Sleep Apnea, Obstructive
+T311	Disease	22043	22047	OSAS	UMLS:C0520679	Sleep Apnea, Obstructive
+T65	AgeGroup	22210	22217	elderly	null	null
+T322	Drug	22097	22100	BZD	UMLS:C0005064	Benzodiazepines
+T356	Phenotype	22116	22121	falls	HPO:HP:0002527	Falls
+T357	Phenotype	22126	22139	hip fractures	UMLS:C0019557	Hip Fractures
+T358	Phenotype	22171	22181	disability	UMLS:C0231170	Disability
+T66	AgeGroup	22347	22354	elderly	null	null
+T111	Drug	22373	22381	hypnotic	UMLS:C0020591	Hypnotics
+T359	Phenotype	22268	22292	nighttime sleep problems	null	null
+T360	Phenotype	22334	22339	falls	HPO:HP:0002527	Falls
+T112	Drug	22434	22442	hypnotic	UMLS:C0020591	Hypnotics
+T361	Phenotype	22570	22597	EDS and insomnia complaints	HPO:HP:0002189	Excessive daytime sleepiness
+T362	Phenotype	22570	22597	EDS and insomnia complaints	HPO:HP:0100785	Insomnia
+T41	Drug	22677	22686	hypnotics	UMLS:C0020591	Hypnotics
+T113	Drug	22734	22742	hypnotic	UMLS:C0020591	Hypnotics
+T363	Disease	22631	22637	cancer	UMLS:C1882062	Neoplastic disease
+T114	Drug	22804	22812	hypnotic	UMLS:C0020591	Hypnotics
+T42	Drug	22957	22966	hypnotics	UMLS:C0020591	Hypnotics
+T115	Drug	23075	23083	hypnotic	UMLS:C0020591	Hypnotics
+T43	Drug	23310	23319	hypnotics	UMLS:C0020591	Hypnotics
+T181	AgeGroup	23284	23289	older	null	null
+T201	Disease	23346	23385	psychiatric and other chronic disorders	UMLS:C0004936	Mental disorders
+T202	Disease	23346	23385	psychiatric and other chronic disorders	UMLS:C0008679	Chronic disease
+T44	Drug	23607	23616	hypnotics	UMLS:C0020591	Hypnotics
+T45	Drug	23706	23715	hypnotics	UMLS:C0020591	Hypnotics
+T313	Disease	23747	23750	CVD	UMLS:C0007222	Cardiovascular Diseases
+T153	Disease	24165	24197	depression and anxiety disorders	UMLS:C0011581	Depressive disorder
+T154	Disease	24165	24197	depression and anxiety disorders	UMLS:C0003469	Anxiety Disorders
+T365	Disease	24114	24131	chronic disorders	UMLS:C0008679	Chronic disease
+T116	Drug	24600	24608	hypnotic	UMLS:C0020591	Hypnotics
+T46	Drug	24661	24670	hypnotics	UMLS:C0020591	Hypnotics
+T67	AgeGroup	24746	24753	elderly	null	null
+T203	Disease	24943	24964	psychiatric disorders	UMLS:C0004936	Mental disorders
+T367	Disease	24882	24894	co-morbidity	UMLS:C0009488	Comorbidity
+T368	AgeGroup	24917	24928	higher ages	null	null
+T47	Drug	24973	24982	hypnotics	UMLS:C0020591	Hypnotics
+R1	hasScale	7445	7496	Measure	7411	7429	ScaleMax
+R2	hasScale	7850	7879	Measure	7910	7922	ScaleMax
+R3	hasDetail	7910	7922	ScaleMax	7942	7962	Detail

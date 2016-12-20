@@ -1,0 +1,264 @@
+T1	Drug	113	134	AZD0530 (saracatinib)	UMLS:C2828242	saracatinib
+T75	Disease	138	157	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T76	Disease	220	244	Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T77	Disease	376	378	AD	UMLS:C0002395	Alzheimer's Disease
+T78	Disease	627	629	AD	UMLS:C0002395	Alzheimer's Disease
+T79	Disease	739	741	AD	UMLS:C0002395	Alzheimer's Disease
+T2	Drug	818	825	AZD0530	UMLS:C2828242	saracatinib
+T80	Disease	925	944	mild-to-moderate AD	UMLS:C0002395	Alzheimer's Disease
+T3	Drug	1057	1064	AZD0530	UMLS:C2828242	saracatinib
+T81	Disease	1068	1070	AD	UMLS:C0002395	Alzheimer's Disease
+T116	Measure	1085	1121	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T117	ScaleMin	1142	1144	16	null	null
+T118	ScaleMax	1148	1150	26	null	null
+T4	Drug	1255	1262	AZD0530	UMLS:C2828242	saracatinib
+T5	Drug	1450	1457	AZD0530	UMLS:C2828242	saracatinib
+T119	Measure	1527	1584	Alzheimer’s Disease Assessment Scale – cognitive subscale	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T120	Measure	1586	1590	MMSE	UMLS:C0451306	Mini-mental state examination
+T121	Measure	1670	1696	Neuropsychiatric Inventory	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T122	Measure	1702	1747	Clinical Dementia Rating Scale – Sum of Boxes	UMLS:C0451074	Clinical dementia rating scale
+T6	Drug	1851	1858	AZD0530	UMLS:C2828242	saracatinib
+T7	Drug	1943	1950	AZD0530	UMLS:C2828242	saracatinib
+T123	Phenotype	2009	2033	congestive heart failure	HPO:HP:0001635	Congestive heart failure
+T8	Drug	2136	2143	AZD0530	UMLS:C2828242	saracatinib
+T125	Phenotype	2249	2264	memory deficits	HPO:HP:0002354	Memory impairment
+T9	Drug	2318	2325	AZD0530	UMLS:C2828242	saracatinib
+T10	Drug	2423	2430	AZD0530	UMLS:C2828242	saracatinib
+T82	Disease	2486	2505	mild-to-moderate AD	UMLS:C0002395	Alzheimer's Disease
+T11	Drug	2705	2712	AZD0530	UMLS:C2828242	saracatinib
+T83	Disease	2660	2662	AD	UMLS:C0002395	Alzheimer's Disease
+T84	Disease	2748	2750	AD	UMLS:C0002395	Alzheimer's Disease
+T85	Disease	2904	2928	Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T86	Disease	3035	3037	AD	UMLS:C0002395	Alzheimer's Disease
+T87	Disease	3264	3266	AD	UMLS:C0002395	Alzheimer's Disease
+T88	Disease	3853	3855	AD	UMLS:C0002395	Alzheimer's Disease
+T127	Phenotype	4588	4624	spatial learning and memory deficits	null	null
+T128	Phenotype	4588	4624	spatial learning and memory deficits	HPO:HP:0002354	Memory impairment
+T129	Phenotype	4626	4642	reduced survival	null	null
+T131	Phenotype	4669	4681	synapse loss	null	null
+T132	Phenotype	4683	4711	serotonin fiber degeneration	null	null
+T89	Disease	4871	4873	AD	UMLS:C0002395	Alzheimer's Disease
+T90	Disease	4755	4757	AD	UMLS:C0002395	Alzheimer's Disease
+T91	Disease	5214	5216	AD	UMLS:C0002395	Alzheimer's Disease
+T92	Disease	5437	5439	AD	UMLS:C0002395	Alzheimer's Disease
+T93	Disease	5510	5512	AD	UMLS:C0002395	Alzheimer's Disease
+T12	Drug	5514	5535	Saracatinib (AZD0530)	UMLS:C2828242	saracatinib
+T14	Drug	6063	6070	AZD0530	UMLS:C2828242	saracatinib
+T133	Disease	6112	6124	solid tumors	UMLS:C0280100	Solid tumour
+T13	Drug	6202	6209	AZD0530	UMLS:C2828242	saracatinib
+T147	Treatment	6350	6364	cancer therapy	UMLS:C0920425	cancer treatment
+T15	Drug	6611	6632	AZD0530 (saracatinib)	UMLS:C2828242	saracatinib
+T94	Disease	6636	6655	mild-to-moderate AD	UMLS:C0002395	Alzheimer's Disease
+T16	Drug	6726	6733	AZD0530	UMLS:C2828242	saracatinib
+T96	Disease	7406	7417	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T135	Gender	7327	7330	Men	Gender:C0086582	male
+T136	Gender	7335	7340	women	Gender:C0015780	female
+T137	AgeGroup	7341	7354	aged 50 to 90	AgeGroups:C0683973	middle aged adult (45-64 years)
+T138	AgeGroup	7341	7354	aged 50 to 90	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T139	AgeGroup	7341	7354	aged 50 to 90	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T140	Measure	7516	7552	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T141	ScaleMin	7567	7569	16	null	null
+T142	ScaleMax	7573	7575	26	null	null
+T143	Drug	7733	7758	Cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T156	Drug	7763	7772	memantine	DrugBank:DB01043	Memantine
+T145	ScaleMax	7858	7875	score less than 6	null	null
+T146	Measure	7883	7909	Geriatric Depression Scale	UMLS:C0451184	Geriatric depression scale (assessment scale)
+T147	ScaleMax	7919	7942	less than or equal to 4	null	null
+T148	Measure	7950	7974	Modified Hachinski Scale	UMLS:C3826978	Modified Hachinski Ischemic Scale-NACC Version Questionnaire
+T97	Disease	8307	8309	AD	UMLS:C0002395	Alzheimer's Disease
+T149	Disease	8277	8295	neurologic disease	UMLS:C0027765	nervous system disorder
+T150	Phenotype	8403	8412	infection	UMLS:C3714514	Infection
+T151	Phenotype	8414	8424	infarction	UMLS:C0021308	Infarction
+T152	Phenotype	8435	8448	focal lesions	null	null
+T153	Phenotype	8460	8476	multiple lacunes	UMLS:C0241970	lacune
+T154	Phenotype	8480	8525	lacunes in a brain region critical for memory	null	null
+T155	Disease	8554	8567	schizophrenia	UMLS:C0036341	Schizophrenia
+T156	Phenotype	9017	9065	abnormalities in vitamin B12 or thyroid function	UMLS:C0855981	Vitamin B12 abnormal
+T157	Phenotype	9017	9065	abnormalities in vitamin B12 or thyroid function	HPO:HP:0002926	Abnormality of thyroid physiology
+T158	Phenotype	9109	9120	neutropenia	HPO:HP:0001875	Neutropenia
+T159	Phenotype	9175	9191	thrombocytopenia	HPO:HP:0001873	Thrombocytopenia
+T161	Disease	9233	9277	current blood clotting or bleeding disorder,	UMLS:C0005779	Blood Coagulation Disorders
+T160	Phenotype	9295	9351	abnormal prothrombin time or partial thromboplastin time	UMLS:C0580412	Prothrombin time abnormal
+T162	Phenotype	9295	9351	abnormal prothrombin time or partial thromboplastin time	HPO:HP:0003645	Prolonged partial thromboplastin time
+T163	Disease	9633	9658	interstitial lung disease	UMLS:C0206062	Lung Diseases, Interstitial
+T185	Drug	9840	9860	typical neuroleptics	UMLS:C0040615	Antipsychotic Agents
+T165	Drug	9862	9881	narcotic analgesics	UMLS:C0027409	Narcotic Analgesics
+T166	Drug	9883	9906	Parkinson’s medications	UMLS:C0003405	Antiparkinson Agents
+T168	Drug	9937	9999	medications with significant central anticholinergic activity,	UMLS:C0242896	Anticholinergic Agents
+T190	Drug	10003	10011	warfarin	DrugBank:DB00682	Warfarin
+T170	Drug	10178	10195	CYP3A4 inhibitors	UMLS:C3850053	Cytochrome P-450 CYP3A4 Inhibitors
+T171	Drug	10207	10217	atazanavir	DrugBank:DB01072	Atazanavir
+T172	Drug	10219	10228	indinavir	DrugBank:DB00224	Indinavir
+T173	Drug	10230	10239	ritonavir	DrugBank:DB00503	Ritonavir
+T174	Drug	10241	10251	saquinavir	DrugBank:DB01232	Saquinavir
+T175	Drug	10253	10263	nelfinavir	DrugBank:DB00220	Nelfinavir
+T176	Drug	10265	10277	ketoconazole	DrugBank:DB01026	Ketoconazole
+T177	Drug	10279	10291	itraconazole	DrugBank:DB01167	Itraconazole
+T178	Drug	10293	10307	clarithromycin	DrugBank:DB01211	Clarithromycin
+T179	Drug	10309	10322	telithromycin	DrugBank:DB00976	Telithromycin
+T180	Drug	10328	10338	nefazodone	DrugBank:DB01149	Nefazodone
+T181	Drug	10350	10365	CYP3A4 inducers	UMLS:C3850041	Cytochrome P-450 CYP3A4 Inducers
+T182	Drug	10377	10387	rifampicin	DrugBank:DB01045	Rifampicin
+T183	Drug	10389	10398	phenytoin	DrugBank:DB00252	Phenytoin
+T184	Drug	10400	10413	phenobarbital	DrugBank:DB01174	Phenobarbital
+T185	Drug	10419	10432	carbamazepine	DrugBank:DB00564	Carbamazepine
+T186	Drug	10445	10462	CYP3A4 substrates	null	null
+T187	Drug	10473	10483	colchicine	DrugBank:DB01394	Colchicine
+T188	Drug	10485	10497	cyclosporine	DrugBank:DB00091	Cyclosporine
+T189	Drug	10499	10511	disopyramide	DrugBank:DB00280	Disopyramide
+T190	Drug	10513	10524	fluticasone	DrugBank:DB00588	Fluticasone Propionate
+T191	Drug	10526	10535	quinidine	DrugBank:DB00908	Quinidine
+T192	Drug	10537	10548	vinblastine	DrugBank:DB00570	Vinblastine
+T193	Drug	10550	10561	vincristine	DrugBank:DB00541	Vincristine
+T194	Drug	10579	10589	sildenafil	DrugBank:DB00203	Sildenafil
+T195	Drug	10591	10600	tadalafil	DrugBank:DB00820	Tadalafil
+T196	Drug	10606	10616	vardenafil	DrugBank:DB00862	Vardenafil
+T17	Drug	11120	11127	AZD0530	UMLS:C2828242	saracatinib
+T18	Drug	11491	11498	AZD0530	UMLS:C2828242	saracatinib
+T98	Disease	11516	11518	AD	UMLS:C0002395	Alzheimer's Disease
+T99	Disease	11643	11645	AD	UMLS:C0002395	Alzheimer's Disease
+T19	Drug	11700	11707	AZD0530	UMLS:C2828242	saracatinib
+T101	Disease	11874	11876	AD	UMLS:C0002395	Alzheimer's Disease
+T20	Drug	12138	12145	AZD0530	UMLS:C2828242	saracatinib
+T100	Disease	12162	12164	AD	UMLS:C0002395	Alzheimer's Disease
+T21	Drug	12323	12330	AZD0530	UMLS:C2828242	saracatinib
+T22	Drug	12707	12714	AZD0530	UMLS:C2828242	saracatinib
+T197	Measure	12821	12838	MMSE examinations	UMLS:C0451306	Mini-mental state examination
+T198	Measure	13190	13194	MMSE	UMLS:C0451306	Mini-mental state examination
+T23	Drug	13266	13273	AZD0530	UMLS:C2828242	saracatinib
+T199	Disease	13328	13353	interstitial lung disease	UMLS:C0206062	Lung Diseases, Interstitial
+T201	Phenotype	13489	13507	pulmonary symptoms	UMLS:C0037090	Signs and Symptoms, Respiratory
+T202	Measure	13644	13712	Alzheimer’s Disease Assessment Scale – cognitive subscale (ADAS-cog)	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T203	Measure	13719	13723	MMSE	UMLS:C0451306	Mini-mental state examination
+T204	Measure	13824	13856	Neuropsychiatric Inventory (NPI)	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T205	Measure	13867	13922	Clinical Dementia Rating Scale – Sum of Boxes (CDR-SOB)	UMLS:C0451074	Clinical dementia rating scale
+T206	Measure	13933	13937	MMSE	UMLS:C0451306	Mini-mental state examination
+T24	Drug	14660	14667	AZD0530	UMLS:C2828242	saracatinib
+T207	Disease	15216	15224	leukemia	UMLS:C0023418	leukemia
+T25	Drug	15425	15432	AZD0530	UMLS:C2828242	saracatinib
+T209	Drug	15437	15444	STI-571	DrugBank:DB00619	Imatinib
+T210	Demographic	16156	16159	USA	UMLS:C0041703	United States
+T211	Demographic	16241	16244	USA	UMLS:C0041703	United States
+T26	Drug	16478	16485	AZD0530	UMLS:C2828242	saracatinib
+T208	Drug	16490	16493	STI	null	null
+T212	Demographic	16692	16695	USA	UMLS:C0041703	United States
+T27	Drug	16861	16868	AZD0530	UMLS:C2828242	saracatinib
+T28	Drug	17424	17431	AZD0530	UMLS:C2828242	saracatinib
+T213	Measure	17551	17555	MMSE	UMLS:C0451306	Mini-mental state examination
+T214	Measure	17557	17565	ADAS-cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T215	Measure	17567	17574	CDR-SOB	UMLS:C0451074	Clinical dementia rating scale
+T216	Measure	17586	17589	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T217	Measure	17689	17692	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T219	Measure	18137	18141	MMSE	UMLS:C0451306	Mini-mental state examination
+T220	Phenotype	18151	18187	abnormal thyroid stimulating hormone	null	null
+T221	Phenotype	18193	18209	thalamic infarct	UMLS:C1611171	Thalamic infarction
+T222	Phenotype	18219	18242	abnormal liver function	HPO:HP:0001410	Decreased liver function
+T223	Gender	18491	18497	female	Gender:C0015780	female
+T224	AgeGroup	18521	18535	55 to 86 years	AgeGroups:C0683973	middle aged adult (45-64 years)
+T225	AgeGroup	18521	18535	55 to 86 years	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T226	AgeGroup	18521	18535	55 to 86 years	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T227	Ethnicity	18588	18597	Caucasian	UMLS:C0043157	Caucasians
+T228	Measure	18617	18621	MMSE	UMLS:C0451306	Mini-mental state examination
+T229	AgeGroup	18797	18802	older	null	null
+T230	Measure	18828	18832	MMSE	UMLS:C0451306	Mini-mental state examination
+T30	Drug	21113	21120	AZD0530	UMLS:C2828242	saracatinib
+T102	Disease	21204	21223	mild-to-moderate AD	UMLS:C0002395	Alzheimer's Disease
+T31	Drug	21260	21267	AZD0530	UMLS:C2828242	saracatinib
+T32	Drug	21852	21859	AZD0530	UMLS:C2828242	saracatinib
+T251	Phenotype	21752	21760	diarrhea	HPO:HP:0002014	Diarrhea
+T252	Phenotype	21762	21770	headache	HPO:HP:0002315	Headache
+T253	Phenotype	21772	21779	fatigue	HPO:HP:0012378	Fatigue
+T254	Phenotype	21785	21791	nausea	HPO:HP:0002018	Nausea
+T34	Drug	22955	22962	AZD0530	UMLS:C2828242	saracatinib
+T278	Phenotype	23035	23042	fatigue	HPO:HP:0012378	Fatigue
+T279	Phenotype	23044	23052	anorexia	HPO:HP:0002039	Anorexia
+T280	Phenotype	23058	23066	myalgias	HPO:HP:0003326	Myalgia
+T281	Phenotype	23081	23100	shortness of breath	HPO:HP:0002094	Dyspnea
+T282	Phenotype	23104	23119	low-grade fever	HPO:HP:0011134	Low-grade fever
+T283	Phenotype	23248	23272	congestive heart failure	HPO:HP:0001635	Congestive heart failure
+T291	Phenotype	23290	23299	pneumonia	HPO:HP:0002090	Pneumonia
+T286	Drug	23479	23488	diuretics	UMLS:C0012798	Diuretics
+T287	Drug	23493	23504	antibiotics	UMLS:C0003232	Antibiotics
+T35	Drug	23750	23757	AZD0530	UMLS:C2828242	saracatinib
+T288	Phenotype	23885	23910	elevated serum creatinine	HPO:HP:0003259	Elevated serum creatinine
+T289	Phenotype	23965	23993	worsened renal insufficiency	HPO:HP:0000083	Renal insufficiency
+T290	Phenotype	24059	24080	hematological changes	null	null
+T36	Drug	24237	24244	AZD0530	UMLS:C2828242	saracatinib
+T37	Drug	24295	24302	AZD0530	UMLS:C2828242	saracatinib
+T38	Drug	25014	25021	AZD0530	UMLS:C2828242	saracatinib
+T39	Drug	25077	25084	AZD0530	UMLS:C2828242	saracatinib
+T40	Drug	25449	25456	AZD0530	UMLS:C2828242	saracatinib
+T41	Drug	25758	25765	AZD0530	UMLS:C2828242	saracatinib
+T103	Disease	25105	25107	AD	UMLS:C0002395	Alzheimer's Disease
+T291	Phenotype	25191	25209	memory impairments	HPO:HP:0002354	Memory impairment
+T292	Drug	25325	25332	AZD0530	UMLS:C2828242	saracatinib
+T293	Phenotype	25621	25636	memory deficits	HPO:HP:0002354	Memory impairment
+T42	Drug	26103	26110	AZD0530	UMLS:C2828242	saracatinib
+T43	Drug	26190	26197	AZD0530	UMLS:C2828242	saracatinib
+T44	Drug	26228	26235	AZD0530	UMLS:C2828242	saracatinib
+T294	Measure	26462	26466	MMSE	UMLS:C0451306	Mini-mental state examination
+T295	Measure	26547	26551	MMSE	UMLS:C0451306	Mini-mental state examination
+T296	Measure	26733	26741	ADAS-cog	UMLS:C3539026	Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire
+T297	Measure	26753	26760	CDR-SOB	UMLS:C0451074	Clinical dementia rating scale
+T298	Measure	26766	26769	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T45	Drug	27032	27039	AZD0530	UMLS:C2828242	saracatinib
+T104	Disease	27473	27501	mild-to-moderate AD dementia	UMLS:C0002395	Alzheimer's Disease
+T46	Drug	27631	27638	AZD0530	UMLS:C2828242	saracatinib
+T47	Drug	27753	27760	AZD0530	UMLS:C2828242	saracatinib
+T48	Drug	28067	28074	AZD0530	UMLS:C2828242	saracatinib
+T303	Phenotype	28090	28103	decrease sCTX	null	null
+T49	Drug	28393	28400	AZD0530	UMLS:C2828242	saracatinib
+T50	Drug	28270	28277	AZD0530	UMLS:C2828242	saracatinib
+T304	Phenotype	28209	28231	decrease in serum sCTX	null	null
+T305	Drug	28312	28319	AZD0530	UMLS:C2828242	saracatinib
+T306	Phenotype	28401	28467	reduces serum cross-linked C-telopeptide of type 1 collagen (sCTX)	null	null
+T51	Drug	28850	28857	AZD0530	UMLS:C2828242	saracatinib
+T52	Drug	29142	29149	AZD0530	UMLS:C2828242	saracatinib
+T53	Drug	29459	29466	AZD0530	UMLS:C2828242	saracatinib
+T307	Disease	29607	29615	leukemia	UMLS:C0023418	leukemia
+T54	Drug	29782	29789	AZD0530	UMLS:C2828242	saracatinib
+T55	Drug	30107	30114	AZD0530	UMLS:C2828242	saracatinib
+T56	Drug	30118	30125	STI-571	DrugBank:DB00619	Imatinib
+T57	Drug	30455	30462	AZD0530	UMLS:C2828242	saracatinib
+T58	Drug	31085	31092	AZD0530	UMLS:C2828242	saracatinib
+T59	Drug	31127	31134	AZD0530	UMLS:C2828242	saracatinib
+T60	Drug	31019	31026	AZD0530	UMLS:C2828242	saracatinib
+T61	Drug	31211	31218	AZD0530	UMLS:C2828242	saracatinib
+T62	Drug	31250	31257	AZD0530	UMLS:C2828242	saracatinib
+T63	Drug	31339	31346	AZD0530	UMLS:C2828242	saracatinib
+T64	Drug	31381	31388	AZD0530	UMLS:C2828242	saracatinib
+T65	Drug	31469	31476	AZD0530	UMLS:C2828242	saracatinib
+T66	Drug	31505	31512	AZD0530	UMLS:C2828242	saracatinib
+T105	Disease	30939	30941	AD	UMLS:C0002395	Alzheimer's Disease
+T106	Disease	31602	31604	AD	UMLS:C0002395	Alzheimer's Disease
+T107	Disease	31823	31825	AD	UMLS:C0002395	Alzheimer's Disease
+T108	Disease	31965	31967	AD	UMLS:C0002395	Alzheimer's Disease
+T308	Phenotype	31935	31950	memory deficits	HPO:HP:0002354	Memory impairment
+T67	Drug	32108	32115	AZD0530	UMLS:C2828242	saracatinib
+T68	Drug	32377	32384	AZD0530	UMLS:C2828242	saracatinib
+T109	Disease	33035	33037	AD	UMLS:C0002395	Alzheimer's Disease
+T69	Drug	33122	33129	AZD0530	UMLS:C2828242	saracatinib
+T309	Disease	33184	33209	interstitial lung disease	UMLS:C0206062	Lung Diseases, Interstitial
+T299	Phenotype	33303	33327	congestive heart failure	HPO:HP:0001635	Congestive heart failure
+T306	Phenotype	33332	33341	pneumonia	HPO:HP:0002090	Pneumonia
+T70	Drug	33470	33477	AZD0530	UMLS:C2828242	saracatinib
+T71	Drug	33525	33532	AZD0530	UMLS:C2828242	saracatinib
+T110	Disease	33537	33539	AD	UMLS:C0002395	Alzheimer's Disease
+T311	Phenotype	33654	33672	pulmonary symptoms	UMLS:C0037090	Signs and Symptoms, Respiratory
+T72	Drug	33871	33878	AZD0530	UMLS:C2828242	saracatinib
+T111	Disease	33882	33884	AD	UMLS:C0002395	Alzheimer's Disease
+T112	Disease	34123	34142	mild-to-moderate AD	UMLS:C0002395	Alzheimer's Disease
+T312	Drug	33900	33909	Masitinib	UMLS:C2351398	masitinib
+T313	Demographic	34088	34094	France	UMLS:C0016674	France
+T314	Drug	34406	34415	masitinib	UMLS:C2351398	masitinib
+T113	Disease	34560	34562	AD	UMLS:C0002395	Alzheimer's Disease
+T73	Drug	34609	34616	AZD0530	UMLS:C2828242	saracatinib
+T114	Disease	34671	34673	AD	UMLS:C0002395	Alzheimer's Disease
+T74	Drug	34885	34892	AZD0530	UMLS:C2828242	saracatinib
+T115	Disease	34865	34867	AD	UMLS:C0002395	Alzheimer's Disease
+R1	hasScale	1085	1121	Measure	1142	1144	ScaleMin
+R2	hasScale	1085	1121	Measure	1148	1150	ScaleMax
+R3	hasScale	7516	7552	Measure	7567	7569	ScaleMin
+R4	hasScale	7516	7552	Measure	7573	7575	ScaleMax
+R5	hasScale	7883	7909	Measure	7858	7875	ScaleMax
+R6	hasScale	7950	7974	Measure	7919	7942	ScaleMax

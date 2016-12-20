@@ -1,0 +1,282 @@
+T1	Disease	88	91	DLB	UMLS:C0752347	Lewy Body Disease
+T3	Phenotype	0	48	Cerebrospinal fluid levels of IL-6 are decreased	null	null
+T2	Disease	193	201	dementia	UMLS:C0497327	Dementia
+T81	Phenotype	276	327	altered levels of IL-6 in cerebrospinal fluid (CSF)	null	null
+T82	Disease	361	385	Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T83	Phenotype	416	433	cognitive decline	HPO:HP:0001268	Mental deterioration
+T4	Disease	571	602	dementia with Lewy bodies (DLB)	UMLS:C0752347	Lewy Body Disease
+T84	Phenotype	611	634	altered CSF IL-6 levels	null	null
+T85	Disease	668	670	AD	UMLS:C0002395	Alzheimer's Disease
+T86	Disease	700	708	dementia	UMLS:C0497327	Dementia
+T87	Disease	793	795	AD	UMLS:C0002395	Alzheimer's Disease
+T88	Disease	800	815	synucleinopathy	null	null
+T5	Disease	876	879	DLB	UMLS:C0752347	Lewy Body Disease
+T89	Disease	1022	1024	AD	UMLS:C0002395	Alzheimer's Disease
+T90	Disease	849	851	AD	UMLS:C0002395	Alzheimer's Disease
+T151	Disease	918	926	dementia	UMLS:C0497327	Dementia
+T152	Measure	1192	1228	Mini Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T6	Disease	1311	1314	DLB	UMLS:C0752347	Lewy Body Disease
+T91	Disease	1346	1348	AD	UMLS:C0002395	Alzheimer's Disease
+T153	Phenotype	1264	1291	lower levels of IL-6 in CSF	null	null
+T154	Disease	1378	1386	dementia	UMLS:C0497327	Dementia
+T155	Measure	1441	1445	MMSE	UMLS:C0451306	Mini-mental state examination
+T156	Disease	1598	1606	dementia	UMLS:C0497327	Dementia
+T157	Disease	1682	1690	dementia	UMLS:C0497327	Dementia
+T158	Phenotype	1705	1722	cognitive decline	HPO:HP:0001268	Mental deterioration
+T161	Phenotype	1922	1948	increase in IL-6 secretion	UMLS:C0877589	Interleukin-6 increased
+T162	Phenotype	2364	2387	impair spatial learning	null	null
+T164	Phenotype	2496	2524	impairment of working memory	HPO:HP:0002354	Memory impairment
+T165	Phenotype	2630	2647	cognitive decline	HPO:HP:0001268	Mental deterioration
+T166	Phenotype	2673	2757	elevated levels of IL-6 in plasma and/or serum [13–16] and cerebrospinal fluid (CSF)	null	null
+T167	Phenotype	2673	2757	elevated levels of IL-6 in plasma and/or serum [13–16] and cerebrospinal fluid (CSF)	null	null
+T168	Phenotype	2673	2757	elevated levels of IL-6 in plasma and/or serum [13–16] and cerebrospinal fluid (CSF)	null	null
+T169	Phenotype	2894	2937	IL-6 secretion has been found to be altered	null	null
+T92	Disease	3067	3091	Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T93	Disease	3245	3247	AD	UMLS:C0002395	Alzheimer's Disease
+T172	Phenotype	3206	3220	senile plaques	HPO:HP:0100256	Senile plaques
+T7	Disease	3395	3426	dementia with Lewy bodies (DLB)	UMLS:C0752347	Lewy Body Disease
+T174	Phenotype	3509	3523	senile plaques	HPO:HP:0100256	Senile plaques
+T175	Phenotype	3528	3550	α-synuclein occlusions	null	null
+T94	Disease	3631	3633	AD	UMLS:C0002395	Alzheimer's Disease
+T176	Phenotype	3610	3627	cognitive decline	HPO:HP:0001268	Mental deterioration
+T8	Disease	3873	3876	DLB	UMLS:C0752347	Lewy Body Disease
+T177	Phenotype	3717	3741	increased levels of IL-6	UMLS:C0877589	Interleukin-6 increased
+T178	Phenotype	3746	3773	worse cognitive performance	HPO:HP:0100543	Cognitive impairment
+T179	Disease	3806	3830	Parkinson’s disease (PD)	UMLS:C0030567	Parkinson Disease
+T180	Disease	3835	3843	dementia	UMLS:C0497327	Dementia
+T181	Phenotype	3890	3928	neuropathological changes and symptoms	UMLS:C0235031	Neurologic Symptoms
+T183	Disease	3953	3955	PD	UMLS:C0030567	Parkinson Disease
+T184	Phenotype	3961	3981	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T185	Disease	4002	4033	mild cognitive impairment (MCI)	UMLS:C1270972	Mild cognitive disorder
+T186	Disease	4081	4089	dementia	UMLS:C0497327	Dementia
+T187	Phenotype	4439	4456	cognitive decline	HPO:HP:0001268	Mental deterioration
+T188	Disease	4474	4476	AD	UMLS:C0002395	Alzheimer's Disease
+T9	Disease	4534	4537	DLB	UMLS:C0752347	Lewy Body Disease
+T95	Disease	4527	4529	AD	UMLS:C0002395	Alzheimer's Disease
+T189	Phenotype	4574	4598	elevated peripheral IL-6	UMLS:C0877589	Interleukin-6 increased
+T190	Phenotype	4603	4620	cognitive decline	HPO:HP:0001268	Mental deterioration
+T96	Disease	4795	4797	AD	UMLS:C0002395	Alzheimer's Disease
+T192	Phenotype	4849	4941	increased levels [30–32], decreased levels [33] and unchanged levels [34, 35] of IL-6 in CSF	null	null
+T193	Phenotype	4849	4941	increased levels [30–32], decreased levels [33] and unchanged levels [34, 35] of IL-6 in CSF	null	null
+T10	Disease	5038	5041	DLB	UMLS:C0752347	Lewy Body Disease
+T11	Disease	5142	5145	DLB	UMLS:C0752347	Lewy Body Disease
+T194	Phenotype	5097	5124	increase in CSF IL-6 levels	null	null
+T12	Disease	5425	5428	DLB	UMLS:C0752347	Lewy Body Disease
+T196	Phenotype	5299	5312	senile plaque	HPO:HP:0100256	Senile plaques
+T13	Disease	5510	5513	DLB	UMLS:C0752347	Lewy Body Disease
+T14	Disease	5646	5649	DLB	UMLS:C0752347	Lewy Body Disease
+T15	Disease	5852	5855	DLB	UMLS:C0752347	Lewy Body Disease
+T97	Disease	5574	5576	AD	UMLS:C0002395	Alzheimer's Disease
+T98	Disease	5665	5667	AD	UMLS:C0002395	Alzheimer's Disease
+T99	Disease	5845	5847	AD	UMLS:C0002395	Alzheimer's Disease
+T197	Disease	5697	5705	dementia	UMLS:C0497327	Dementia
+T198	Phenotype	5801	5826	neuropathological changes	UMLS:C0542115	Neurologic changes
+T16	Disease	6075	6078	DLB	UMLS:C0752347	Lewy Body Disease
+T199	Measure	5919	5955	Mini Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T200	Disease	6099	6107	dementia	UMLS:C0497327	Dementia
+T201	Disease	6146	6154	dementia	UMLS:C0497327	Dementia
+T202	Ethnicity	6253	6259	Sweden	UMLS:C0337818	Swedes
+T17	Disease	6407	6410	DLB	UMLS:C0752347	Lewy Body Disease
+T100	Disease	6383	6385	AD	UMLS:C0002395	Alzheimer's Disease
+T203	Disease	6356	6364	dementia	UMLS:C0497327	Dementia
+T204	Disease	6441	6449	dementia	UMLS:C0497327	Dementia
+T205	Phenotype	6472	6495	mild cognitive symptoms	UMLS:C0525041	Neurobehavioral Manifestations
+T206	Disease	6551	6554	MCI	UMLS:C1270972	Mild cognitive disorder
+T207	Disease	6558	6566	dementia	UMLS:C0497327	Dementia
+T101	Disease	6934	6936	AD	UMLS:C0002395	Alzheimer's Disease
+T18	Disease	6960	6963	DLB	UMLS:C0752347	Lewy Body Disease
+T19	Disease	6991	6994	DLB	UMLS:C0752347	Lewy Body Disease
+T208	Disease	7094	7102	dementia	UMLS:C0497327	Dementia
+T209	Measure	7127	7131	MMSE	UMLS:C0451306	Mini-mental state examination
+T102	Disease	7146	7148	AD	UMLS:C0002395	Alzheimer's Disease
+T211	Demographic	7363	7370	Belgium	UMLS:C0004950	Belgium
+T210	Demographic	7489	7492	USA	UMLS:C0041703	United States
+T20	Disease	7681	7684	DLB	UMLS:C0752347	Lewy Body Disease
+T103	Disease	7652	7654	AD	UMLS:C0002395	Alzheimer's Disease
+T245	Phenotype	7545	7585	acute or chronic inflammatory conditions	UMLS:C0333383	Acute and chronic inflammation
+T245	Phenotype	7545	7585	acute or chronic inflammatory conditions	UMLS:C0333383	Acute and chronic inflammation
+T214	Disease	7620	7628	dementia	UMLS:C0497327	Dementia
+T215	Demographic	8502	8505	USA	UMLS:C0041703	United States
+T216	Demographic	8900	8903	USA	UMLS:C0041703	United States
+T104	Disease	9410	9412	AD	UMLS:C0002395	Alzheimer's Disease
+T217	Measure	9359	9363	MMSE	UMLS:C0451306	Mini-mental state examination
+T21	Disease	9739	9742	DLB	UMLS:C0752347	Lewy Body Disease
+T105	Disease	9767	9769	AD	UMLS:C0002395	Alzheimer's Disease
+T218	Gender	9685	9690	women	Gender:C0015780	female
+T219	Gender	9695	9698	men	Gender:C0086582	male
+T220	Gender	9813	9816	men	Gender:C0086582	male
+T221	Gender	9802	9807	women	Gender:C0015780	female
+T222	Disease	9836	9844	dementia	UMLS:C0497327	Dementia
+T223	Disease	9902	9910	dementia	UMLS:C0497327	Dementia
+T224	Measure	9918	9922	MMSE	UMLS:C0451306	Mini-mental state examination
+T22	Disease	9976	9979	DLB	UMLS:C0752347	Lewy Body Disease
+T106	Disease	9955	9957	AD	UMLS:C0002395	Alzheimer's Disease
+T229	Phenotype	9998	10024	lower CSF levels of Aβ1–42	null	null
+T23	Disease	10219	10222	DLB	UMLS:C0752347	Lewy Body Disease
+T107	Disease	10150	10152	AD	UMLS:C0002395	Alzheimer's Disease
+T225	Disease	10263	10271	dementia	UMLS:C0497327	Dementia
+T230	Phenotype	10088	10132	P-tau and T-tau were significantly increased	null	null
+T24	Disease	10346	10349	DLB	UMLS:C0752347	Lewy Body Disease
+T226	Disease	10383	10391	dementia	UMLS:C0497327	Dementia
+T227	Phenotype	10273	10326	Levels of α-synuclein were significantly lower in CSF	null	null
+T25	Disease	10432	10435	DLB	UMLS:C0752347	Lewy Body Disease
+T108	Disease	10411	10413	AD	UMLS:C0002395	Alzheimer's Disease
+T228	AgeGroup	10455	10460	older	null	null
+T231	Disease	10491	10499	dementia	UMLS:C0497327	Dementia
+T26	Disease	11813	11816	DLB	UMLS:C0752347	Lewy Body Disease
+T110	Disease	11845	11847	AD	UMLS:C0002395	Alzheimer's Disease
+T234	Phenotype	11772	11795	IL-6 levels are altered	null	null
+T235	Disease	11877	11885	dementia	UMLS:C0497327	Dementia
+T28	Disease	12180	12183	DLB	UMLS:C0752347	Lewy Body Disease
+T111	Disease	12394	12396	AD	UMLS:C0002395	Alzheimer's Disease
+T112	Disease	12255	12257	AD	UMLS:C0002395	Alzheimer's Disease
+T236	Disease	12287	12295	dementia	UMLS:C0497327	Dementia
+T237	Disease	12451	12459	dementia	UMLS:C0497327	Dementia
+T29	Disease	12758	12761	DLB	UMLS:C0752347	Lewy Body Disease
+T238	Disease	12703	12711	dementia	UMLS:C0497327	Dementia
+T239	AgeGroup	12731	12738	younger	null	null
+T30	Disease	13004	13007	DLB	UMLS:C0752347	Lewy Body Disease
+T113	Disease	13030	13032	AD	UMLS:C0002395	Alzheimer's Disease
+T240	Disease	13062	13070	dementia	UMLS:C0497327	Dementia
+T31	Disease	13211	13214	DLB	UMLS:C0752347	Lewy Body Disease
+T32	Disease	13306	13309	DLB	UMLS:C0752347	Lewy Body Disease
+T33	Disease	13703	13706	DLB	UMLS:C0752347	Lewy Body Disease
+T34	Disease	13797	13800	DLB	UMLS:C0752347	Lewy Body Disease
+T35	Disease	13938	13941	DLB	UMLS:C0752347	Lewy Body Disease
+T149	Disease	13696	13698	AD	UMLS:C0002395	Alzheimer's Disease
+T150	Disease	13541	13565	Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T241	Disease	13379	13387	dementia	UMLS:C0497327	Dementia
+T242	Disease	13510	13518	dementia	UMLS:C0497327	Dementia
+T243	Disease	13584	13615	dementia with Lewy bodies (DLB)	UMLS:C0752347	Lewy Body Disease
+T244	Measure	13866	13902	Mini Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T147	Disease	14157	14159	AD	UMLS:C0002395	Alzheimer's Disease
+T148	Disease	14164	14179	synucleinopathy	null	null
+T36	Disease	14349	14352	DLB	UMLS:C0752347	Lewy Body Disease
+T145	Disease	14242	14244	AD	UMLS:C0002395	Alzheimer's Disease
+T146	Disease	14329	14331	AD	UMLS:C0002395	Alzheimer's Disease
+T245	Disease	14305	14313	dementia	UMLS:C0497327	Dementia
+T37	Disease	14473	14476	DLB	UMLS:C0752347	Lewy Body Disease
+T144	Disease	14536	14538	AD	UMLS:C0002395	Alzheimer's Disease
+T246	Disease	14567	14575	dementia	UMLS:C0497327	Dementia
+T38	Disease	14703	14706	DLB	UMLS:C0752347	Lewy Body Disease
+T140	Disease	14682	14684	AD	UMLS:C0002395	Alzheimer's Disease
+T247	Phenotype	14647	14664	cognitive decline	HPO:HP:0001268	Mental deterioration
+T39	Disease	14816	14819	DLB	UMLS:C0752347	Lewy Body Disease
+T141	Disease	14962	14970	dementia	UMLS:C0497327	Dementia
+T142	Measure	14763	14767	MMSE	UMLS:C0451306	Mini-mental state examination
+T143	Disease	14898	14900	AD	UMLS:C0002395	Alzheimer's Disease
+T40	Disease	15021	15024	DLB	UMLS:C0752347	Lewy Body Disease
+T41	Disease	15121	15124	DLB	UMLS:C0752347	Lewy Body Disease
+T248	Measure	15210	15214	MMSE	UMLS:C0451306	Mini-mental state examination
+T42	Disease	15457	15460	DLB	UMLS:C0752347	Lewy Body Disease
+T249	Measure	15506	15510	MMSE	UMLS:C0451306	Mini-mental state examination
+T139	Disease	15632	15634	AD	UMLS:C0002395	Alzheimer's Disease
+T43	Disease	15741	15744	DLB	UMLS:C0752347	Lewy Body Disease
+T138	Disease	15763	15765	AD	UMLS:C0002395	Alzheimer's Disease
+T250	Phenotype	15665	15686	increased IL-6 levels	UMLS:C0877589	Interleukin-6 increased
+T251	Phenotype	15701	15723	cognitive disabilities	HPO:HP:0100543	Cognitive impairment
+T44	Disease	15935	15938	DLB	UMLS:C0752347	Lewy Body Disease
+T137	Disease	16058	16060	AD	UMLS:C0002395	Alzheimer's Disease
+T252	Phenotype	15963	15995	lower CSF concentrations of IL-6	null	null
+T253	Disease	16031	16039	dementia	UMLS:C0497327	Dementia
+T45	Disease	16194	16197	DLB	UMLS:C0752347	Lewy Body Disease
+T46	Disease	16291	16294	DLB	UMLS:C0752347	Lewy Body Disease
+T136	Disease	16327	16329	AD	UMLS:C0002395	Alzheimer's Disease
+T135	Disease	16483	16485	AD	UMLS:C0002395	Alzheimer's Disease
+T254	Phenotype	16446	16465	altered IL-6 levels	null	null
+T47	Disease	16666	16669	DLB	UMLS:C0752347	Lewy Body Disease
+T257	Phenotype	16723	16757	elevated CSF concentration of IL-6	null	null
+T48	Disease	16895	16898	DLB	UMLS:C0752347	Lewy Body Disease
+T49	Disease	17053	17056	DLB	UMLS:C0752347	Lewy Body Disease
+T132	Disease	16998	17000	AD	UMLS:C0002395	Alzheimer's Disease
+T133	Disease	16874	16876	AD	UMLS:C0002395	Alzheimer's Disease
+T258	Disease	17119	17127	dementia	UMLS:C0497327	Dementia
+T50	Disease	17225	17228	DLB	UMLS:C0752347	Lewy Body Disease
+T51	Disease	17196	17199	DLB	UMLS:C0752347	Lewy Body Disease
+T131	Disease	17437	17439	AD	UMLS:C0002395	Alzheimer's Disease
+T134	Disease	17310	17312	AD	UMLS:C0002395	Alzheimer's Disease
+T259	Phenotype	17262	17291	neurofibrillary tangles (NFT)	HPO:HP:0002185	Neurofibrillary tangles
+T260	Phenotype	17332	17335	NFT	HPO:HP:0002185	Neurofibrillary tangles
+T52	Disease	17548	17551	DLB	UMLS:C0752347	Lewy Body Disease
+T53	Disease	17587	17590	DLB	UMLS:C0752347	Lewy Body Disease
+T129	Disease	17723	17725	AD	UMLS:C0002395	Alzheimer's Disease
+T130	Disease	17527	17529	AD	UMLS:C0002395	Alzheimer's Disease
+T261	Phenotype	17786	17789	NFT	HPO:HP:0002185	Neurofibrillary tangles
+T54	Disease	17850	17853	DLB	UMLS:C0752347	Lewy Body Disease
+T262	Phenotype	17986	18009	increase in IL-6 levels	UMLS:C0877589	Interleukin-6 increased
+T55	Disease	18256	18259	DLB	UMLS:C0752347	Lewy Body Disease
+T56	Disease	18323	18326	DLB	UMLS:C0752347	Lewy Body Disease
+T263	Measure	18228	18232	MMSE	UMLS:C0451306	Mini-mental state examination
+T264	Measure	18305	18309	MMSE	UMLS:C0451306	Mini-mental state examination
+T57	Disease	18564	18567	DLB	UMLS:C0752347	Lewy Body Disease
+T265	Measure	18400	18404	MMSE	UMLS:C0451306	Mini-mental state examination
+T266	Measure	18507	18511	MMSE	UMLS:C0451306	Mini-mental state examination
+T267	Measure	18599	18603	MMSE	UMLS:C0451306	Mini-mental state examination
+T268	Phenotype	18460	18483	increase in IL-6 levels	UMLS:C0877589	Interleukin-6 increased
+T269	Phenotype	18655	18678	decrease in IL-6 levels	UMLS:C0919836	Interleukin-6 decreased
+T58	Disease	18799	18802	DLB	UMLS:C0752347	Lewy Body Disease
+T128	Disease	18821	18823	AD	UMLS:C0002395	Alzheimer's Disease
+T270	Disease	18718	18726	dementia	UMLS:C0497327	Dementia
+T271	AgeGroup	18768	18775	younger	null	null
+T272	Phenotype	18930	18975	increase of IL-6 levels in CSF [45] and serum	null	null
+T273	Phenotype	18930	18975	increase of IL-6 levels in CSF [45] and serum	null	null
+T59	Disease	19219	19222	DLB	UMLS:C0752347	Lewy Body Disease
+T127	Disease	19294	19296	AD	UMLS:C0002395	Alzheimer's Disease
+T274	Disease	19267	19275	dementia	UMLS:C0497327	Dementia
+T60	Disease	19412	19415	DLB	UMLS:C0752347	Lewy Body Disease
+T61	Disease	19529	19532	DLB	UMLS:C0752347	Lewy Body Disease
+T126	Disease	19469	19471	AD	UMLS:C0002395	Alzheimer's Disease
+T62	Disease	19626	19629	DLB	UMLS:C0752347	Lewy Body Disease
+T63	Disease	19744	19747	DLB	UMLS:C0752347	Lewy Body Disease
+T275	Phenotype	19702	19726	decreased levels of IL-6	UMLS:C0919836	Interleukin-6 decreased
+T276	Disease	19787	19795	dementia	UMLS:C0497327	Dementia
+T64	Disease	19871	19874	DLB	UMLS:C0752347	Lewy Body Disease
+T65	Disease	19918	19921	DLB	UMLS:C0752347	Lewy Body Disease
+T277	Gender	19881	19885	male	Gender:C0086582	male
+T66	Disease	20702	20705	DLB	UMLS:C0752347	Lewy Body Disease
+T125	Disease	20710	20712	AD	UMLS:C0002395	Alzheimer's Disease
+T67	Disease	20921	20924	DLB	UMLS:C0752347	Lewy Body Disease
+T124	Disease	21028	21030	AD	UMLS:C0002395	Alzheimer's Disease
+T278	Disease	20883	20898	synucleinopathy	null	null
+T279	Disease	20917	20919	PD	UMLS:C0030567	Parkinson Disease
+T280	Phenotype	20929	20952	multiple system atrophy	UMLS:C0393571	Multiple System Atrophy
+T68	Disease	21182	21185	DLB	UMLS:C0752347	Lewy Body Disease
+T123	Disease	21289	21291	AD	UMLS:C0002395	Alzheimer's Disease
+T281	Phenotype	21224	21260	increased [58] levels of α-synuclein	null	null
+T69	Disease	21389	21392	DLB	UMLS:C0752347	Lewy Body Disease
+T70	Disease	21543	21546	DLB	UMLS:C0752347	Lewy Body Disease
+T122	Disease	21722	21724	AD	UMLS:C0002395	Alzheimer's Disease
+T282	Demographic	22123	22126	USA	UMLS:C0041703	United States
+T71	Disease	22492	22495	DLB	UMLS:C0752347	Lewy Body Disease
+T283	Disease	22466	22483	synucleinopathies	null	null
+T284	Disease	22500	22516	PD with dementia	UMLS:C0349081	Dementia in Parkinson's disease
+T285	Disease	22537	22545	dementia	UMLS:C0497327	Dementia
+T72	Disease	22648	22651	DLB	UMLS:C0752347	Lewy Body Disease
+T286	Disease	22767	22782	synucleinopathy	null	null
+T287	Phenotype	22708	22741	lowered α-synuclein concentration	null	null
+T73	Disease	23048	23051	DLB	UMLS:C0752347	Lewy Body Disease
+T121	Disease	23080	23082	AD	UMLS:C0002395	Alzheimer's Disease
+T288	Phenotype	23006	23030	decreased levels of IL-6	UMLS:C0919836	Interleukin-6 decreased
+T289	Disease	23112	23120	dementia	UMLS:C0497327	Dementia
+T74	Disease	23338	23341	DLB	UMLS:C0752347	Lewy Body Disease
+T290	Phenotype	23279	23301	α-synuclein occlusions	null	null
+T291	Disease	23360	23362	PD	UMLS:C0030567	Parkinson Disease
+T292	Disease	23542	23544	PD	UMLS:C0030567	Parkinson Disease
+T293	Disease	23554	23580	neurodegenerative disorder	UMLS:C0524851	Neurodegenerative Disorders
+T294	Disease	23598	23613	synucleinopathy	null	null
+T295	Phenotype	23693	23720	elevated CSF levels of IL-6	null	null
+T75	Disease	23840	23843	DLB	UMLS:C0752347	Lewy Body Disease
+T76	Disease	23951	23954	DLB	UMLS:C0752347	Lewy Body Disease
+T296	Phenotype	23801	23822	increased IL-6 levels	UMLS:C0877589	Interleukin-6 increased
+T297	Measure	23858	23862	MMSE	UMLS:C0451306	Mini-mental state examination
+T77	Disease	24132	24135	DLB	UMLS:C0752347	Lewy Body Disease
+T78	Disease	24268	24271	DLB	UMLS:C0752347	Lewy Body Disease
+T119	Disease	24297	24299	AD	UMLS:C0002395	Alzheimer's Disease
+T298	Phenotype	24175	24196	lower CSF IL-6 levels	null	null
+T79	Disease	24543	24546	DLB	UMLS:C0752347	Lewy Body Disease
+T115	Disease	24562	24564	AD	UMLS:C0002395	Alzheimer's Disease
+T116	Disease	24584	24592	dementia	UMLS:C0497327	Dementia
+T80	Disease	24680	24683	DLB	UMLS:C0752347	Lewy Body Disease
+T114	Disease	24747	24749	AD	UMLS:C0002395	Alzheimer's Disease
+T117	Measure	24652	24656	MMSE	UMLS:C0451306	Mini-mental state examination
+T118	Phenotype	24834	24855	cognitive alterations	UMLS:C1392786	Cognitive changes

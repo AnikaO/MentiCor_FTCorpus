@@ -1,0 +1,320 @@
+T1	Disease	36	61	Mild Cognitive Impairment	UMLS:C1270972	Mild cognitive disorder
+T2	Disease	74	99	Dementia with Lewy Bodies	UMLS:C0752347	Lewy Body Disease
+T4	Phenotype	0	32	Clinical and Cognitive Phenotype	null	null
+T5	Phenotype	0	32	Clinical and Cognitive Phenotype	UMLS:C0525041	Neurobehavioral Manifestations
+T3	Disease	186	217	dementia with Lewy bodies (DLB)	UMLS:C0752347	Lewy Body Disease
+T6	Disease	223	247	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T7	Disease	255	286	mild cognitive impairment (MCI)	UMLS:C1270972	Mild cognitive disorder
+T8	Disease	394	417	mild cognitive deficits	UMLS:C1270972	Mild cognitive disorder
+T9	Disease	463	466	DLB	UMLS:C0752347	Lewy Body Disease
+T10	Disease	489	491	AD	UMLS:C0002395	Alzheimer's Disease
+T11	Disease	468	475	MCI-DLB	null	null
+T12	Disease	493	499	MCI-AD	null	null
+T13	Measure	659	702	Mini Mental State Examination Pentagon Test	UMLS:C0451306	Mini-mental state examination
+T14	Measure	711	753	Visual Object and Space Perception Battery	UMLS:C0451564	Visual object and spatial perception test
+T15	Measure	759	799	Neuropsychiatric Inventory Questionnaire	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T16	Phenotype	873	895	cognitive fluctuations	UMLS:C1392786	Cognitive changes
+T21	Disease	900	915	sleep disorders	UMLS:C0851578	Sleep Disorders
+T17	Disease	971	974	DLB	UMLS:C0752347	Lewy Body Disease
+T18	Phenotype	995	1020	soft extrapyramidal signs	UMLS:C3805822	Extrapyramidal signs, mild
+T19	Phenotype	1093	1120	REM sleep behavior disorder	UMLS:C0751772	REM Sleep Behavior Disorder
+T20	Phenotype	1131	1143	fluctuations	UMLS:C0231239	Fluctuation
+T22	Disease	1229	1232	DLB	UMLS:C0752347	Lewy Body Disease
+T23	Disease	1245	1247	AD	UMLS:C0002395	Alzheimer's Disease
+T24	Phenotype	1394	1427	verbal episodic memory impairment	UMLS:C2196219	verbal memory impairment
+T25	Phenotype	1304	1379	Executive functions, visual attention and visuospatial abilities were worse	UMLS:C3279333	Defects in executive function
+T26	Phenotype	1304	1379	Executive functions, visual attention and visuospatial abilities were worse	UMLS:C3553454	Poor visual attention
+T27	Phenotype	1304	1379	Executive functions, visual attention and visuospatial abilities were worse	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T28	Disease	1443	1445	AD	UMLS:C0002395	Alzheimer's Disease
+T30	Disease	1383	1386	DLB	UMLS:C0752347	Lewy Body Disease
+T29	Phenotype	1447	1487	Deficits in the visual-perceptual domain	UMLS:C1271073	Visual perceptual weakness
+T31	Disease	1509	1516	MCI-DLB	null	null
+T32	Disease	1521	1523	AD	UMLS:C0002395	Alzheimer's Disease
+T33	Disease	1592	1595	DLB	UMLS:C0752347	Lewy Body Disease
+T34	Phenotype	1647	1700	dorsal visual stream seems specifically more impaired	null	null
+T35	Disease	1704	1711	MCI-DLB	null	null
+T36	Disease	1789	1792	DLB	UMLS:C0752347	Lewy Body Disease
+T37	Disease	1797	1799	AD	UMLS:C0002395	Alzheimer's Disease
+T38	Phenotype	1843	1870	subtle extrapyramidal signs	UMLS:C3805822	Extrapyramidal signs, mild
+T39	Disease	1926	1929	DLB	UMLS:C0752347	Lewy Body Disease
+T40	Disease	1986	2017	dementia with Lewy bodies (DLB)	UMLS:C0752347	Lewy Body Disease
+T41	Disease	2022	2062	dementia due to Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T42	Phenotype	2098	2166	worse memory domain in AD and attentional/visuospatial domain in DLB	HPO:HP:0002354	Memory impairment
+T43	Disease	2098	2166	worse memory domain in AD and attentional/visuospatial domain in DLB	UMLS:C0002395	Alzheimer's Disease
+T44	Disease	2098	2166	worse memory domain in AD and attentional/visuospatial domain in DLB	UMLS:C0752347	Lewy Body Disease
+T328	Phenotype	2098	2166	worse memory domain in AD and attentional/visuospatial domain in DLB	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T329	Phenotype	2098	2166	worse memory domain in AD and attentional/visuospatial domain in DLB	UMLS:C0238707	Impairment of attention
+T46	Disease	2420	2423	DLB	UMLS:C0752347	Lewy Body Disease
+T47	Disease	2428	2430	AD	UMLS:C0002395	Alzheimer's Disease
+T48	Disease	2530	2533	DLB	UMLS:C0752347	Lewy Body Disease
+T45	Measure	2320	2380	pentagon copying of the Mini Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T49	Disease	2903	2906	DLB	UMLS:C0752347	Lewy Body Disease
+T50	Measure	3006	3024	MMSE pentagon copy	UMLS:C0451306	Mini-mental state examination
+T52	Disease	3113	3125	prodromal AD	UMLS:C3805054	Prodromal Alzheimer's disease
+T57	Phenotype	3143	3173	visuoconstructional impairment	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T59	Disease	3216	3219	DLB	UMLS:C0752347	Lewy Body Disease
+T60	Phenotype	3325	3366	performance in visual attention was worse	UMLS:C3553454	Poor visual attention
+T61	Disease	3375	3377	AD	UMLS:C0002395	Alzheimer's Disease
+T62	Disease	3492	3523	mild cognitive impairment (MCI)	UMLS:C1270972	Mild cognitive disorder
+T63	Disease	3537	3540	DLB	UMLS:C0752347	Lewy Body Disease
+T64	Disease	3659	3662	MCI	UMLS:C1270972	Mild cognitive disorder
+T65	Disease	3684	3687	DLB	UMLS:C0752347	Lewy Body Disease
+T66	Disease	3711	3713	AD	UMLS:C0002395	Alzheimer's Disease
+T67	Phenotype	3743	3786	visual space and object perception deficits	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T69	Phenotype	3743	3786	visual space and object perception deficits	UMLS:C1271073	Visual perceptual weakness
+T68	Ethnicity	3896	3901	Italy	UMLS:C0337810	Italians
+T70	Disease	3930	3953	mild cognitive deficits	UMLS:C1270972	Mild cognitive disorder
+T71	Disease	4024	4027	DLB	UMLS:C0752347	Lewy Body Disease
+T72	Disease	4053	4060	MCI-DLB	null	null
+T73	Disease	4083	4106	mild cognitive deficits	UMLS:C1270972	Mild cognitive disorder
+T74	Disease	4140	4142	AD	UMLS:C0002395	Alzheimer's Disease
+T75	Disease	4144	4150	MCI-AD	null	null
+T76	Measure	4266	4296	neuropsychological assessments	UMLS:C0027902	Neuropsychological Tests
+T77	Disease	4362	4370	dementia	UMLS:C0497327	Dementia
+T78	Disease	4458	4466	dementia	UMLS:C0497327	Dementia
+T79	Measure	4475	4479	MMSE	UMLS:C0451306	Mini-mental state examination
+T80	Phenotype	4501	4522	functional impairment	UMLS:C0277785	Functional disorder
+T81	Disease	4688	4691	DLB	UMLS:C0752347	Lewy Body Disease
+T82	Disease	4695	4697	AD	UMLS:C0002395	Alzheimer's Disease
+T83	Phenotype	4891	4908	cognitive decline	HPO:HP:0001268	Mental deterioration
+T85	Phenotype	5053	5073	extrapyramidal signs	UMLS:C0234133	Extrapyramidal sign
+T86	Disease	5164	5184	behavioral disorders	UMLS:C0004930	Behavior Disorders
+T87	Measure	5194	5234	Neuropsychiatric Inventory Questionnaire	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T89	Phenotype	5253	5292	fluctuations in cognition and attention	UMLS:C0233414	Disturbance of attention
+T90	Measure	5303	5333	Mayo Fluctuation Questionnaire	null	null
+T92	Phenotype	5378	5411	REM sleep behavior disorder (RBD)	UMLS:C0751772	REM Sleep Behavior Disorder
+T93	Measure	5459	5488	neuropsychological evaluation	UMLS:C0027902	Neuropsychological Tests
+T91	Measure	5631	5639	MMSE tes	UMLS:C0451306	Mini-mental state examination
+T94	Measure	5671	5680	MMSE test	UMLS:C0451306	Mini-mental state examination
+T96	Measure	5719	5764	Qualitative Scoring MMSE Pentagon Test (QSPT)	UMLS:C0451306	Mini-mental state examination
+T95	Measure	5827	5854	formal cognitive assessment	UMLS:C0870300	Assessment: Cognition
+T97	Measure	5887	5891	QSPT	UMLS:C0451306	Mini-mental state examination
+T98	Phenotype	6598	6604	Tremor	HPO:HP:0001337	Tremor
+T99	Measure	6766	6790	neuropsychological tests	UMLS:C0027902	Neuropsychological Tests
+T100	Measure	6792	6810	digit cancellation	null	null
+T101	Measure	6815	6834	Trail Making Test A	UMLS:C0040604	Trail Making Test
+T102	Measure	6875	6906	digit span forward and backward	null	null
+T103	Measure	6930	6978	prose memory (immediate and delayed recall) test	null	null
+T104	Measure	7001	7020	letter fluency test	null	null
+T105	Measure	7081	7099	clock drawing test	null	null
+T106	Measure	7159	7200	Rey-Osterrieth Complex Figure (ROCF) test	null	null
+T107	Measure	7254	7263	ROCF copy	null	null
+T108	Measure	7302	7321	ROCF delayed recall	null	null
+T109	Measure	7333	7382	Visual Object and Space Perception (VOSP) battery	UMLS:C0451564	Visual object and spatial perception test
+T110	Phenotype	7435	7483	visual-perceptual and visual-spatial impairments	UMLS:C1271073	Visual perceptual weakness
+T111	Phenotype	7435	7483	visual-perceptual and visual-spatial impairments	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T112	Measure	7494	7498	VOSP	UMLS:C0451564	Visual object and spatial perception test
+T113	Measure	7504	7530	neuropsychological battery	UMLS:C0451331	Neuropsychological battery
+T169	Measure	7635	7686	screening test, evaluating figure/ground perception	null	null
+T170	ScaleMax	7854	7856	20	null	null
+T114	Measure	7889	7912	fragmented letters task	null	null
+T116	Measure	8154	8174	object decision task	null	null
+T117	Measure	8340	8368	progressive silhouettes task	null	null
+T168	ScaleMax	8000	8002	20	null	null
+T171	Measure	8012	8028	silhouettes task	null	null
+T172	ScaleMax	8142	8144	30	null	null
+T173	ScaleMax	8328	8330	20	null	null
+T174	ScaleMax	8476	8478	20	null	null
+T115	Measure	8507	8527	dot counting subtest	null	null
+T118	Measure	8670	8698	position discrimination task	null	null
+T119	Measure	8944	8964	number location task	null	null
+T120	Measure	9268	9281	cube analysis	null	null
+T167	ScaleMax	9449	9451	10	null	null
+T175	ScaleMax	8658	8660	10	null	null
+T176	ScaleMax	8932	8934	20	null	null
+T177	ScaleMax	9256	9258	10	null	null
+T121	Disease	10026	10029	MCI	UMLS:C1270972	Mild cognitive disorder
+T122	Disease	10041	10044	DLB	UMLS:C0752347	Lewy Body Disease
+T123	Disease	10049	10051	AD	UMLS:C0002395	Alzheimer's Disease
+T124	Disease	10081	10084	DLB	UMLS:C0752347	Lewy Body Disease
+T125	Disease	10122	10124	AD	UMLS:C0002395	Alzheimer's Disease
+T126	AgeGroup	10104	10120	age range: 67-86	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T127	AgeGroup	10104	10120	age range: 67-86	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T128	AgeGroup	10144	10160	age range: 57-83	AgeGroups:C0683973	middle aged adult (45-64 years)
+T129	AgeGroup	10144	10160	age range: 57-83	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T130	AgeGroup	10144	10160	age range: 57-83	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T131	Gender	10186	10192	female	Gender:C0015780	female
+T132	Gender	10181	10185	male	Gender:C0086582	male
+T133	Disease	10195	10198	DLB	UMLS:C0752347	Lewy Body Disease
+T134	Disease	10207	10209	AD	UMLS:C0002395	Alzheimer's Disease
+T135	Disease	10264	10266	AD	UMLS:C0002395	Alzheimer's Disease
+T325	Disease	10242	10245	DLB	UMLS:C0752347	Lewy Body Disease
+T136	Disease	10304	10307	DLB	UMLS:C0752347	Lewy Body Disease
+T137	Phenotype	10331	10352	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T139	Phenotype	10390	10429	fluctuations of cognition and alertness	UMLS:C2712027	Actual Impaired Alertness
+T140	Phenotype	10449	10452	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T141	Disease	10476	10478	AD	UMLS:C0002395	Alzheimer's Disease
+T142	Phenotype	10500	10521	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T143	Phenotype	10543	10555	fluctuations	UMLS:C0231239	Fluctuation
+T144	Phenotype	10559	10562	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T145	Phenotype	10576	10596	extrapyramidal signs	UMLS:C0234133	Extrapyramidal sign
+T31	Disease	10656	10659	DLB	UMLS:C0752347	Lewy Body Disease
+T53	Disease	10801	10813	prodromal AD	UMLS:C3805054	Prodromal Alzheimer's disease
+T147	Phenotype	10821	10848	subtle extrapyramidal signs	UMLS:C3805822	Extrapyramidal signs, mild
+T148	Measure	10882	10905	Neuropsychological test	UMLS:C0027902	Neuropsychological Tests
+T149	Disease	10921	10928	MCI-DLB	null	null
+T150	Disease	10933	10939	MCI-AD	null	null
+T151	Measure	10981	10985	MMSE	UMLS:C0451306	Mini-mental state examination
+T32	Disease	11011	11014	DLB	UMLS:C0752347	Lewy Body Disease
+T153	Disease	11034	11036	AD	UMLS:C0002395	Alzheimer's Disease
+T33	Disease	11124	11127	DLB	UMLS:C0752347	Lewy Body Disease
+T155	Measure	11056	11060	QSPT	UMLS:C0451306	Mini-mental state examination
+T326	Disease	11230	11233	DLB	UMLS:C0752347	Lewy Body Disease
+T327	Disease	11270	11272	AD	UMLS:C0002395	Alzheimer's Disease
+T156	Measure	11336	11340	QSPT	UMLS:C0451306	Mini-mental state examination
+T35	Disease	11392	11395	DLB	UMLS:C0752347	Lewy Body Disease
+T158	Disease	11444	11446	AD	UMLS:C0002395	Alzheimer's Disease
+T159	Measure	11477	11496	Trail Making Test A	UMLS:C0040604	Trail Making Test
+T160	Disease	11610	11612	AD	UMLS:C0002395	Alzheimer's Disease
+T162	Measure	11706	11733	prose memory delayed recall	null	null
+T163	Measure	11798	11810	VOSP battery	UMLS:C0451564	Visual object and spatial perception test
+T164	Disease	11826	11833	MCI-DLB	null	null
+T165	Phenotype	11868	11903	severe visuoconstructional deficits	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T166	Phenotype	11932	11959	visual-attentional deficits	UMLS:C3553454	Poor visual attention
+T178	Measure	11905	11926	cube analysis subtest	null	null
+T179	Measure	11961	11984	number location subtest	null	null
+T180	Disease	11991	11993	AD	UMLS:C0002395	Alzheimer's Disease
+T181	Phenotype	12014	12052	Deficits in the visuoperceptual domain	UMLS:C1271073	Visual perceptual weakness
+T182	Disease	12070	12077	MCI-DLB	null	null
+T183	Disease	12092	12098	MCI-AD	null	null
+T184	Measure	12120	12177	fragmented letters, silhouettes and object decision items	null	null
+T185	Measure	12120	12177	fragmented letters, silhouettes and object decision items	null	null
+T186	Measure	12120	12177	fragmented letters, silhouettes and object decision items	null	null
+T36	Disease	12246	12249	DLB	UMLS:C0752347	Lewy Body Disease
+T188	Disease	12264	12266	AD	UMLS:C0002395	Alzheimer's Disease
+T37	Disease	12357	12360	DLB	UMLS:C0752347	Lewy Body Disease
+T190	Disease	12367	12369	AD	UMLS:C0002395	Alzheimer's Disease
+T191	Measure	12390	12394	QSPT	UMLS:C0451306	Mini-mental state examination
+T192	Measure	12453	12472	Trail Making Test A	UMLS:C0040604	Trail Making Test
+T194	Measure	12578	12612	prose memory immediate recall test	null	null
+T193	Measure	12510	12523	cube analysis	null	null
+T204	Measure	12527	12531	VOSP	UMLS:C0451564	Visual object and spatial perception test
+T195	Measure	12667	12671	QSPT	UMLS:C0451306	Mini-mental state examination
+T38	Disease	12718	12721	DLB	UMLS:C0752347	Lewy Body Disease
+T197	Measure	12764	12793	prose memory immediate recall	null	null
+T39	Disease	12947	12950	DLB	UMLS:C0752347	Lewy Body Disease
+T199	Disease	12955	12957	AD	UMLS:C0002395	Alzheimer's Disease
+T200	Measure	12970	13045	number of pentagon angles, digit backward, verbal fluency and cube analysis	null	null
+T201	Measure	12970	13045	number of pentagon angles, digit backward, verbal fluency and cube analysis	null	null
+T202	Measure	12970	13045	number of pentagon angles, digit backward, verbal fluency and cube analysis	null	null
+T203	Measure	12970	13045	number of pentagon angles, digit backward, verbal fluency and cube analysis	null	null
+T205	Measure	13053	13065	VOSP battery	UMLS:C0451564	Visual object and spatial perception test
+T206	Measure	13127	13180	number of pentagon angles and the digit backward test	null	null
+T207	Measure	13127	13180	number of pentagon angles and the digit backward test	null	null
+T208	Measure	13266	13311	number of angles and the digit backward tests	null	null
+T209	Measure	13266	13311	number of angles and the digit backward tests	null	null
+T210	Disease	13690	13693	MCI	UMLS:C1270972	Mild cognitive disorder
+T40	Disease	13756	13759	DLB	UMLS:C0752347	Lewy Body Disease
+T212	Disease	13764	13766	AD	UMLS:C0002395	Alzheimer's Disease
+T41	Disease	13830	13833	DLB	UMLS:C0752347	Lewy Body Disease
+T215	Phenotype	13868	13871	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T216	Phenotype	13882	13894	fluctuations	UMLS:C0231239	Fluctuation
+T42	Disease	13954	13957	DLB	UMLS:C0752347	Lewy Body Disease
+T218	Disease	13994	14011	dementia syndrome	UMLS:C0497327	Dementia
+T219	Disease	14048	14055	MCI-DLB	null	null
+T220	Phenotype	14121	14163	fluctuation and extrapyramidal involvement	UMLS:C0231239	Fluctuation
+T221	Phenotype	14121	14163	fluctuation and extrapyramidal involvement	UMLS:C0234133	Extrapyramidal sign
+T222	Phenotype	14304	14307	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T223	Phenotype	14312	14324	fluctuations	UMLS:C0231239	Fluctuation
+T224	Disease	14367	14369	AD	UMLS:C0002395	Alzheimer's Disease
+T217	Disease	14392	14395	DLB	UMLS:C0752347	Lewy Body Disease
+T226	Disease	14523	14526	MCI	UMLS:C1270972	Mild cognitive disorder
+T219	Disease	14579	14582	DLB	UMLS:C0752347	Lewy Body Disease
+T220	Disease	14633	14636	DLB	UMLS:C0752347	Lewy Body Disease
+T229	Disease	14656	14659	MCI	UMLS:C1270972	Mild cognitive disorder
+T230	Disease	14680	14688	later AD	UMLS:C0002395	Alzheimer's Disease
+T231	Disease	14806	14826	prodromal DLB stages	UMLS:C0752347	Lewy Body Disease
+T233	Disease	14899	14902	DLB	UMLS:C0752347	Lewy Body Disease
+T234	Disease	14985	14988	DLB	UMLS:C0752347	Lewy Body Disease
+T235	Phenotype	15009	15026	mild parkinsonism	HPO:HP:0001300	Parkinsonism
+T236	Phenotype	15075	15087	parkinsonism	HPO:HP:0001300	Parkinsonism
+T237	Phenotype	15117	15131	idiopathic RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T238	Phenotype	15154	15167	motor changes	UMLS:C1868976	Motor fluctuations
+T239	Disease	15249	15252	DLB	UMLS:C0752347	Lewy Body Disease
+T240	Phenotype	15342	15362	extrapyramidal signs	UMLS:C0234133	Extrapyramidal sign
+T242	Disease	15416	15435	Parkinson's disease	UMLS:C0030567	Parkinson Disease
+T243	Phenotype	15549	15581	extrapyramidal signs were subtle	UMLS:C3805822	Extrapyramidal signs, mild
+T245	Disease	15769	15771	AD	UMLS:C0002395	Alzheimer's Disease
+T247	Disease	16066	16085	AD with Lewy bodies	null	null
+T248	Phenotype	16090	16114	poorer motor performance	HPO:HP:0002275	Poor motor coordination
+T249	Phenotype	16124	16143	behavioral problems	HPO:HP:0000708	Behavioral abnormality
+T250	Disease	16149	16171	AD without Lewy bodies	null	null
+T251	Disease	16306	16309	DLB	UMLS:C0752347	Lewy Body Disease
+T252	Phenotype	16334	16359	neuropathological changes	null	null
+T253	Disease	16424	16427	DLB	UMLS:C0752347	Lewy Body Disease
+T245	Disease	16549	16551	AD	UMLS:C0002395	Alzheimer's Disease
+T330	Phenotype	16488	16508	cortical Lewy bodies	UMLS:C3548436	cortical Lewy body
+T54	Disease	16558	16570	Prodromal AD	UMLS:C3805054	Prodromal Alzheimer's disease
+T256	Phenotype	16672	16700	poorer verbal working memory	UMLS:C2196219	verbal memory impairment
+T257	Phenotype	16739	16809	difficulty in the speed and ease of verbal production (verbal fluency)	UMLS:C0751514	Verbal Fluency Disorders
+T258	Phenotype	16836	16868	frontal/dysexecutive dysfunction	UMLS:C3840049	Dysexecutive syndrome
+T259	Phenotype	16913	16969	visuoconstructional and object/space perception deficits	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T260	Phenotype	16913	16969	visuoconstructional and object/space perception deficits	UMLS:C1271073	Visual perceptual weakness
+T261	Disease	16987	16990	DLB	UMLS:C0752347	Lewy Body Disease
+T55	Disease	17344	17364	prodromal DLB and AD	UMLS:C0752347	Lewy Body Disease
+T56	Disease	17344	17364	prodromal DLB and AD	UMLS:C3805054	Prodromal Alzheimer's disease
+T262	Phenotype	17059	17113	visuoconstructional and visual motor tracking deficits	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T263	Phenotype	17059	17113	visuoconstructional and visual motor tracking deficits	null	null
+T264	Disease	17134	17143	early DLB	UMLS:C0752347	Lewy Body Disease
+T265	Disease	17161	17163	AD	UMLS:C0002395	Alzheimer's Disease
+T266	Measure	17219	17301	fragmented letters, silhouettes, object decision and progressive silhouettes items	null	null
+T267	Measure	17219	17301	fragmented letters, silhouettes, object decision and progressive silhouettes items	null	null
+T268	Measure	17219	17301	fragmented letters, silhouettes, object decision and progressive silhouettes items	null	null
+T269	Measure	17219	17301	fragmented letters, silhouettes, object decision and progressive silhouettes items	null	null
+T270	Measure	17309	17321	VOSP battery	UMLS:C0451564	Visual object and spatial perception test
+T272	Disease	17588	17591	DLB	UMLS:C0752347	Lewy Body Disease
+T273	Disease	17694	17697	DLB	UMLS:C0752347	Lewy Body Disease
+T274	Disease	17702	17704	AD	UMLS:C0002395	Alzheimer's Disease
+T275	Phenotype	17712	17755	functional impairment of the dorsal pathway	null	null
+T276	Disease	17786	17789	DLB	UMLS:C0752347	Lewy Body Disease
+T277	Disease	17900	17903	DLB	UMLS:C0752347	Lewy Body Disease
+T278	Phenotype	17803	17846	visual-spatial/visuoconstructional deficits	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T279	Disease	18011	18014	DLB	UMLS:C0752347	Lewy Body Disease
+T280	Phenotype	18034	18055	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T281	Phenotype	18104	18126	visual-spatial deficit	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T282	Disease	18170	18173	DLB	HPO:C0752347	Lewy Body Disease
+T283	Disease	18249	18257	demented	UMLS:C0497327	Dementia
+T284	Measure	18264	18268	MMSE	UMLS:C0451306	Mini-mental state examination
+T285	Disease	18512	18519	MCI-DLB	null	null
+T298	Measure	18815	18841	specific cognitive battery	UMLS:C0870300	Assessment: Cognition
+T286	Phenotype	18884	18956	visuoconstructional and spatial abilities are most specifically impaired	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T288	Disease	18960	18963	DLB	UMLS:C0752347	Lewy Body Disease
+T287	Phenotype	18971	18997	object perception deficits	UMLS:C1271073	Visual perceptual weakness
+T289	Phenotype	19041	19061	cognitive signatures	UMLS:C0525041	Neurobehavioral Manifestations
+T290	Disease	19068	19071	DLB	UMLS:C0752347	Lewy Body Disease
+T291	Disease	19076	19078	AD	UMLS:C0002395	Alzheimer's Disease
+T292	Measure	19107	19135	pentagon copying of the MMSE	UMLS:C0451306	Mini-mental state examination
+T293	Disease	19189	19192	DLB	UMLS:C0752347	Lewy Body Disease
+T294	Disease	19197	19199	AD	UMLS:C0002395	Alzheimer's Disease
+T295	Disease	19280	19282	AD	UMLS:C0002395	Alzheimer's Disease
+T296	Disease	19254	19257	DLB	UMLS:C0752347	Lewy Body Disease
+T297	Disease	19662	19664	AD	UMLS:C0002395	Alzheimer's Disease
+T299	Disease	19678	19681	DLB	UMLS:C0752347	Lewy Body Disease
+T300	Disease	19733	19735	AD	UMLS:C0002395	Alzheimer's Disease
+T301	Disease	19740	19743	DLB	UMLS:C0752347	Lewy Body Disease
+T302	Disease	19784	19786	AD	UMLS:C0002395	Alzheimer's Disease
+T303	Disease	19852	19855	DLB	UMLS:C0752347	Lewy Body Disease
+T304	Phenotype	19806	19839	worse in the verbal memory domain	UMLS:C2196219	verbal memory impairment
+T305	Phenotype	19907	19934	altered visuospatial domain	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T306	Phenotype	19875	19895	spared verbal memory	UMLS:C2196219	verbal memory impairment
+T309	Phenotype	20008	20046	impairing only the visuospatial domain	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T310	Disease	20076	20079	DLB	UMLS:C0752347	Lewy Body Disease
+T311	Disease	20084	20086	AD	UMLS:C0002395	Alzheimer's Disease
+T312	Phenotype	20169	20189	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T314	Phenotype	20455	20490	altered visuoconstructional ability	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T315	Measure	20392	20441	educed number of angles of the pentagon copy task	null	null
+T316	Measure	20504	20534	verbal memory immediate recall	null	null
+T317	Disease	20547	20550	DLB	UMLS:C0752347	Lewy Body Disease
+T318	Disease	20631	20634	DLB	UMLS:C0752347	Lewy Body Disease
+T319	Disease	20675	20678	DLB	UMLS:C0752347	Lewy Body Disease
+T320	Disease	20759	20762	DLB	UMLS:C0752347	Lewy Body Disease
+T321	Phenotype	20777	20811	worse visuoconstructional deficits	HPO:HP:0010794	Impaired visuospatial constructive cognition
+T291	Disease	20842	20844	AD	UMLS:C0002395	Alzheimer's Disease
+R2	hasScale	7889	7912	Measure	8000	8002	ScaleMax
+R4	hasScale	8012	8028	Measure	8142	8144	ScaleMax
+R5	hasScale	8154	8174	Measure	8328	8330	ScaleMax
+R6	hasScale	8340	8368	Measure	8476	8478	ScaleMax
+R1	hasScale	9268	9281	Measure	9449	9451	ScaleMax
+R7	hasScale	8507	8527	Measure	8658	8660	ScaleMax
+R8	hasScale	8670	8698	Measure	8932	8934	ScaleMax
+R9	hasScale	8944	8964	Measure	9256	9258	ScaleMax

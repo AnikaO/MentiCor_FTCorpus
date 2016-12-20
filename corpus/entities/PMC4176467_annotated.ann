@@ -1,0 +1,232 @@
+T1	Phenotype	0	9	Agitation	HPO:HP:0000713	Agitation
+T38	Disease	13	21	Dementia	UMLS:C0497327	Dementia
+T2	Phenotype	140	149	agitation	HPO:HP:0000713	Agitation
+T39	Disease	179	187	dementia	UMLS:C0497327	Dementia
+T40	Disease	317	325	dementia	UMLS:C0497327	Dementia
+T41	Phenotype	330	355	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T76	Gender	374	380	female	Gender:C0015780	female
+T3	Phenotype	397	406	Agitation	HPO:HP:0000713	Agitation
+T77	Measure	430	471	Cohen-Mansfield Agitation Inventory (CMAI	null	null
+T42	Disease	662	670	dementia	UMLS:C0497327	Dementia
+T78	Disease	608	631	Alzheimer's disease (AD	UMLS:C0002395	Alzheimer's Disease
+T103	Measure	500	504	CMAI	null	null
+T4	Phenotype	840	849	agitation	HPO:HP:0000713	Agitation
+T80	Disease	853	855	AD	UMLS:C0002395	Alzheimer's Disease
+T122	Phenotype	750	773	neurofibrillary tangles	HPO:HP:0002185	Neurofibrillary tangles
+T43	Disease	882	890	dementia	UMLS:C0497327	Dementia
+T44	Phenotype	1142	1198	behavioral and psychological symptoms in dementia (BPSD)	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T45	Phenotype	1101	1126	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T46	Disease	1002	1019	dementia syndrome	UMLS:C0497327	Dementia
+T123	Phenotype	1031	1079	progressive deterioration of cognitive functions	HPO:HP:0001268	Mental deterioration
+T5	Phenotype	1252	1261	agitation	HPO:HP:0000713	Agitation
+T124	Phenotype	1206	1210	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T125	Phenotype	1263	1272	psychosis	HPO:HP:0000709	Psychosis
+T126	Phenotype	1277	1291	mood disorders	UMLS:C0525045	Mood Disorders
+T6	Phenotype	1297	1306	Agitation	HPO:HP:0000713	Agitation
+T139	Phenotype	1321	1339	emotional distress	UMLS:C0700361	Emotional distress
+T140	Phenotype	1344	1362	behavioral changes	HPO:HP:0000708	Behavioral abnormality
+T141	Phenotype	1371	1381	aggression	HPO:HP:0000718	Aggressive behavior
+T142	Phenotype	1383	1395	irritability	HPO:HP:0000737	Irritability
+T143	Phenotype	1408	1420	restlessness	HPO:HP:0000711	Restlessness
+T7	Phenotype	1426	1435	Agitation	HPO:HP:0000713	Agitation
+T47	Disease	1479	1487	dementia	UMLS:C0497327	Dementia
+T48	Disease	1623	1631	dementia	UMLS:C0497327	Dementia
+T127	Phenotype	1657	1669	BPSD symptom	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T128	Phenotype	1708	1712	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T129	Phenotype	2031	2035	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T144	Phenotype	2187	2206	behavioral symptoms	UMLS:C0004941	Behavioral Symptoms
+T145	Phenotype	2217	2230	disinhibition	HPO:HP:0000734	Disinhibition
+T146	Phenotype	2239	2250	impulsivity	HPO:HP:0100710	Impulsivity
+T147	Phenotype	2252	2271	reduced body weight	HPO:HP:0004325	Decreased body weight
+T148	Phenotype	2276	2295	enhanced aggression	HPO:HP:0000718	Aggressive behavior
+T8	Phenotype	2333	2342	Agitation	HPO:HP:0000713	Agitation
+T149	Phenotype	2389	2418	neurofibrillary tangles (NFT)	HPO:HP:0002185	Neurofibrillary tangles
+T9	Phenotype	2582	2591	agitation	HPO:HP:0000713	Agitation
+T79	Disease	2459	2490	severe Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T150	Phenotype	2521	2525	NFTs	HPO:HP:0002185	Neurofibrillary tangles
+T151	Measure	2609	2660	Neuropsychiatric Inventory (NPI) agitation subscale	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T152	Phenotype	2693	2712	aggressive behavior	HPO:HP:0000718	Aggressive behavior
+T153	Phenotype	2747	2766	physical aggression	UMLS:C0424323	Physical aggression
+T154	Phenotype	2794	2811	verbal aggression	UMLS:C0424322	Verbal aggression
+T155	Phenotype	2768	2789	aggressive resistance	null	null
+T156	Phenotype	2832	2847	loss of neurons	HPO:HP:0002529	Neuronal loss in central nervous system
+T130	Phenotype	2996	3000	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T157	Phenotype	2923	2966	abnormalities in cerebral neurotransmission	null	null
+T81	Disease	3199	3201	AD	UMLS:C0002395	Alzheimer's Disease
+T159	Phenotype	3394	3397	NFT	HPO:HP:0002185	Neurofibrillary tangles
+T131	Phenotype	3506	3510	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T160	Phenotype	3531	3537	apathy	HPO:HP:0000741	Apathy
+T161	Phenotype	3631	3637	apathy	HPO:HP:0000741	Apathy
+T162	Phenotype	3684	3688	NFTs	HPO:HP:0002185	Neurofibrillary tangles
+T82	Disease	3747	3749	AD	UMLS:C0002395	Alzheimer's Disease
+T163	Phenotype	3732	3742	depression	HPO:HP:0000716	Depression
+T164	Phenotype	3811	3821	depression	HPO:HP:0000716	Depression
+T165	Phenotype	3843	3858	amyloid plaques	UMLS:C2936349	Plaque, Amyloid
+T166	Phenotype	3862	3866	NFTs	HPO:HP:0002185	Neurofibrillary tangles
+T167	Phenotype	3972	3991	aggressive behavior	HPO:HP:0000718	Aggressive behavior
+T132	Phenotype	4128	4132	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T169	Phenotype	4049	4053	NFTs	HPO:HP:0002185	Neurofibrillary tangles
+T170	Phenotype	4058	4073	amyloid plaques	UMLS:C2936349	Plaque, Amyloid
+T10	Phenotype	4260	4269	agitation	HPO:HP:0000713	Agitation
+T171	Drug	4285	4299	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T11	Phenotype	4561	4570	agitation	HPO:HP:0000713	Agitation
+T49	Disease	4697	4705	dementia	UMLS:C0497327	Dementia
+T104	Measure	4590	4632	Cohen-Mansfield Agitation Inventory (CMAI)	null	null
+T133	Phenotype	4710	4714	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T50	Disease	5114	5134	Alzheimer's dementia	UMLS:C0002395	Alzheimer's Disease
+T51	Phenotype	5140	5162	behavioral disturbance	HPO:HP:0000708	Behavioral abnormality
+T52	Disease	5164	5181	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T53	Disease	5214	5228	mixed dementia	UMLS:C3532942	Mixed dementia
+T54	Phenotype	5187	5209	behavioral disturbance	HPO:HP:0000708	Behavioral abnormality
+T55	Phenotype	5234	5256	behavioral disturbance	HPO:HP:0000708	Behavioral abnormality
+T172	Measure	5321	5324	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T173	ScaleMax	5311	5313	10	null	null
+T174	Disease	5448	5461	schizophrenia	UMLS:C0036341	Schizophrenia
+T166	Disease	5531	5539	seizures	UMLS:C0036572	Seizures
+T170	Disease	5587	5638	hepatic, renal, pulmonary or metabolic disturbances	UMLS:C0024115	Lung diseases
+T170	Disease	5587	5638	hepatic, renal, pulmonary or metabolic disturbances	UMLS:C0024115	Lung diseases
+T170	Disease	5587	5638	hepatic, renal, pulmonary or metabolic disturbances	UMLS:C0024115	Lung diseases
+T170	Disease	5587	5638	hepatic, renal, pulmonary or metabolic disturbances	UMLS:C0024115	Lung diseases
+T182	Drug	5716	5741	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T183	Drug	5745	5757	neuroleptics	UMLS:C0040615	Antipsychotic Agents
+T184	Drug	5821	5834	psychotropics	UMLS:C0033978	Psychotropic Drugs
+T185	Drug	5854	5869	antidepressants	UMLS:C0003289	Antidepressive Agents
+T186	Drug	5871	5886	benzodiazepines	UMLS:C0005064	Benzodiazepines
+T187	Drug	5891	5905	antihistamines	UMLS:C0003360	Antihistamines
+T57	Disease	6338	6346	dementia	UMLS:C0497327	Dementia
+T188	Measure	6457	6493	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T190	Measure	6531	6534	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T58	Disease	6683	6691	dementia	UMLS:C0497327	Dementia
+T59	Disease	6791	6799	dementia	UMLS:C0497327	Dementia
+T191	Demographic	6718	6724	Sweden	UMLS:C0038995	Sweden
+T192	Phenotype	6941	6955	arachnoid cyst	HPO:HP:0100702	Arachnoid cyst
+T193	Phenotype	7001	7018	muscular rigidity	HPO:HP:0002063	Rigidity
+T12	Phenotype	7119	7128	agitation	HPO:HP:0000713	Agitation
+T13	Phenotype	7034	7043	agitation	HPO:HP:0000713	Agitation
+T105	Measure	7067	7071	CMAI	null	null
+T194	ScaleMin	7176	7177	1	null	null
+T195	ScaleMax	7178	7179	7	null	null
+T197	ScaleMin	7181	7182	1	null	null
+T198	Detail	7185	7190	never	null	null
+T199	ScaleMax	7192	7193	7	null	null
+T200	Detail	7196	7224	a couple of times every hour	null	null
+T106	Measure	7237	7241	CMAI	null	null
+T196	ScaleMax	7315	7318	203	null	null
+T14	Phenotype	7399	7408	agitation	HPO:HP:0000713	Agitation
+T107	Measure	7324	7328	CMAI	null	null
+T201	Phenotype	7422	7450	aggressive physical behavior	UMLS:C0424323	Physical aggression
+T202	Phenotype	7459	7466	kicking	UMLS:C2371406	Kicking
+T204	Phenotype	7551	7577	verbal aggressive behavior	UMLS:C0424322	Verbal aggression
+T205	Phenotype	7586	7595	screaming	UMLS:C0521008	Screaming
+T206	Phenotype	7652	7662	negativism	UMLS:C0027562	Negativism
+T207	Phenotype	7666	7677	complaining	null	null
+T208	Phenotype	7612	7641	verbal nonaggressive behavior	null	null
+T60	Disease	7914	7934	unspecified dementia	UMLS:C0497327	Dementia
+T61	Disease	7818	7835	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T83	Disease	7766	7768	AD	UMLS:C0002395	Alzheimer's Disease
+T84	Disease	7778	7808	mixed AD with vascular factors	null	null
+T209	Disease	7861	7886	mild cognitive impairment	UMLS:C1270972	Mild cognitive disorder
+T108	Measure	8026	8030	CMAI	null	null
+T109	Gender	7959	7966	females	Gender:C0015780	female
+T210	Demographic	8513	8520	Belgium	UMLS:C0004950	Belgium
+T211	Phenotype	9505	9525	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T212	Measure	9527	9531	MMSE	UMLS:C0451306	Mini-mental state examination
+T213	Demographic	10050	10053	USA	UMLS:C0041703	United States
+T214	Demographic	10233	10239	Sweden	UMLS:C0038995	Sweden
+T110	Measure	10434	10438	CMAI	null	null
+T111	Measure	10440	10444	CMAI	null	null
+T85	Disease	10560	10562	AD	UMLS:C0002395	Alzheimer's Disease
+T112	Measure	10724	10728	CMAI	null	null
+T86	Disease	10739	10741	AD	UMLS:C0002395	Alzheimer's Disease
+T113	Measure	10810	10814	CMAI	null	null
+T15	Phenotype	10954	10963	agitation	HPO:HP:0000713	Agitation
+T87	Disease	11011	11013	AD	UMLS:C0002395	Alzheimer's Disease
+T114	Measure	10971	10975	CMAI	null	null
+T88	Disease	11076	11078	AD	UMLS:C0002395	Alzheimer's Disease
+T62	Disease	11144	11152	dementia	UMLS:C0497327	Dementia
+T63	Disease	11192	11200	dementia	UMLS:C0497327	Dementia
+T115	Measure	11174	11178	CMAI	null	null
+T16	Phenotype	11334	11343	agitation	HPO:HP:0000713	Agitation
+T89	Disease	11352	11354	AD	UMLS:C0002395	Alzheimer's Disease
+T90	Disease	11373	11375	AD	UMLS:C0002395	Alzheimer's Disease
+T116	Measure	11485	11489	CMAI	null	null
+T215	Measure	11420	11424	MMSE	UMLS:C0451306	Mini-mental state examination
+T117	Measure	11612	11616	CMAI	null	null
+T118	Measure	11658	11662	CMAI	null	null
+T119	Measure	11843	11847	CMAI	null	null
+T120	Measure	12057	12061	CMAI	null	null
+T64	Phenotype	12177	12202	neuropsychiatric symptoms	UMLS:C3534763	One or more neuropsychiatric symptoms
+T65	Disease	12207	12215	dementia	UMLS:C0497327	Dementia
+T91	Disease	12134	12136	AD	UMLS:C0002395	Alzheimer's Disease
+T17	Phenotype	12273	12282	agitation	HPO:HP:0000713	Agitation
+T92	Disease	12339	12341	AD	UMLS:C0002395	Alzheimer's Disease
+T18	Phenotype	12450	12459	agitation	HPO:HP:0000713	Agitation
+T66	Disease	12463	12471	dementia	UMLS:C0497327	Dementia
+T216	Phenotype	12420	12423	NFT	HPO:HP:0002185	Neurofibrillary tangles
+T19	Phenotype	12561	12570	agitation	HPO:HP:0000713	Agitation
+T93	Disease	12589	12591	AD	UMLS:C0002395	Alzheimer's Disease
+T217	Phenotype	12575	12578	NFT	HPO:HP:0002185	Neurofibrillary tangles
+T20	Phenotype	12677	12686	agitation	HPO:HP:0000713	Agitation
+T21	Phenotype	12650	12659	agitation	HPO:HP:0000713	Agitation
+T218	Phenotype	12720	12739	axonal degeneration	HPO:HP:0040078	Axonal degeneration
+T22	Phenotype	13054	13063	agitation	HPO:HP:0000713	Agitation
+T67	Disease	12951	12959	dementia	UMLS:C0497327	Dementia
+T68	Disease	13017	13025	dementia	UMLS:C0497327	Dementia
+T219	Measure	12984	12988	MMSE	UMLS:C0451306	Mini-mental state examination
+T23	Phenotype	13128	13137	agitation	HPO:HP:0000713	Agitation
+T94	Disease	13141	13143	AD	UMLS:C0002395	Alzheimer's Disease
+T24	Phenotype	13308	13317	agitation	HPO:HP:0000713	Agitation
+T220	Phenotype	13229	13244	neuronal damage	UMLS:C0161479	Nerve injury
+T221	Phenotype	13259	13263	NFTs	HPO:HP:0002185	Neurofibrillary tangles
+T25	Phenotype	13613	13622	agitation	HPO:HP:0000713	Agitation
+T69	Disease	13626	13634	dementia	UMLS:C0497327	Dementia
+T222	Phenotype	13516	13548	frontal lobe circuit dysfunction	UMLS:C2921140	Frontal lobe and executive function deficit
+T26	Phenotype	13706	13715	agitation	HPO:HP:0000713	Agitation
+T95	Disease	13719	13721	AD	UMLS:C0002395	Alzheimer's Disease
+T27	Phenotype	13872	13881	agitation	HPO:HP:0000713	Agitation
+T28	Phenotype	13903	13912	agitation	HPO:HP:0000713	Agitation
+T96	Disease	14020	14027	mild AD	UMLS:C0002395	Alzheimer's Disease
+T121	Measure	13967	13971	CMAI	null	null
+T134	Phenotype	14045	14049	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T223	Measure	13850	13853	NPI	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T29	Phenotype	14140	14149	agitation	HPO:HP:0000713	Agitation
+T70	Disease	14060	14068	dementia	UMLS:C0497327	Dementia
+T30	Phenotype	14208	14217	agitation	HPO:HP:0000713	Agitation
+T71	Disease	14305	14313	dementia	UMLS:C0497327	Dementia
+T97	Disease	14259	14261	AD	UMLS:C0002395	Alzheimer's Disease
+T224	Phenotype	14237	14241	NFTs	HPO:HP:0002185	Neurofibrillary tangles
+T31	Phenotype	14371	14380	agitation	HPO:HP:0000713	Agitation
+T98	Disease	14399	14401	AD	UMLS:C0002395	Alzheimer's Disease
+T32	Phenotype	14471	14480	agitation	HPO:HP:0000713	Agitation
+T72	Disease	14700	14708	dementia	UMLS:C0497327	Dementia
+T225	Phenotype	14603	14622	aggressive behavior	HPO:HP:0000718	Aggressive behavior
+T34	Phenotype	14950	14959	agitation	HPO:HP:0000713	Agitation
+T99	Disease	14851	14853	AD	UMLS:C0002395	Alzheimer's Disease
+T226	Phenotype	14766	14781	amyloid plaques	UMLS:C2936349	Plaque, Amyloid
+T33	Phenotype	15020	15029	agitation	HPO:HP:0000713	Agitation
+T35	Phenotype	15102	15111	agitation	HPO:HP:0000713	Agitation
+T135	Phenotype	15151	15164	BPSD symptoms	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T227	Phenotype	15055	15074	amyloid depositions	HPO:HP:0003216	Generalized amyloid deposition
+T100	Disease	15392	15394	AD	UMLS:C0002395	Alzheimer's Disease
+T101	Disease	15320	15322	AD	UMLS:C0002395	Alzheimer's Disease
+T136	Phenotype	15453	15457	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T137	Phenotype	15543	15547	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T36	Phenotype	15606	15615	agitation	HPO:HP:0000713	Agitation
+T73	Disease	15620	15628	dementia	UMLS:C0497327	Dementia
+T228	Drug	15783	15807	psychotropic medications	UMLS:C0033978	Psychotropic Drugs
+T37	Phenotype	16147	16156	agitation	HPO:HP:0000713	Agitation
+T74	Disease	16078	16086	dementia	UMLS:C0497327	Dementia
+T75	Phenotype	16056	16060	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T102	Disease	16160	16162	AD	UMLS:C0002395	Alzheimer's Disease
+T138	Phenotype	16323	16327	BPSD	UMLS:C1868717	Behavioural and psychiatric symptoms of dementia
+T254	Phenotype	16235	16238	NFT	HPO:HP:0002185	Neurofibrillary tangles
+R1	hasScale	5321	5324	Measure	5311	5313	ScaleMax
+R2	hasScale	7067	7071	Measure	7176	7177	ScaleMin
+R4	hasDetail	7181	7182	ScaleMin	7185	7190	Detail
+R5	hasDetail	7192	7193	ScaleMax	7196	7224	Detail
+R6	hasScale	7067	7071	Measure	7178	7179	ScaleMax
+R7	hasScale	7067	7071	Measure	7181	7182	ScaleMin
+R8	hasScale	7067	7071	Measure	7192	7193	ScaleMax
+R9	hasDetail	7176	7177	ScaleMin	7185	7190	Detail
+R10	hasDetail	7178	7179	ScaleMax	7196	7224	Detail
+R3	hasScale	7237	7241	Measure	7315	7318	ScaleMax

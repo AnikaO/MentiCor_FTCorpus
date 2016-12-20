@@ -1,0 +1,269 @@
+T1	Disease	29	47	Dementia Disorders	UMLS:C0497327	Dementia
+T2	Disease	128	136	dementia	UMLS:C0497327	Dementia
+T98	Phenotype	137	153	lose body weight	HPO:HP:0001824	Weight loss
+T99	Phenotype	196	223	lower body mass index (BMI)	UMLS:C0231255	Decreased body mass index
+T3	Disease	375	393	dementia disorders	UMLS:C0497327	Dementia
+T4	Disease	421	429	dementia	UMLS:C0497327	Dementia
+T66	Gender	673	680	females	Gender:C0015780	female
+T67	Gender	691	696	males	Gender:C0086582	male
+T68	Gender	852	857	males	Gender:C0086582	male
+T72	Gender	803	810	Females	Gender:C0015780	female
+T76	AgeGroup	830	835	older	null	null
+T100	Phenotype	878	888	higher BMI	UMLS:C0231254	Increased body mass index
+T5	Disease	975	993	dementia disorders	UMLS:C0497327	Dementia
+T6	Disease	1102	1120	dementia disorders	UMLS:C0497327	Dementia
+T7	Disease	1304	1312	dementia	UMLS:C0497327	Dementia
+T77	AgeGroup	1229	1234	older	null	null
+T101	Phenotype	1192	1224	BMI in a lower, suboptimal range	UMLS:C0231255	Decreased body mass index
+T8	Disease	1416	1424	Dementia	UMLS:C0497327	Dementia
+T9	Disease	1541	1549	dementia	UMLS:C0497327	Dementia
+T10	Disease	1673	1681	dementia	UMLS:C0497327	Dementia
+T78	AgeGroup	1706	1711	older	null	null
+T79	Demographic	1762	1767	China	UMLS:C0008115	China
+T80	Demographic	1769	1774	India	UMLS:C0021201	India
+T81	Demographic	1779	1792	Latin America	UMLS:C0023122	Latin America
+T82	AgeGroup	1820	1825	older	null	null
+T83	AgeGroup	1917	1933	>60 years of age	AgeGroups:C0683973	middle aged adult (45-64 years)
+T84	AgeGroup	1917	1933	>60 years of age	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T85	AgeGroup	1917	1933	>60 years of age	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T11	Disease	2042	2050	dementia	UMLS:C0497327	Dementia
+T86	Demographic	2177	2183	Sweden	UMLS:C0038995	Sweden
+T87	Disease	2227	2235	dementia	UMLS:C0497327	Dementia
+T88	Disease	2298	2306	dementia	UMLS:C0497327	Dementia
+T13	Demographic	2349	2355	Sweden	UMLS:C0038995	Sweden
+T12	Disease	2327	2345	dementia disorders	UMLS:C0497327	Dementia
+T14	Disease	2441	2458	dementia disorder	UMLS:C0497327	Dementia
+T94	Demographic	2419	2425	Sweden	UMLS:C0038995	Sweden
+T96	Age	2496	2513	90 years of age [	null	null
+T97	Phenotype	2539	2546	obesity	HPO:HP:0001513	Obesity
+T125	Disease	2570	2588	vascular disorders	UMLS:C0042373	Vascular Diseases
+T126	Disease	2597	2612	atherosclerosis	UMLS:C0004153	Atherosclerosis
+T127	Disease	2614	2635	chronic heart disease	UMLS:C1290386	Chronic heart disease
+T128	Disease	2637	2649	hypertension	UMLS:C0020538	Hypertensive disease
+T129	Disease	2654	2662	diabetes	UMLS:C0011847	Diabetes
+T15	Disease	2750	2758	dementia	UMLS:C0497327	Dementia
+T16	Disease	2815	2838	vascular dementia (VaD)	UMLS:C0011269	Dementia, Vascular
+T130	Disease	2701	2719	vascular disorders	UMLS:C0042373	Vascular Diseases
+T131	Disease	2786	2810	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T132	Phenotype	2941	2951	overweight	UMLS:C0497406	Overweight
+T133	Phenotype	2956	2963	obesity	HPO:HP:0001513	Obesity
+T134	AgeGroup	2967	2973	adults	null	null
+T135	Phenotype	3127	3137	overweight	UMLS:C0497406	Overweight
+T136	Phenotype	3143	3150	Obesity	HPO:HP:0001513	Obesity
+T137	Phenotype	3207	3214	obesity	HPO:HP:0001513	Obesity
+T138	Phenotype	3284	3294	overweight	UMLS:C0497406	Overweight
+T139	Demographic	3302	3305	USA	UMLS:C0041703	United States
+T140	Demographic	3310	3316	Europe	UMLS:C0015176	Europe
+T17	Disease	3418	3426	dementia	UMLS:C0497327	Dementia
+T18	Disease	3551	3559	dementia	UMLS:C0497327	Dementia
+T19	Disease	3636	3644	dementia	UMLS:C0497327	Dementia
+T102	Phenotype	3580	3588	high BMI	UMLS:C0231254	Increased body mass index
+T141	Phenotype	3496	3504	high BMI	UMLS:C0231254	Increased body mass index
+T142	Phenotype	3707	3717	overweight	UMLS:C0497406	Overweight
+T143	Phenotype	3722	3729	obesity	HPO:HP:0001513	Obesity
+T144	AgeGroup	3776	3786	adult ages	null	null
+T153	Phenotype	4083	4094	underweight	UMLS:C0041667	Underweight
+T104	Phenotype	4120	4125	obese	HPO:HP:0001513	Obesity
+T145	Phenotype	3953	3963	Overweight	UMLS:C0497406	Overweight
+T146	Phenotype	4039	4049	overweight	UMLS:C0497406	Overweight
+T89	AgeGroup	4234	4239	older	null	null
+T147	AgeGroup	4303	4310	elderly	null	null
+T148	AgeGroup	4312	4321	<65 years	AgeGroups:C0683973	middle aged adult (45-64 years)
+T149	AgeGroup	4312	4321	<65 years	AgeGroups:C0001675	adult (19-44 years)
+T150	AgeGroup	4312	4321	<65 years	AgeGroups:C0238598	young adult (19-24 years)
+T151	AgeGroup	4312	4321	<65 years	AgeGroups:C0205653	adolescent (13-18 years)
+T152	AgeGroup	4312	4321	<65 years	AgeGroups:C0008059	children (6-12 years)
+T153	AgeGroup	4312	4321	<65 years	AgeGroups:C0008100	preschool children (2-5 years)
+T297	AgeGroup	4312	4321	<65 years	AgeGroups:C0021270	infant
+T298	AgeGroup	4312	4321	<65 years	AgeGroups:C0021289	newborn
+T20	Disease	4425	4433	dementia	UMLS:C0497327	Dementia
+T155	Phenotype	4335	4346	Weight loss	HPO:HP:0001824	Weight loss
+T157	AgeGroup	4380	4387	elderly	null	null
+T158	Disease	4497	4499	AD	UMLS:C0002395	Alzheimer's Disease
+T184	AgeGroup	4587	4594	elderly	null	null
+T185	Disease	4613	4616	VaD	UMLS:C0011269	Dementia, Vascular
+T290	Phenotype	4528	4548	frequent weight loss	UMLS:C0750421	weight loss rapid
+T186	Disease	4662	4690	mild to moderate forms of AD	UMLS:C0002395	Alzheimer's Disease
+T187	Phenotype	4704	4715	weight loss	HPO:HP:0001824	Weight loss
+T21	Disease	4749	4757	dementia	UMLS:C0497327	Dementia
+T154	AgeGroup	4855	4862	elderly	null	null
+T105	Phenotype	4770	4788	severe weight loss	UMLS:C0041667	Underweight
+T22	Disease	4917	4925	dementia	UMLS:C0497327	Dementia
+T159	Disease	4938	4940	AD	UMLS:C0002395	Alzheimer's Disease
+T161	Disease	4954	4981	protein-energy malnutrition	UMLS:C0033677	Protein-Energy Malnutrition
+T160	Disease	5017	5019	AD	UMLS:C0002395	Alzheimer's Disease
+T162	Phenotype	5021	5028	low BMI	UMLS:C0231255	Decreased body mass index
+T163	Phenotype	5033	5044	weight loss	HPO:HP:0001824	Weight loss
+T164	Phenotype	5169	5180	weight loss	HPO:HP:0001824	Weight loss
+T165	Disease	5201	5203	AD	UMLS:C0002395	Alzheimer's Disease
+T23	Disease	5256	5280	Lewy body dementia (LBD)	UMLS:C0752347	Lewy Body Disease
+T168	Phenotype	5330	5364	eating and swallowing difficulties	HPO:HP:0002015	Dysphagia
+T168	Phenotype	5330	5364	eating and swallowing difficulties	HPO:HP:0002015	Dysphagia
+T169	Phenotype	5382	5393	weight loss	HPO:HP:0001824	Weight loss
+T170	Disease	5397	5405	demented	UMLS:C0497327	Dementia
+T169	Phenotype	5520	5553	impairment of olfaction and taste	HPO:HP:0004408	Abnormality of the sense of smell
+T174	Phenotype	5520	5553	impairment of olfaction and taste	HPO:HP:0000224	Decreased taste sensation
+T175	Phenotype	5555	5572	behavior problems	HPO:HP:0000708	Behavioral abnormality
+T176	Phenotype	5578	5587	agitation	HPO:HP:0000713	Agitation
+T177	Phenotype	5589	5601	restlessness	HPO:HP:0000711	Restlessness
+T178	Phenotype	5606	5615	wandering	UMLS:C0233569	Physical wandering
+T180	Disease	5695	5719	comorbid medical illness	UMLS:C0009488	Comorbidity
+T24	Disease	5819	5837	dementia disorders	UMLS:C0497327	Dementia
+T25	Disease	5965	5983	dementia disorders	UMLS:C0497327	Dementia
+T26	Disease	6040	6057	dementia disorder	UMLS:C0497327	Dementia
+T27	Disease	6377	6395	dementia disorders	UMLS:C0497327	Dementia
+T28	Disease	6533	6541	dementia	UMLS:C0497327	Dementia
+T181	Measure	6477	6513	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T229	Demographic	6794	6800	Sweden	UMLS:C0038995	Sweden
+T29	Disease	6996	7004	dementia	UMLS:C0497327	Dementia
+T30	Disease	7118	7157	Parkinson's disease with dementia (PDD)	UMLS:C0349081	Dementia in Parkinson's disease
+T31	Disease	7159	7188	frontotemporal dementia (FTD)	UMLS:C0338451	Frontotemporal dementia
+T32	Disease	7190	7216	unspecified dementia (NOS)	UMLS:C0497327	Dementia
+T33	Disease	7236	7254	dementia disorders	UMLS:C0497327	Dementia
+T34	Disease	7266	7283	alcohol dementias	UMLS:C0236656	Dementia associated with alcoholism
+T35	Disease	7293	7311	dementia disorders	UMLS:C0497327	Dementia
+T36	Disease	7320	7345	corticobasal degeneration	UMLS:C0393570	Corticobasal degeneration
+T198	Disease	7045	7047	AD	UMLS:C0002395	Alzheimer's Disease
+T199	Disease	7049	7069	late-onset AD (LOAD)	UMLS:C0494463	Alzheimer Disease, Late Onset
+T200	Disease	7071	7092	early-onset AD (EOAD)	UMLS:C0750901	Alzheimer Disease, Early Onset
+T203	Disease	7094	7097	VaD	UMLS:C0011269	Dementia, Vascular
+T204	Disease	7113	7116	LBD	UMLS:C0752347	Lewy Body Disease
+T182	AgeGroup	7371	7378	elderly	null	null
+T90	AgeGroup	7516	7521	older	null	null
+T231	Demographic	7892	7895	USA	UMLS:C0041703	United States
+T37	Disease	8073	8081	dementia	UMLS:C0497327	Dementia
+T38	Disease	8378	8386	dementia	UMLS:C0497327	Dementia
+T232	Measure	8617	8621	MMSE	UMLS:C0451306	Mini-mental state examination
+T233	Demographic	9148	9154	Sweden	UMLS:C0038995	Sweden
+T39	Disease	9218	9235	dementia disorder	UMLS:C0497327	Dementia
+T40	Disease	9426	9434	dementia	UMLS:C0497327	Dementia
+T41	Gender	9368	9375	females	Gender:C0015780	female
+T42	Gender	9386	9391	males	Gender:C0086582	male
+T205	Disease	9480	9484	LOAD	UMLS:C0494463	Alzheimer Disease, Late Onset
+T208	Disease	9517	9520	NOS	UMLS:C0497327	Dementia
+T209	Disease	9526	9530	EOAD	UMLS:C0750901	Alzheimer Disease, Early Onset
+T210	Disease	9535	9538	LBD	UMLS:C0752347	Lewy Body Disease
+T211	Disease	9543	9546	FTD	UMLS:C0338451	Frontotemporal dementia
+T212	Disease	9565	9568	PDD	UMLS:C0349081	Dementia in Parkinson's disease
+T234	Disease	9508	9511	VaD	UMLS:C0011269	Dementia, Vascular
+T43	Drug	9638	9663	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T44	Drug	9718	9727	memantine	DrugBank:DB01043	Memantine
+T45	Drug	9701	9716	NMDA antagonist	UMLS:C0598695	NMDA receptor antagonist
+T46	Drug	9732	9756	anti-dementia medication	UMLS:C1276997	Antidementia drug
+T47	Disease	9857	9870	mild dementia	UMLS:C3494623	Mild dementia
+T69	Gender	10038	10043	males	Gender:C0086582	male
+T73	Gender	10005	10012	females	Gender:C0015780	female
+T70	Gender	10100	10105	males	Gender:C0086582	male
+T74	Gender	10057	10064	Females	Gender:C0015780	female
+T106	Phenotype	10071	10080	lower BMI	UMLS:C0231255	Decreased body mass index
+T194	Phenotype	10171	10181	overweight	UMLS:C0497406	Overweight
+T190	Phenotype	10252	10263	underweight	UMLS:C0041667	Underweight
+T236	Measure	10315	10319	MMSE	UMLS:C0451306	Mini-mental state examination
+T107	Phenotype	10489	10496	low BMI	UMLS:C0231255	Decreased body mass index
+T237	Phenotype	10501	10521	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T71	Gender	10746	10751	males	Gender:C0086582	male
+T75	Gender	10764	10771	females	Gender:C0015780	female
+T108	Phenotype	10721	10731	higher BMI	UMLS:C0231254	Increased body mass index
+T213	Disease	10668	10672	LOAD	UMLS:C0494463	Alzheimer Disease, Late Onset
+T216	Disease	10688	10691	VaD	UMLS:C0011269	Dementia, Vascular
+T217	Disease	10693	10696	FTD	UMLS:C0338451	Frontotemporal dementia
+T218	Disease	10701	10704	NOS	UMLS:C0497327	Dementia
+T109	Phenotype	10885	10896	highest BMI	UMLS:C0231254	Increased body mass index
+T110	Phenotype	10963	10973	lowest BMI	UMLS:C0231255	Decreased body mass index
+T219	Disease	10940	10943	FTD	UMLS:C0338451	Frontotemporal dementia
+T220	Disease	10948	10951	VaD	UMLS:C0011269	Dementia, Vascular
+T221	Disease	11017	11021	LOAD	UMLS:C0494463	Alzheimer Disease, Late Onset
+T48	Disease	11084	11092	dementia	UMLS:C0497327	Dementia
+T222	Disease	11094	11098	LOAD	UMLS:C0494463	Alzheimer Disease, Late Onset
+T223	Disease	11103	11106	FTD	UMLS:C0338451	Frontotemporal dementia
+T224	Disease	11273	11277	LOAD	UMLS:C0494463	Alzheimer Disease, Late Onset
+T225	Disease	11282	11285	FTD	UMLS:C0338451	Frontotemporal dementia
+T49	Disease	11395	11403	dementia	UMLS:C0497327	Dementia
+T50	Disease	11627	11635	dementia	UMLS:C0497327	Dementia
+T226	Disease	11654	11657	LBD	UMLS:C0752347	Lewy Body Disease
+T227	Disease	11662	11664	AD	UMLS:C0002395	Alzheimer's Disease
+T238	Disease	11540	11543	FTD	UMLS:C0338451	Frontotemporal dementia
+T239	Disease	11548	11551	VaD	UMLS:C0011269	Dementia, Vascular
+T240	Measure	11756	11760	MMSE	UMLS:C0451306	Mini-mental state examination
+T241	Measure	11880	11884	MMSE	UMLS:C0451306	Mini-mental state examination
+T51	Disease	12090	12098	dementia	UMLS:C0497327	Dementia
+T242	Measure	11992	11996	MMSE	UMLS:C0451306	Mini-mental state examination
+T243	Measure	12320	12324	MMSE	UMLS:C0451306	Mini-mental state examination
+T111	Phenotype	12558	12571	ncreasing BMI	UMLS:C0231254	Increased body mass index
+T244	Measure	12408	12412	MMSE	UMLS:C0451306	Mini-mental state examination
+T245	Measure	12438	12442	MMSE	UMLS:C0451306	Mini-mental state examination
+T91	AgeGroup	12770	12775	older	null	null
+T112	Phenotype	12730	12740	higher BMI	UMLS:C0231254	Increased body mass index
+T246	Gender	12745	12750	women	Gender:C0015780	female
+T251	Gender	12708	12711	Men	Gender:C0086582	male
+T52	Disease	12879	12901	mild stage of dementia	UMLS:C3494623	Mild dementia
+T53	Disease	13061	13079	dementia disorders	UMLS:C0497327	Dementia
+T247	Disease	12987	12990	VaD	UMLS:C0011269	Dementia, Vascular
+T248	Disease	12995	12998	FTD	UMLS:C0338451	Frontotemporal dementia
+T254	Disease	13141	13144	FTD	UMLS:C0338451	Frontotemporal dementia
+T255	Phenotype	13152	13163	hyperphagia	HPO:HP:0002591	Polyphagia
+T193	Phenotype	13276	13283	obesity	HPO:HP:0001513	Obesity
+T195	Phenotype	13261	13271	overweight	UMLS:C0497406	Overweight
+T257	Disease	13240	13243	VaD	UMLS:C0011269	Dementia, Vascular
+T113	Phenotype	13383	13396	BMI decreases	UMLS:C0231255	Decreased body mass index
+T54	Disease	13613	13621	dementia	UMLS:C0497327	Dementia
+T114	Phenotype	13515	13525	lowest BMI	UMLS:C0231255	Decreased body mass index
+T115	Phenotype	13644	13656	BMI is lower	UMLS:C0231255	Decreased body mass index
+T258	Disease	13496	13500	LOAD	UMLS:C0494463	Alzheimer Disease, Late Onset
+T259	Disease	13563	13567	LOAD	UMLS:C0494463	Alzheimer Disease, Late Onset
+T92	AgeGroup	13736	13741	older	null	null
+T260	Disease	13751	13754	FTD	UMLS:C0338451	Frontotemporal dementia
+T116	Phenotype	14007	14018	weight loss	HPO:HP:0001824	Weight loss
+T117	Phenotype	14023	14030	low BMI	UMLS:C0231255	Decreased body mass index
+T261	Disease	13765	13769	LOAD	UMLS:C0494463	Alzheimer Disease, Late Onset
+T262	Phenotype	13825	13832	frailty	UMLS:C0424594	Frailty
+T263	Phenotype	13834	13844	sarcopenia	UMLS:C0872084	Sarcopenia
+T265	Disease	13873	13886	comorbidities	UMLS:C0009488	Comorbidity
+T266	Phenotype	13927	13944	behavior problems	HPO:HP:0000708	Behavioral abnormality
+T267	Phenotype	13946	13958	inflammation	UMLS:C0021368	Inflammation
+T269	Disease	14060	14063	FTD	UMLS:C0338451	Frontotemporal dementia
+T118	Phenotype	14091	14105	suboptimal BMI	UMLS:C0231255	Decreased body mass index
+T119	Phenotype	14183	14193	higher BMI	UMLS:C0231254	Increased body mass index
+T270	Phenotype	14142	14166	lower cognitive function	HPO:HP:0100543	Cognitive impairment
+T252	Measure	14254	14258	MMSE	UMLS:C0451306	Mini-mental state examination
+T93	AgeGroup	14491	14496	older	null	null
+T272	Phenotype	14579	14592	weight change	UMLS:C0005911	Body Weight Changes
+T273	Disease	14815	14823	demented	UMLS:C0497327	Dementia
+T121	Phenotype	14957	14971	suboptimal BMI	UMLS:C0231255	Decreased body mass index
+T276	Disease	15151	15153	AD	UMLS:C0002395	Alzheimer's Disease
+T196	Phenotype	15350	15360	overweight	UMLS:C0497406	Overweight
+T197	Phenotype	15306	15326	cognitively impaired	HPO:HP:0100543	Cognitive impairment
+T122	Phenotype	15442	15449	low BMI	UMLS:C0231255	Decreased body mass index
+T123	Phenotype	15454	15474	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T188	Phenotype	15687	15698	weight loss	HPO:HP:0001824	Weight loss
+T277	Phenotype	15574	15585	underweight	UMLS:C0041667	Underweight
+T279	Phenotype	15796	15814	cognitive decline,	HPO:HP:0001268	Mental deterioration
+T280	Disease	15824	15840	chronic diseases	UMLS:C0008679	Chronic disease
+T281	Phenotype	15854	15865	underweight	UMLS:C0041667	Underweight
+T190	Phenotype	15867	15890	Involuntary weight loss	UMLS:C3697713	Involuntary weight loss
+T189	Phenotype	16077	16088	weight loss	HPO:HP:0001824	Weight loss
+T183	Treatment	16126	16159	non-pharmacological interventions	null	null
+T291	Treatment	16168	16187	nutritional support	UMLS:C0242739	Nutritional Support
+T292	Treatment	16200	16230	progressive resistive exercise	UMLS:C0203991	Resistive exercise
+T293	Treatment	16235	16251	aerobic exercise	UMLS:C0001701	Exercise, Aerobic
+T294	Phenotype	16260	16271	weight gain	HPO:HP:0004324	Increased body weight
+T295	Phenotype	16276	16297	increased oral intake	UMLS:C3714432	Excessive oral intake
+T296	Drug	16327	16343	oral supplements	UMLS:C0351437	oral supplement
+T55	Disease	16695	16703	dementia	UMLS:C0497327	Dementia
+T56	Disease	17697	17705	dementia	UMLS:C0497327	Dementia
+T57	Disease	17942	17960	dementia disorders	UMLS:C0497327	Dementia
+T287	Disease	18424	18426	AD	UMLS:C0002395	Alzheimer's Disease
+T58	Disease	18541	18549	dementia	UMLS:C0497327	Dementia
+T228	Disease	18586	18588	AD	UMLS:C0002395	Alzheimer's Disease
+T59	Disease	18647	18665	dementia disorders	UMLS:C0497327	Dementia
+T60	Disease	18709	18727	dementia diagnosis	UMLS:C0497327	Dementia
+T191	Phenotype	18773	18784	weight loss	HPO:HP:0001824	Weight loss
+T61	Disease	19125	19133	dementia	UMLS:C0497327	Dementia
+T192	Phenotype	19092	19103	weight loss	HPO:HP:0001824	Weight loss
+T62	Disease	19350	19368	dementia disorders	UMLS:C0497327	Dementia
+T249	Gender	19412	19417	women	Gender:C0015780	female
+T250	Gender	19404	19407	men	Gender:C0086582	male
+T63	Disease	19465	19473	dementia	UMLS:C0497327	Dementia
+T288	Phenotype	19515	19526	underweight	UMLS:C0041667	Underweight
+T64	Disease	19644	19652	dementia	UMLS:C0497327	Dementia
+T53	Disease	19668	19676	dementia	UMLS:C0497327	Dementia

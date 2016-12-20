@@ -1,0 +1,228 @@
+T1	Phenotype	0	21	Cerebral inflammation	HPO:HP:0002383	Encephalitis
+T14	Disease	67	86	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T15	Disease	151	175	Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T16	Disease	376	378	AD	UMLS:C0002395	Alzheimer's Disease
+T17	Disease	472	474	AD	UMLS:C0002395	Alzheimer's Disease
+T18	Disease	438	440	AD	UMLS:C0002395	Alzheimer's Disease
+T59	Disease	485	493	dementia	UMLS:C0497327	Dementia
+T19	Disease	554	556	AD	UMLS:C0002395	Alzheimer's Disease
+T61	Phenotype	832	852	white-matter lesions	UMLS:C2752009	White matter lesion
+T62	Phenotype	969	1015	frontal, temporal, and central brain atrophies	HPO:HP:0006913	Frontal cortical atrophy
+T63	Phenotype	969	1015	frontal, temporal, and central brain atrophies	HPO:HP:0007112	Temporal cortical atrophy
+T80	Phenotype	969	1015	frontal, temporal, and central brain atrophies	HPO:HP:0006913	Frontal cortical atrophy
+T82	Phenotype	969	1015	frontal, temporal, and central brain atrophies	null	null
+T60	Disease	1049	1062	Comorbidities	UMLS:C0009488	Comorbidity
+T2	Phenotype	1392	1413	cerebral inflammation	HPO:HP:0002383	Encephalitis
+T20	Disease	1312	1314	AD	UMLS:C0002395	Alzheimer's Disease
+T65	Disease	1379	1387	dementia	UMLS:C0497327	Dementia
+T67	Phenotype	1542	1557	frontal atrophy	HPO:HP:0006913	Frontal cortical atrophy
+T68	Phenotype	1593	1616	medial temporal atrophy	null	null
+T69	Disease	1679	1687	dementia	UMLS:C0497327	Dementia
+T70	Disease	1708	1725	vascular diseases	UMLS:C0042373	Vascular Diseases
+T71	Phenotype	1730	1740	infections	UMLS:C3714514	Infection
+T72	Phenotype	1808	1828	white-matter lesions	UMLS:C2752009	White matter lesion
+T73	Disease	1995	2006	comorbidity	UMLS:C0009488	Comorbidity
+T21	Disease	2149	2151	AD	UMLS:C0002395	Alzheimer's Disease
+T94	Phenotype	2237	2250	low cognition	HPO:HP:0001268	Mental deterioration
+T76	Phenotype	2195	2232	Frontal and medial temporal atrophies	HPO:HP:0006913	Frontal cortical atrophy
+T77	Phenotype	2195	2232	Frontal and medial temporal atrophies	null	null
+T78	Phenotype	2339	2360	neuronal degeneration	HPO:HP:0002180	Neurodegeneration
+T22	Disease	2518	2520	AD	UMLS:C0002395	Alzheimer's Disease
+T79	Phenotype	2410	2422	inflammation	UMLS:C0021368	Inflammation
+T23	Disease	2522	2546	Alzheimer’s disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T80	AgeGroup	2621	2628	elderly	null	null
+T24	Disease	2694	2696	AD	UMLS:C0002395	Alzheimer's Disease
+T81	Demographic	2668	2681	United States	UMLS:C0041703	United States
+T82	AgeGroup	2784	2801	ages 65 and older	AgeGroups:C0001792	aged adult (elderly; 65-80 years)
+T83	AgeGroup	2784	2801	ages 65 and older	AgeGroups:C0001795	adult, aged over 80 (>80 years)
+T25	Disease	3000	3002	AD	UMLS:C0002395	Alzheimer's Disease
+T84	Disease	2972	2978	cancer	UMLS:C1882062	Neoplastic disease
+T85	Disease	2982	2998	cardiac diseases	UMLS:C0018799	Heart Diseases
+T26	Disease	3091	3093	AD	UMLS:C0002395	Alzheimer's Disease
+T27	Disease	3188	3190	AD	UMLS:C0002395	Alzheimer's Disease
+T86	Phenotype	3141	3150	Pneumonia	HPO:HP:0002090	Pneumonia
+T88	Phenotype	3440	3466	deteriorated health status	UMLS:C0563273	General health deterioration
+T89	Phenotype	3468	3477	dysphagia	HPO:HP:0002015	Dysphagia
+T90	Phenotype	3479	3491	malnutrition	HPO:HP:0004395	Malnutrition
+T91	Phenotype	3496	3529	problems with clearing secretions	null	null
+T92	Disease	3558	3566	dementia	UMLS:C0497327	Dementia
+T28	Disease	3828	3830	AD	UMLS:C0002395	Alzheimer's Disease
+T29	Disease	3898	3900	AD	UMLS:C0002395	Alzheimer's Disease
+T3	Phenotype	4074	4095	cerebral inflammation	HPO:HP:0002383	Encephalitis
+T30	Disease	3953	3955	AD	UMLS:C0002395	Alzheimer's Disease
+T108	Phenotype	4012	4035	amyloid beta deposition	HPO:HP:0003216	Generalized amyloid deposition
+T94	Phenotype	4052	4068	vascular lesions	UMLS:C1402315	Vascular lesions
+T31	Phenotype	4248	4259	AD symptoms	null	null
+T32	Disease	4468	4470	AD	UMLS:C0002395	Alzheimer's Disease
+T33	Disease	4525	4527	AD	UMLS:C0002395	Alzheimer's Disease
+T34	Disease	4937	4939	AD	UMLS:C0002395	Alzheimer's Disease
+T35	Disease	6227	6229	AD	UMLS:C0002395	Alzheimer's Disease
+T36	Disease	6278	6280	AD	UMLS:C0002395	Alzheimer's Disease
+T95	Disease	6379	6387	Dementia	UMLS:C0497327	Dementia
+T37	Disease	6424	6426	AD	UMLS:C0002395	Alzheimer's Disease
+T96	Disease	6488	6505	vascular dementia	UMLS:C0011269	Dementia, Vascular
+T97	Disease	6510	6530	unspecified dementia	UMLS:C0497327	Dementia
+T98	Disease	6725	6733	Dementia	UMLS:C0497327	Dementia
+T38	Disease	6930	6932	AD	UMLS:C0002395	Alzheimer's Disease
+T99	Disease	6814	6838	cerebrovascular diseases	UMLS:C0007820	Cerebrovascular Disorders
+T100	Disease	6840	6853	heart disease	UMLS:C0018799	Heart Diseases
+T101	Disease	6865	6882	vascular diseases	UMLS:C0042373	Vascular Diseases
+T39	Phenotype	7224	7240	late-AD symptoms	null	null
+T102	Phenotype	6978	6988	Infections	UMLS:C3714514	Infection
+T103	Phenotype	7004	7013	pneumonia	HPO:HP:0002090	Pneumonia
+T104	Phenotype	7046	7055	decubitus	HPO:HP:0012399	Pressure ulcer
+T105	Phenotype	7068	7078	infections	null	null
+T106	Phenotype	7142	7152	aspiration	HPO:HP:0002835	Aspiration
+T107	Phenotype	7154	7166	self-neglect	UMLS:C0424359	Self-neglect
+T108	Phenotype	7172	7191	sedentary lifestyle	UMLS:C1532253	Sedentary lifestyle
+T109	Phenotype	7024	7034	infections	UMLS:C3714514	Infection
+T110	Disease	7347	7355	dementia	UMLS:C0497327	Dementia
+T111	Disease	7365	7371	cancer	UMLS:C1882062	Neoplastic disease
+T112	Disease	7373	7398	gastrointestinal diseases	UMLS:C0017178	Gastrointestinal Diseases
+T113	Disease	7404	7448	chronic obstructive pulmonary disease (COPD)	UMLS:C0024117	Chronic Obstructive Airway Disease
+T40	Disease	7552	7554	AD	UMLS:C0002395	Alzheimer's Disease
+T240	Phenotype	7792	7806	amyloid burden	HPO:HP:0003216	Generalized amyloid deposition
+T239	Phenotype	7976	7994	amyloid deposition	HPO:HP:0003216	Generalized amyloid deposition
+T132	Phenotype	8377	8397	White-matter lesions	UMLS:C2752009	White matter lesion
+T133	Phenotype	8471	8514	lesions in the left and right basal ganglia	UMLS:C1389273	Lesions in the basal ganglia
+T4	Phenotype	9153	9174	cerebral inflammation	HPO:HP:0002383	Encephalitis
+T134	Demographic	9299	9302	USA	UMLS:C0041703	United States
+T41	Disease	9462	9464	AD	UMLS:C0002395	Alzheimer's Disease
+T135	Phenotype	9351	9358	Atrophy	UMLS:C0333641	Atrophic
+T136	Phenotype	9416	9437	neuronal degeneration	HPO:HP:0002180	Neurodegeneration
+T42	Disease	9507	9509	AD	UMLS:C0002395	Alzheimer's Disease
+T137	Phenotype	9556	9563	Atrophy	UMLS:C0333641	Atrophic
+T138	Phenotype	9812	9835	medial temporal atrophy	null	null
+T139	Phenotype	9869	9884	frontal atrophy	HPO:HP:0006913	Frontal cortical atrophy
+T140	Phenotype	9940	9947	atrophy	UMLS:C0333641	Atrophic
+T141	Measure	10015	10051	Mini-Mental State Examination (MMSE)	UMLS:C0451306	Mini-mental state examination
+T43	Disease	10369	10371	AD	UMLS:C0002395	Alzheimer's Disease
+T142	Disease	10249	10269	Concomitant diseases	UMLS:C0009488	Comorbidity
+T143	Disease	10578	10591	comorbidities	UMLS:C0009488	Comorbidity
+T144	Disease	10796	10818	ischemic heart disease	UMLS:C0151744	Myocardial Ischemia
+T145	Disease	10820	10844	congestive heart failure	UMLS:C0018802	Congestive heart failure
+T146	Disease	10850	10861	arrhythmias	UMLS:C0003811	Cardiac Arrhythmia
+T147	Disease	10874	10888	heart diseases	UMLS:C0018799	Heart Diseases
+T148	Disease	10895	10920	gastrointestinal diseases	UMLS:C0017178	Gastrointestinal Diseases
+T149	Disease	10959	10977	pulmonary diseases	UMLS:C0024115	Lung diseases
+T150	Drug	11241	11261	cardiovascular drugs	UMLS:C0007220	Cardiovascular Agents
+T151	Disease	11282	11295	heart-disease	UMLS:C0018799	Heart Diseases
+T152	Drug	11312	11338	antihypertensive treatment	UMLS:C0003364	Antihypertensive Agents
+T116	Disease	11580	11588	dementia	UMLS:C0497327	Dementia
+T117	Disease	11590	11598	dementia	UMLS:C0497327	Dementia
+T153	Disease	12436	12444	diabetes	UMLS:C0011847	Diabetes
+T147	Disease	12446	12462	major depression	UMLS:C1269683	Major Depressive Disorder
+T155	Disease	12464	12484	liver/kidney disease	UMLS:C0023895	Liver diseases
+T156	Disease	12464	12484	liver/kidney disease	UMLS:C0022658	Kidney Diseases
+T157	Drug	12490	12514	medication with antacids	UMLS:C0003138	Antacids
+T158	Drug	12516	12522	NSAIDs	UMLS:C0003211	Anti-Inflammatory Agents, Non-Steroidal
+T159	Drug	12527	12542	hormone therapy	UMLS:C0279025	Hormone Therapy
+T160	Demographic	13050	13053	USA	UMLS:C0041703	United States
+T118	Disease	13505	13513	dementia	UMLS:C0497327	Dementia
+T114	Phenotype	13731	13741	Infections	UMLS:C3714514	Infection
+T161	Disease	13746	13752	cancer	UMLS:C1882062	Neoplastic disease
+T162	Disease	13813	13833	concomitant diseases	UMLS:C0009488	Comorbidity
+T155	Phenotype	13872	13904	Folate or vitamin B12 deficiency	HPO:HP:0100507	Folate deficiency
+T156	Phenotype	13872	13904	Folate or vitamin B12 deficiency	HPO:HP:0100502	Vitamin B12 deficiency
+T155	Phenotype	13872	13904	Folate or vitamin B12 deficiency	HPO:HP:0100507	Folate deficiency
+T156	Phenotype	13872	13904	Folate or vitamin B12 deficiency	HPO:HP:0100502	Vitamin B12 deficiency
+T165	Disease	13954	13966	hypertension	UMLS:C0020538	Hypertensive disease
+T166	Disease	13974	13999	gastrointestinal diseases	UMLS:C0017178	Gastrointestinal Diseases
+T167	Disease	14011	14024	heart disease	UMLS:C0018799	Heart Diseases
+T168	Drug	14059	14074	antidepressants	UMLS:C0003289	Antidepressive Agents
+T169	Drug	14094	14114	cardiovascular drugs	UMLS:C0007220	Cardiovascular Agents
+T170	Drug	14125	14139	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T171	Drug	14140	14149	sedatives	UMLS:C0036557	Sedatives
+T5	Phenotype	14557	14578	cerebral inflammation	HPO:HP:0002383	Encephalitis
+T44	Disease	14497	14499	AD	UMLS:C0002395	Alzheimer's Disease
+T119	Disease	14214	14222	dementia	UMLS:C0497327	Dementia
+T172	Measure	14232	14236	MMSE	UMLS:C0451306	Mini-mental state examination
+T173	Phenotype	14505	14540	frontal and medial temporal atrophy	HPO:HP:0006913	Frontal cortical atrophy
+T174	Phenotype	14505	14540	frontal and medial temporal atrophy	null	null
+T175	Phenotype	14605	14625	low cognitive status	HPO:HP:0100543	Cognitive impairment
+T176	Measure	15019	15023	MMSE	UMLS:C0451306	Mini-mental state examination
+T6	Phenotype	15141	15162	cerebral inflammation	HPO:HP:0002383	Encephalitis
+T121	Disease	15312	15320	dementia	UMLS:C0497327	Dementia
+T177	Phenotype	15124	15139	frontal atrophy	HPO:HP:0006913	Frontal cortical atrophy
+T178	Phenotype	15168	15188	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T179	AgeGroup	15242	15251	older age	null	null
+T180	Measure	15590	15594	MMSE	UMLS:C0451306	Mini-mental state examination
+T120	Disease	15894	15902	dementia	UMLS:C0497327	Dementia
+T181	Disease	15836	15855	concomitant disease	UMLS:C0009488	Comorbidity
+T122	Disease	15974	15982	dementia	UMLS:C0497327	Dementia
+T182	Disease	15930	15949	concomitant disease	UMLS:C0009488	Comorbidity
+T183	AgeGroup	16012	16021	older age	null	null
+T184	AgeGroup	16139	16148	older age	null	null
+T185	Disease	16183	16195	hypertension	UMLS:C0020538	Hypertensive disease
+T123	Disease	16412	16420	dementia	UMLS:C0497327	Dementia
+T124	Disease	16328	16336	dementia	UMLS:C0497327	Dementia
+T186	AgeGroup	16352	16361	older age	null	null
+T187	AgeGroup	16547	16556	older age	null	null
+T188	Drug	16588	16602	antipsychotics	UMLS:C0040615	Antipsychotic Agents
+T189	Drug	16603	16612	sedatives	UMLS:C0036557	Sedatives
+T190	Drug	16648	16668	cardiovascular drugs	UMLS:C0007220	Cardiovascular Agents
+T7	Phenotype	16801	16822	cerebral inflammation	HPO:HP:0002383	Encephalitis
+T45	Disease	16756	16775	mild-to-moderate AD	UMLS:C0002395	Alzheimer's Disease
+T125	Disease	16926	16934	dementia	UMLS:C0497327	Dementia
+T191	Phenotype	16982	17003	low cognitive ability	HPO:HP:0100543	Cognitive impairment
+T192	Phenotype	17005	17020	frontal atrophy	HPO:HP:0006913	Frontal cortical atrophy
+T193	Phenotype	17026	17054	medial temporal lobe atrophy	null	null
+T126	Disease	17178	17186	dementia	UMLS:C0497327	Dementia
+T8	Phenotype	17262	17283	cerebral inflammation	HPO:HP:0002383	Encephalitis
+T46	Disease	17332	17334	AD	UMLS:C0002395	Alzheimer's Disease
+T9	Phenotype	17336	17357	Cerebral inflammation	HPO:HP:0002383	Encephalitis
+T47	Disease	17546	17548	AD	UMLS:C0002395	Alzheimer's Disease
+T48	Disease	17643	17645	AD	UMLS:C0002395	Alzheimer's Disease
+T196	AgeGroup	17653	17660	elderly	null	null
+T197	Phenotype	17792	17806	senile plaques	HPO:HP:0100256	Senile plaques
+T198	Phenotype	17811	17834	neurofibrillary tangles	HPO:HP:0002185	Neurofibrillary tangles
+T199	Phenotype	17688	17711	senescence in microglia	null	null
+T10	Phenotype	17883	17904	cerebral inflammation	HPO:HP:0002383	Encephalitis
+T208	Phenotype	18083	18095	inflammation	UMLS:C0021368	Inflammation
+T202	AgeGroup	18374	18381	elderly	null	null
+T211	Phenotype	18465	18480	frontal atrophy	HPO:HP:0006913	Frontal cortical atrophy
+T212	Phenotype	18486	18514	medial temporal lobe atrophy	null	null
+T213	Phenotype	18662	18684	low cognitive function	HPO:HP:0100543	Cognitive impairment
+T214	Phenotype	18689	18696	atrophy	UMLS:C0333641	Atrophic
+T127	Disease	18993	19001	dementia	UMLS:C0497327	Dementia
+T215	Phenotype	18761	18776	Frontal atrophy	HPO:HP:0006913	Frontal cortical atrophy
+T216	Phenotype	18807	18830	medial temporal atrophy	null	null
+T217	Phenotype	18859	18882	medial temporal atrophy	null	null
+T218	Phenotype	18934	18949	frontal atrophy	HPO:HP:0006913	Frontal cortical atrophy
+T49	Disease	19042	19044	AD	UMLS:C0002395	Alzheimer's Disease
+T50	Disease	19108	19110	AD	UMLS:C0002395	Alzheimer's Disease
+T51	Disease	19342	19344	AD	UMLS:C0002395	Alzheimer's Disease
+T52	Disease	19493	19495	AD	UMLS:C0002395	Alzheimer's Disease
+T220	Disease	19434	19454	concomitant diseases	UMLS:C0009488	Comorbidity
+T201	AgeGroup	19559	19568	older age	null	null
+T203	AgeGroup	19695	19702	elderly	null	null
+T221	Gender	19573	19577	male	Gender:C0086582	male
+T222	Drug	19716	19742	Neuroleptic/sedative drugs	UMLS:C0040615	Antipsychotic Agents
+T224	Phenotype	19857	19875	psychotic symptoms	UMLS:C0871189	Psychotic symptom
+T225	Drug	19883	19900	neuroleptic drugs	UMLS:C0040615	Antipsychotic Agents
+T223	Drug	19716	19742	Neuroleptic/sedative drugs	UMLS:C0036557	Sedatives
+T53	Disease	20038	20040	AD	UMLS:C0002395	Alzheimer's Disease
+T128	Disease	20147	20155	dementia	UMLS:C0497327	Dementia
+T226	Phenotype	20133	20142	pneumonia	HPO:HP:0002090	Pneumonia
+T129	Disease	20553	20561	dementia	UMLS:C0497327	Dementia
+T54	Disease	20706	20708	AD	UMLS:C0002395	Alzheimer's Disease
+T55	Disease	20991	20993	AD	UMLS:C0002395	Alzheimer's Disease
+T130	Disease	20882	20890	dementia	UMLS:C0497327	Dementia
+T56	Disease	21171	21173	AD	UMLS:C0002395	Alzheimer's Disease
+T11	Phenotype	21258	21279	cerebral inflammation	HPO:HP:0002383	Encephalitis
+T12	Phenotype	21767	21783	cerebral lesions	UMLS:C0221505	Lesion of brain
+T228	Disease	21917	21932	atherosclerosis	UMLS:C0004153	Atherosclerosis
+T229	Disease	21942	21962	small-vessel disease	UMLS:C3810309	Small-vessel disease
+T131	Disease	22263	22271	dementia	UMLS:C0497327	Dementia
+T231	Phenotype	22129	22145	vascular lesions	UMLS:C1402315	Vascular lesions
+T232	Phenotype	22283	22299	Vascular lesions	UMLS:C1402315	Vascular lesions
+T233	Disease	22392	22417	cerebrovascular disorders	UMLS:C0007820	Cerebrovascular Disorders
+T234	Disease	22699	22707	diabetes	UMLS:C0011847	Diabetes
+T235	Phenotype	22736	22748	inflammation	UMLS:C0021368	Inflammation
+T13	Phenotype	22813	22834	cerebral inflammation	HPO:HP:0002383	Encephalitis
+T57	Disease	22929	22931	AD	UMLS:C0002395	Alzheimer's Disease
+T236	Phenotype	23072	23107	medial temporal and frontal atrophy	null	null
+T237	Phenotype	23072	23107	medial temporal and frontal atrophy	HPO:HP:0006913	Frontal cortical atrophy
+T115	Phenotype	23296	23306	infections	UMLS:C3714514	Infection
+T238	Disease	23273	23291	vascular disorders	UMLS:C0042373	Vascular Diseases
+T58	Disease	23550	23552	AD	UMLS:C0002395	Alzheimer's Disease

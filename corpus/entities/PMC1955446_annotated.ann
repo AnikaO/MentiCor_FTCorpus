@@ -1,0 +1,354 @@
+T1	Drug	0	11	Simvastatin	DrugBank:DB00641	Simvastatin
+T2	Disease	54	62	dementia	UMLS:C0497327	Dementia
+T47	Disease	67	86	Parkinson's disease	UMLS:C0030567	Parkinson Disease
+T68	Drug	87	94	Statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T69	Disease	251	259	dementia	UMLS:C0497327	Dementia
+T126	Drug	217	224	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T127	Drug	423	430	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T48	Disease	629	648	Parkinson's disease	UMLS:C0030567	Parkinson Disease
+T70	Disease	616	624	dementia	UMLS:C0497327	Dementia
+T128	Drug	500	507	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T129	Drug	536	543	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T367	Demographic	707	709	US	UMLS:C0041703	United States
+T3	Drug	859	870	simvastatin	DrugBank:DB00641	Simvastatin
+T49	Disease	1115	1134	Parkinson's disease	UMLS:C0030567	Parkinson Disease
+T71	Disease	893	901	dementia	UMLS:C0497327	Dementia
+T72	Disease	1103	1111	dementia	UMLS:C0497327	Dementia
+T130	Drug	971	978	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T131	Drug	1047	1054	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T190	Drug	847	857	lovastatin	DrugBank:DB00227	Lovastatin
+T210	Drug	875	887	atorvastatin	DrugBank:DB01076	Atorvastatin
+T235	Drug	1009	1035	cardiovascular medications	UMLS:C0007220	Cardiovascular Agents
+T4	Drug	1153	1164	simvastatin	DrugBank:DB00641	Simvastatin
+T73	Disease	1228	1236	dementia	UMLS:C0497327	Dementia
+T74	Disease	1404	1412	dementia	UMLS:C0497327	Dementia
+T237	Disease	1428	1450	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T250	Disease	1414	1426	hypertension	UMLS:C0020538	Hypertensive disease
+T251	Disease	1454	1462	diabetes	UMLS:C0011847	Diabetes
+T260	Disease	1586	1601	chronic disease	UMLS:C0008679	Chronic disease
+T5	Drug	1654	1665	simvastatin	DrugBank:DB00641	Simvastatin
+T211	Drug	1697	1709	atorvastatin	DrugBank:DB01076	Atorvastatin
+T6	Drug	1793	1804	simvastatin	DrugBank:DB00641	Simvastatin
+T75	Disease	1780	1788	dementia	UMLS:C0497327	Dementia
+T212	Drug	1809	1821	atorvastatin	DrugBank:DB01076	Atorvastatin
+T76	Disease	1974	1982	dementia	UMLS:C0497327	Dementia
+T191	Drug	1907	1917	Lovastatin	DrugBank:DB00227	Lovastatin
+T7	Drug	1984	1995	Simvastatin	DrugBank:DB00641	Simvastatin
+T50	Disease	2053	2072	Parkinson's disease	UMLS:C0030567	Parkinson Disease
+T8	Drug	2109	2120	Simvastatin	DrugBank:DB00641	Simvastatin
+T51	Disease	2192	2211	Parkinson's disease	UMLS:C0030567	Parkinson Disease
+T52	Disease	2297	2316	Parkinson's disease	UMLS:C0030567	Parkinson Disease
+T77	Disease	2179	2187	dementia	UMLS:C0497327	Dementia
+T78	Disease	2284	2292	dementia	UMLS:C0497327	Dementia
+T213	Drug	2221	2233	atorvastatin	DrugBank:DB01076	Atorvastatin
+T79	Disease	2365	2373	Dementia	UMLS:C0497327	Dementia
+T80	Disease	2610	2618	dementia	UMLS:C0497327	Dementia
+T236	Disease	2488	2510	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T252	Disease	2534	2546	hypertension	UMLS:C0020538	Hypertensive disease
+T256	Disease	2551	2559	diabetes	UMLS:C0011847	Diabetes
+T264	Disease	2512	2532	hypercholesterolemia	UMLS:C0020443	Hypercholesterolemia
+T81	Disease	2745	2753	dementia	UMLS:C0497327	Dementia
+T132	Drug	2762	2769	Statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T265	Drug	2785	2806	lipid-lowering agents	UMLS:C0003367	Antilipemic agent
+T82	Disease	3039	3047	dementia	UMLS:C0497327	Dementia
+T83	Disease	3063	3071	dementia	UMLS:C0497327	Dementia
+T171	Drug	2984	3000	statin treatment	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T84	Disease	3261	3269	dementia	UMLS:C0497327	Dementia
+T133	Drug	3216	3223	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T85	Disease	3397	3405	dementia	UMLS:C0497327	Dementia
+T172	Drug	3412	3418	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T86	Disease	3728	3736	dementia	UMLS:C0497327	Dementia
+T134	Drug	3698	3705	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T135	Drug	3795	3802	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T173	Drug	3898	3904	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T266	Disease	3815	3839	Alzheimer's disease (AD)	UMLS:C0002395	Alzheimer's Disease
+T136	Drug	3944	3951	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T174	Drug	4129	4135	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T269	Disease	3975	3977	AD	UMLS:C0002395	Alzheimer's Disease
+T137	Drug	4312	4319	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T306	Disease	4334	4358	cardiovascular incidents	null	null
+T87	Disease	4426	4434	dementia	UMLS:C0497327	Dementia
+T88	Disease	4621	4629	dementia	UMLS:C0497327	Dementia
+T138	Drug	4601	4608	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T175	Drug	4451	4457	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T139	Drug	4686	4693	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T270	Disease	4777	4779	AD	UMLS:C0002395	Alzheimer's Disease
+T290	Phenotype	4725	4742	cognitive decline	HPO:HP:0001268	Mental deterioration
+T140	Drug	5081	5088	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T271	Disease	5134	5136	AD	UMLS:C0002395	Alzheimer's Disease
+T89	Disease	5201	5209	dementia	UMLS:C0497327	Dementia
+T90	Disease	5423	5431	dementia	UMLS:C0497327	Dementia
+T338	Demographic	5749	5752	USA	UMLS:C0041703	United States
+T368	Demographic	5616	5629	United States	UMLS:C0041703	United States
+T91	Disease	6061	6069	dementia	UMLS:C0497327	Dementia
+T141	Drug	6011	6018	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T9	Drug	6085	6096	simvastatin	DrugBank:DB00641	Simvastatin
+T92	Disease	6152	6160	dementia	UMLS:C0497327	Dementia
+T214	Drug	6165	6177	atorvastatin	DrugBank:DB01076	Atorvastatin
+T57	Disease	6672	6674	PD	UMLS:C0030567	Parkinson Disease
+T272	Disease	6665	6667	AD	UMLS:C0002395	Alzheimer's Disease
+T373	Gender	6821	6825	male	Gender:C0086582	male
+T374	Gender	6835	6841	female	Gender:C0015780	female
+T273	Disease	6944	6946	AD	UMLS:C0002395	Alzheimer's Disease
+T274	Disease	7065	7067	AD	UMLS:C0002395	Alzheimer's Disease
+T53	Disease	7139	7163	Parkinson's disease (PD)	UMLS:C0030567	Parkinson Disease
+T54	Disease	7186	7188	PD	UMLS:C0030567	Parkinson Disease
+T142	Drug	7327	7334	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T275	Disease	7450	7452	AD	UMLS:C0002395	Alzheimer's Disease
+T55	Disease	7995	8014	Parkinson's disease	UMLS:C0030567	Parkinson Disease
+T93	Disease	8088	8125	senile dementia of the Alzheimer type	UMLS:C0002395	Alzheimer's Disease
+T276	Disease	8145	8147	AD	UMLS:C0002395	Alzheimer's Disease
+T277	Disease	8404	8406	AD	UMLS:C0002395	Alzheimer's Disease
+T94	Disease	8531	8539	dementia	UMLS:C0497327	Dementia
+T278	Disease	8553	8555	AD	UMLS:C0002395	Alzheimer's Disease
+T279	Disease	8651	8653	AD	UMLS:C0002395	Alzheimer's Disease
+T58	Disease	8816	8818	PD	UMLS:C0030567	Parkinson Disease
+T280	Disease	8944	8946	AD	UMLS:C0002395	Alzheimer's Disease
+T239	Disease	9046	9068	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T253	Disease	9007	9019	hypertension	UMLS:C0020538	Hypertensive disease
+T257	Disease	9128	9136	diabetes	UMLS:C0011847	Diabetes
+T296	Phenotype	9152	9159	obesity	HPO:HP:0001513	Obesity
+T59	Disease	9208	9210	PD	UMLS:C0030567	Parkinson Disease
+T95	Disease	9237	9245	dementia	UMLS:C0497327	Dementia
+T297	Drug	9283	9306	neuroleptic medications	UMLS:C0040615	Antipsychotic Agents
+T298	Drug	9323	9335	aripiprazole	DrugBank:DB01238	Aripiprazole
+T299	Drug	9337	9346	clozapine	DrugBank:DB00363	Clozapine
+T300	Drug	9348	9358	olanzapine	DrugBank:DB00334	Olanzapine
+T301	Drug	9360	9371	resperidone	DrugBank:DB00734	Risperidone
+T302	Drug	9373	9384	haloperidol	DrugBank:DB00502	Haloperidol
+T303	Drug	9386	9400	chlorpromazine	DrugBank:DB00477	Chlorpromazine
+T304	Drug	9402	9414	fluphenazine	DrugBank:DB00623	Fluphenazine
+T305	Drug	9416	9428	perphenazine	DrugBank:DB00850	Perphenazine
+T306	Drug	9430	9442	thioridazine	DrugBank:DB00679	Thioridazine
+T307	Drug	9444	9455	thiothixene	DrugBank:DB01623	Thiothixene
+T308	Drug	9460	9475	trifluoperazine	DrugBank:DB00831	Trifluoperazine
+T143	Drug	9655	9662	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T176	Drug	9737	9743	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T177	Drug	10310	10316	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T96	Disease	10509	10517	dementia	UMLS:C0497327	Dementia
+T178	Drug	10361	10367	Statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T241	Disease	10404	10426	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T242	Disease	10432	10454	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T144	Drug	10642	10649	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T243	Drug	10592	10617	cardiovascular medication	UMLS:C0007220	Cardiovascular Agents
+T145	Drug	10952	10959	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T244	Drug	10733	10758	cardiovascular medication	UMLS:C0007220	Cardiovascular Agents
+T311	Drug	10961	10969	Warfarin	DrugBank:DB00682	Warfarin
+T97	Disease	11242	11250	dementia	UMLS:C0497327	Dementia
+T312	Drug	11147	11155	Warfarin	DrugBank:DB00682	Warfarin
+T339	Demographic	11305	11308	USA	UMLS:C0041703	United States
+T98	Disease	11533	11541	dementia	UMLS:C0497327	Dementia
+T146	Drug	11513	11520	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T147	Drug	11994	12001	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T261	Disease	12159	12174	chronic disease	UMLS:C0008679	Chronic disease
+T148	Drug	12215	12222	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T313	Drug	12437	12445	warfarin	DrugBank:DB00682	Warfarin
+T149	Drug	12686	12693	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T179	Drug	12755	12761	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T10	Drug	12816	12827	simvastatin	DrugBank:DB00641	Simvastatin
+T192	Drug	12804	12814	Lovastatin	DrugBank:DB00227	Lovastatin
+T215	Drug	12832	12844	atorvastatin	DrugBank:DB01076	Atorvastatin
+T327	Drug	12910	12921	Fluvastatin	DrugBank:DB01095	Fluvastatin
+T328	Drug	12926	12937	pravastatin	DrugBank:DB00175	Pravastatin
+T337	Drug	12983	12995	rosuvastatin	DrugBank:DB01098	Rosuvastatin
+T11	Drug	13130	13141	simvastatin	DrugBank:DB00641	Simvastatin
+T193	Drug	13118	13128	lovastatin	DrugBank:DB00227	Lovastatin
+T216	Drug	13143	13155	atorvastatin	DrugBank:DB01076	Atorvastatin
+T334	Drug	13160	13171	pravastatin	DrugBank:DB00175	Pravastatin
+T329	Drug	13225	13236	fluvastatin	DrugBank:DB01095	Fluvastatin
+T150	Drug	13337	13344	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T180	Drug	13400	13406	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T330	Drug	13497	13508	fluvastatin	DrugBank:DB01095	Fluvastatin
+T331	Drug	13482	13493	pravastatin	DrugBank:DB00175	Pravastatin
+T335	Drug	13536	13547	pravastatin	DrugBank:DB00175	Pravastatin
+T12	Drug	13882	13893	simvastatin	DrugBank:DB00641	Simvastatin
+T194	Drug	13870	13880	lovastatin	DrugBank:DB00227	Lovastatin
+T217	Drug	13897	13909	atorvastatin	DrugBank:DB01076	Atorvastatin
+T332	Drug	13593	13604	Fluvastatin	DrugBank:DB01095	Fluvastatin
+T333	Drug	13712	13723	fluvastatin	DrugBank:DB01095	Fluvastatin
+T99	Disease	13985	13993	dementia	UMLS:C0497327	Dementia
+T151	Drug	14054	14061	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T152	Drug	13932	13939	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T245	Disease	14399	14421	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T254	Disease	14423	14435	hypertension	UMLS:C0020538	Hypertensive disease
+T258	Disease	14440	14448	diabetes	UMLS:C0011847	Diabetes
+T281	Disease	14395	14397	AD	UMLS:C0002395	Alzheimer's Disease
+T218	Drug	14590	14602	Atorvastatin	DrugBank:DB01076	Atorvastatin
+T195	Drug	14789	14799	Lovastatin	DrugBank:DB00227	Lovastatin
+T13	Drug	14872	14883	Simvastatin	DrugBank:DB00641	Simvastatin
+T100	Disease	14933	14941	dementia	UMLS:C0497327	Dementia
+T101	Disease	15182	15190	dementia	UMLS:C0497327	Dementia
+T102	Disease	15290	15298	dementia	UMLS:C0497327	Dementia
+T219	Drug	15379	15391	atorvastatin	DrugBank:DB01076	Atorvastatin
+T220	Drug	15439	15451	atorvastatin	DrugBank:DB01076	Atorvastatin
+T221	Drug	15570	15582	atorvastatin	DrugBank:DB01076	Atorvastatin
+T234	Drug	15652	15664	atorvastatin	DrugBank:DB01076	Atorvastatin
+T103	Disease	15844	15852	dementia	UMLS:C0497327	Dementia
+T153	Drug	15815	15822	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T316	Drug	15882	15890	warfarin	DrugBank:DB00682	Warfarin
+T14	Drug	15903	15914	Simvastatin	DrugBank:DB00641	Simvastatin
+T104	Disease	15947	15955	dementia	UMLS:C0497327	Dementia
+T317	Drug	15976	15984	warfarin	DrugBank:DB00682	Warfarin
+T318	Drug	16062	16070	warfarin	DrugBank:DB00682	Warfarin
+T105	Disease	16173	16181	dementia	UMLS:C0497327	Dementia
+T196	Drug	16108	16118	lovastatin	DrugBank:DB00227	Lovastatin
+T222	Drug	16091	16103	atorvastatin	DrugBank:DB01076	Atorvastatin
+T319	Drug	16196	16204	warfarin	DrugBank:DB00682	Warfarin
+T106	Disease	16307	16315	dementia	UMLS:C0497327	Dementia
+T154	Drug	16256	16263	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T340	Disease	16387	16396	dementias	UMLS:C0497327	Dementia
+T341	Disease	16417	16443	neurodegenerative diseases	UMLS:C0524851	Neurodegenerative Disorders
+T60	Disease	16533	16535	PD	UMLS:C0030567	Parkinson Disease
+T181	Drug	16502	16508	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T15	Drug	16621	16632	simvastatin	DrugBank:DB00641	Simvastatin
+T61	Disease	16554	16556	PD	UMLS:C0030567	Parkinson Disease
+T197	Drug	16607	16617	lovastatin	DrugBank:DB00227	Lovastatin
+T223	Drug	16593	16605	atorvastatin	DrugBank:DB01076	Atorvastatin
+T246	Disease	16687	16709	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T255	Disease	16711	16723	hypertension	UMLS:C0020538	Hypertensive disease
+T259	Disease	16725	16733	diabetes	UMLS:C0011847	Diabetes
+T342	Drug	16746	16758	neuroleptics	UMLS:C0040615	Antipsychotic Agents
+T198	Drug	16785	16795	lovastatin	DrugBank:DB00227	Lovastatin
+T224	Drug	16768	16780	atorvastatin	DrugBank:DB01076	Atorvastatin
+T16	Drug	16903	16914	simvastatin	DrugBank:DB00641	Simvastatin
+T62	Disease	16963	16965	PD	UMLS:C0030567	Parkinson Disease
+T63	Disease	17206	17208	PD	UMLS:C0030567	Parkinson Disease
+T225	Drug	17260	17272	atorvastatin	DrugBank:DB01076	Atorvastatin
+T107	Disease	17415	17423	dementia	UMLS:C0497327	Dementia
+T155	Drug	17363	17370	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T156	Drug	17576	17583	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T108	Disease	17871	17879	dementia	UMLS:C0497327	Dementia
+T157	Drug	17843	17850	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T109	Disease	18013	18021	dementia	UMLS:C0497327	Dementia
+T182	Drug	17969	17975	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T17	Drug	18125	18136	simvastatin	DrugBank:DB00641	Simvastatin
+T64	Disease	18197	18199	PD	UMLS:C0030567	Parkinson Disease
+T110	Disease	18184	18192	dementia	UMLS:C0497327	Dementia
+T18	Drug	18784	18795	simvastatin	DrugBank:DB00641	Simvastatin
+T158	Drug	18746	18753	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T183	Drug	18665	18671	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T184	Drug	18686	18692	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T199	Drug	18769	18779	lovastatin	DrugBank:DB00227	Lovastatin
+T226	Drug	18755	18767	atorvastatin	DrugBank:DB01076	Atorvastatin
+T111	Disease	18880	18888	dementia	UMLS:C0497327	Dementia
+T159	Drug	18965	18972	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T343	Disease	19479	19497	comorbid illnesses	UMLS:C0009488	Comorbidity
+T344	Disease	19564	19580	comorbid illness	UMLS:C0009488	Comorbidity
+T345	Disease	19611	19629	comorbid illnesses	UMLS:C0009488	Comorbidity
+T320	Drug	19815	19823	warfarin	DrugBank:DB00682	Warfarin
+T185	Drug	19974	19980	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T247	Disease	19933	19955	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T350	Disease	19908	19928	hypercholesterolemia	UMLS:C0020443	Hypercholesterolemia
+T321	Drug	20028	20036	Warfarin	DrugBank:DB00682	Warfarin
+T112	Disease	20286	20294	dementia	UMLS:C0497327	Dementia
+T322	Drug	20223	20231	warfarin	DrugBank:DB00682	Warfarin
+T323	Drug	20296	20304	Warfarin	DrugBank:DB00682	Warfarin
+T351	Disease	20336	20352	vascular disease	UMLS:C0042373	Vascular Diseases
+T352	Disease	20364	20384	deep vein thrombosis	UMLS:C0149871	Deep Vein Thrombosis
+T353	Disease	20386	20392	stroke	UMLS:C0038454	Cerebrovascular accident
+T354	Disease	20397	20416	atrial fibrillation	UMLS:C0004238	Atrial Fibrillation
+T19	Drug	20486	20497	simvastatin	DrugBank:DB00641	Simvastatin
+T20	Drug	20594	20605	simvastatin	DrugBank:DB00641	Simvastatin
+T324	Drug	20438	20446	warfarin	DrugBank:DB00682	Warfarin
+T325	Drug	20501	20509	warfarin	DrugBank:DB00682	Warfarin
+T355	Disease	20456	20472	vascular disease	UMLS:C0042373	Vascular Diseases
+T200	Drug	20628	20638	Lovastatin	DrugBank:DB00227	Lovastatin
+T21	Drug	20887	20898	simvastatin	DrugBank:DB00641	Simvastatin
+T113	Disease	20776	20784	dementia	UMLS:C0497327	Dementia
+T201	Drug	20807	20817	lovastatin	DrugBank:DB00227	Lovastatin
+T22	Drug	20926	20937	simvastatin	DrugBank:DB00641	Simvastatin
+T23	Drug	21042	21053	simvastatin	DrugBank:DB00641	Simvastatin
+T24	Drug	21149	21160	simvastatin	DrugBank:DB00641	Simvastatin
+T114	Disease	21093	21101	dementia	UMLS:C0497327	Dementia
+T202	Drug	20942	20952	lovastatin	DrugBank:DB00227	Lovastatin
+T203	Drug	21188	21198	lovastatin	DrugBank:DB00227	Lovastatin
+T25	Drug	21280	21291	simvastatin	DrugBank:DB00641	Simvastatin
+T26	Drug	21362	21373	simvastatin	DrugBank:DB00641	Simvastatin
+T115	Disease	21267	21275	dementia	UMLS:C0497327	Dementia
+T204	Drug	21306	21316	lovastatin	DrugBank:DB00227	Lovastatin
+T205	Drug	21435	21445	lovastatin	DrugBank:DB00227	Lovastatin
+T27	Drug	21568	21579	simvastatin	DrugBank:DB00641	Simvastatin
+T28	Drug	21660	21671	simvastatin	DrugBank:DB00641	Simvastatin
+T29	Drug	21698	21709	simvastatin	DrugBank:DB00641	Simvastatin
+T116	Disease	21518	21526	dementia	UMLS:C0497327	Dementia
+T186	Drug	21604	21610	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T206	Drug	21553	21563	lovastatin	DrugBank:DB00227	Lovastatin
+T346	Disease	21897	21913	comorbid disease	UMLS:C0009488	Comorbidity
+T160	Drug	21949	21956	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T347	Disease	22079	22097	comorbid illnesses	UMLS:C0009488	Comorbidity
+T326	Drug	22103	22111	warfarin	DrugBank:DB00682	Warfarin
+T348	Disease	22342	22360	comorbid illnesses	UMLS:C0009488	Comorbidity
+T30	Drug	22664	22675	simvastatin	DrugBank:DB00641	Simvastatin
+T117	Disease	22689	22697	dementia	UMLS:C0497327	Dementia
+T267	Disease	22515	22534	Alzheimer's disease	UMLS:C0002395	Alzheimer's Disease
+T356	Disease	22545	22562	chronic illnesses	UMLS:C0008679	Chronic disease
+T187	Drug	23048	23054	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T118	Disease	23142	23179	senile dementia of the Alzheimer type	UMLS:C0002395	Alzheimer's Disease
+T119	Disease	23240	23248	dementia	UMLS:C0497327	Dementia
+T282	Disease	23263	23265	AD	UMLS:C0002395	Alzheimer's Disease
+T283	Disease	23400	23402	AD	UMLS:C0002395	Alzheimer's Disease
+T284	Disease	23452	23454	AD	UMLS:C0002395	Alzheimer's Disease
+T120	Disease	23600	23608	dementia	UMLS:C0497327	Dementia
+T188	Drug	23625	23631	statin	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T285	Disease	23553	23555	AD	UMLS:C0002395	Alzheimer's Disease
+T286	Disease	23674	23676	AD	UMLS:C0002395	Alzheimer's Disease
+T287	Disease	23726	23728	AD	UMLS:C0002395	Alzheimer's Disease
+T31	Drug	23840	23851	simvastatin	DrugBank:DB00641	Simvastatin
+T121	Disease	23817	23825	dementia	UMLS:C0497327	Dementia
+T32	Drug	23961	23972	simvastatin	DrugBank:DB00641	Simvastatin
+T33	Drug	24116	24127	simvastatin	DrugBank:DB00641	Simvastatin
+T122	Disease	24072	24080	dementia	UMLS:C0497327	Dementia
+T34	Drug	24261	24272	simvastatin	DrugBank:DB00641	Simvastatin
+T207	Drug	24311	24321	lovastatin	DrugBank:DB00227	Lovastatin
+T336	Drug	24296	24307	pravastatin	DrugBank:DB00175	Pravastatin
+T35	Drug	24435	24446	Simvastatin	DrugBank:DB00641	Simvastatin
+T227	Drug	24473	24485	atorvastatin	DrugBank:DB01076	Atorvastatin
+T36	Drug	24659	24670	simvastatin	DrugBank:DB00641	Simvastatin
+T37	Drug	24549	24560	Simvastatin	DrugBank:DB00641	Simvastatin
+T228	Drug	24576	24588	atorvastatin	DrugBank:DB01076	Atorvastatin
+T229	Drug	24631	24643	atorvastatin	DrugBank:DB01076	Atorvastatin
+T38	Drug	24776	24787	simvastatin	DrugBank:DB00641	Simvastatin
+T161	Drug	24812	24819	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T39	Drug	24959	24970	simvastatin	DrugBank:DB00641	Simvastatin
+T40	Drug	25227	25238	simvastatin	DrugBank:DB00641	Simvastatin
+T162	Drug	25086	25093	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T208	Drug	25214	25224	lovastatin	DrugBank:DB00227	Lovastatin
+T230	Drug	25241	25253	atorvastatin	DrugBank:DB01076	Atorvastatin
+T41	Drug	25263	25274	Simvastatin	DrugBank:DB00641	Simvastatin
+T42	Drug	25402	25413	simvastatin	DrugBank:DB00641	Simvastatin
+T163	Drug	25471	25478	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T43	Drug	25505	25516	simvastatin	DrugBank:DB00641	Simvastatin
+T209	Drug	25540	25550	lovastatin	DrugBank:DB00227	Lovastatin
+T231	Drug	25552	25564	Atorvastatin	DrugBank:DB01076	Atorvastatin
+T232	Drug	25627	25639	atorvastatin	DrugBank:DB01076	Atorvastatin
+T357	Disease	25717	25742	neurodegenerative disease	UMLS:C0524851	Neurodegenerative Disorders
+T358	Disease	25822	25840	multiple disorders	UMLS:C0679225	multiple pathologies
+T65	Disease	25977	25979	PD	UMLS:C0030567	Parkinson Disease
+T164	Drug	25961	25968	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T66	Disease	26044	26046	PD	UMLS:C0030567	Parkinson Disease
+T123	Disease	26031	26039	dementia	UMLS:C0497327	Dementia
+T165	Drug	26089	26096	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T166	Drug	26000	26007	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T167	Drug	26182	26189	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T359	Phenotype	26197	26209	inflammation	UMLS:C0021368	Inflammation
+T360	Phenotype	26211	26223	osteoporosis	HPO:HP:0000939	Osteoporosis
+T368	Phenotype	26229	26238	fractures	HPO:HP:0002757	Recurrent fractures
+T362	Disease	26279	26292	heart disease	UMLS:C0018799	Heart Diseases
+T67	Disease	26360	26362	PD	UMLS:C0030567	Parkinson Disease
+T288	Disease	26353	26355	AD	UMLS:C0002395	Alzheimer's Disease
+T363	Phenotype	26302	26314	Inflammation	UMLS:C0021368	Inflammation
+T168	Drug	26440	26447	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T169	Drug	26493	26500	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T289	Disease	26411	26413	AD	UMLS:C0002395	Alzheimer's Disease
+T364	Phenotype	26458	26470	inflammation	UMLS:C0021368	Inflammation
+T45	Drug	26664	26675	simvastatin	DrugBank:DB00641	Simvastatin
+T170	Drug	26551	26558	statins	UMLS:C0360714	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+T365	Phenotype	26569	26581	inflammation	UMLS:C0021368	Inflammation
+T366	Disease	26627	26647	degenerative disease	UMLS:C1285162	Degenerative disorder
+T44	Drug	26677	26688	Simvastatin	DrugBank:DB00641	Simvastatin
+T56	Disease	26766	26785	Parkinson's disease	UMLS:C0030567	Parkinson Disease
+T124	Disease	26744	26752	dementia	UMLS:C0497327	Dementia
+T125	Disease	26850	26858	dementia	UMLS:C0497327	Dementia
+T233	Drug	26787	26799	Atorvastatin	DrugBank:DB01076	Atorvastatin
+T349	Disease	26960	26977	comorbid diseases	UMLS:C0009488	Comorbidity
+T46	Drug	27102	27113	simvastatin	DrugBank:DB00641	Simvastatin

@@ -1,0 +1,127 @@
+T1	Disease	29	37	dementia	UMLS:C0497327	Dementia
+T2	Disease	123	131	dementia	UMLS:C0497327	Dementia
+T3	Disease	247	255	dementia	UMLS:C0497327	Dementia
+T4	Disease	297	305	dementia	UMLS:C0497327	Dementia
+T5	Disease	384	392	dementia	UMLS:C0497327	Dementia
+T8	Ethnicity	618	629	Netherlands	UMLS:C0013331	Dutch Population
+T6	Disease	882	890	dementia	UMLS:C0497327	Dementia
+T93	Measure	1074	1144	End-of-Life in Dementia - Comfort Assessment in Dying (EOLD-CAD) scale	null	null
+T9	Disease	1324	1332	dementia	UMLS:C0497327	Dementia
+T7	Disease	1653	1661	dementia	UMLS:C0497327	Dementia
+T10	Disease	1709	1717	dementia	UMLS:C0497327	Dementia
+T11	Disease	2052	2060	dementia	UMLS:C0497327	Dementia
+T12	Disease	2145	2153	dementia	UMLS:C0497327	Dementia
+T13	Disease	2238	2246	dementia	UMLS:C0497327	Dementia
+T14	Disease	2445	2453	dementia	UMLS:C0497327	Dementia
+T15	Disease	2534	2542	dementia	UMLS:C0497327	Dementia
+T16	Disease	2763	2771	dementia	UMLS:C0497327	Dementia
+T17	Demographic	2781	2783	US	UMLS:C0041703	United States
+T18	Disease	2829	2837	dementia	UMLS:C0497327	Dementia
+T19	Disease	2942	2950	dementia	UMLS:C0497327	Dementia
+T20	Disease	3363	3371	dementia	UMLS:C0497327	Dementia
+T21	Disease	3558	3566	dementia	UMLS:C0497327	Dementia
+T22	Disease	3597	3605	dementia	UMLS:C0497327	Dementia
+T23	Disease	3659	3667	dementia	UMLS:C0497327	Dementia
+T24	Disease	3690	3706	comorbid disease	UMLS:C0009488	Comorbidity
+T25	Disease	3774	3782	dementia	UMLS:C0497327	Dementia
+T26	Disease	3907	3915	dementia	UMLS:C0497327	Dementia
+T27	Disease	4088	4096	dementia	UMLS:C0497327	Dementia
+T28	Demographic	4347	4358	Netherlands	UMLS:C0027778	Netherlands
+T29	Disease	4495	4503	dementia	UMLS:C0497327	Dementia
+T127	Disease	4870	4878	dementia	UMLS:C0497327	Dementia
+T30	Disease	5175	5183	dementia	UMLS:C0497327	Dementia
+T31	Disease	5695	5703	dementia	UMLS:C0497327	Dementia
+T32	Disease	6155	6163	dementia	UMLS:C0497327	Dementia
+T33	Disease	6338	6346	dementia	UMLS:C0497327	Dementia
+T34	Demographic	6180	6182	US	UMLS:C0041703	United States
+T36	Disease	6842	6850	dementia	UMLS:C0497327	Dementia
+T35	Disease	6941	6949	dementia	UMLS:C0497327	Dementia
+T38	Disease	8149	8157	dementia	UMLS:C0497327	Dementia
+T37	Disease	8321	8329	dementia	UMLS:C0497327	Dementia
+T82	Phenotype	8839	8849	discomfort	UMLS:C2364135	Actual Discomfort
+T83	Demographic	8890	8892	US	UMLS:C0041703	United States
+T92	Measure	9115	9176	End-of-Life in Dementia–Comfort Assessment in Dying (EOLD-CAD	null	null
+T102	ScaleMin	9402	9404	14	null	null
+T103	ScaleMax	9408	9410	42	null	null
+T39	Disease	9457	9465	Dementia	UMLS:C0497327	Dementia
+T40	Disease	9632	9640	dementia	UMLS:C0497327	Dementia
+T84	Demographic	9594	9596	US	UMLS:C0041703	United States
+T87	Measure	9646	9679	Cognitive Performance Scale (CPS)	null	null
+T88	ScaleMin	9694	9695	5	null	null
+T89	ScaleMax	9699	9700	6	null	null
+T90	Measure	9707	9739	Global Deterioration Scale (GDS)	null	null
+T91	ScaleMax	9754	9755	7	null	null
+T94	Measure	10043	10051	EOLD-CAD	null	null
+T41	Disease	10381	10389	dementia	UMLS:C0497327	Dementia
+T104	Demographic	11492	11495	USA	UMLS:C0041703	United States
+T105	Demographic	11475	11486	Los Angeles	UMLS:C0024015	Los Angeles
+T106	Demographic	11488	11490	CA	UMLS:C0006754	California
+T107	Demographic	11620	11623	USA	UMLS:C0041703	United States
+T108	Demographic	11607	11614	Chicago	UMLS:C0008044	Chicago
+T42	Disease	12325	12333	dementia	UMLS:C0497327	Dementia
+T95	Measure	12217	12225	EOLD-CAD	null	null
+T109	Gender	12361	12367	female	Gender:C0015780	female
+T110	Gender	12464	12470	female	Gender:C0015780	female
+T96	Measure	12665	12673	EOLD-CAD	null	null
+T43	Disease	12770	12778	dementia	UMLS:C0497327	Dementia
+T44	Disease	12903	12911	dementia	UMLS:C0497327	Dementia
+T45	Disease	13132	13140	dementia	UMLS:C0497327	Dementia
+T111	Phenotype	12936	12944	cachexia	HPO:HP:0004326	Cachexia
+T112	Phenotype	12973	12982	infection	UMLS:C3714514	Infection
+T68	Phenotype	13011	13022	dehydration	HPO:HP:0001944	Dehydration
+T114	Disease	13053	13075	cardiovascular disease	UMLS:C0007222	Cardiovascular Diseases
+T115	Disease	13369	13377	dementia	UMLS:C0497327	Dementia
+T46	Disease	13532	13540	dementia	UMLS:C0497327	Dementia
+T47	Disease	14191	14199	dementia	UMLS:C0497327	Dementia
+T48	Disease	14264	14272	dementia	UMLS:C0497327	Dementia
+T49	Disease	14805	14813	dementia	UMLS:C0497327	Dementia
+T97	Measure	15029	15037	EOLD-CAD	null	null
+T98	Measure	15212	15220	EOLD-CAD	null	null
+T50	Disease	15773	15781	dementia	UMLS:C0497327	Dementia
+T51	Disease	16197	16205	dementia	UMLS:C0497327	Dementia
+T52	Disease	16059	16067	dementia	UMLS:C0497327	Dementia
+T53	Disease	16081	16089	dementia	UMLS:C0497327	Dementia
+T54	Disease	16295	16303	dementia	UMLS:C0497327	Dementia
+T55	Disease	16521	16529	dementia	UMLS:C0497327	Dementia
+T56	Disease	16641	16649	dementia	UMLS:C0497327	Dementia
+T58	Disease	17228	17236	dementia	UMLS:C0497327	Dementia
+T57	Disease	17288	17296	dementia	UMLS:C0497327	Dementia
+T59	Disease	17455	17463	dementia	UMLS:C0497327	Dementia
+T60	Disease	17500	17508	dementia	UMLS:C0497327	Dementia
+T116	Ethnicity	17416	17421	Dutch	UMLS:C0013331	Dutch Population
+T61	Disease	17615	17623	dementia	UMLS:C0497327	Dementia
+T62	Disease	17765	17773	dementia	UMLS:C0497327	Dementia
+T63	Disease	17817	17825	dementia	UMLS:C0497327	Dementia
+T64	Disease	17934	17942	dementia	UMLS:C0497327	Dementia
+T65	Disease	17999	18007	dementia	UMLS:C0497327	Dementia
+T66	Disease	18319	18327	dementia	UMLS:C0497327	Dementia
+T118	Phenotype	18215	18219	pain	HPO:HP:0012531	Pain
+T119	Phenotype	18224	18243	shortness of breath	HPO:HP:0002094	Dyspnea
+T120	Disease	19040	19046	cancer	UMLS:C1882062	Neoplastic disease
+T67	Disease	19308	19316	dementia	UMLS:C0497327	Dementia
+T68	Disease	19510	19518	dementia	UMLS:C0497327	Dementia
+T69	Disease	19808	19816	dementia	UMLS:C0497327	Dementia
+T85	Demographic	20006	20017	Netherlands	UMLS:C0027778	Netherlands
+T86	Demographic	20030	20032	US	UMLS:C0041703	United States
+T117	Ethnicity	20053	20058	Dutch	UMLS:C0013331	Dutch Population
+T70	Disease	20249	20257	dementia	UMLS:C0497327	Dementia
+T121	Demographic	20104	20115	Netherlands	UMLS:C0027778	Netherlands
+T71	Disease	20313	20321	dementia	UMLS:C0497327	Dementia
+T72	Disease	21009	21017	dementia	UMLS:C0497327	Dementia
+T73	Disease	21270	21278	dementia	UMLS:C0497327	Dementia
+T74	Disease	22378	22386	dementia	UMLS:C0497327	Dementia
+T75	Disease	22492	22500	dementia	UMLS:C0497327	Dementia
+T76	Disease	22999	23007	dementia	UMLS:C0497327	Dementia
+T78	Disease	23150	23158	dementia	UMLS:C0497327	Dementia
+T79	Disease	23445	23453	dementia	UMLS:C0497327	Dementia
+T77	Disease	23608	23616	dementia	UMLS:C0497327	Dementia
+T80	Disease	24014	24022	dementia	UMLS:C0497327	Dementia
+T81	Disease	24178	24186	dementia	UMLS:C0497327	Dementia
+T123	Disease	24341	24370	chronic, progressive diseases	UMLS:C1335499	Progressive Disease
+T122	Disease	24341	24370	chronic, progressive diseases	UMLS:C0008679	Chronic disease
+T124	Disease	24380	24401	chronic heart failure	UMLS:C0264716	Chronic heart failure
+T125	Disease	24406	24410	COPD	UMLS:C0024117	Chronic Obstructive Airway Disease
+T126	Demographic	24506	24512	Boston	UMLS:C0006037	City of Boston
+R1	hasScale	9646	9679	Measure	9694	9695	ScaleMin
+R2	hasScale	9646	9679	Measure	9699	9700	ScaleMax
+R3	hasScale	9707	9739	Measure	9754	9755	ScaleMax

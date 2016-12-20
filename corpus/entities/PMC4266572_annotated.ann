@@ -1,0 +1,395 @@
+T27	Disease	31	56	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T162	Disease	69	88	Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T3	Phenotype	127	155	Excessive daytime sleepiness	HPO:HP:0002189	Excessive daytime sleepiness
+T28	Disease	190	221	dementia with Lewy bodies (DLB)	UMLS:C0752347	Lewy Body Disease
+T29	Disease	359	362	DLB	UMLS:C0752347	Lewy Body Disease
+T163	Disease	375	408	Alzheimer’s disease (AD) dementia	UMLS:C0002395	Alzheimer's Disease
+T30	Disease	479	482	DLB	UMLS:C0752347	Lewy Body Disease
+T164	Disease	495	506	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T31	Disease	547	550	DLB	UMLS:C0752347	Lewy Body Disease
+T165	Disease	563	574	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T32	Disease	684	687	DLB	UMLS:C0752347	Lewy Body Disease
+T33	Disease	866	869	DLB	UMLS:C0752347	Lewy Body Disease
+T166	Disease	889	900	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T34	Disease	959	962	DLB	UMLS:C0752347	Lewy Body Disease
+T35	Disease	1071	1074	DLB	UMLS:C0752347	Lewy Body Disease
+T167	Disease	1133	1144	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T168	Disease	1027	1038	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T5	Phenotype	1162	1180	Daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T36	Disease	1268	1271	DLB	UMLS:C0752347	Lewy Body Disease
+T160	Disease	1224	1232	dementia	UMLS:C0497327	Dementia
+T161	Disease	1291	1299	dementia	UMLS:C0497327	Dementia
+T169	Disease	1184	1195	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T219	Phenotype	1351	1372	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T220	Phenotype	1374	1386	fluctuations	UMLS:C0231239	Fluctuation
+T221	Phenotype	1388	1400	parkinsonism	HPO:HP:0001300	Parkinsonism
+T222	Phenotype	1404	1446	rapid eye movement sleep behavior disorder	UMLS:C0751772	REM Sleep Behavior Disorder
+T37	Disease	1523	1526	DLB	UMLS:C0752347	Lewy Body Disease
+T417	Phenotype	1561	1580	sleep fragmentation	UMLS:C0751507	Sleep Fragmentation
+T39	Disease	1642	1645	DLB	UMLS:C0752347	Lewy Body Disease
+T159	Disease	1834	1842	dementia	UMLS:C0497327	Dementia
+T223	Disease	1693	1746	transitional Lewy body disease (brainstem and limbic)	null	null
+T224	Disease	1693	1746	transitional Lewy body disease (brainstem and limbic)	null	null
+T225	Disease	1804	1829	diffuse Lewy body disease	UMLS:C0752347	Lewy Body Disease
+T40	Phenotype	1853	1889	DLB core features or sleep variables	null	null
+T226	Phenotype	1853	1889	DLB core features or sleep variables	null	null
+T6	Phenotype	1891	1909	Daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T41	Disease	1950	1953	DLB	UMLS:C0752347	Lewy Body Disease
+T170	Disease	1973	1984	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T7	Phenotype	1986	2004	Daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T42	Disease	2008	2011	DLB	UMLS:C0752347	Lewy Body Disease
+T227	Phenotype	2033	2085	disrupted brainstem and limbic sleep–wake physiology	null	null
+T43	Disease	2219	2250	dementia with Lewy bodies (DLB)	UMLS:C0752347	Lewy Body Disease
+T8	Phenotype	2310	2328	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T135	Disease	2418	2426	dementia	UMLS:C0497327	Dementia
+T171	Disease	2370	2381	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T9	Phenotype	2460	2478	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T44	Disease	2456	2459	DLB	UMLS:C0752347	Lewy Body Disease
+T45	Disease	2612	2615	DLB	UMLS:C0752347	Lewy Body Disease
+T46	Disease	2722	2725	DLB	UMLS:C0752347	Lewy Body Disease
+T172	Disease	2817	2828	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T10	Phenotype	2833	2851	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T47	Disease	2890	2893	DLB	UMLS:C0752347	Lewy Body Disease
+T48	Disease	2988	2991	DLB	UMLS:C0752347	Lewy Body Disease
+T173	Disease	2917	2928	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T11	Phenotype	3231	3249	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T230	Phenotype	3124	3143	sleep fragmentation	UMLS:C0751507	Sleep Fragmentation
+T49	Disease	3343	3346	DLB	UMLS:C0752347	Lewy Body Disease
+T232	Phenotype	3261	3280	sleep fragmentation	UMLS:C0751507	Sleep Fragmentation
+T233	Disease	3351	3370	Parkinson’s disease	UMLS:C0030567	Parkinson Disease
+T235	Phenotype	3288	3329	respiratory and movement-related arousals	null	null
+T236	Phenotype	3288	3329	respiratory and movement-related arousals	null	null
+T237	Phenotype	3408	3426	nocturnal arousals	null	null
+T234	Demographic	3708	3711	USA	UMLS:C0041703	United States
+T50	Disease	3994	3997	DLB	UMLS:C0752347	Lewy Body Disease
+T238	Disease	4008	4016	dementia	UMLS:C0497327	Dementia
+T239	Phenotype	4062	4083	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T240	Phenotype	4085	4097	fluctuations	UMLS:C0231239	Fluctuation
+T241	Phenotype	4099	4111	parkinsonism	HPO:HP:0001300	Parkinsonism
+T242	Phenotype	4116	4170	rapid eye movement (REM) sleep behavior disorder (RBD)	UMLS:C0751772	REM Sleep Behavior Disorder
+T174	Disease	4234	4245	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T157	Disease	4299	4307	dementia	UMLS:C0497327	Dementia
+T243	Measure	4321	4353	formal neurocognitive assessment	UMLS:C0374874	Central Nervous System Assessments/Tests (eg, Neuro-Cognitive, Mental Status, Speech Testing)
+T244	Phenotype	4386	4406	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T51	Disease	4646	4649	DLB	UMLS:C0752347	Lewy Body Disease
+T156	Disease	4545	4570	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T175	Disease	4654	4665	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T216	Disease	4575	4603	Alzheimer’s disease dementia	UMLS:C0002395	Alzheimer's Disease
+T158	Disease	4992	5000	dementia	UMLS:C0497327	Dementia
+T246	Measure	4863	4896	Global Deterioration Scale (GLDS)	null	null
+T247	Measure	4910	4948	Folstein Mini Mental State Examination	UMLS:C0451306	Mini-mental state examination
+T248	Phenotype	5051	5054	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T249	Phenotype	5312	5324	parkinsonism	HPO:HP:0001300	Parkinsonism
+T250	Phenotype	5376	5388	bradykinesia	HPO:HP:0002067	Bradykinesia
+T251	Phenotype	5390	5398	rigidity	HPO:HP:0002063	Rigidity
+T252	Phenotype	5400	5414	resting tremor	HPO:HP:0002322	Resting tremor
+T253	Phenotype	5422	5442	postural instability	HPO:HP:0002172	Postural instability
+T254	Phenotype	5445	5457	Fluctuations	UMLS:C0231239	Fluctuation
+T255	Measure	5512	5535	Mayo Fluctuations Scale	null	null
+T256	ScaleMin	5498	5499	3	null	null
+T257	ScaleMax	5503	5504	4	null	null
+T258	Measure	5564	5599	visual hallucinations questionnaire	null	null
+T259	Phenotype	5681	5702	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T260	Phenotype	5873	5883	depression	HPO:HP:0000716	Depression
+T261	Measure	5925	5962	Geriatric Depression Scale–Short Form	UMLS:C2919619	Geriatric depression scale short form
+T262	Measure	6004	6063	Neuropsychiatric Inventory Questionnaire–Short Form (NPI-Q)	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T52	Disease	6137	6140	DLB	UMLS:C0752347	Lewy Body Disease
+T176	Disease	6162	6173	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T53	Disease	6207	6210	DLB	UMLS:C0752347	Lewy Body Disease
+T177	Disease	6218	6229	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T155	Disease	6276	6284	dementia	UMLS:C0497327	Dementia
+T263	Phenotype	8163	8184	decrease in breathing	null	null
+T265	Phenotype	8318	8374	reduction or absence of breathing and respiratory effort	null	null
+T266	Phenotype	8424	8439	reduced airflow	null	null
+T267	Phenotype	8447	8455	hypopnea	UMLS:C0235546	Slow shallow breathing
+T268	Phenotype	8470	8489	eduction of airflow	null	null
+T270	Phenotype	8496	8542	reduction of thoracic and/or abnormal movement	null	null
+T271	Phenotype	8571	8594	respiratory disturbance	UMLS:C0035229	Respiratory Insufficiency
+T272	Phenotype	8623	8650	disordered breathing events	UMLS:C1260922	Abnormal breathing
+T273	Phenotype	8662	8680	obstructive apneas	HPO:HP:0002870	Obstructive sleep apnea
+T274	Phenotype	8682	8696	central apneas	HPO:HP:0002871	Central apnea
+T276	Phenotype	8712	8721	hypopneas	UMLS:C0235546	Slow shallow breathing
+T277	Phenotype	8726	8760	respiratory effort–related changes	null	null
+T278	Phenotype	9222	9247	movement-related arousals	null	null
+T279	Phenotype	9321	9354	disordered breathing or movements	UMLS:C0558189	Abnormal movement
+T280	Phenotype	9321	9354	disordered breathing or movements	UMLS:C1260922	Abnormal breathing
+T281	Phenotype	9511	9517	atonia	UMLS:C0541791	Atonia
+T282	Phenotype	9622	9645	epileptiform discharges	UMLS:C0474721	Generalized epileptiform discharges
+T54	Disease	9725	9728	DLB	UMLS:C0752347	Lewy Body Disease
+T178	Disease	9759	9761	AD	UMLS:C0002395	Alzheimer's Disease
+T55	Disease	9933	9936	DLB	UMLS:C0752347	Lewy Body Disease
+T283	Disease	10075	10107	diffuse Lewy body disease (DLBD)	UMLS:C0752347	Lewy Body Disease
+T284	Disease	10208	10245	transitional Lewy body disease (TLBD)	null	null
+T285	Phenotype	10334	10362	neurofibrillary tangle (NFT)	HPO:HP:0002185	Neurofibrillary tangles
+T56	Disease	10962	10965	DLB	UMLS:C0752347	Lewy Body Disease
+T154	Disease	11010	11018	dementia	UMLS:C0497327	Dementia
+T179	Disease	10970	10981	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T286	Measure	10991	10995	GLDS	null	null
+T153	Disease	11385	11393	dementia	UMLS:C0497327	Dementia
+T287	AgeGroup	11349	11361	older adults	null	null
+T57	Disease	11512	11515	DLB	UMLS:C0752347	Lewy Body Disease
+T58	Phenotype	11535	11552	core DLB features	null	null
+T59	Phenotype	11568	11585	core DLB features	null	null
+T60	Phenotype	11603	11620	core DLB features	null	null
+T61	Phenotype	11682	11700	core DLB features.	null	null
+T180	Disease	11629	11640	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T152	Disease	11833	11841	dementia	UMLS:C0497327	Dementia
+T288	Phenotype	11866	11886	cognitive impairment	HPO:HP:0100543	Cognitive impairment
+T62	Disease	11949	11952	DLB	UMLS:C0752347	Lewy Body Disease
+T181	Disease	11965	11976	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T289	Phenotype	11888	11900	Parkinsonism	HPO:HP:0001300	Parkinsonism
+T182	Disease	12065	12076	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T63	Disease	12082	12085	DLB	UMLS:C0752347	Lewy Body Disease
+T183	Disease	12151	12162	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T290	Phenotype	12117	12127	depression	HPO:HP:0000716	Depression
+T291	Phenotype	12224	12234	depression	HPO:HP:0000716	Depression
+T292	Measure	12260	12265	NPI-Q	UMLS:C3539727	Neuropsychiatric Inventory Questionnaire
+T64	Disease	12299	12302	DLB	UMLS:C0752347	Lewy Body Disease
+T65	Disease	12369	12372	DLB	UMLS:C0752347	Lewy Body Disease
+T184	Disease	12307	12318	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T185	Disease	12380	12391	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T293	Drug	12339	12363	cholinesterase inhibitor	UMLS:C0008425	Cholinesterase Inhibitors
+T66	Disease	12424	12427	DLB	UMLS:C0752347	Lewy Body Disease
+T304	Drug	12451	12469	carbidopa-levodopa	UMLS:C0353697	Carbidopa / Levodopa
+T67	Disease	12483	12486	DLB	UMLS:C0752347	Lewy Body Disease
+T305	Drug	12555	12573	carbidopa-levodopa	UMLS:C0353697	Carbidopa / Levodopa
+T307	Drug	12507	12518	pramipexole	DrugBank:DB00413	Pramipexole
+T308	Drug	12522	12532	ropinirole	DrugBank:DB00268	Ropinirole
+T186	Disease	12582	12593	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T306	Drug	12616	12634	carbidopa-levodopa	UMLS:C0353697	Carbidopa / Levodopa
+T309	Drug	12669	12679	amantadine	DrugBank:DB00915	Amantadine
+T310	Drug	12681	12703	anticholinergic agents	UMLS:C0242896	Anticholinergic Agents
+T311	Drug	12708	12723	benzodiazepines	UMLS:C0005064	Benzodiazepines
+T151	Disease	12797	12805	dementia	UMLS:C0497327	Dementia
+T68	Phenotype	12838	12855	core DLB features	null	null
+T70	Disease	14398	14401	DLB	UMLS:C0752347	Lewy Body Disease
+T188	Disease	14406	14417	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T71	Disease	14723	14726	DLB	UMLS:C0752347	Lewy Body Disease
+T189	Disease	14751	14753	AD	UMLS:C0002395	Alzheimer's Disease
+T344	Phenotype	14571	14608	Arousals from periodic limb movements	null	null
+T345	Phenotype	14675	14699	movement-related arousal	null	null
+T72	Disease	14872	14875	DLB	UMLS:C0752347	Lewy Body Disease
+T190	Disease	14897	14908	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T346	Phenotype	14782	14808	Breathing-related arousals	null	null
+T75	Disease	16297	16300	DLB	UMLS:C0752347	Lewy Body Disease
+T149	Disease	16378	16386	dementia	UMLS:C0497327	Dementia
+T295	Phenotype	16416	16428	parkinsonism	HPO:HP:0001300	Parkinsonism
+T296	Phenotype	16519	16531	parkinsonism	HPO:HP:0001300	Parkinsonism
+T327	Phenotype	16512	16515	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T356	Phenotype	16402	16414	fluctuations	UMLS:C0231239	Fluctuation
+T357	Phenotype	16439	16449	depression	HPO:HP:0000716	Depression
+T358	Phenotype	16489	16510	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T74	Disease	16664	16667	DLB	UMLS:C0752347	Lewy Body Disease
+T192	Disease	16726	16737	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T359	AgeGroup	16593	16605	older adults	null	null
+T76	Disease	16776	16779	DLB	UMLS:C0752347	Lewy Body Disease
+T12	Phenotype	17092	17110	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T77	Disease	17044	17047	DLB	UMLS:C0752347	Lewy Body Disease
+T148	Disease	17251	17259	dementia	UMLS:C0497327	Dementia
+T193	Disease	17157	17168	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T297	Phenotype	17284	17296	parkinsonism	HPO:HP:0001300	Parkinsonism
+T360	Phenotype	17270	17282	fluctuations	UMLS:C0231239	Fluctuation
+T361	Phenotype	17309	17319	depression	HPO:HP:0000716	Depression
+T13	Phenotype	17550	17568	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T194	Disease	17483	17494	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T362	Drug	17638	17662	cholinesterase inhibitor	UMLS:C0008425	Cholinesterase Inhibitors
+T78	Disease	17788	17791	DLB	UMLS:C0752347	Lewy Body Disease
+T298	Phenotype	17839	17851	parkinsonism	HPO:HP:0001300	Parkinsonism
+T312	Drug	17808	17826	carbidopa-levodopa	UMLS:C0353697	Carbidopa / Levodopa
+T363	Drug	18259	18276	dopamine agonists	UMLS:C0178601	Dopamine Agonists
+T79	Disease	18362	18365	DLB	UMLS:C0752347	Lewy Body Disease
+T329	Phenotype	18332	18335	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T328	Phenotype	18503	18506	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T364	Phenotype	18391	18397	atonia	UMLS:C0541791	Atonia
+T330	Phenotype	18558	18561	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T365	Phenotype	18699	18705	atonia	UMLS:C0541791	Atonia
+T366	Phenotype	18814	18820	atonia	UMLS:C0541791	Atonia
+T195	Disease	18954	18965	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T367	Phenotype	18916	18922	atonia	UMLS:C0541791	Atonia
+T368	Phenotype	19012	19036	dream enactment behavior	UMLS:C4040601	Dream enactment behavior
+T80	Disease	19065	19068	DLB	UMLS:C0752347	Lewy Body Disease
+T196	Disease	19102	19113	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T81	Disease	19346	19349	DLB	UMLS:C0752347	Lewy Body Disease
+T197	Disease	19355	19366	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T145	Disease	19448	19456	dementia	UMLS:C0497327	Dementia
+T198	Disease	19535	19546	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T82	Disease	19806	19809	DLB	UMLS:C0752347	Lewy Body Disease
+T199	Disease	19832	19843	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T83	Disease	20210	20240	DLB, Dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T146	Disease	20022	20030	dementia	UMLS:C0497327	Dementia
+T147	Disease	20118	20143	dementia with Lewy bodies	UMLS:C0752347	Lewy Body Disease
+T200	Disease	20185	20208	AD, Alzheimer’s disease	UMLS:C0002395	Alzheimer's Disease
+T218	Disease	20148	20176	Alzheimer’s disease dementia	UMLS:C0002395	Alzheimer's Disease
+T84	Disease	20245	20248	DLB	UMLS:C0752347	Lewy Body Disease
+T144	Disease	20311	20319	dementia	UMLS:C0497327	Dementia
+T369	Drug	20344	20367	antiparkinsonian agents	UMLS:C0003405	Antiparkinson Agents
+T370	Drug	20371	20396	cholinesterase inhibitors	UMLS:C0008425	Cholinesterase Inhibitors
+T85	Phenotype	20476	20493	core DLB features	null	null
+T299	Phenotype	20495	20507	parkinsonism	HPO:HP:0001300	Parkinsonism
+T300	Phenotype	20555	20567	parkinsonism	HPO:HP:0001300	Parkinsonism
+T331	Phenotype	20571	20574	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T332	Phenotype	20532	20553	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T86	Disease	20668	20671	DLB	UMLS:C0752347	Lewy Body Disease
+T201	Disease	20708	20719	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T371	Phenotype	20597	20609	fluctuations	UMLS:C0231239	Fluctuation
+T14	Phenotype	20993	21011	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T87	Disease	20855	20858	DLB	UMLS:C0752347	Lewy Body Disease
+T372	Phenotype	21059	21078	sleep fragmentation	UMLS:C0751507	Sleep Fragmentation
+T88	Disease	21194	21197	DLB	UMLS:C0752347	Lewy Body Disease
+T142	Disease	21128	21164	very mild and mild stage of dementia	null	null
+T143	Disease	21128	21164	very mild and mild stage of dementia	UMLS:C3494623	Mild dementia
+T202	Disease	21202	21213	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T203	Disease	21324	21335	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T373	Phenotype	21495	21511	trouble sleeping	UMLS:C3843960	Have trouble sleeping
+T204	Disease	21779	21790	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T374	Phenotype	21585	21601	low sleepability	null	null
+T375	Phenotype	21606	21623	hyperarousability	null	null
+T89	Disease	21806	21809	DLB	UMLS:C0752347	Lewy Body Disease
+T90	Disease	21979	21982	DLB	UMLS:C0752347	Lewy Body Disease
+T377	Disease	22016	22020	TLBD	null	null
+T381	Disease	22100	22104	DLBD	UMLS:C0752347	Lewy Body Disease
+T378	Disease	22161	22165	TLBD	null	null
+T385	Phenotype	22190	22193	NFT	HPO:HP:0002185	Neurofibrillary tangles
+T386	Phenotype	22235	22238	NFT	HPO:HP:0002185	Neurofibrillary tangles
+T382	Disease	22259	22263	DLBD	UMLS:C0752347	Lewy Body Disease
+T387	Phenotype	22287	22290	NFT	HPO:HP:0002185	Neurofibrillary tangles
+T388	Phenotype	22329	22332	NFT	HPO:HP:0002185	Neurofibrillary tangles
+T389	Phenotype	22367	22370	NFT	HPO:HP:0002185	Neurofibrillary tangles
+T91	Disease	22480	22483	DLB	UMLS:C0752347	Lewy Body Disease
+T141	Disease	22541	22549	dementia	UMLS:C0497327	Dementia
+T379	Disease	22430	22434	TLBD	null	null
+T383	Disease	22438	22442	DLBD	UMLS:C0752347	Lewy Body Disease
+T390	Phenotype	22400	22403	NFT	HPO:HP:0002185	Neurofibrillary tangles
+T15	Phenotype	22738	22756	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T92	Disease	22699	22702	DLB	UMLS:C0752347	Lewy Body Disease
+T391	Disease	22651	22659	dementia	UMLS:C0497327	Dementia
+T392	Phenotype	22669	22695	clinical or sleep features	UMLS:C2232698	sleep symptoms
+T393	Phenotype	22669	22695	clinical or sleep features	null	null
+T94	Disease	22772	22775	DLB	UMLS:C0752347	Lewy Body Disease
+T140	Disease	22865	22873	dementia	UMLS:C0497327	Dementia
+T205	Disease	22829	22840	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T95	Disease	22908	22911	DLB	UMLS:C0752347	Lewy Body Disease
+T206	Disease	23016	23018	AD	UMLS:C0002395	Alzheimer's Disease
+T207	Disease	23175	23186	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T395	Disease	23142	23145	DLB	UMLS:C0752347	Lewy Body Disease
+T396	Phenotype	23026	23047	Pathologic sleepiness	null	null
+T93	Disease	23294	23297	DLB	UMLS:C0752347	Lewy Body Disease
+T208	Disease	23310	23321	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T139	Disease	23394	23402	dementia	UMLS:C0497327	Dementia
+T209	Disease	23415	23426	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T398	Disease	23453	23456	DLB	UMLS:C0752347	Lewy Body Disease
+T16	Phenotype	23494	23512	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T96	Disease	23554	23557	DLB	UMLS:C0752347	Lewy Body Disease
+T210	Disease	23577	23588	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T97	Disease	23593	23596	DLB	UMLS:C0752347	Lewy Body Disease
+T399	Phenotype	23612	23652	propensity to fall asleep during the day	UMLS:C0541854	Daytime sleepiness
+T400	Phenotype	23672	23690	poor sleep quality	UMLS:C1262141	Poor quality sleep
+T17	Phenotype	23917	23935	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T98	Disease	23883	23886	DLB	UMLS:C0752347	Lewy Body Disease
+T99	Disease	24044	24047	DLB	UMLS:C0752347	Lewy Body Disease
+T100	Disease	24313	24316	DLB	UMLS:C0752347	Lewy Body Disease
+T409	Phenotype	24168	24183	motor stiffness	null	null
+T18	Phenotype	24363	24381	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T403	Disease	24412	24431	Parkinson’s disease	UMLS:C0030567	Parkinson Disease
+T101	Disease	24474	24477	DLB	UMLS:C0752347	Lewy Body Disease
+T313	Drug	24594	24612	carbidopa-levodopa	UMLS:C0353697	Carbidopa / Levodopa
+T410	Phenotype	24491	24512	severe motor problems	UMLS:C2220255	Motor disturbances
+T19	Phenotype	24739	24757	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T301	Phenotype	24627	24639	parkinsonism	HPO:HP:0001300	Parkinsonism
+T314	Drug	24659	24677	carbidopa-levodopa	UMLS:C0353697	Carbidopa / Levodopa
+T102	Disease	24893	24896	DLB	UMLS:C0752347	Lewy Body Disease
+T302	Phenotype	24778	24790	parkinsonism	HPO:HP:0001300	Parkinsonism
+T315	Drug	24804	24822	carbidopa-levodopa	UMLS:C0353697	Carbidopa / Levodopa
+T412	Disease	24905	24920	Sleep disorders	UMLS:C0851578	Sleep Disorders
+T414	Phenotype	24965	25004	periodic limb movement-related arousals	null	null
+T415	AgeGroup	25123	25135	older adults	null	null
+T103	Disease	25165	25168	DLB	UMLS:C0752347	Lewy Body Disease
+T416	Phenotype	25238	25291	nighttime arousals related to respiration or movement	null	null
+T104	Disease	25518	25521	DLB	UMLS:C0752347	Lewy Body Disease
+T418	Disease	25457	25472	sleep disorders	UMLS:C0851578	Sleep Disorders
+T105	Disease	25536	25539	DLB	UMLS:C0752347	Lewy Body Disease
+T303	Phenotype	25717	25729	parkinsonism	HPO:HP:0001300	Parkinsonism
+T333	Phenotype	25733	25736	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T420	Phenotype	25603	25647	susceptibility to fall asleep during the day	UMLS:C0541854	Daytime sleepiness
+T421	Phenotype	25694	25715	visual hallucinations	HPO:HP:0002367	Visual hallucinations
+T422	Phenotype	25772	25803	DLB fluctuations and sleepiness	null	null
+T423	Phenotype	25772	25803	DLB fluctuations and sleepiness	null	null
+T424	Disease	25887	25890	DLB	UMLS:C0752347	Lewy Body Disease
+T425	Phenotype	25891	25903	fluctuations	UMLS:C0231239	Fluctuation
+T106	Phenotype	26016	26047	DLB fluctuations and sleepiness	null	null
+T107	Phenotype	26016	26047	DLB fluctuations and sleepiness	null	null
+T426	Disease	26121	26129	delirium	UMLS:C0011206	Delirium
+T427	Phenotype	26137	26158	altered consciousness	HPO:HP:0004372	Reduced consciousness/confusion
+T428	Disease	26238	26246	delirium	UMLS:C0011206	Delirium
+T108	Disease	26331	26334	DLB	UMLS:C0752347	Lewy Body Disease
+T109	Disease	26552	26555	DLB	UMLS:C0752347	Lewy Body Disease
+T430	Phenotype	26335	26347	fluctuations	UMLS:C0231239	Fluctuation
+T431	Phenotype	26404	26426	inconsistent abilities	null	null
+T432	Phenotype	26440	26457	incoherent speech	UMLS:C0700129	Incoherent speech
+T433	Phenotype	26461	26479	variable attention	UMLS:C0237200	Scattered attention
+T20	Phenotype	26627	26645	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T110	Disease	26671	26674	DLB	UMLS:C0752347	Lewy Body Disease
+T111	Disease	26758	26761	DLB	UMLS:C0752347	Lewy Body Disease
+T112	Disease	26881	26884	DLB	UMLS:C0752347	Lewy Body Disease
+T113	Disease	26910	26913	DLB	UMLS:C0752347	Lewy Body Disease
+T434	Disease	26976	26993	Lewy body disease	UMLS:C0752347	Lewy Body Disease
+T380	Disease	27096	27100	TLBD	null	null
+T384	Disease	27174	27178	DLBD	UMLS:C0752347	Lewy Body Disease
+T435	Phenotype	27036	27063	clinical or sleep variables	UMLS:C2232698	sleep symptoms
+T436	Phenotype	27036	27063	clinical or sleep variables	null	null
+T114	Disease	27294	27297	DLB	UMLS:C0752347	Lewy Body Disease
+T115	Disease	27318	27321	DLB	UMLS:C0752347	Lewy Body Disease
+T437	Phenotype	27365	27387	neurofibrillary tangle	HPO:HP:0002185	Neurofibrillary tangles
+T21	Phenotype	27541	27559	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T116	Phenotype	27584	27601	core DLB features	null	null
+T138	Disease	27561	27569	dementia	UMLS:C0497327	Dementia
+T438	Phenotype	27408	27421	neuronal loss	HPO:HP:0002529	Neuronal loss in central nervous system
+T439	Disease	27654	27671	Lewy body disease	UMLS:C0752347	Lewy Body Disease
+T22	Phenotype	27818	27836	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T117	Disease	27840	27843	DLB	UMLS:C0752347	Lewy Body Disease
+T440	Phenotype	27862	27875	neuronal loss	HPO:HP:0002529	Neuronal loss in central nervous system
+T441	Disease	27995	28012	Lewy body disease	UMLS:C0752347	Lewy Body Disease
+T23	Phenotype	28877	28903	greater daytime sleepiness	HPO:HP:0002189	Excessive daytime sleepiness
+T118	Disease	28868	28871	DLB	UMLS:C0752347	Lewy Body Disease
+T119	Disease	29118	29121	DLB	UMLS:C0752347	Lewy Body Disease
+T120	Disease	29305	29308	DLB	UMLS:C0752347	Lewy Body Disease
+T121	Disease	29342	29345	DLB	UMLS:C0752347	Lewy Body Disease
+T211	Disease	29321	29323	AD	UMLS:C0002395	Alzheimer's Disease
+T442	Disease	29126	29154	Parkinson’s disease dementia	UMLS:C0349081	Dementia in Parkinson's disease
+T443	Phenotype	29266	29301	hypocretin immunoreactive cell loss	null	null
+T444	Phenotype	29360	29380	hypocretin cell loss	null	null
+T445	Phenotype	29398	29413	hypersomnolence	UMLS:C0751229	Hypersomnolence
+T446	Phenotype	29444	29464	hypocretin cell loss	null	null
+T447	Phenotype	29552	29587	damage to the ARAS neuronal network	null	null
+T448	Disease	29591	29608	Lewy body disease	UMLS:C0752347	Lewy Body Disease
+T122	Disease	29748	29751	DLB	UMLS:C0752347	Lewy Body Disease
+T123	Disease	29823	29826	DLB	UMLS:C0752347	Lewy Body Disease
+T334	Phenotype	29793	29796	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T124	Disease	29949	29952	DLB	UMLS:C0752347	Lewy Body Disease
+T335	Phenotype	29970	29973	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T449	Phenotype	30050	30082	lower nighttime sleep efficiency	null	null
+T336	Phenotype	30186	30189	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T337	Phenotype	30247	30250	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T338	Phenotype	30320	30323	RBD	UMLS:C0751772	REM Sleep Behavior Disorder
+T125	Disease	30660	30663	DLB	UMLS:C0752347	Lewy Body Disease
+T212	Disease	30620	30622	AD	UMLS:C0002395	Alzheimer's Disease
+T126	Disease	31350	31353	DLB	UMLS:C0752347	Lewy Body Disease
+T213	Disease	31400	31402	AD	UMLS:C0002395	Alzheimer's Disease
+T127	Disease	31747	31750	DLB	UMLS:C0752347	Lewy Body Disease
+T4	Phenotype	31894	31922	excessive daytime sleepiness	HPO:HP:0002189	Excessive daytime sleepiness
+T128	Disease	31964	31967	DLB	UMLS:C0752347	Lewy Body Disease
+T214	Disease	31987	31998	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T450	Phenotype	32034	32044	poor sleep	UMLS:C1262141	Poor quality sleep
+T24	Phenotype	32073	32091	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T129	Disease	32109	32112	DLB	UMLS:C0752347	Lewy Body Disease
+T136	Disease	32203	32211	dementia	UMLS:C0497327	Dementia
+T215	Disease	32238	32249	AD dementia	UMLS:C0002395	Alzheimer's Disease
+T25	Phenotype	32284	32302	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T130	Phenotype	32339	32356	core DLB features	null	null
+T451	Phenotype	32368	32380	fluctuations	UMLS:C0231239	Fluctuation
+T26	Phenotype	32385	32403	daytime sleepiness	UMLS:C0541854	Daytime sleepiness
+T131	Disease	32436	32439	DLB	UMLS:C0752347	Lewy Body Disease
+T132	Disease	32522	32525	DLB	UMLS:C0752347	Lewy Body Disease
+T133	Disease	32670	32673	DLB	UMLS:C0752347	Lewy Body Disease
+R1	hasScale	5512	5535	Measure	5498	5499	ScaleMin
+R2	hasScale	5512	5535	Measure	5503	5504	ScaleMax
